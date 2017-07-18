@@ -1,0 +1,1 @@
+Shell di sviluppo Microsoft Dynamics NAV 2017

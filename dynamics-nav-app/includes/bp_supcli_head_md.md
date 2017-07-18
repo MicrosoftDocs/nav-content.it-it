@@ -1,0 +1,1 @@
+Destinazioni di visualizzazione supportate
