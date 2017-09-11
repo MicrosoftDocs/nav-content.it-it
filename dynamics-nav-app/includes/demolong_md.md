@@ -1,1 +1,1 @@
-CRONUS Italia S.p.A. database dimostrativo
+<span data-ttu-id="a838c-101">CRONUS Italia S.p.A.</span><span class="sxs-lookup"><span data-stu-id="a838c-101">CRONUS International Ltd.</span></span> <span data-ttu-id="a838c-102">database dimostrativo</span><span class="sxs-lookup"><span data-stu-id="a838c-102">demonstration database</span></span>

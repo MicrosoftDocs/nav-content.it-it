@@ -9,28 +9,28 @@ ms.tgt_pltfrm: na
 ms.topic: article
 ms.prod: dynamics-nav-2017
 ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: c9e938b4ce2b136b4a2abb72d1d9cc8a9b78bbf8
+ms.sourcegitcommit: 6b60b1344a1e18ad91863046110df880f75f7c04
+ms.openlocfilehash: 2943acdfca4580245d1210ce0d17526e357ca478
 ms.contentlocale: it-it
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 07/19/2017
 
 ---
-# <a name="prepare-closing-statements"></a>Preparare gli estratti conto di chiusura
-Sono disponibili alcuni report standard che è possibile utilizzare per raccogliere le informazioni necessarie per preparare i rendiconto di chiusura della società.
+# <a name="prepare-closing-statements"></a><span data-ttu-id="e74bb-102">Preparare gli estratti conto di chiusura</span><span class="sxs-lookup"><span data-stu-id="e74bb-102">Prepare Closing Statements</span></span>
+<span data-ttu-id="e74bb-103">Sono disponibili alcuni report standard che è possibile utilizzare per raccogliere le informazioni necessarie per preparare i rendiconto di chiusura della società.</span><span class="sxs-lookup"><span data-stu-id="e74bb-103">There are a number of standard reports that you can use to gather the information that you need to prepare your company's closing statements.</span></span>
 
-Nella tabella che segue sono descritti alcuni report che possono risultare utili in questo processo insieme ai nomi dei report.
+<span data-ttu-id="e74bb-104">Nella tabella che segue sono descritti alcuni report che possono risultare utili in questo processo insieme ai nomi dei report.</span><span class="sxs-lookup"><span data-stu-id="e74bb-104">The following table describes a number of reports that may be useful in this process along with the report name.</span></span>
 
 
-|Per     |Vedere questo report.       |
+|<span data-ttu-id="e74bb-105">Per</span><span class="sxs-lookup"><span data-stu-id="e74bb-105">To</span></span>     |<span data-ttu-id="e74bb-106">Vedere questo report.</span><span class="sxs-lookup"><span data-stu-id="e74bb-106">See this report</span></span>       |
 |-------|----------------------|
-|Stampare un report di bilancio di verifica con saldi periodi e conti per i conti di contabilità generale.|Bilancio di verifica|
-|Ottenere una sintesi dei crediti v/clienti, con il dettaglio di aging degli importi calcolati dalla data di scadenza, di registrazione o del documento.|Scadenziario clienti|
-|Ottenere una sintesi dei debiti v/fornitori, con il dettaglio di aging degli importi calcolati dalla data di scadenza, di registrazione o del documento.|Scadenziario fornitori|
-|Confrontare il bilancio di verifica con un budget.|Bilancio di verifica/budget|
-|Stampare un report di bilancio di verifica con saldi periodi e conti per i conti di contabilità generale calcolati per una serie di periodi.|Bilancio di verifica per periodo|
-|Stampare una situazione contabile per analizzare le cifre nei conti di contabilità generale o confrontare i movimenti effettivi di contabilità generale con i movimenti budget di contabilità generale.|Situazione contabile|
-|Verificare se i movimenti contabili dei clienti e quelli dei fornitori corrispondono con i relativi movimenti di contabilità generale.|Riconcilia conti clienti e fornitori|
-Per visualizzare un report, nell'angolo superiore destro scegliere l'icona **Cerca pagina o report**, digitare il nome che appare nella tabella, quindi scegliere il collegamento correlato.
-## <a name="see-also"></a>Vedi anche
-[Chiusura di anni e periodi](year-close-years-periods.md)
+|<span data-ttu-id="e74bb-107">Stampare un report di bilancio di verifica con saldi periodi e conti per i conti di contabilità generale.</span><span class="sxs-lookup"><span data-stu-id="e74bb-107">Print a trial balance report with balances and net changes for general ledger accounts.</span></span>|<span data-ttu-id="e74bb-108">Bilancio di verifica</span><span class="sxs-lookup"><span data-stu-id="e74bb-108">Trial Balance</span></span>|
+|<span data-ttu-id="e74bb-109">Ottenere una sintesi dei crediti v/clienti, con il dettaglio di aging degli importi calcolati dalla data di scadenza, di registrazione o del documento.</span><span class="sxs-lookup"><span data-stu-id="e74bb-109">Get an overview of accounts receivable, with the age of amounts receivable calculated from the due date, posting date, or document date.</span></span>|<span data-ttu-id="e74bb-110">Scadenziario clienti</span><span class="sxs-lookup"><span data-stu-id="e74bb-110">Aged Accounts Receivable</span></span>|
+|<span data-ttu-id="e74bb-111">Ottenere una sintesi dei debiti v/fornitori, con il dettaglio di aging degli importi calcolati dalla data di scadenza, di registrazione o del documento.</span><span class="sxs-lookup"><span data-stu-id="e74bb-111">Get an overview of accounts payable, with the age of amounts payable calculated from the due date, posting date or document date.</span></span>|<span data-ttu-id="e74bb-112">Scadenziario fornitori</span><span class="sxs-lookup"><span data-stu-id="e74bb-112">Aged Accounts Payable</span></span>|
+|<span data-ttu-id="e74bb-113">Confrontare il bilancio di verifica con un budget.</span><span class="sxs-lookup"><span data-stu-id="e74bb-113">Compare the trial balance with a budget.</span></span>|<span data-ttu-id="e74bb-114">Bilancio di verifica/budget</span><span class="sxs-lookup"><span data-stu-id="e74bb-114">Trial Balance/Budget</span></span>|
+|<span data-ttu-id="e74bb-115">Stampare un report di bilancio di verifica con saldi periodi e conti per i conti di contabilità generale calcolati per una serie di periodi.</span><span class="sxs-lookup"><span data-stu-id="e74bb-115">Print a trial balance report with balances and net changes for general ledger accounts calculated for a series of periods.</span></span>|<span data-ttu-id="e74bb-116">Bilancio di verifica per periodo</span><span class="sxs-lookup"><span data-stu-id="e74bb-116">Trial Balance by Period</span></span>|
+|<span data-ttu-id="e74bb-117">Stampare una situazione contabile per analizzare le cifre nei conti di contabilità generale o confrontare i movimenti effettivi di contabilità generale con i movimenti budget di contabilità generale.</span><span class="sxs-lookup"><span data-stu-id="e74bb-117">Print an account schedule to analyze figures in general ledger accounts or compare actual general ledger entries with general ledger budget entries.</span></span>|<span data-ttu-id="e74bb-118">Situazione contabile</span><span class="sxs-lookup"><span data-stu-id="e74bb-118">Account Schedule</span></span>|
+|<span data-ttu-id="e74bb-119">Verificare se i movimenti contabili dei clienti e quelli dei fornitori corrispondono con i relativi movimenti di contabilità generale.</span><span class="sxs-lookup"><span data-stu-id="e74bb-119">Check whether customer and vendor ledger entries balance with corresponding general ledger entries.</span></span>|<span data-ttu-id="e74bb-120">Riconcilia</span><span class="sxs-lookup"><span data-stu-id="e74bb-120">Reconcile Cust.</span></span> <span data-ttu-id="e74bb-121">conti clienti</span><span class="sxs-lookup"><span data-stu-id="e74bb-121">and Vend.</span></span> <span data-ttu-id="e74bb-122">e fornitori</span><span class="sxs-lookup"><span data-stu-id="e74bb-122">Accs</span></span>|
+<span data-ttu-id="e74bb-123">Per visualizzare un report, nell'angolo superiore destro scegliere l'icona **Cerca pagina o report**, digitare il nome che appare nella tabella, quindi scegliere il collegamento correlato.</span><span class="sxs-lookup"><span data-stu-id="e74bb-123">To see a report, in the top right corner, choose the **Search for Page or Report** icon, type the name as it appears in the table, and then choose the related link.</span></span>
+## <a name="see-also"></a><span data-ttu-id="e74bb-124">Vedi anche</span><span class="sxs-lookup"><span data-stu-id="e74bb-124">See Also</span></span>
+[<span data-ttu-id="e74bb-125">Chiusura di anni e periodi</span><span class="sxs-lookup"><span data-stu-id="e74bb-125">Close Years and Periods</span></span>](year-close-years-periods.md)
 

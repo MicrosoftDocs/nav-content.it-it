@@ -1,1 +1,1 @@
-Servizi di pagamento per Microsoft Dynamics ERP
+<span data-ttu-id="f3719-101">Servizi di pagamento per Microsoft Dynamics ERP</span><span class="sxs-lookup"><span data-stu-id="f3719-101">Payment Services for Microsoft Dynamics ERP</span></span>

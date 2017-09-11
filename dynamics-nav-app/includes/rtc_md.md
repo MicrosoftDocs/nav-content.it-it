@@ -1,1 +1,1 @@
-Client personalizzato in base ai ruoli
+<span data-ttu-id="aeb86-101">Client personalizzato in base ai ruoli</span><span class="sxs-lookup"><span data-stu-id="aeb86-101">RoleTailored client</span></span>

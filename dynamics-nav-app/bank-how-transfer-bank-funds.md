@@ -9,47 +9,47 @@ ms.tgt_pltfrm: na
 ms.topic: article
 ms.prod: dynamics-nav-2017
 ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: f34bef80c64cbad0a0b20d4d021cefbdc5a1cb64
+ms.sourcegitcommit: 6b60b1344a1e18ad91863046110df880f75f7c04
+ms.openlocfilehash: aa36ff606cf832049e7f002af724a9185289a2b3
 ms.contentlocale: it-it
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 07/19/2017
 
 ---
 
-# <a name="how-to-transfer-bank-funds"></a>Procedura: Trasferire fondi bancari
-Talvolta, può anche essere necessario effettuare un bonifico da un conto corrente bancario ad un altro. A tale scopo, è necessario registrare una transazione nelle registrazioni COGE. L'attività varia a seconda se i conti correnti bancari utilizzano la stessa valuta o valute diverse.
+# <a name="how-to-transfer-bank-funds"></a><span data-ttu-id="18273-102">Procedura: Trasferire fondi bancari</span><span class="sxs-lookup"><span data-stu-id="18273-102">How to: Transfer Bank Funds</span></span>
+<span data-ttu-id="18273-103">Talvolta, può anche essere necessario effettuare un bonifico da un conto corrente bancario ad un altro.</span><span class="sxs-lookup"><span data-stu-id="18273-103">You may sometimes need to transfer an amount from one bank account to another.</span></span> <span data-ttu-id="18273-104">A tale scopo, è necessario registrare una transazione nelle registrazioni COGE.</span><span class="sxs-lookup"><span data-stu-id="18273-104">To do this, you must post the a transaction in the general journal.</span></span> <span data-ttu-id="18273-105">L'attività varia a seconda se i conti correnti bancari utilizzano la stessa valuta o valute diverse.</span><span class="sxs-lookup"><span data-stu-id="18273-105">The task varies depending on whether the bank accounts use the same currency or different currencies.</span></span>
 
-## <a name="to-post-a-transfer-between-bank-accounts-with-the-same-currency-code"></a>Per registrare un bonifico tra conti correnti bancari con lo stesso codice valuta
-1. Nell'angolo superiore destro, scegliere l'icona **Cerca pagina o report**, immettere **Registrazioni COGE**, quindi scegliere il collegamento correlato.
-2. In una riga di registrazione compilare i campi **Data di registrazione** e **Nr. documento**. .
-3. Nel campo **Tipo conto** selezionare **Conti C/C bancari**.
-4. Nel campo **Nr. conto** selezionare la banca da cui si desidera trasferire i fondi.
-5. Immettere l'importo da traferire nel campo **Importo**.
-6. Nel campo **Tipo contropartita** selezionare **Conti C/C bancari**.
-7. Nel campo **Contropartita** selezionare il conto bancario da cui si desidera trasferire i fondi.
-8. Effettuare la registrazione.
+## <a name="to-post-a-transfer-between-bank-accounts-with-the-same-currency-code"></a><span data-ttu-id="18273-106">Per registrare un bonifico tra conti correnti bancari con lo stesso codice valuta</span><span class="sxs-lookup"><span data-stu-id="18273-106">To post a transfer between bank accounts with the same currency code</span></span>
+1. <span data-ttu-id="18273-107">Nell'angolo superiore destro, scegliere l'icona **Cerca pagina o report**, immettere **Registrazioni COGE**, quindi scegliere il collegamento correlato.</span><span class="sxs-lookup"><span data-stu-id="18273-107">In the top right corner, choose the **Search for Page or Report** icon, enter **General Journal**, and then choose the related link.</span></span>
+2. <span data-ttu-id="18273-108">In una riga di registrazione compilare i campi **Data di registrazione** e **Nr. documento**.</span><span class="sxs-lookup"><span data-stu-id="18273-108">On a journal line, fill in the **Posting Date** and **Document No.**</span></span> <span data-ttu-id="18273-109">.</span><span class="sxs-lookup"><span data-stu-id="18273-109">fields.</span></span>
+3. <span data-ttu-id="18273-110">Nel campo **Tipo conto** selezionare **Conti C/C bancari**.</span><span class="sxs-lookup"><span data-stu-id="18273-110">In the **Account Type** field, select **Bank Account**.</span></span>
+4. <span data-ttu-id="18273-111">Nel campo **Nr. conto**</span><span class="sxs-lookup"><span data-stu-id="18273-111">In the **Account No.**</span></span> <span data-ttu-id="18273-112">selezionare la banca da cui si desidera trasferire i fondi.</span><span class="sxs-lookup"><span data-stu-id="18273-112">field, select the bank from which you want to transfer the funds.</span></span>
+5. <span data-ttu-id="18273-113">Immettere l'importo da traferire nel campo **Importo**.</span><span class="sxs-lookup"><span data-stu-id="18273-113">In the **Amount** field, enter the amount to be transferred.</span></span>
+6. <span data-ttu-id="18273-114">Nel campo **Tipo contropartita** selezionare **Conti C/C bancari**.</span><span class="sxs-lookup"><span data-stu-id="18273-114">In the **Bal. Account Type** field, select **Bank Account**.</span></span>
+7. <span data-ttu-id="18273-115">Nel campo **Contropartita**</span><span class="sxs-lookup"><span data-stu-id="18273-115">In the **Bal. Account No.**</span></span> <span data-ttu-id="18273-116">selezionare il conto bancario da cui si desidera trasferire i fondi.</span><span class="sxs-lookup"><span data-stu-id="18273-116">field, select the bank account to which you want to transfer the funds.</span></span>
+8. <span data-ttu-id="18273-117">Effettuare la registrazione.</span><span class="sxs-lookup"><span data-stu-id="18273-117">Post the journal.</span></span>
 
-## <a name="to-post-a-transfer-between-bank-accounts-with-different-currency-codes"></a>Per registrare un bonifico tra conti correnti bancari con codici valuta diversi
-Per trasferire i fondi tra conti correnti bancari che utilizzano valute diverse, è necessario inserire due righe di registrazioni COGE.
+## <a name="to-post-a-transfer-between-bank-accounts-with-different-currency-codes"></a><span data-ttu-id="18273-118">Per registrare un bonifico tra conti correnti bancari con codici valuta diversi</span><span class="sxs-lookup"><span data-stu-id="18273-118">To post a transfer between bank accounts with different currency codes</span></span>
+<span data-ttu-id="18273-119">Per trasferire i fondi tra conti correnti bancari che utilizzano valute diverse, è necessario inserire due righe di registrazioni COGE.</span><span class="sxs-lookup"><span data-stu-id="18273-119">To transfer funds between bank accounts that use different currencies, you must post two general journal lines.</span></span>
 
-1. Nell'angolo superiore destro, scegliere l'icona **Cerca pagina o report**, immettere **Registrazioni COGE**, quindi scegliere il collegamento correlato.
-2. Creare due righe di registrazione e compilare i campi **Data di registrazione** e **Nr. documento**. .
-3. Nella prima riga di registrazioni selezionare **C/C bancario** nel campo **Tipo conto**.
-4. Nel campo **Nr. conto** selezionare il conto bancario a cui si desidera trasferire i fondi.
-5. Nel campo **Importo** immettere la quantità nella valuta del conto corrente bancario. Immettere gli importi in Avere con un segno meno (-). Immettere gli importi in Dare senza il segno meno (-).
-6. Nel campo **Tipo contropartita** selezionare **Conti C/C bancari**.
-7. Nel campo **Contropartita** selezionare il conto bancario da cui si desidera trasferire i fondi.
-8. Nella seconda riga di registrazioni selezionare **C/C bancario** nel campo **Tipo conto**.
-9. Nel campo **Nr. conto** selezionare il conto bancario da cui si desidera trasferire i fondi.
-10. Nel campo **Importo** immettere la quantità nella valuta del conto corrente bancario. Immettere gli importi in Avere con un segno meno (-). Immettere gli importi in Dare senza il segno meno (-).
-11. Nel campo **Tipo contropartita** selezionare **Conti C/C bancari**.  
-12. Nel campo **Contropartita** selezionare il conto bancario a cui si desidera trasferire i fondi.
+1. <span data-ttu-id="18273-120">Nell'angolo superiore destro, scegliere l'icona **Cerca pagina o report**, immettere **Registrazioni COGE**, quindi scegliere il collegamento correlato.</span><span class="sxs-lookup"><span data-stu-id="18273-120">In the top right corner, choose the **Search for Page or Report** icon, enter **General Journal**, and then choose the related link.</span></span>
+2. <span data-ttu-id="18273-121">Creare due righe di registrazione e compilare i campi **Data di registrazione** e **Nr. documento**.</span><span class="sxs-lookup"><span data-stu-id="18273-121">Create two journal lines, and fill in the **Posting Date** and **Document No.**</span></span> <span data-ttu-id="18273-122">.</span><span class="sxs-lookup"><span data-stu-id="18273-122">fields.</span></span>
+3. <span data-ttu-id="18273-123">Nella prima riga di registrazioni selezionare **C/C bancario** nel campo **Tipo conto**.</span><span class="sxs-lookup"><span data-stu-id="18273-123">On the first journal line, in the **Type** field, select **Bank Account**.</span></span>
+4. <span data-ttu-id="18273-124">Nel campo **Nr. conto**</span><span class="sxs-lookup"><span data-stu-id="18273-124">In the **Account No.**</span></span> <span data-ttu-id="18273-125">selezionare il conto bancario a cui si desidera trasferire i fondi.</span><span class="sxs-lookup"><span data-stu-id="18273-125">field, select the bank account from which you want to transfer the funds.</span></span>
+5. <span data-ttu-id="18273-126">Nel campo **Importo** immettere la quantità nella valuta del conto corrente bancario.</span><span class="sxs-lookup"><span data-stu-id="18273-126">In the **Amount** field, enter the amount in the currency of the bank account.</span></span> <span data-ttu-id="18273-127">Immettere gli importi in Avere con un segno meno (-).</span><span class="sxs-lookup"><span data-stu-id="18273-127">Enter credit amounts with a minus sign.</span></span> <span data-ttu-id="18273-128">Immettere gli importi in Dare senza il segno meno (-).</span><span class="sxs-lookup"><span data-stu-id="18273-128">Enter debit amounts without a minus sign.</span></span>
+6. <span data-ttu-id="18273-129">Nel campo **Tipo contropartita** selezionare **Conti C/C bancari**.</span><span class="sxs-lookup"><span data-stu-id="18273-129">In the **Bal. Account Type** field, select **Bank Account**.</span></span>
+7. <span data-ttu-id="18273-130">Nel campo **Contropartita**</span><span class="sxs-lookup"><span data-stu-id="18273-130">In the **Bal. Account No.**</span></span> <span data-ttu-id="18273-131">selezionare il conto bancario da cui si desidera trasferire i fondi.</span><span class="sxs-lookup"><span data-stu-id="18273-131">field, select the bank account to which you want to transfer the funds.</span></span>
+8. <span data-ttu-id="18273-132">Nella seconda riga di registrazioni selezionare **C/C bancario** nel campo **Tipo conto**.</span><span class="sxs-lookup"><span data-stu-id="18273-132">On the second journal line, in the **Type** field, select **Bank Account**.</span></span>
+9. <span data-ttu-id="18273-133">Nel campo **Nr. conto**</span><span class="sxs-lookup"><span data-stu-id="18273-133">In the **Account No.**</span></span> <span data-ttu-id="18273-134">selezionare il conto bancario da cui si desidera trasferire i fondi.</span><span class="sxs-lookup"><span data-stu-id="18273-134">field, select the bank account to which you want to transfer the funds.</span></span>
+10. <span data-ttu-id="18273-135">Nel campo **Importo** immettere la quantità nella valuta del conto corrente bancario.</span><span class="sxs-lookup"><span data-stu-id="18273-135">In the **Amount** field, enter the amount in the currency of the bank account.</span></span> <span data-ttu-id="18273-136">Immettere gli importi in Avere con un segno meno (-).</span><span class="sxs-lookup"><span data-stu-id="18273-136">Enter credit amounts with a minus sign.</span></span> <span data-ttu-id="18273-137">Immettere gli importi in Dare senza il segno meno (-).</span><span class="sxs-lookup"><span data-stu-id="18273-137">Enter debit amounts without a minus sign.</span></span>
+11. <span data-ttu-id="18273-138">Nel campo **Tipo contropartita** selezionare **Conti C/C bancari**.</span><span class="sxs-lookup"><span data-stu-id="18273-138">In the **Bal. Account Type** field, select **Bank Account**.</span></span>  
+12. <span data-ttu-id="18273-139">Nel campo **Contropartita**</span><span class="sxs-lookup"><span data-stu-id="18273-139">In the **Bal. Account No.**</span></span> <span data-ttu-id="18273-140">selezionare il conto bancario a cui si desidera trasferire i fondi.</span><span class="sxs-lookup"><span data-stu-id="18273-140">field, select the bank account from which you want to transfer the funds.</span></span>
 
-    **Nota**: se i tassi di cambio utilizzati nelle registrazioni sono diversi dai tassi riportati nella finestra **Tassi di cambio valuta**, compilare una terza riga per il guadagno o la perdita nel tasso di cambio. Immettere **Conto C/G** nel campo **Tipo conto**. Nel campo **Nr. conto** immettere il numero di conto C/G per i guadagni o le perdite nel tasso di cambio. . Immettere utile o perdita in **Importo** campo con o senza un segno meno per i crediti e debiti rispettivamente.
-13. Effettuare la registrazione.
+    <span data-ttu-id="18273-141">**Nota**: se i tassi di cambio utilizzati nelle registrazioni sono diversi dai tassi riportati nella finestra **Tassi di cambio valuta**, compilare una terza riga per il guadagno o la perdita nel tasso di cambio.</span><span class="sxs-lookup"><span data-stu-id="18273-141">**Note**: If the exchange rates used in the journal are different than the exchange rates in the **Currency Exchange Rates** window, enter a third line for the exchange rate gain or loss.</span></span> <span data-ttu-id="18273-142">Immettere **Conto C/G** nel campo **Tipo conto**.</span><span class="sxs-lookup"><span data-stu-id="18273-142">Enter **G/L Account** in the **Account Type** field.</span></span> <span data-ttu-id="18273-143">Nel campo **Nr. conto** immettere il numero di conto C/G per i guadagni o le perdite nel tasso di cambio.</span><span class="sxs-lookup"><span data-stu-id="18273-143">Enter the G/L account number for exchange rate gain or loss in the **Account No.**</span></span> <span data-ttu-id="18273-144">.</span><span class="sxs-lookup"><span data-stu-id="18273-144">field.</span></span> <span data-ttu-id="18273-145">Immettere utile o perdita in **Importo** campo con o senza un segno meno per i crediti e debiti rispettivamente.</span><span class="sxs-lookup"><span data-stu-id="18273-145">Enter the exchange rate gain or loss in the **Amount** field with or without a minus sign for credits and debits respectively.</span></span>
+13. <span data-ttu-id="18273-146">Effettuare la registrazione.</span><span class="sxs-lookup"><span data-stu-id="18273-146">Post the journal.</span></span>
 
-## <a name="see-also"></a>Vedi anche  
-[Gestire i conti correnti bancari](bank-manage-bank-accounts.md)  
-[Impostare le attività bancarie](bank-setup-banking.md)  
-[Utilizzo delle registrazioni COGE](ui-work-general-journals.md)
+## <a name="see-also"></a><span data-ttu-id="18273-147">Vedi anche</span><span class="sxs-lookup"><span data-stu-id="18273-147">See Also</span></span>  
+[<span data-ttu-id="18273-148">Gestire i conti correnti bancari</span><span class="sxs-lookup"><span data-stu-id="18273-148">Manage Bank Accounts</span></span>](bank-manage-bank-accounts.md)  
+[<span data-ttu-id="18273-149">Impostare le attività bancarie</span><span class="sxs-lookup"><span data-stu-id="18273-149">Set Up Banking</span></span>](bank-setup-banking.md)  
+[<span data-ttu-id="18273-150">Utilizzo delle registrazioni COGE</span><span class="sxs-lookup"><span data-stu-id="18273-150">Work with General Journals</span></span>](ui-work-general-journals.md)
 
