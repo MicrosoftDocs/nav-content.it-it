@@ -1,38 +1,50 @@
 ---
-title: Impostare i processi finanziari di base
+title: Impostare i processi finanziari
+description: "Informazioni sulle attività per impostare i dati finanziari nella propria attività per adattarli alle esigenze di contabilità, controllo e gestione dei libri contabili."
+documentationcenter: 
 author: edupont04
-ms.custom: na
-ms.date: 09/22/2016
-ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
+ms.prod: dynamics-nav-2017
 ms.topic: article
-ms-prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: b911f3701f7a326e5812f13c8528a4719c25241a
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords: accounting, auditing, bookkeeping
+ms.date: 08/10/2017
+ms.author: edupont
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: 4fbd005dce27b7afdf926704f97f3908cb3db803
 ms.contentlocale: it-it
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/16/2017
 
 ---
+# <a name="setting-up-finance"></a><span data-ttu-id="a347f-103">Impostazione di dati finanziari</span><span class="sxs-lookup"><span data-stu-id="a347f-103">Setting Up Finance</span></span>
+<span data-ttu-id="a347f-104">Per velocizzare l'inizio, [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)] include le configurazioni di default della maggior parte dei processi finanziari.</span><span class="sxs-lookup"><span data-stu-id="a347f-104">To help you get going quickly, [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)] includes standard configurations for most financial processes.</span></span> <span data-ttu-id="a347f-105">Se è necessario apportare modifiche alle configurazioni per adattarle alla propria attività, procedere subito.</span><span class="sxs-lookup"><span data-stu-id="a347f-105">If you need to change the configurations to suit your business, go right ahead.</span></span> <span data-ttu-id="a347f-106">Ad esempio, nella home page è possibile utilizzare la guida al setup assistito per configurare l'aliquota in base all'ubicazione.</span><span class="sxs-lookup"><span data-stu-id="a347f-106">For example, from the Home page you can use an assisted setup guide to set up sales tax rate for your location.</span></span>  
 
-#<a name="set-up-core-financial-processes"></a><span data-ttu-id="708c5-102">Impostare i processi finanziari di base</span><span class="sxs-lookup"><span data-stu-id="708c5-102">Set Up Core Financial Processes</span></span>
-<span data-ttu-id="708c5-103">Dynamics NAV include una configurazione standard per la maggior parte dei processi finanziari. Tuttavia, tale configurazione può essere adattata alle esigenze aziendali.</span><span class="sxs-lookup"><span data-stu-id="708c5-103">Dynamics NAV includes a standard configuration of most financial processes, but you can change the configuration to suit your business.</span></span>
-<span data-ttu-id="708c5-104">Dalla home page, è possibile accedere alla guida al setup assistito che consente di configurare le imposte di vendita di default in base all'ubicazione, ad esempio.</span><span class="sxs-lookup"><span data-stu-id="708c5-104">From Home, you can access an assisted setup guide that helps you set up sales tax depending on your location, for example.</span></span> <span data-ttu-id="708c5-105">Altri aspetti della gestione finanziaria-di setup che è necessario configurare, ad esempio se si desidera utilizzare le dimensioni.</span><span class="sxs-lookup"><span data-stu-id="708c5-105">Other aspects of finance-setup management you must set up yourself, depending on whether you want to use dimensions, for example.</span></span>  
+<span data-ttu-id="a347f-107">Tuttavia, esistono alcune opzioni che occorre impostare manualmente.</span><span class="sxs-lookup"><span data-stu-id="a347f-107">However, there are some things you need to set up yourself.</span></span> <span data-ttu-id="a347f-108">Ad esempio, se si desidera utilizzare le dimensioni come base per la categoria di business intelligence.</span><span class="sxs-lookup"><span data-stu-id="a347f-108">For example, if you want to use dimensions as a basis for business intelligence.</span></span>  
 
-<span data-ttu-id="708c5-106">Nella tabella seguente viene descritta una sequenza di task, con collegamenti agli argomenti che li descrivono.</span><span class="sxs-lookup"><span data-stu-id="708c5-106">The following table describes a sequence of tasks, with links to the topics that describe them.</span></span>
+<span data-ttu-id="a347f-109">Nella tabella seguente viene descritta una sequenza di task, con collegamenti agli argomenti che li descrivono.</span><span class="sxs-lookup"><span data-stu-id="a347f-109">The following table describes a sequence of tasks, with links to the topics that describe them.</span></span>
 
-| <span data-ttu-id="708c5-107">Per</span><span class="sxs-lookup"><span data-stu-id="708c5-107">To</span></span>                                                                  | <span data-ttu-id="708c5-108">Vedere</span><span class="sxs-lookup"><span data-stu-id="708c5-108">See</span></span>                      |
-|---------------------------------------------------------------------|--------------------------|
-|<span data-ttu-id="708c5-109">Scegliere la modalità di gestione dei pagamenti dei fornitori.</span><span class="sxs-lookup"><span data-stu-id="708c5-109">Choose how you want to handle payments of your vendors.</span></span>|[<span data-ttu-id="708c5-110">Metodi di pagamento</span><span class="sxs-lookup"><span data-stu-id="708c5-110">Payment Methods</span></span>](finance-setup-payment-methods.md)|
-|<span data-ttu-id="708c5-111">Impostare periodi fiscali.</span><span class="sxs-lookup"><span data-stu-id="708c5-111">Set up fiscal periods.</span></span>|[<span data-ttu-id="708c5-112">Procedura: aprire un nuovo anno fiscale</span><span class="sxs-lookup"><span data-stu-id="708c5-112">How to: Open a New Fiscal Year</span></span>](finance-setup-how-open-new-fiscal-year.md)|
-|<span data-ttu-id="708c5-113">Impostare le valute aggiuntive per il commercio internazionale.</span><span class="sxs-lookup"><span data-stu-id="708c5-113">Set up additional currencies if you have international trade.</span></span>|[<span data-ttu-id="708c5-114">Impostare le valute</span><span class="sxs-lookup"><span data-stu-id="708c5-114">Set Up Currencies</span></span>](finance-setup-setup-currencies.md)|
-|<span data-ttu-id="708c5-115">Aggiungere le dimensioni per Business Intelligence più dettagliata.</span><span class="sxs-lookup"><span data-stu-id="708c5-115">Add dimensions for richer business intelligence.</span></span>|[<span data-ttu-id="708c5-116">Impostare le dimensioni</span><span class="sxs-lookup"><span data-stu-id="708c5-116">Set Up Dimensions</span></span>](finance-setup-setup-dimensions.md)|
-|<span data-ttu-id="708c5-117">Aggiungere nuovi conti a un piano dei conti esistente.</span><span class="sxs-lookup"><span data-stu-id="708c5-117">Add new accounts to the existing chart of accounts.</span></span>|[<span data-ttu-id="708c5-118">Impostazione di un piano dei conti</span><span class="sxs-lookup"><span data-stu-id="708c5-118">Set Up the Chart of Accounts</span></span>](finance-setup-setup-chart-accounts.md)|
+| <span data-ttu-id="a347f-110">A</span><span class="sxs-lookup"><span data-stu-id="a347f-110">To</span></span> | <span data-ttu-id="a347f-111">Vedere</span><span class="sxs-lookup"><span data-stu-id="a347f-111">See</span></span> |
+| --- | --- |
+| <span data-ttu-id="a347f-112">Scegliere la modalità di pagamento dei fornitori.</span><span class="sxs-lookup"><span data-stu-id="a347f-112">Choose how you pay your vendors.</span></span> |[<span data-ttu-id="a347f-113">Definizione dei metodi di pagamento</span><span class="sxs-lookup"><span data-stu-id="a347f-113">Defining Payment Methods</span></span>](finance-payment-methods.md) |
+| <span data-ttu-id="a347f-114">Specificare le categorie di registrazione che associano entità come clienti, fornitori, articoli, risorse e documenti di vendita o di acquisto a conti di contabilità generale.</span><span class="sxs-lookup"><span data-stu-id="a347f-114">Specify the posting groups that map entities like customers, vendors, items, resources, and sales and purchase documents to general ledger accounts.</span></span> |[<span data-ttu-id="a347f-115">Impostazione delle categorie di registrazione</span><span class="sxs-lookup"><span data-stu-id="a347f-115">Setting Up Posting Groups</span></span>](finance-posting-groups.md)|
+|<span data-ttu-id="a347f-116">Impostare una tolleranza da cui il sistema chiude una fattura anche se il pagamento, incluso un eventuale sconto, non copre interamente l'importo della fattura.</span><span class="sxs-lookup"><span data-stu-id="a347f-116">Set up a tolerance by which the system closes an invoice even though the payment, including any discount, does not fully cover the amount on the invoice.</span></span>|[<span data-ttu-id="a347f-117">Procedura Utilizzare le tolleranze pagamento e le tolleranze sconto pagamento</span><span class="sxs-lookup"><span data-stu-id="a347f-117">How to: Work with Payment Tolerances and Payment Discount Tolerances</span></span>](finance-payment-tolerance-and-payment-discount-tolerance.md)|
+| <span data-ttu-id="a347f-118">Impostare periodi fiscali.</span><span class="sxs-lookup"><span data-stu-id="a347f-118">Set up fiscal periods.</span></span> |[<span data-ttu-id="a347f-119">Procedura: aprire un nuovo anno fiscale</span><span class="sxs-lookup"><span data-stu-id="a347f-119">How to: Open a New Fiscal Year</span></span>](finance-how-open-new-fiscal-year.md) |
+| <span data-ttu-id="a347f-120">Definire come dichiarare alle autorità fiscali gli importi dell'imposta sul valore aggiunto (IVA) raccolti per le vendite.</span><span class="sxs-lookup"><span data-stu-id="a347f-120">Define how you report value-added tax amounts that you have collected for sales to the tax authorities.</span></span> |[<span data-ttu-id="a347f-121">Procedura: Dichiarare l'IVA all'autorità fiscale</span><span class="sxs-lookup"><span data-stu-id="a347f-121">How To: Report VAT to Tax Authorities</span></span>](finance-how-report-vat.md)|
+| <span data-ttu-id="a347f-122">Impostare le funzionalità Vendite e acquisti per gestire i pagamenti in valute estere.</span><span class="sxs-lookup"><span data-stu-id="a347f-122">Set your Sales and Purchases features up to handle payments in foreign currencies.</span></span>|[<span data-ttu-id="a347f-123">Procedura: Abilitare il collegamento dei movimenti contabili fornitore in valute diverse</span><span class="sxs-lookup"><span data-stu-id="a347f-123">How to: Enable Application of Ledger Entries in Different Currencies</span></span>](finance-how-enable-application-ledger-entries-different-currencies.md)
+| <span data-ttu-id="a347f-124">Aggiungere nuovi conti a un piano dei conti esistente.</span><span class="sxs-lookup"><span data-stu-id="a347f-124">Add new accounts to the existing chart of accounts.</span></span> |[<span data-ttu-id="a347f-125">Impostazione del piano dei conti</span><span class="sxs-lookup"><span data-stu-id="a347f-125">Setting Up the Chart of Accounts</span></span>](finance-setup-chart-accounts.md) |
+| <span data-ttu-id="a347f-126">Impostare i grafici di business intelligence (BI) per analizzare il flusso di cassa.</span><span class="sxs-lookup"><span data-stu-id="a347f-126">Set up business intelligence (BI) charts to analyze cash flow.</span></span> |[<span data-ttu-id="a347f-127">Impostazione di un'analisi di un flusso di cassa</span><span class="sxs-lookup"><span data-stu-id="a347f-127">Setting Up Cash Flow Analysis</span></span>](finance-setup-cash-flow-analyses.md) |
+|<span data-ttu-id="a347f-128">Abilitazione della fatturazione di un cliente che non è impostato nel sistema.</span><span class="sxs-lookup"><span data-stu-id="a347f-128">Enable invoicing of a customer who is not set up in the system.</span></span>|[<span data-ttu-id="a347f-129">Procedura: Impostare clienti per vendite in contanti</span><span class="sxs-lookup"><span data-stu-id="a347f-129">How to: Set Up Cash Customers</span></span>](finance-how-to-set-up-cash-customers.md)|
+| <span data-ttu-id="a347f-130">Impostare la creazione di report Intrastat e inviare il report a un'autorità</span><span class="sxs-lookup"><span data-stu-id="a347f-130">Set up Intrastat reporting, and submit the report to an authority</span></span> | [<span data-ttu-id="a347f-131">Procedura: Impostare e registrare report Intrastat</span><span class="sxs-lookup"><span data-stu-id="a347f-131">How to: Set Up and Report Intrastat</span></span>](finance-how-setup-report-intrastat.md)|
 
+## <a name="see-also"></a><span data-ttu-id="a347f-132">Vedi anche</span><span class="sxs-lookup"><span data-stu-id="a347f-132">See Also</span></span>
+<span data-ttu-id="a347f-133">[Contabilità](finance.md)</span><span class="sxs-lookup"><span data-stu-id="a347f-133">[Finance](finance.md)]</span></span>  
+[<span data-ttu-id="a347f-134">Gestione di conti correnti bancari</span><span class="sxs-lookup"><span data-stu-id="a347f-134">Managing Bank Accounts</span></span>](bank-manage-bank-accounts.md)  
+[<span data-ttu-id="a347f-135">Utilizzo delle dimensioni</span><span class="sxs-lookup"><span data-stu-id="a347f-135">Working with Dimensions</span></span>](finance-dimensions.md)  
+[<span data-ttu-id="a347f-136">Importazione dei dati aziendali da altri sistemi contabili</span><span class="sxs-lookup"><span data-stu-id="a347f-136">Importing Business Data from Other Finance Systems</span></span>](upload-data.md)  
+[<span data-ttu-id="a347f-137">Analizzare il flusso di cassa dell'azienda</span><span class="sxs-lookup"><span data-stu-id="a347f-137">Analyzing Cash Flow in Your Company</span></span>](finance-analyze-cash-flow.md)  
+<span data-ttu-id="a347f-138">[Utilizzo di [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)</span><span class="sxs-lookup"><span data-stu-id="a347f-138">[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)</span></span>  
 
-
-##<a name="see-also"></a><span data-ttu-id="708c5-119">Vedi anche</span><span class="sxs-lookup"><span data-stu-id="708c5-119">See Also</span></span>
-<span data-ttu-id="708c5-120">[Gestire i conti correnti bancari](bank-manage-bank-accounts.md)  </span><span class="sxs-lookup"><span data-stu-id="708c5-120">[Manage Bank Accounts](bank-manage-bank-accounts.md)  </span></span>  
-[<span data-ttu-id="708c5-121">Dimensioni</span><span class="sxs-lookup"><span data-stu-id="708c5-121">Dimensions</span></span>](finance-setup-dimensions.md)  
+## 
 

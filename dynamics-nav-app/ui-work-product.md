@@ -1,39 +1,46 @@
 ---
-title: Utilizzare Dynamics NAV
+title: "Utilizzo delle funzionalità generali in Dynamics NAV"
+description: "Descrive le funzionalità generali utilizzate per interagire con i dati in Dynamics NAV, ad esempio per immettere valori, ordinare dati e modificare le visualizzazioni."
+services: 
+documentationcenter: 
 author: SusanneWindfeldPedersen
-ms.custom: na
-ms.date: 09/22/2016
-ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
-ms.topic: article
 ms.prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 6b60b1344a1e18ad91863046110df880f75f7c04
-ms.openlocfilehash: ad4b21d5c23b00f1fe1606f89f1efaf19028565a
+ms.topic: article
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.date: 05/29/2017
+ms.author: solsen
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: 70fb85532bbdf431f8ab58580f4265d5ecd18dbf
 ms.contentlocale: it-it
-ms.lasthandoff: 07/19/2017
+ms.lasthandoff: 10/16/2017
 
 ---
-    
-# <a name="work-with-dynamics-nav"></a><span data-ttu-id="29a6c-102">Utilizzare Dynamics NAV</span><span class="sxs-lookup"><span data-stu-id="29a6c-102">Work with Dynamics NAV</span></span>
-<span data-ttu-id="29a6c-103">Durante l'esecuzione di task aziendali, si interagisce con i dati in diversi modi, ad esempio attraverso la creazione di record e l'immissione di dati, l'ordinamento e il filtraggio dei dati, la scrittura di note e l'output di dati ad altre applicazioni.</span><span class="sxs-lookup"><span data-stu-id="29a6c-103">When performing business tasks, you interact with data in different ways, such as creating records and entering data, sorting and filtering data, writing notes, and outputting data to other applications.</span></span>
+# <a name="working-with-included365finincludesd365finlongmdmd"></a><span data-ttu-id="e2f16-103">Utilizzo di [!INCLUDE[d365fin](includes/d365fin_long_md.md)]</span><span class="sxs-lookup"><span data-stu-id="e2f16-103">Working with [!INCLUDE[d365fin](includes/d365fin_long_md.md)]</span></span>
+<span data-ttu-id="e2f16-104">Durante l'esecuzione di task aziendali, si interagisce con i dati in diversi modi, ad esempio attraverso la creazione di record e l'immissione di dati, l'ordinamento e il filtraggio dei dati, la scrittura di note e l'output di dati ad altre applicazioni.</span><span class="sxs-lookup"><span data-stu-id="e2f16-104">When performing business tasks, you interact with data in different ways, such as creating records and entering data, sorting and filtering data, writing notes, and outputting data to other applications.</span></span>
 
-<span data-ttu-id="29a6c-104">È possibile, ad esempio, rettificare le dimensioni e l'ubicazione di una finestra, espandere la larghezza di colonne e aumentare l'altezza delle intestazioni di colonna e modificare l'ordinamento dei dati nelle colonne.</span><span class="sxs-lookup"><span data-stu-id="29a6c-104">For example, you can adjust the size and position of any window, expand the width of columns and increase the height of column headers, and change the sorting of data in columns.</span></span> <span data-ttu-id="29a6c-105">Se si desidera utilizzare la barra di scorrimento orizzontale per visualizzare tutte le colonne in una pagina di elenco o nelle righe documenti, è disponibile un blocca quadro verticale per evitare lo scorrimento di alcune colonne.</span><span class="sxs-lookup"><span data-stu-id="29a6c-105">And if you want to use the horizontal scroll bar to view all columns on a list page or on document lines, you will see that there is a vertical freeze pane to restrict some columns from scrolling.</span></span>
+<span data-ttu-id="e2f16-105">È possibile, ad esempio, rettificare le dimensioni e l'ubicazione di una finestra, espandere la larghezza di colonne e aumentare l'altezza delle intestazioni di colonna e modificare l'ordinamento dei dati nelle colonne.</span><span class="sxs-lookup"><span data-stu-id="e2f16-105">For example, you can adjust the size and position of any window, expand the width of columns and increase the height of column headers, and change the sorting of data in columns.</span></span> <span data-ttu-id="e2f16-106">Se si desidera utilizzare la barra di scorrimento orizzontale per visualizzare tutte le colonne in una pagina di elenco o nelle righe documenti, è disponibile un blocca quadro verticale per evitare lo scorrimento di alcune colonne.</span><span class="sxs-lookup"><span data-stu-id="e2f16-106">And if you want to use the horizontal scroll bar to view all columns on a list page or on document lines, you will see that there is a vertical freeze pane to restrict some columns from scrolling.</span></span>
 
-<span data-ttu-id="29a6c-106">Nella tabella seguente sono elencate alcune delle funzionalità generali con i collegamenti agli argomenti che le descrivono.</span><span class="sxs-lookup"><span data-stu-id="29a6c-106">The following table lists some of the general functionality with links to topics that describe them.</span></span>
+<span data-ttu-id="e2f16-107">Nella tabella seguente sono elencate alcune delle funzionalità generali con i collegamenti agli argomenti che le descrivono.</span><span class="sxs-lookup"><span data-stu-id="e2f16-107">The following table lists some of the general functionality with links to topics that describe them.</span></span>
 
-|<span data-ttu-id="29a6c-107">Per</span><span class="sxs-lookup"><span data-stu-id="29a6c-107">To</span></span> |<span data-ttu-id="29a6c-108">Vedere</span><span class="sxs-lookup"><span data-stu-id="29a6c-108">See</span></span> |
-|---|----|
-|<span data-ttu-id="29a6c-109">Modificare le impostazioni di base come la società o la data di lavoro.</span><span class="sxs-lookup"><span data-stu-id="29a6c-109">Change basic settings such as company or work date.</span></span>|[<span data-ttu-id="29a6c-110">Modifica delle impostazioni di base</span><span class="sxs-lookup"><span data-stu-id="29a6c-110">Change Basic Settings</span></span>](ui-change-basic-settings.md)|
-|<span data-ttu-id="29a6c-111">Informazioni sui simboli e i caratteri speciali utilizzabili nella ricerca dei dati.</span><span class="sxs-lookup"><span data-stu-id="29a6c-111">Read about including symbols and special characters when searching for data.</span></span>|[<span data-ttu-id="29a6c-112">Immissione di criteri di filtro</span><span class="sxs-lookup"><span data-stu-id="29a6c-112">Entering Criteria in Filters</span></span>](ui-enter-criteria-filters.md)|
-|<span data-ttu-id="29a6c-113">Vedere quali campi devono essere compilati.</span><span class="sxs-lookup"><span data-stu-id="29a6c-113">See which fields must be filled in.</span></span>|[<span data-ttu-id="29a6c-114">Campi obbligatori</span><span class="sxs-lookup"><span data-stu-id="29a6c-114">Mandatory Fields</span></span>](ui-mandatory-fields.md)|
-|<span data-ttu-id="29a6c-115">Utilizzare la ricerca per cercare una pagina specifica o un report.</span><span class="sxs-lookup"><span data-stu-id="29a6c-115">Use Search to look for a specific page or report.</span></span>|[<span data-ttu-id="29a6c-116">Utilizzo della funzionalità Cerca pagina o report</span><span class="sxs-lookup"><span data-stu-id="29a6c-116">Using Search for Page or Report</span></span>](ui-search.md)|
-|<span data-ttu-id="29a6c-117">Ottenere informazioni su come ordinare i dati.</span><span class="sxs-lookup"><span data-stu-id="29a6c-117">Learn about how to sort data.</span></span>|[<span data-ttu-id="29a6c-118">Ordinamento</span><span class="sxs-lookup"><span data-stu-id="29a6c-118">Sorting</span></span>](ui-sorting.md)|
-|<span data-ttu-id="29a6c-119">Scoprire come impostare i report per stamparli in uno specifico modo.</span><span class="sxs-lookup"><span data-stu-id="29a6c-119">Read about how to set up reports to print in a specific way.</span></span>|[<span data-ttu-id="29a6c-120">Specificare la selezione della stampante per i report</span><span class="sxs-lookup"><span data-stu-id="29a6c-120">Specify Printer Selection for Reports</span></span>](ui-specify-printer-selection-reports.md)|
-|<span data-ttu-id="29a6c-121">Modificare l'indicatore colorato nelle pile.</span><span class="sxs-lookup"><span data-stu-id="29a6c-121">Modify the colored indicator on cues.</span></span>|[<span data-ttu-id="29a6c-122">Procedura: Impostare un indicatore colorato nelle pile</span><span class="sxs-lookup"><span data-stu-id="29a6c-122">How to: Set Up a Colored Indicator on Cues</span></span>](ui-how-setup-colored-indicator-cues.md)|
-|<span data-ttu-id="29a6c-123">Modificare la visualizzazione delle liste, ad esempio, clienti, fornitori o articoli.</span><span class="sxs-lookup"><span data-stu-id="29a6c-123">Change how you view lists of, for example, customers, vendors, or items.</span></span>|[<span data-ttu-id="29a6c-124">Visualizzazione delle liste con viste diverse</span><span class="sxs-lookup"><span data-stu-id="29a6c-124">Displaying Lists in Different Views</span></span>](across-display-lists-different-views.md)|
+| <span data-ttu-id="e2f16-108">Per</span><span class="sxs-lookup"><span data-stu-id="e2f16-108">To</span></span> | <span data-ttu-id="e2f16-109">Vedere</span><span class="sxs-lookup"><span data-stu-id="e2f16-109">See</span></span> |
+| --- | --- |
+| <span data-ttu-id="e2f16-110">Informazioni sui simboli e i caratteri speciali utilizzabili nella ricerca dei dati.</span><span class="sxs-lookup"><span data-stu-id="e2f16-110">Read about including symbols and special characters when searching for data.</span></span> |[<span data-ttu-id="e2f16-111">Immissione di criteri di filtro</span><span class="sxs-lookup"><span data-stu-id="e2f16-111">Entering Criteria in Filters</span></span>](ui-enter-criteria-filters.md) |
+| <span data-ttu-id="e2f16-112">Vedere quali campi devono essere compilati.</span><span class="sxs-lookup"><span data-stu-id="e2f16-112">See which fields must be filled in.</span></span> |[<span data-ttu-id="e2f16-113">Campi obbligatori</span><span class="sxs-lookup"><span data-stu-id="e2f16-113">Mandatory Fields</span></span>](ui-mandatory-fields.md) |
+| <span data-ttu-id="e2f16-114">Utilizzare la ricerca per cercare una pagina specifica o un report.</span><span class="sxs-lookup"><span data-stu-id="e2f16-114">Use Search to look for a specific page or report.</span></span> |[<span data-ttu-id="e2f16-115">Utilizzo della funzionalità Cerca pagina o report</span><span class="sxs-lookup"><span data-stu-id="e2f16-115">Using Search for Page or Report</span></span>](ui-search.md) |
+| <span data-ttu-id="e2f16-116">Ottenere informazioni su come ordinare i dati.</span><span class="sxs-lookup"><span data-stu-id="e2f16-116">Learn about how to sort data.</span></span> |[<span data-ttu-id="e2f16-117">Ordinamento</span><span class="sxs-lookup"><span data-stu-id="e2f16-117">Sorting</span></span>](ui-sorting.md) |
+| <span data-ttu-id="e2f16-118">Modificare la visualizzazione delle liste, ad esempio, clienti, fornitori o articoli.</span><span class="sxs-lookup"><span data-stu-id="e2f16-118">Change how you view lists of, for example, customers, vendors, or items.</span></span> |[<span data-ttu-id="e2f16-119">Visualizzazione delle liste con modalità diverse</span><span class="sxs-lookup"><span data-stu-id="e2f16-119">Displaying Lists in Different Ways</span></span>](across-display-lists-different-views.md) |
+| <span data-ttu-id="e2f16-120">Modificare l'indicatore colorato nelle pile.</span><span class="sxs-lookup"><span data-stu-id="e2f16-120">Modify the colored indicator on cues.</span></span> |[<span data-ttu-id="e2f16-121">Procedura: Impostare un indicatore colorato nelle pile</span><span class="sxs-lookup"><span data-stu-id="e2f16-121">How to: Set Up a Colored Indicator on Cues</span></span>](ui-how-setup-colored-indicator-cues.md) |
+| <span data-ttu-id="e2f16-122">Modificare le impostazioni di base come la società o la data di lavoro.</span><span class="sxs-lookup"><span data-stu-id="e2f16-122">Change basic settings such as company or work date.</span></span> |[<span data-ttu-id="e2f16-123">Modifica delle impostazioni di base</span><span class="sxs-lookup"><span data-stu-id="e2f16-123">Changing Basic Settings</span></span>](ui-change-basic-settings.md) |
+| <span data-ttu-id="e2f16-124">Modificare la Gestione ruolo utente e la home page correlata, per adattarla al ruolo.</span><span class="sxs-lookup"><span data-stu-id="e2f16-124">Change the Role Center, and the related Home page, to fit your role.</span></span> |[<span data-ttu-id="e2f16-125">Procedura: Modificare la Gestione ruolo utente</span><span class="sxs-lookup"><span data-stu-id="e2f16-125">How to: Change the Role Center</span></span>](change-role.md) |
+| <span data-ttu-id="e2f16-126">Modificare i campi e le azioni visualizzati nell'interfaccia utente per adattarli ai processi aziendali della società.</span><span class="sxs-lookup"><span data-stu-id="e2f16-126">Change which fields and actions are shown in the user interface to fit your company's business processes.</span></span> |<span data-ttu-id="e2f16-127">[Personalizzazione di [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-customizing-overview.md)</span><span class="sxs-lookup"><span data-stu-id="e2f16-127">[Customizing [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-customizing-overview.md)</span></span> |
+| <span data-ttu-id="e2f16-128">Ottenere report per visualizzare i dati relativi a intervalli di date specifici.</span><span class="sxs-lookup"><span data-stu-id="e2f16-128">Get reports to show data from specific date ranges.</span></span> |[<span data-ttu-id="e2f16-129">Immettere intervalli di date in Dynamics NAV</span><span class="sxs-lookup"><span data-stu-id="e2f16-129">Entering Date Ranges in Dynamics NAV</span></span>](ui-enter-date-ranges.md) |
 
-## <a name="see-also"></a><span data-ttu-id="29a6c-125">Vedi anche</span><span class="sxs-lookup"><span data-stu-id="29a6c-125">See Also</span></span>
-[<span data-ttu-id="29a6c-126">Tra le aree aziendali</span><span class="sxs-lookup"><span data-stu-id="29a6c-126">Across Business Areas</span></span>](ui-across-business-areas.md)
+## <a name="see-also"></a><span data-ttu-id="e2f16-130">Vedi anche</span><span class="sxs-lookup"><span data-stu-id="e2f16-130">See Also</span></span>
+[<span data-ttu-id="e2f16-131">Funzionalità aziendali generali</span><span class="sxs-lookup"><span data-stu-id="e2f16-131">General Business Functionality</span></span>](ui-across-business-areas.md)  
+<span data-ttu-id="e2f16-132">[Personalizzazione di [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-customizing-overview.md)</span><span class="sxs-lookup"><span data-stu-id="e2f16-132">[Customizing [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-customizing-overview.md)</span></span>  
+
+## 
 

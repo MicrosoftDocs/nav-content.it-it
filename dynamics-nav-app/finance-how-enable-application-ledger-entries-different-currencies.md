@@ -1,39 +1,53 @@
 ---
-title: 'Procedura: Abilitare il collegamento dei movimenti contabili fornitore in valute diverse'
+title: Collegare i movimenti in diverse valute
+description: "Se si effettua una vendita in una valuta e si riceve il pagamento in un'altra, è possibile collegare il movimento contabile in più valute."
+documentationcenter: 
 author: edupont04
-ms.custom: na
-ms.date: 09/22/2016
-ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
-ms.topic: article
 ms.prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 6b60b1344a1e18ad91863046110df880f75f7c04
-ms.openlocfilehash: 7d6ce2a9133b02a1a38cd853c34b1f3440e7a50e
+ms.topic: article
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords: multiple currencies, payment, reconcile
+ms.date: 06/02/2017
+ms.author: edupont
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: f323b98472f3e2ef0f28000f8a9140b066206945
 ms.contentlocale: it-it
-ms.lasthandoff: 07/19/2017
+ms.lasthandoff: 10/16/2017
 
 ---
+# <a name="how-to-enable-application-of-ledger-entries-in-different-currencies"></a><span data-ttu-id="ae4ff-103">Procedura: Abilitare il collegamento dei movimenti contabili fornitore in valute diverse</span><span class="sxs-lookup"><span data-stu-id="ae4ff-103">How to: Enable Application of Ledger Entries in Different Currencies</span></span>
+<span data-ttu-id="ae4ff-104">Se si acquista da un fornitore con una valuta e si paga con un'altra valuta, è possibile collegare il pagamento all'acquisto.</span><span class="sxs-lookup"><span data-stu-id="ae4ff-104">If you purchase from a vendor in one currency and submit payment in another currency, you can apply the payment to the purchase.</span></span>
 
-# <a name="how-to-enable-application-of-ledger-entries-in-different-currencies"></a><span data-ttu-id="87903-102">Procedura: Abilitare il collegamento dei movimenti contabili fornitore in valute diverse</span><span class="sxs-lookup"><span data-stu-id="87903-102">How to: Enable Application of Ledger Entries in Different Currencies</span></span>
-<span data-ttu-id="87903-103">Se si acquista da un fornitore con una valuta e si paga con un'altra valuta, è possibile collegare il pagamento all'acquisto.</span><span class="sxs-lookup"><span data-stu-id="87903-103">If you purchase from a vendor in one currency and submit payment in another currency, you can apply the payment to the purchase.</span></span>
+<span data-ttu-id="ae4ff-105">In modo analogo, se si effettua una vendita a un cliente in una valuta e si riceve il pagamento in un'altra, è possibile collegare il pagamento alla fattura di vendita.</span><span class="sxs-lookup"><span data-stu-id="ae4ff-105">Likewise, if you sell to a customer in one currency and receive payment in another currency, you can apply the payment to the sales invoice.</span></span>
 
-<span data-ttu-id="87903-104">In modo analogo, se si effettua una vendita a un cliente in una valuta e si riceve il pagamento in un'altra, è possibile collegare il pagamento alla fattura di vendita.</span><span class="sxs-lookup"><span data-stu-id="87903-104">Likewise, if you sell to a customer in one currency and receive payment in another currency, you can apply the payment to the sales invoice.</span></span>
+<span data-ttu-id="ae4ff-106">Nella procedura riportata di seguito viene descritto come configurare questa impostazione per i movimenti contabili fornitori nella finestra **Setup contabilità fornitori e acquisti**.</span><span class="sxs-lookup"><span data-stu-id="ae4ff-106">The following procedure describes how to set this up for vendor ledger entries in the **Purchases & Payables Setup** window.</span></span> <span data-ttu-id="ae4ff-107">L'impostazione è simile per i movimenti contabili clienti nella finestra **Setup contabilità clienti e vendite**.</span><span class="sxs-lookup"><span data-stu-id="ae4ff-107">The setup is similar for customer ledger entries in the **Sales & Receivables Setup** window.</span></span>
 
-<span data-ttu-id="87903-105">Nella procedura riportata di seguito viene descritto come configurare questa impostazione per i movimenti contabili fornitori nella finestra **Setup contabilità fornitori e acquisti**.</span><span class="sxs-lookup"><span data-stu-id="87903-105">The following procedure describes how to set this up for vendor ledger entries in the **Purchases & Payables Setup** window.</span></span> <span data-ttu-id="87903-106">L'impostazione è simile per i movimenti contabili clienti nella finestra **Setup contabilità clienti e vendite**.</span><span class="sxs-lookup"><span data-stu-id="87903-106">The setup is similar for customer ledger entries in the **Sales & Receivables Setup** window.</span></span>
+## <a name="to-enable-application-of-vendor-ledger-entries-in-different-currencies"></a><span data-ttu-id="ae4ff-108">Per abilitare il collegamento dei movimenti contabili fornitore in valute diverse</span><span class="sxs-lookup"><span data-stu-id="ae4ff-108">To enable application of vendor ledger entries in different currencies</span></span>
+1. <span data-ttu-id="ae4ff-109">Scegliere l'icona ![Cerca pagina o report](media/ui-search/search_small.png "icona Cerca pagina o report"), immettere **Setup contabilità fornitori e acquisti**, quindi scegliere il collegamento correlato.</span><span class="sxs-lookup"><span data-stu-id="ae4ff-109">Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Purchases & Payables Setup**, and then choose the related link.</span></span>
+2. <span data-ttu-id="ae4ff-110">Nel campo **Collegamenti tra valute** selezionare una delle seguenti opzioni:</span><span class="sxs-lookup"><span data-stu-id="ae4ff-110">In the **Appln. between Currencies** field, select one of the following options.</span></span>
 
-## <a name="to-enable-application-of-vendor-ledger-entries-in-different-currencies"></a><span data-ttu-id="87903-107">Per abilitare il collegamento dei movimenti contabili fornitore in valute diverse</span><span class="sxs-lookup"><span data-stu-id="87903-107">To enable application of vendor ledger entries in different currencies</span></span>
-1. <span data-ttu-id="87903-108">Nell'angolo superiore destro, scegliere l'icona **Cerca pagina o report**, immettere **Setup contabilità fornitori e acquisti**, quindi scegliere il collegamento correlato.</span><span class="sxs-lookup"><span data-stu-id="87903-108">In the top right corner, choose the **Search for Page or Report** icon, enter **Purchases & Payables Setup**, and then choose the related link.</span></span>
-2. <span data-ttu-id="87903-109">Nel campo **Collegamenti tra valute** selezionare una delle seguenti opzioni:</span><span class="sxs-lookup"><span data-stu-id="87903-109">In the **Appln. between Currencies** field, select one of the following options.</span></span>
+| <span data-ttu-id="ae4ff-111">Opzione</span><span class="sxs-lookup"><span data-stu-id="ae4ff-111">Option</span></span> | <span data-ttu-id="ae4ff-112">Descrizione</span><span class="sxs-lookup"><span data-stu-id="ae4ff-112">Description</span></span> |
+| --- | --- |
+| <span data-ttu-id="ae4ff-113">Nessuno</span><span class="sxs-lookup"><span data-stu-id="ae4ff-113">None</span></span> |<span data-ttu-id="ae4ff-114">Collegamento fra valute non consentito.</span><span class="sxs-lookup"><span data-stu-id="ae4ff-114">Application between currencies is not allowed.</span></span> |
+| <span data-ttu-id="ae4ff-115">UE</span><span class="sxs-lookup"><span data-stu-id="ae4ff-115">EMU</span></span> |<span data-ttu-id="ae4ff-116">Collegamento fra valute UE consentito</span><span class="sxs-lookup"><span data-stu-id="ae4ff-116">Application between EMU currencies is allowed.</span></span> |
+| <span data-ttu-id="ae4ff-117">Tutto</span><span class="sxs-lookup"><span data-stu-id="ae4ff-117">All</span></span> |<span data-ttu-id="ae4ff-118">Collegamento fra tutte le valute consentito</span><span class="sxs-lookup"><span data-stu-id="ae4ff-118">Application between all currencies is allowed.</span></span> |
 
-|<span data-ttu-id="87903-110">Opzione</span><span class="sxs-lookup"><span data-stu-id="87903-110">Option</span></span> |<span data-ttu-id="87903-111">Descrizione</span><span class="sxs-lookup"><span data-stu-id="87903-111">Description</span></span> |
-|-------|------------|
-|<span data-ttu-id="87903-112">Nessuno</span><span class="sxs-lookup"><span data-stu-id="87903-112">None</span></span>|<span data-ttu-id="87903-113">Collegamento fra valute non consentito.</span><span class="sxs-lookup"><span data-stu-id="87903-113">Application between currencies is not allowed.</span></span>|
-|<span data-ttu-id="87903-114">UE</span><span class="sxs-lookup"><span data-stu-id="87903-114">EMU</span></span>|<span data-ttu-id="87903-115">Collegamento fra valute UE consentito.</span><span class="sxs-lookup"><span data-stu-id="87903-115">Application between EMU currencies is allowed.</span></span>|
-|<span data-ttu-id="87903-116">Tutto</span><span class="sxs-lookup"><span data-stu-id="87903-116">All</span></span>|<span data-ttu-id="87903-117">Collegamento fra tutte le valute consentito</span><span class="sxs-lookup"><span data-stu-id="87903-117">Application between all currencies is allowed.</span></span>
+## <a name="to-set-up-gl-accounts-for-currency-application-rounding-differences"></a><span data-ttu-id="ae4ff-119">Per impostare i conti C/G per le differenze di arrotondamento di applicazione delle valute</span><span class="sxs-lookup"><span data-stu-id="ae4ff-119">To set up G/L accounts for currency application rounding differences</span></span>  
+<span data-ttu-id="ae4ff-120">Se movimenti in diverse valute vengono collegati, è necessario impostare il conto di contabilità generale in cui verranno registrate le differenze di arrotondamento.</span><span class="sxs-lookup"><span data-stu-id="ae4ff-120">If you apply entries in different currencies, you must set up the general ledger accounts to which you want to post rounding differences.</span></span>  
 
-## <a name="see-also"></a><span data-ttu-id="87903-118">Vedi anche</span><span class="sxs-lookup"><span data-stu-id="87903-118">See Also</span></span>  
-[<span data-ttu-id="87903-119">Gestire la contabilità fornitori</span><span class="sxs-lookup"><span data-stu-id="87903-119">Manage Payables</span></span>](payables-manage-payables.md)  
-[<span data-ttu-id="87903-120">Gestire la contabilità clienti</span><span class="sxs-lookup"><span data-stu-id="87903-120">Manage Receivables</span></span>](receivables-manage-receivables.md)
+> [!NOTE]  
+>  <span data-ttu-id="ae4ff-121">È necessario impostare i conti di contabilità generale prima di completare il task.</span><span class="sxs-lookup"><span data-stu-id="ae4ff-121">You must set up the general ledger accounts before you complete the task.</span></span> <span data-ttu-id="ae4ff-122">Per ulteriori informazioni, vedere [Contabilità generale e piano dei conti](finance-general-ledger.md).</span><span class="sxs-lookup"><span data-stu-id="ae4ff-122">For more information, see [Understanding the General Ledger and the Chart of Accounts](finance-general-ledger.md).</span></span>
+
+1. <span data-ttu-id="ae4ff-123">Scegliere l'icona ![Cerca pagina o report](media/ui-search/search_small.png "icona Cerca pagina o report"), immettere **Categorie registrazione clienti**, quindi scegliere il collegamento correlato.</span><span class="sxs-lookup"><span data-stu-id="ae4ff-123">Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Customer Posting Groups**, and then choose the related link.</span></span>  
+2. <span data-ttu-id="ae4ff-124">Nei campi **Conto dare arrot. coll. val.** e **Conto avere arrot. coll. val.** immettere i conti di contabilità generale pertinenti per registrare le differenze di arrotondamento.</span><span class="sxs-lookup"><span data-stu-id="ae4ff-124">In the **Debit Curr. Appln. Rndg. Acc.** and **Credit Curr. Appln. Rndg. Acc.** fields, enter the relevant general ledger accounts to post rounding differences.</span></span>  
+3. <span data-ttu-id="ae4ff-125">Scegliere l'icona ![Cerca pagina o report](media/ui-search/search_small.png "Cerca pagina o report"), immettere **Categorie registrazione fornitori**, quindi selezionare il collegamento correlato.</span><span class="sxs-lookup"><span data-stu-id="ae4ff-125">Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Vendor Posting Groups**, and then choose the related link.</span></span>  
+4. <span data-ttu-id="ae4ff-126">Nei campi **Conto dare arrot. coll. val.** e **Conto avere arrot. coll. val.** immettere i conti di contabilità generale pertinenti per registrare le differenze di arrotondamento.</span><span class="sxs-lookup"><span data-stu-id="ae4ff-126">In the **Debit Curr. Appln. Rndg. Acc.** and **Credit Curr. Appln. Rndg. Acc.** fields, enter the relevant general ledger accounts to post rounding differences.</span></span>  
+
+## <a name="see-also"></a><span data-ttu-id="ae4ff-127">Vedi anche</span><span class="sxs-lookup"><span data-stu-id="ae4ff-127">See Also</span></span>
+[<span data-ttu-id="ae4ff-128">Gestione della contabilità fornitori</span><span class="sxs-lookup"><span data-stu-id="ae4ff-128">Managing Payables</span></span>](payables-manage-payables.md)  
+[<span data-ttu-id="ae4ff-129">Gestione della contabilità clienti</span><span class="sxs-lookup"><span data-stu-id="ae4ff-129">Managing Receivables</span></span>](receivables-manage-receivables.md)  
+<span data-ttu-id="ae4ff-130">[Utilizzo di [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)</span><span class="sxs-lookup"><span data-stu-id="ae4ff-130">[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)</span></span>
 

@@ -1,1 +1,1 @@
-<span data-ttu-id="57ae8-101">Microsoft Dynamics NAV 2017</span><span class="sxs-lookup"><span data-stu-id="57ae8-101">Microsoft Dynamics NAV 2017</span></span>
+<span data-ttu-id="885d6-101">Microsoft Dynamics NAV 2017</span><span class="sxs-lookup"><span data-stu-id="885d6-101">Microsoft Dynamics NAV 2017</span></span>

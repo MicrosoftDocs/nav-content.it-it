@@ -1,25 +1,33 @@
 ---
-title: Metodi di pagamento
+title: Impostare i metodi di pagamento
+Description: "Utilizzare i metodi di pagamento, ad esempio, assegni, bonifici, contanti o PayPal, per definire le modalità di pagamento di una fattura."
+documentationcenter: 
 author: edupont04
-ms.custom: na
-ms.date: 09/22/2016
-ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
+ms.prod: dynamics-nav-2017
 ms.topic: article
-ms-prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: 007a934c446a3270d1f01286ee82ed21c92b0419
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords: check, bank transfer, cash, PayPal
+ms.date: 06/15/2017
+ms.author: edupont
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: 18d531d89ce82e7265d143237f084c880cab9dd7
 ms.contentlocale: it-it
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/16/2017
 
 ---
+# <a name="defining-payment-methods"></a><span data-ttu-id="815be-103">Definizione dei metodi di pagamento</span><span class="sxs-lookup"><span data-stu-id="815be-103">Defining Payment Methods</span></span>
+<span data-ttu-id="815be-104">I metodi di pagamento definiscono in modo in cui viene pagata una fattura.</span><span class="sxs-lookup"><span data-stu-id="815be-104">Payment methods define how an invoice will be paid.</span></span> <span data-ttu-id="815be-105">Si possono impostare infiniti metodi di pagamento.</span><span class="sxs-lookup"><span data-stu-id="815be-105">You can set up any number of payment methods.</span></span> <span data-ttu-id="815be-106">Esempi dei metodi di pagamento è possibile impostare sono: BANCA, INCASSI, ASSEGNO, o CONTO.</span><span class="sxs-lookup"><span data-stu-id="815be-106">Examples of payment methods can be BANK, CASH, CHECK, or ACCOUNT.</span></span>
+<span data-ttu-id="815be-107">I metodi di pagamento vengono collegati ai fornitori per specificare come una fattura di un determinato fornitore dovrà essere pagata.</span><span class="sxs-lookup"><span data-stu-id="815be-107">Payment methods are linked to vendors in order to specify how an invoice from the specific vendor must be paid.</span></span>
 
-# <a name="payment-methods"></a><span data-ttu-id="41447-102">Metodi di pagamento</span><span class="sxs-lookup"><span data-stu-id="41447-102">Payment Methods</span></span>
-<span data-ttu-id="41447-103">I metodi di pagamento definiscono in modo in cui viene pagata una fattura.</span><span class="sxs-lookup"><span data-stu-id="41447-103">Payment methods define how an invoice will be paid.</span></span> <span data-ttu-id="41447-104">Si possono impostare infiniti metodi di pagamento.</span><span class="sxs-lookup"><span data-stu-id="41447-104">You can set up any number of payment methods.</span></span> <span data-ttu-id="41447-105">Esempi dei metodi di pagamento è possibile impostare sono: BANCA, INCASSI, ASSEGNO, o CONTO.</span><span class="sxs-lookup"><span data-stu-id="41447-105">Examples of payment methods can be BANK, CASH, CHECK, or ACCOUNT.</span></span>
-<span data-ttu-id="41447-106">I metodi di pagamento vengono collegati ai fornitori per specificare come una fattura di un determinato fornitore dovrà essere pagata.</span><span class="sxs-lookup"><span data-stu-id="41447-106">Payment methods are linked to vendors in order to specify how an invoice from the specific vendor must be paid.</span></span>
+## <a name="to-set-up-a-payment-methods"></a><span data-ttu-id="815be-108">Per impostare un metodo di pagamento</span><span class="sxs-lookup"><span data-stu-id="815be-108">To set up a payment methods</span></span>
+<span data-ttu-id="815be-109">Numerosi metodi di pagamento tipici sono già definiti in [!INCLUDE[d365fin](includes/d365fin_md.md)].</span><span class="sxs-lookup"><span data-stu-id="815be-109">Several typical payment methods are already defined in [!INCLUDE[d365fin](includes/d365fin_md.md)].</span></span> <span data-ttu-id="815be-110">È possibile definire nuovi metodi di pagamento nella finestra **Metodi di pagamento** che è possibile trovare con la funzione di ricerca o aprire dal campo **Metodo di pagamento** in una scheda fornitore o cliente.</span><span class="sxs-lookup"><span data-stu-id="815be-110">You can define new payment methods in the **Payment Methods** window, which you can find with the search function or open from the **Payment Method** field on an a vendor or customer card.</span></span>
+1. <span data-ttu-id="815be-111">Scegliere l'icona ![Cerca pagina o report](media/ui-search/search_small.png "icona Cerca pagina o report"), immettere **Metodi di pagamento**, quindi scegliere il collegamento correlato.</span><span class="sxs-lookup"><span data-stu-id="815be-111">Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Payment Methods**, and then choose the related link.</span></span>
+2. <span data-ttu-id="815be-112">Compilare i campi, se necessario.</span><span class="sxs-lookup"><span data-stu-id="815be-112">Fill in the fields as necessary.</span></span> [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]
 
-## <a name="see-also"></a><span data-ttu-id="41447-107">Vedi anche</span><span class="sxs-lookup"><span data-stu-id="41447-107">See Also</span></span>
-[<span data-ttu-id="41447-108">Contabilità</span><span class="sxs-lookup"><span data-stu-id="41447-108">Finance</span></span>](finance-setup.md)  
+## <a name="see-also"></a><span data-ttu-id="815be-113">Vedi anche</span><span class="sxs-lookup"><span data-stu-id="815be-113">See Also</span></span>
+[<span data-ttu-id="815be-114">Finanze</span><span class="sxs-lookup"><span data-stu-id="815be-114">Finance</span></span>](finance.md)  
+<span data-ttu-id="815be-115">[Utilizzo di [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)</span><span class="sxs-lookup"><span data-stu-id="815be-115">[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)</span></span>  
 
