@@ -1,35 +1,37 @@
 ---
-title: 'Procedura: Registrare gli acquisti'
+title: Creare una fattura di acquisto e registrare gli acquisti
+description: Viene descritto come acquistare articoli Magazzino o Assistenza creando e registrando le fatture o gli ordini di acquisto.
+documentationcenter: 
 author: SorenGP
-ms.custom: na
-ms.date: 11/22/2016
-ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
-ms.topic: article
 ms.prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: 6d1933bf1e1c9236d34d429a4da84c907df13708
+ms.topic: article
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords: procurement
+ms.date: 08/08/2017
+ms.author: sgroespe
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: d5583290925252acee6a05be29f589d057794c28
 ms.contentlocale: it-it
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/16/2017
 
 ---
-
 # <a name="how-to-record-purchases"></a>Procedura: Registrare gli acquisti
 È possibile creare una fattura o un ordine di acquisto per registrare il costo di acquisto e per tenere traccia del conto fornitori. Se è necessario verificare un magazzino, anche le fatture e gli ordini di acquisto vengono utilizzati per aggiornare in modo dinamico i livelli di magazzino in modo da ridurre i costi di magazzino al minimo e migliorare l'assistenza clienti. I costi di acquisto, incluse le spese di assistenza, e i valori di magazzino derivanti dalla registrazione delle fatture o gli ordini di acquisto contribuiscono alle cifre di profitto e altri indicatori KPI finanziari presenti nella home page.
 
-**Nota**: è necessario utilizzare gli ordini di acquisto se il processo di acquisto richiede la registrazione delle le ricevute parziali di una quantità di un ordine, ad esempio, perché la quantità completa non è disponibile presso il fornitore. Se si vendono articoli con consegna diretta dal fornitore al cliente, come una spedizione diretta, è necessario utilizzare anche gli ordini di acquisto. Per ulteriori informazioni, vedere [Procedura: Effettuare spedizioni dirette](sales-how-drop-shipment.md). In tutti gli altri aspetti, gli ordini di acquisto funzionano come le fatture di acquisto. La seguente procedura è basata su una fattura di acquisto. I passaggi sono simili per un ordine di acquisto.
+> [!NOTE]  
+>   Utilizzare gli ordini di acquisto se il processo di acquisto richiede la registrazione delle le ricevute parziali di una quantità di un ordine, ad esempio, perché la quantità completa non è disponibile presso il fornitore. Se si vendono articoli con consegna diretta dal fornitore al cliente, come una spedizione diretta, è necessario utilizzare anche gli ordini di acquisto. Per ulteriori informazioni, vedere [Procedura: Effettuare spedizioni dirette](sales-how-drop-shipment.md). In tutti gli altri aspetti, gli ordini di acquisto funzionano come le fatture di acquisto. La seguente procedura è basata su una fattura di acquisto. I passaggi sono simili per un ordine di acquisto.
 
 Quando si ricevono gli articoli di magazzino, o quando il servizio acquistato viene completato, si registra la fattura o l'ordine di acquisto per aggiornare il magazzino e i record finanziari e per attivare il pagamento al fornitore in base alle condizioni di pagamento. Per ulteriori informazioni, vedere [Effettuare i pagamenti](payables-make-payments.md).
 
-**Attenzione**: non registrare una fattura di acquisto fino a quando non si ricevono i prodotti e si conosce il costo finale dell'acquisto, incluse le spese aggiuntive. In caso contrario, il valore di magazzino e le cifre di margine possono risultare distorti.
+> [!CAUTION]  
+>   Non registrare una fattura di acquisto fino a quando non si ricevono gli articoli e si conosce il costo finale dell'acquisto, incluse le spese aggiuntive. In caso contrario, il valore di magazzino e le cifre di margine possono risultare distorti.
 
-Se è già stato eseguito il pagamento dei prodotti nella fattura di acquisto registrata, è necessario creare una nota di credito di acquisto per stornare l'acquisto. Per ulteriori informazioni vedere [Procedura: Elaborare i resi o gli annullamenti acquisti](purchasing-how-process-purchase-returns-cancellations.md).
+È possibile correggere o annullare in modo semplice una fattura di acquisto registrata prima che venga pagata al fornitore. Ciò risulta utile se si desidera correggere un errore di digitazione o se si desidera modificare l'acquisto in una fase iniziale dell'elaborazione dell'ordine. Per ulteriori informazioni, vedere [Procedura: Correggere o annullare le fatture di acquisto non pagate](purchasing-how-correct-cancel-unpaid-purchase-invoices.md). Se è già stato eseguito il pagamento degli articoli nella fattura di acquisto registrata, è necessario creare una nota di credito di acquisto per stornare l'acquisto. Per ulteriori informazioni vedere [Procedura: Elaborare i resi o gli annullamenti acquisti](purchasing-how-process-purchase-returns-cancellations.md).
 
-I prodotti possono essere sia articoli di magazzino che servizi. Per ulteriori informazioni, vedere [Procedura: Registrare nuovi prodotti](inventory-how-register-new-products.md). Il processo della fattura di acquisto è lo stesso per entrambi i tipi di prodotto.
-
-
+Gli articoli possono essere di tipo **Magazzino** o **Assistenza**. Per ulteriori informazioni, vedere [Procedura: Registrare nuovi articoli](inventory-how-register-new-items.md). Il processo della fattura di acquisto è lo stesso per entrambi i tipi di articoli.
 
 È possibile compilare i campi fornitore nella fattura di acquisto in due modi a seconda che il fornitore sia già registrato o meno.
 
@@ -46,31 +48,35 @@ I prodotti possono essere sia articoli di magazzino che servizi. Per ulteriori i
 8. Una volta completata la scheda fornitore, fare clic su **OK** per tornare alla finestra **Fattura di acquisto**.
 
     Numerosi campi della finestra **Fattura di acquisto** vengono compilati con le informazioni specificate nella nuova scheda fornitore.
-9. Compilare i restanti campi della finestra **Fattura di acquisto** in base alle proprie esigenze. Selezionare il campo per visualizzare una breve descrizione del campo o il collegamento a ulteriori informazioni.
+9. Compilare i restanti campi della finestra **Fattura di acquisto** in base alle proprie esigenze. [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]
 
     A questo punto si è pronti a compilare le righe della fattura di acquisto con gli articoli di magazzino o i servizi acquistati presso il fornitore.
 
-    **Nota**: se sono state impostate righe di acquisto periodiche per il fornitore, ad esempio un ordine di rifornimento mensile, è possibile inserire queste righe nella fattura scegliendo l'azione **Ottieni righe acquisto ricorrenti**.
-10. Nella Scheda dettaglio **Righe**, nel campo **Nr. articolo**, immettere il numero di un'assistenza o di un articolo di magazzino.
+    > [!NOTE]  
+>   Se sono state impostate righe di acquisto periodiche per il fornitore, ad esempio un ordine di rifornimento mensile, è possibile inserire queste righe nella fattura scegliendo l'azione **Ottieni righe acquisto ricorrenti**.
+10. Nella Scheda dettaglio **Righe** del campo **Nr. articolo** immettere il numero di un articolo di magazzino o di un servizio.
 11. Nel campo **Quantità** immettere il numero di articoli da acquistare.
 
-    **Nota**: per gli articoli di tipo **Assistenza**, la quantità è un'unità temporale, ad esempio le ore, come indicato nel campo **Cod. unità di misura** nella riga.
+    > [!NOTE]  
+>   Per gli articoli di tipo **Assistenza**, la quantità è un'unità temporale, ad esempio le ore, come indicato nel campo **Cod. unità di misura** nella riga.
 
     Il campo **Importo riga** viene aggiornato al valore del campo **Costo unitario diretto** moltiplicato per il valore del campo **Quantità**.
 
     Il prezzo e l'importo riga vengono visualizzati con o senza le tasse di vendita a seconda della selezione nel campo **Prezzi IVA inclusa** della scheda fornitore.
 12. Nel campo **Importo sconto fattura** immettere un importo che deve essere dedotto dal valore indicato nel campo **Totale IVA incl.** nella parte inferiore della fattura.
 
-    **Nota**: se sono stati impostati degli sconti su fattura per il fornitore, il valore percentuale specificato viene automaticamente inserito nel campo **% sconto fattura fornitore** se vengono soddisfatti i criteri e l'importo correlato viene inserito nel campo **Importo sconto fattura**.
+    > [!NOTE]  
+>   Se sono stati impostati degli sconti su fattura per il fornitore, il valore percentuale specificato viene automaticamente inserito nel campo **% sconto fattura fornitore** se vengono soddisfatti i criteri e l'importo correlato viene inserito nel campo **Importo sconto fattura**.
 13. Quando si ricevono l'assistenza o gli articoli acquistati, scegliere **Registra**.
 
 L'acquisto si riflette ora nel magazzino e nei record finanziari e il pagamento fornitore viene attivato. La fattura di acquisto viene rimossa dall'elenco delle fatture di acquisto e sostituita con un nuovo documento nell'elenco delle fatture di acquisto registrate.
 
-## <a name="see-also"></a>Vedi anche  
-[Gestire gli acquisti](purchasing-manage-purchasing.md)  
-[Impostare gli acquisti](purchasing-setup-purchasing.md)  
-[Procedura: Acquistare i prodotti per una vendita](purchasing-how-purchase-products-sale.md)  
+## <a name="see-also"></a>Vedi anche
+[Acquisti](purchasing-manage-purchasing.md)  
+[Impostazioni acquisti](purchasing-setup-purchasing.md)  
+[Procedura: Richiedere le offerte](purchasing-how-request-quotes.md)  
+[Procedura: Acquistare articoli per una vendita](purchasing-how-purchase-products-sale.md)  
 [Procedura: Registrare nuovi fornitori](purchasing-how-register-new-vendors.md)  
 [Procedura: Preparare le spedizioni dirette](sales-how-drop-shipment.md)  
-[Utilizzare Dynamics NAV](ui-work-product.md)
+[Utilizzo di [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
 

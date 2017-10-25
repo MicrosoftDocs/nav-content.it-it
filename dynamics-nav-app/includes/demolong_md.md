@@ -1,1 +1,1 @@
-CRONUS Italia S.p.A. database dimostrativo
+Database dimostrativo CRONUS Italia S.p.a.

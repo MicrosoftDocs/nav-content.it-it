@@ -1,27 +1,31 @@
 ---
 title: Creare contatti
+description: Descrive come creare una scheda contatto per ogni persona nuova o potenziale cliente con cui si ha una relazione d'affari.
+documentationcenter: 
 author: jswymer
-ms.custom: na
-ms.date: 09/16/2016
-ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
-ms.topic: article
 ms.prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: ff6f595557e9fd7898c6c248759d462f72a7b195
+ms.topic: article
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords: relationship, prospect
+ms.date: 06/06/2017
+ms.author: jswymer
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: d7b4d46c8e6921983c319249983f16c70afa0a74
 ms.contentlocale: it-it
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/16/2017
 
 ---
-# <a name="create-contact-persons"></a>Creare contatti
+# <a name="how-to-create-contact-persons"></a>Procedura: creare contatti
 È possibile creare una scheda contatto per ogni singolo contatto che opera all'interno delle società con cui si interagisce. Per ogni società contatto è possibile inserire un numero illimitato di contatti. È inoltre possibile creare schede contatto per le persone che si desidera registrare come indipendenti.
 
-**Suggerimento**: prima di creare un contatto, si consiglia di verificare le impostazioni di **Eredità** nella finestra **Setup marketing**. L'impostazione dell'eredità consente di abilitare informazioni sulla società contatto che sono comuni alle persone di contatto, ad esempio dettagli dell'indirizzo, per consentire la copia automatica copiate dalla società contatto alla persona contatto ogni volta che si crea un contatto per una società contatto registrata.
+> [!TIP]  
+>   Prima di creare un contatto, si consiglia di verificare le impostazioni di **Eredità** nella finestra **Setup marketing**. L'impostazione dell'eredità consente di abilitare informazioni sulla società contatto che sono comuni alle persone di contatto, ad esempio dettagli dell'indirizzo, per consentire la copia automatica copiate dalla società contatto alla persona contatto ogni volta che si crea un contatto per una società contatto registrata.
 
 ## <a name="to-create-a-contact-card-for-a-person"></a>Per creare una scheda contatto per una persona
-1. Nell'angolo superiore destro, scegliere l'icona **Cerca pagina o report**, immettere **Contatti**, quindi scegliere il collegamento correlato.
+1. Scegliere l'icona ![Cerca pagina o report](media/ui-search/search_small.png "icona Cerca pagina o report"), immettere **Contatti**, quindi scegliere il collegamento correlato.
 2. Scegliere l'azione **Nuovo**.
 3. Nel campo **Nr.** inserire un numero per il contatto.
 
@@ -29,12 +33,14 @@ ms.lasthandoff: 06/26/2017
 4. Nel campo **Tipo** selezionare **Persona**.
 5. Compilare gli altri campi nella scheda contatto.
 
-**Nota**: il contenuto dei campi selezionati nella sezione **Eredità** nella finestra **Setup marketing** verrà copiato dalla società alle persone all'interno di tale società.
+> [!NOTE]  
+>   Il contenuto dei campi selezionati nella sezione **Eredità** nella finestra **Setup marketing** verrà copiato dalla società alle persone all'interno di tale società.
 
-##<a name="see-also"></a>Vedi anche
-[Setup della gestione dei contatti e del marketing](marketing-setup-marketing.md)  
-[Impostare gruppi mailing nei contatti](marketing-mailing-groups.md#assign-mailing-groups-to-a-contact)
-[Impostare i ruoli professionali nei contatti](marketing-job-responsibilities.md)  
-[Configurare i livelli organizzativi per i contatti](marketing-organizational-levels.md)  
+## <a name="see-also"></a>Vedi anche
+[Setup Relationship Management](marketing-setup-marketing.md)  
+[Assegnazione di gruppi di mailing a un contatto](marketing-mailing-groups.md#AssignMailGroupContact)  
+[Procedura: Impostare i ruoli professionali nei contatti](marketing-job-responsibilities.md)  
+[Procedura: Configurare i livelli organizzativi per i contatti](marketing-organizational-levels.md)  
 [Sincronizzazione di contatti con clienti, fornitori e conti correnti bancari](marketing-synchronize-contacts-customers-vendors-bank-accounts.md)  
+[Utilizzo di Dynamics NAV](ui-work-product.md)  
 

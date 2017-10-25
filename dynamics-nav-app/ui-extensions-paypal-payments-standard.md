@@ -1,21 +1,23 @@
 ---
-title: Pagamenti PayPal standard
+title: Utilizzo dell'estensione PayPal Payments Standard
+description: Descrive come utilizzare l'estensione per consentire ai clienti di eseguire pagamenti con PayPal.
+documentationcenter: 
 author: SorenGP
-ms.custom: na
-ms.date: 09/22/2016
-ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
-ms.topic: article
 ms.prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: bef7a7d212a73a2afffff582af81eb2d463e3a34
+ms.topic: article
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms. search.keywords: app, add-in, manifest, customize
+ms.date: 03/29/2017
+ms.author: sgroespe
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: 9ce797091adf1ddd04e14729d27730dad50d819c
 ms.contentlocale: it-it
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/16/2017
 
 ---
-
 # <a name="the-paypal-payments-standard-extension-to-dynamics-nav"></a>Estensione PayPal Payments Standard per Dynamics NAV
 I clienti richiedono continuamente un livello di assistenza clienti più elevato, sia in termini di qualità del prodotto sia in termini di opzioni di consegna e di pagamento. Il servizio PayPal Payments Standard contribuisce a migliorare l'assistenza clienti.
 
@@ -23,18 +25,18 @@ Come alternativa alla riscossione dei pagamenti tramite bonifico o carte di cred
 
 Il servizio PayPal Payments Standard offre i seguenti vantaggi:
 
-- I pagamenti dei clienti arrivano più velocemente nel conto corrente bancario.
-- I clienti hanno più modi a disposizione per pagare le fatture.
-- PayPal offre un servizio di pagamento affidabile, che i clienti preferiscono all'immissione dei dati delle carte di credito sui siti Web.
-- PayPal offre molteplici modalità di gestione dei pagamenti, inclusa l'elaborazione delle carte di credito, i conti PayPal e altre risorse.
-- È possibile aggiungere automaticamente il collegamento di PayPal ai documenti di vendita. Può farlo anche manualmente l'utente interessato.
-- Il servizio PayPal Payments Standard non prevede costi mensili o di installazione.
-- Dal momento che si tratta di un'estensione, il servizio PayPal Payment Standard può essere abilitato facilmente quando e se richiesto.  
+* I pagamenti dei clienti arrivano più velocemente nel conto corrente bancario.
+* I clienti hanno più modi a disposizione per pagare le fatture.
+* PayPal offre un servizio di pagamento affidabile, che i clienti preferiscono all'immissione dei dati delle carte di credito sui siti Web.
+* PayPal offre molteplici modalità di gestione dei pagamenti, inclusa l'elaborazione delle carte di credito, i conti PayPal e altre risorse.
+* È possibile aggiungere automaticamente il collegamento di PayPal ai documenti di vendita. Può farlo anche manualmente l'utente interessato.
+* Il servizio PayPal Payments Standard non prevede costi mensili o di installazione.
+* Dal momento che si tratta di un'estensione, il servizio PayPal Payment Standard può essere abilitato facilmente quando e se richiesto.  
 
-Per ulteriori informazioni, vedere [Procedura: Abilitare i pagamenti clienti attraverso PayPal](sales-how-enable-customer-payments-paypal.md).
+Per ulteriori informazioni, vedere [Procedura: Abilitare i pagamenti clienti attraverso PayPal](sales-how-enable-payment-service-extensions.md).
 
-## <a name="see-also"></a>Vedi anche  
-[Personalizzazione di Dynamics NAV utilizzando le estensioni](ui-extensions.md)  
-[Impostare le vendite](sales-setup-sales.md)  
-[Utilizzare Dynamics NAV](ui-work-product.md)
+## <a name="see-also"></a>Vedi anche
+[Personalizzazione di [!INCLUDE[d365fin](includes/d365fin_md.md)] utilizzando le estensioni](ui-extensions.md)  
+[Setup Vendite](sales-setup-sales.md)  
+[Utilizzo di [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
 

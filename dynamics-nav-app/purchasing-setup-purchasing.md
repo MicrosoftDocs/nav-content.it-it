@@ -1,38 +1,40 @@
 ---
-title: Impostare gli acquisti
+title: Panoramica dei task per impostare gli acquisti
+description: "Descrive i task per definire i criteri di acquisto della società e impostare i processi di acquisto."
+documentationcenter: 
 author: SorenGP
-ms.custom: na
-ms.date: 09/22/2016
-ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
+ms.prod: dynamics-nav-2017
 ms.topic: article
-ms-prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: b70e775b4fb5fe716279e5f475f7be214f49f65e
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords: procurement, supply, vendor order
+ms.date: 03/29/2017
+ms.author: sgroespe
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: 46de426a91eb46ec40ce95592ae12e4adda3f9f6
 ms.contentlocale: it-it
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/16/2017
 
 ---
-
-# <a name="set-up-purchasing"></a>Impostare gli acquisti
+# <a name="setting-up-purchasing"></a>Impostazioni acquisti
 Prima di poter gestire i processi di acquisto, è necessario configurare le regole e i valori che definiscono i criteri di acquisto dell'azienda.
 
-È innanzitutto necessario definire le impostazioni generali, ad esempio i documenti di acquisto necessari e la modalità di registrazione del relativo valore. Queste impostazioni generali vengono in genere eseguite una volta durante l'implementazione iniziale.
+È necessario definire le impostazioni generali, ad esempio i documenti di acquisto richiesti e la modalità di registrazione del relativo valore. Queste impostazioni generali vengono in genere eseguite una volta durante l'implementazione iniziale.
 
-Una serie di attività distinte correlate alla creazione dell'anagrafica dei fornitori è costituita dalla registrazione degli accordi relativi a prezzi e sconti del fornitore nelle finestre collegate alle schede fornitore.
+Una serie di attività specifiche correlate alla registrazione di nuovi fornitori è quella di prendere nota di tutti gli accordi riguardanti sconti o prezzi speciali in essere con ogni fornitore.
 
-L'attività periodica di creazione di schede fornitore per i nuovi fornitori è descritta nella sezione Gestire gli acquisti. Per ulteriori informazioni, vedere [Procedura: Registrare nuovi fornitori](purchasing-how-register-new-vendors.md).
+L'impostazione degli acquisti correlata all'aspetto contabile, come i metodi di pagamento e le valute, è descritta nella sezione Impostazione degli aspetti finanziari. Per ulteriori informazioni, vedere [Impostazione di dati finanziari](finance-setup-finance.md).
 
-L'impostazione degli acquisti correlata all'aspetto contabile, come i metodi di pagamento e le valute, è descritta nella sezione Impostazione degli aspetti finanziari. Per ulteriori informazioni, vedere [Impostare gli aspetti finanziari](finance-setup-setup-finance-setup.md).
-
-|Per |Vedere |
-|---|----|
-|Immettere i diversi sconti e i prezzi alternativi concessi dai fornitori in base ad articolo, quantità e/o data.|[Registrazione di prezzi, sconti e contratti di pagamento per gli acquisti](purchasing-how-record-purchase-price-discount-payment-agreements.md)|
-|Attribuire un ordine di priorità ai fornitori.|[Procedura: Attribuire un ordine di priorità ai fornitori](purchasing-how-prioritize-vendors.md)|
-|Impostare gli addetti agli acquisti.|[Procedura: Impostare gli addetti agli acquisti](purchasing-how-setup-purchasers.md)|
+| Per | Vedere |
+| --- | --- |
+| Creare una scheda fornitore per ogni fornitore da cui si acquista|[Procedura: Registrare nuovi fornitori](purchasing-how-register-new-vendors.md) |
+| Immettere i diversi sconti e i prezzi speciali concessi dai fornitori per articolo, quantità e/o data |[Procedura: Registrare accordi riguardanti prezzi, sconti e pagamenti applicati agli acquisti](purchasing-how-record-purchase-price-discount-payment-agreements.md) |
+| Attribuire un ordine di priorità ai fornitori |[Procedura: Attribuire un ordine di priorità ai fornitori](purchasing-how-prioritize-vendors.md) |
+| Impostare gli addetti agli acquisti |[Procedura: Impostare gli addetti agli acquisti](purchasing-how-setup-purchasers.md) |
 
 ## <a name="see-also"></a>Vedi anche
-[Gestire gli acquisti](purchasing-manage-purchasing.md)
+[Acquisti](purchasing-manage-purchasing.md)  
+[Utilizzo di [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
 

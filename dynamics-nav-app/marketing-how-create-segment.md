@@ -1,25 +1,28 @@
 ---
-title: 'Procedura: creare segmenti'
+title: Creare segmenti
+description: Descrive come creare un segmento per un gruppo di contatti in Dynamics NAV, ad esempio, per rivolgersi a diversi contatti tramite messaggi di posta diretti.
+documentationcenter: 
 author: jswymer
-ms.custom: na
-ms.date: 09/16/2016
-ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
-ms.topic: article
 ms.prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: 62b9e2c54e7229e9c9e8fdd51f56ee874b34ab40
+ms.topic: article
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords: relationship, prospect
+ms.date: 06/06/2017
+ms.author: jswymer
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: 930f03d18612cd161137c92121e91b91aa1a21ac
 ms.contentlocale: it-it
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/16/2017
 
 ---
 # <a name="how-to-create-segments"></a>Procedura: creare segmenti
 È possibile creare segmenti per selezionare un gruppo di contatti, ad esempio se si desidera creare un'interazione in cui siano coinvolti più contatti (invio di messaggi di posta diretti).
 
 ## <a name="to-create-a-segment"></a>Per creare un segmento
-1. Nella home page scegliere **Segmenti attivi**. In alternativa, nell'angolo superiore destro, scegliere l'icona **Cerca pagina o report**, immettere **Segmenti**, quindi scegliere il collegamento correlato.
+1. Nella home page scegliere **Segmenti attivi**. In alternativa, scegliere l'icona ![Cerca pagina o report](media/ui-search/search_small.png "icona Cerca pagina o report"), immettere **Segmenti**, quindi scegliere il collegamento correlato.
 2. Scegliere l'azione **Nuovo**.
 3. Nella sezione **Generale** nel campo **Nr.** inserire un numero per il segmento.
 
@@ -28,7 +31,8 @@ ms.lasthandoff: 06/26/2017
 
 A questo punto è possibile aggiungere i contatti al segmento. Per ulteriori informazioni, vedere [Procedura: aggiungere contatti ai segmenti](marketing-add-contact-segment.md).
 
-##<a name="see-also"></a>Vedi anche
-[Gestire i segmenti](marketing-segments.md)  
-[Gestire le opportunità di vendita](marketing-manage-sales-opportunities.md)  
+## <a name="see-also"></a>Vedi anche
+[Gestione dei segmenti](marketing-segments.md)  
+[Gestione delle opportunità di vendita](marketing-manage-sales-opportunities.md)  
+[Utilizzo di [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
 

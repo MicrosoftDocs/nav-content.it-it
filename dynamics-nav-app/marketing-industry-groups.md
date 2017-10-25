@@ -1,34 +1,38 @@
 ---
 title: "Impostare settori industriali per le società contatto"
+description: "Descrive come definire un settore industriale e assegnarlo a una società contatto, ad esempio il settore del commercio al dettaglio o dell'industria automobilistica."
+documentationcenter: 
 author: jswymer
-ms.custom: na
-ms.date: 09/16/2016
-ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
-ms.topic: article
 ms.prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: 466f8513b3abc8c10dc579bff5fde9ea11c21d27
+ms.topic: article
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords: relationship, prospect
+ms.date: 06/06/2017
+ms.author: jswymer
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: 62d946155cb65a3e976771bc5029878893bd4797
 ms.contentlocale: it-it
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/16/2017
 
 ---
-# <a name="set-up-industry-groups-for-contact-companies"></a>Impostare settori industriali per le società contatto
+# <a name="how-to-set-up-industry-groups-for-contact-companies"></a>Procedura: Impostare settori industriali per le società contatto
 I gruppi industriali vengono utilizzati per indicare il tipo di settore industriale a cui appartengono i contatti, ad esempio il settore del commercio al dettaglio o l'industria automobilistica.
 
 L'utilizzo dei settori industriali nei contatti è un processo a due passaggi. Innanzitutto, occorre definire il codice dei settori industriali. Questo passaggio deve essere eseguito una sola volta per ogni settore industriale. Dopo aver creato un codice di settore industriale, è possibile iniziare ad assegnarlo alle società.
 
-**Nota**: se si prede di sincronizzare i contatti con fornitori, clienti o conti correnti bancari in altre sezioni dell'applicazione, è consigliabile impostare una relazione d'affari.
+> [!NOTE]  
+>   Per sincronizzare i contatti con fornitori, clienti o conti correnti bancari in altre sezioni dell'applicazione, è consigliabile impostare una relazione d'affari.
 
-## <a name="define-an-industry-group-code"></a>Definire un filtro codice settore industriale
+## <a name="to-define-an-industry-group-code"></a>Per definire un codice di settore industriale
 Il codice settore industriale definisce il tipo o la categoria del gruppo, ad esempio ANNUNCIO per la pubblicità o STAMPA per la TV e la radio. È possibile impostare più codici di settori industriali. Per definire i settori industriali, utilizzare la finestra **Settori industriali**.
 
-1. Nell'angolo superiore destro, scegliere l'icona **Cerca pagina o report**, immettere **Settori industriali**, quindi scegliere il collegamento correlato.
+1. Scegliere l'icona ![Cerca pagina o report](media/ui-search/search_small.png "icona Cerca pagina o report"), immettere **Settori industriali**, quindi scegliere il collegamento correlato.
 2. Selezionare l'azione **Nuovo** e immettere un codice e una descrizione. Il codice può avere un massimo di 11 caratteri e può essere qualsiasi combinazione di numeri o lettere.
 
-## <a name="assign-industry-groups-to-a-contact"></a>Assegnare settori industriali a un contatto
+## <a name="AssignIndustryGroupContact"></a> Per assegnare settori industriali a un contatto
 Non è possibile assegnare i settori industriali a un contatto, ma solo alle società.
 
 1. Aprire il contatto.
@@ -37,10 +41,11 @@ Non è possibile assegnare i settori industriali a un contatto, ma solo alle soc
 
 Ripetere tali passaggi per assegnare altri settori industriali. È inoltre possibile assegnare settori industriali nella finestra Lista Contatti seguendo la stessa procedura.
 
-Il numero di settori industriali assegnati al contatto nel campo **Nr. settori industriali** verrà automaticamente immesso nella sezione **Segmentazione** della finestra **Contatto**.
+Il numero di settori industriali assegnati al contatto è visibile nel campo **Nr. settori industriali** della sezione **Segmentazione** della finestra **Contatto**.
 
 Una volta assegnati i settori industriali ai contatti, è possibile utilizzare queste informazioni per selezionare i contatti per i segmenti. Per ulteriori informazioni, vedere [Procedura: aggiungere contatti ai segmenti](marketing-add-contact-segment.md).
 
-##<a name="see-also"></a>Vedi anche
-[Creare società contatto](marketing-create-contact-companies.md)
+## <a name="see-also"></a>Vedi anche
+[Creazione di società contatto](marketing-create-contact-companies.md)  
+[Utilizzo di [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
 

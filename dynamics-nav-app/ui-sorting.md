@@ -1,30 +1,31 @@
 ---
-title: Ordinamento
+title: Organizzazione dei dati mediante la funzione di ordinamento
+description: "È possibile utilizzare la funzione di ordinamento per ottenere una panoramica dei dati. Ad esempio, è possibile ordinare i clienti per codice valuta per ottenere un elenco di clienti selezionati."
+documentationcenter: 
 author: SusanneWindfeldPedersen
-ms.custom: na
-ms.date: 09/22/2016
-ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
-ms.topic: article
 ms.prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: 18c7932a4916140238c34e05086fa995fcdea1f4
+ms.topic: article
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.date: 02/07/2017
+ms.author: solsen
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: d73f17a026046ecaae0bd451b412d2d58460f74b
 ms.contentlocale: it-it
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/16/2017
 
 ---
-    
 # <a name="sorting"></a>Ordinamento
-La funzione di ordinamento consente di ottenere in modo semplice una panoramica dei dati. È possibile salvare un elenco ordinato utilizzando la funzionalità **Salva visualizzazione come** alla quale è possibile accedere scegliendo il titolo della pagina. Se si dispone di molti clienti, ad esempio, è possibile scegliere di ordinarli in base a **Nr. cliente**, **Cat. reg. cliente**, **Codice valuta**, **Codice paese** o **Identificativo fiscale** per ottenere la panoramica desiderata.
+La funzione di ordinamento consente di ottenere in modo semplice una panoramica dei dati. Se si dispone di molti clienti, ad esempio, è possibile scegliere di ordinarli in base a **Nr. cliente**, **Cat. reg. cliente**, **Codice valuta**, **Codice paese** o **Identificativo fiscale** per ottenere la panoramica desiderata.
 
 Selezionare un'intestazione di colonna e utilizzare la piccola freccia per ordinare le voci in ordine crescente o decrescente.  
 
-**Nota**: l'ordinamento non è supportato nelle immagini, nei campi BLOB, in FlowFilter e nei campi che non appartengono a una tabella.
+> [!NOTE]  
+>   L'ordinamento non è supportato nelle immagini, nei campi BLOB, in FlowFilter e nei campi che non appartengono a una tabella.
 
 ## <a name="see-also"></a>Vedi anche
-[Utilizzare Dynamics NAV](ui-work-product.md)  
+[Utilizzo di [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
 [Immissione di criteri di filtro](ui-enter-criteria-filters.md)
-
 

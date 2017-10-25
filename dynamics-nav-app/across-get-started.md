@@ -7,12 +7,12 @@ ms.reviewer: na
 ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
-ms-prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: 113453b0c0b6e1ed61ac4ec66046fcbcead4960f
+ms.prod: dynamics-nav-2017
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: 010c3862fcd791755958b17f63b4064ff33fcf58
 ms.contentlocale: it-it
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/16/2017
 
 ---
 
@@ -24,7 +24,7 @@ In Gestione ruolo utente imprenditore è possibile trovare l'azione **Setup assi
 
 |Setup assistito           |Descrizione                                                                                      |
 |-------------------------|-------------------------------------------------------------------------------------------------|
-|Imposta società           |Crea una nuova società di prova per immettere i dati e per provare Dynamics NAV. Se si utilizza la presentazione di Introduzione questa operazione è già probabilmente **Completata**. |
+|Imposta società           |Crea una nuova società di prova per consentire l'immissione dei dati e per provare Dynamics NAV. Se si utilizza la presentazione di Introduzione questa operazione è già probabilmente **Completata**. |
 |Migra dati aziendali    |Consente di importare i dati della società esistente come i fornitori, clienti e articoli da Excel o Quickbooks.|
 |Setup imposta vendita         |Consente di iniziare con i Gruppi imposta di default e codici area imposte di assegnazione che è possibile assegnare a clienti e fornitori automaticamente per calcolare l'imposta sulle vendite o nei documenti di acquisto.|
 |Imposta indirizzo e-mail             |Consente di preparare l'invio di messaggi di posta elettronica direttamente dagli ordini di vendita o dai contatti in Dynamics NAV, ad esempio.|
@@ -38,7 +38,7 @@ Dopo avere eseguito un setup assistito, viene contrassegnato come **Completato**
 
 ## <a name="see-also"></a>Vedi anche
 [Installazione](setup.md)  
-[Contabilità](finance-setup.md)  
+[Finanze](finance.md)  
 [Personalizzazione di Dynamics NAV utilizzando le estensioni](ui-extensions.md)  
 [Utilizzare Dynamics NAV](ui-work-product.md)  
 [Utilizzo di Dynamics NAV come Posta in arrivo aziendale in Outlook](across-outlook.md)  

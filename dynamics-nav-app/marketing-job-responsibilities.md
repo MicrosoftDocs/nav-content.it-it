@@ -1,32 +1,35 @@
 ---
-title: Impostare i ruoli professionali per i contatti
+title: Impostazioni di ruoli professionali per i contatti
+description: "È possibile definire un codice ruolo professionale e assegnarlo a un contatto per indicare i task per cui il contatto è responsabile nella propria società, ad esempio IT o produzione."
+documentationcenter: 
 author: jswymer
-ms.custom: na
-ms.date: 09/16/2016
-ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
-ms.topic: article
 ms.prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: f2c5fc024cc09aaa6b2478a652127463d563088d
+ms.topic: article
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords: task, to-do, relationship, prospect
+ms.date: 06/06/2017
+ms.author: jswymer
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: 7d4481226772b902eeb1b526a291adff70372908
 ms.contentlocale: it-it
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/16/2017
 
 ---
-# <a name="set-up-job-responsibilities-for-contact-persons"></a>Impostare i ruoli professionali per i contatti
+# <a name="how-to-set-up-job-responsibilities-for-contact-persons"></a>Procedura: Impostare i ruoli professionali per i contatti
 È possibile aggiungere informazioni sui ruoli professionali che indicano il ruolo svolto dal contatto all'interno della propria società, ad esempio IT, gestione o produzione. È possibile utilizzare queste informazioni quando si inseriscono informazioni sui contatti.
 
 L'utilizzo dei ruoli professionali nei contatti è un processo a due passaggi. Innanzitutto, occorre definire il codice ruolo professionale. Questo passaggio deve essere eseguito una sola volta per ogni ruolo professionale. Dopo aver creato un codice ruolo professionale, è possibile iniziare ad assegnarlo ai contatti.
 
-## <a name="define-a-job-responsibility-code"></a>Definire un codice ruolo professionale
+## <a name="to-define-a-job-responsibility-code"></a>per definire un codice ruolo professionale
 Il codice ruolo professionale definisce il tipo o la categoria di processo, ad esempio MARKETING o ACQUISTO. È possibile impostare più codici di ruoli professionali. Per definire il ruolo professionale, utilizzare la finestra **Ruoli professionali**.
 
-1. Nell'angolo superiore destro, scegliere l'icona **Cerca pagina o report**, immettere **Ruoli professionali**, quindi scegliere il collegamento correlato.
+1. Scegliere l'icona ![Cerca pagina o report](media/ui-search/search_small.png "icona Cerca pagina o report"), immettere **Ruoli professionali**, quindi scegliere il collegamento correlato.
 2. Selezionare l'azione **Nuovo** e immettere un codice e una descrizione. Il codice può avere un massimo di 11 caratteri e può essere qualsiasi combinazione di numeri o lettere.
 
-## <a name="assign-job-responsibilities-to-a-contact-person"></a>Per assegnare ruoli professionali a un contatto
+## <a name="to-assign-job-responsibilities-to-a-contact-person"></a>Per assegnare ruoli professionali a un contatto
 Non è possibile assegnare ruoli professionali alle società contatto.
 
 1. Aprire il contatto.
@@ -39,7 +42,8 @@ Il numero di ruoli professionali assegnati al contatto viene visualizzato nella 
 
 Dopo avere assegnato i ruoli professionali ai contatti, è possibile utilizzare queste informazioni per selezionare i contatti per i segmenti. Per ulteriori informazioni, vedere [Procedura: aggiungere contatti ai segmenti](marketing-add-contact-segment.md).
 
-##<a name="see-also"></a>Vedi anche
-[Creare contatti](marketing-create-contact-persons.md)  
-[Creare società contatto](marketing-create-contact-companies.md)
+## <a name="see-also"></a>Vedi anche
+[Creazione di contatti](marketing-create-contact-persons.md)  
+[Creazione di società contatto](marketing-create-contact-companies.md)  
+[Utilizzo di Dynamics NAV](ui-work-product.md)
 

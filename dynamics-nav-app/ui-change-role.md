@@ -8,18 +8,18 @@ ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: 0d783463ae65c3ae0c7d010df676fdaa95fb9d3c
+ms.translationtype: HT
+ms.sourcegitcommit: 6b60b1344a1e18ad91863046110df880f75f7c04
+ms.openlocfilehash: 2220dbdede8d493ec711c763bf9f092d7368f3b0
 ms.contentlocale: it-it
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/16/2017
 
 ---
 
 # <a name="how-to-change-the-role-center"></a>Procedura: Modificare la Gestione ruolo utente
 La home page è il punto di ingresso principale in Dynamics NAV. Qui è possibile ottenere una panoramica dei task lavorativi quotidiani e del rispettivo stato. Per le attività che si eseguono spesso, è possibile accedere tramite le sezioni nell'area del contenuto, il riquadro di spostamento a sinistra e tramite le azioni nella barra multifunzione.
 
-Il contenuto della home page si basa sulla Gestione ruolo utente selezionata. La Gestione ruolo utente standard per Dynamics NAV è **Manager aziendale**, questo ruolo può essere modificato ed è possibile scegliere tra una serie opzioni.
+Il contenuto della home page si basa sulla Gestione ruolo utente selezionata. La Gestione ruolo utente standard per Dynamics NAV è **Manager aziendale**, ma questo ruolo può essere modificato ed è possibile scegliere tra una serie opzioni.
 
 ## <a name="to-change-role-center"></a>Per modificare una Gestione ruolo utente
 1. Nell'angolo superiore destro, nel menu **Impostazioni** scegliere **Impostazioni personali**.

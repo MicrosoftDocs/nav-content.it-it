@@ -1,21 +1,24 @@
 ---
-title: Interazioni e segmenti
+title: Tenere traccia dei segmenti e delle interazioni correlate
+description: Informazioni su come creare segmenti per definire gruppi di contatti e specificare delle interazioni per i segmenti.
+documentationcenter: 
 author: jswymer
-ms.custom: na
-ms.date: 09/16/2016
-ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
-ms.topic: article
 ms.prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: c66dff69fa31458e94f7de5fa4b524656141a5f6
+ms.topic: article
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords: relationship, prospect
+ms.date: 06/06/2017
+ms.author: jswymer
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: b4fb4abfdfe69856d0e26e20d30f3adcaf2fd665
 ms.contentlocale: it-it
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/16/2017
 
 ---
-# <a name="interactions-and-segments"></a>Interazioni e segmenti
+# <a name="managing-interactions-for-segments"></a>Gestione di interazioni per i segmenti
 La finestra **Segmento** è una sorta di prospetto in cui è possibile:
 
 * Creare segmenti.
@@ -40,12 +43,12 @@ Facendo clic su **Registrazione** nella finestra **Segmento**, le interazioni ve
 
 Nella finestra **Segmenti registrati**, è possibile decidere di creare un segmento di follow-up contenente gli stessi identici contatti del segmento registrato.
 
-
-##<a name="see-also"></a>Vedi anche
-[Procedura: creare segmenti](marketing-how-create-segment.md)  
-[Procedura: creare interazioni per i segmenti](marketing-how-create-interactions.md)  
-[Gestire i segmenti](marketing-segments.md)  
+## <a name="see-also"></a>Vedi anche
+[Procedura: Creare segmenti](marketing-how-create-segment.md)  
+[Procedura: Creare interazioni per i segmenti](marketing-how-create-interactions.md)  
+[Gestione dei segmenti](marketing-segments.md)  
 [Registrazione di interazioni con i contatti](marketing-interactions.md)  
-[Gestire le opportunità di vendita](marketing-manage-sales-opportunities.md)  
-[Creazione e gestione dei contatti](marketing-contacts.md)
+[Gestione delle opportunità di vendita](marketing-manage-sales-opportunities.md)  
+[Creazione e gestione di contatti](marketing-contacts.md)  
+[Utilizzo di Dynamics NAV](ui-work-product.md)
 

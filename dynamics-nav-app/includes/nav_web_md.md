@@ -1,1 +1,1 @@
-Client Web di Microsoft Dynamics NAV
+Client Web Microsoft Dynamics NAV

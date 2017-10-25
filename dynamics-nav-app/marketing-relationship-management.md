@@ -1,33 +1,39 @@
 ---
 title: Relationship Management
+description: "Le funzionalità di Relationship Management di Dynamics NAV supportano le attività di vendita e consentono di accedere alle informazioni sui contatti e i potenziali clienti in modo da poter assistere in modo efficiente i clienti."
+documentationcenter: 
 author: jswymer
-ms.custom: na
-ms.date: 09/16/2016
-ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
-ms.topic: article
 ms.prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: 1444d49cdd3d51a1adc9f2f999b564ef4aa3ff22
+ms.topic: article
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords: contact, prospect, client
+ms.date: 06/06/2017
+ms.author: jswymer
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: bf85a4fd44590eea3b4866d63601f0b2aa3fcfb2
 ms.contentlocale: it-it
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/16/2017
 
 ---
-# <a name="relationship-management"></a>Relationship Management
-Le funzionalità di gestione delle relazioni di Dynamics NAV gestiscono e supportano le attività di vendita. Grazie a tali funzionalità è possibile accedere sempre a informazioni complete e accurate e focalizzare le interazioni sui segmenti di clienti o contatti preferiti.
+# <a name="managing-relationships"></a>Gestione delle relazioni
+Le funzionalità di gestione delle relazioni di [!INCLUDE[d365fin](includes/d365fin_md.md)] aiutano a gestire e a supportare le attività di vendita. Grazie a tali funzionalità è possibile accedere sempre a informazioni complete e accurate e focalizzare le interazioni sui segmenti di clienti o contatti preferiti.
 
-Per garantire la buona riuscita delle iniziative di marketing e la chiusura delle vendite, è fondamentale prendere le decisioni ottimali nel momento appropriato. Dynamics NAV offre un quadro accurato e tempestivo delle informazioni sui contatti consentendo di presentarsi in modo efficace a potenziali clienti, nonché di incrementare il livello di soddisfazione dei clienti.
+Per garantire la buona riuscita delle iniziative di marketing e la chiusura delle vendite, è fondamentale prendere le decisioni ottimali nel momento appropriato. [!INCLUDE[d365fin](includes/d365fin_md.md)] offre un quadro accurato e tempestivo delle informazioni sui contatti consentendo di presentarsi in modo efficace a potenziali clienti, nonché di incrementare il livello di soddisfazione dei clienti.
 
 Per iniziare, vedere i seguenti argomenti:
 
 [Gestione dei contatti](marketing-contacts.md)  
-[Gestire i segmenti](marketing-segments.md)  
+[Gestione dei segmenti](marketing-segments.md)  
 [Registrazione di interazioni](marketing-interactions.md)  
-[Gestire le opportunità di vendita](marketing-manage-sales-opportunities.md)
+[Gestione di campagne di marketing](marketing-campaigns.md)  
+[Gestione delle opportunità di vendita](marketing-manage-sales-opportunities.md)
 
-##<a name="see-also"></a>Vedi anche
-[Gestire le vendite](sales-manage-sales.md)  
-[Setup della gestione dei contatti e del marketing](marketing-setup-marketing.md)
+## <a name="see-also"></a>Vedi anche
+[Vendite](sales-manage-sales.md)  
+[Setup Relationship Management](marketing-setup-marketing.md)  
+[Gestione delle relazioni clienti utilizzando Dynamics 365 for Sales tramite [!INCLUDE[d365fin](includes/d365fin_md.md)]](marketing-integrate-dynamicscrm.md)  
+[Utilizzo di [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
 

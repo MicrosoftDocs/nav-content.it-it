@@ -1,23 +1,25 @@
 ---
-title: 'Procedura: Utilizzare OCR per convertire PDF e file di immagine in documenti elettronici'
+title: Utilizzare OCR per convertire il PDF in fatture elettroniche
+description: "Descrive come è possibile utilizzare un servizio OCR per convertire i file di immagine o i PDF in entrata in documenti elettronici in Dynamics NAV."
+documentationcenter: 
 author: SorenGP
-ms.custom: na
-ms.date: 10/06/2016
-ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
-ms.topic: article
 ms.prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: 96b1baf3554d3647e75223bb4cb1ee08dc21eb6d
+ms.topic: article
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords: electronic document, e-invoice, incoming document, OCR, ecommerce, document exchange, import invoice
+ms.date: 06/02/2017
+ms.author: sgroespe
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: b7eff4821a51cc4aed190ed3c459aa6117333ae9
 ms.contentlocale: it-it
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/16/2017
 
 ---
-
 # <a name="how-to-use-ocr-to-turn-pdf-and-image-files-into-electronic-documents"></a>Procedura: Utilizzare OCR per convertire PDF e file di immagine in documenti elettronici
-Dai PDF o dai file di immagine che si ricevono dai partner commerciali, è possibile impostare che un servizio OCR (Optical Character Recognition, riconoscimento ottico dei caratteri) generi documenti elettronici che si possono convertire in record di documento in Dynamics NAV. Ad esempio, quando si riceve una fattura nel formato PDF dal fornitore, è possibile inviarla al servizio OCR dalla finestra **Documenti in entrata**. Questa funzionalità è descritta nella prima procedura.
+Dai PDF o dai file di immagine che si ricevono dai partner commerciali, è possibile impostare che un servizio OCR (Optical Character Recognition, riconoscimento ottico dei caratteri) generi documenti elettronici che si possono convertire in record di documento in [!INCLUDE[d365fin](includes/d365fin_md.md)]. Ad esempio, quando si riceve una fattura nel formato PDF dal fornitore, è possibile inviarla al servizio OCR dalla finestra **Documenti in entrata**. Questa funzionalità è descritta nella prima procedura.
 
 In alternativa all'invio del file dalla finestra **Documenti in entrata**, è possibile inviare il file al servizio OCR tramite e-mail. Successivamente, quando si riceve il documento elettronico, un record di documento entrata correlato viene creato automaticamente. Questa funzionalità è descritta nella seconda procedura.
 
@@ -28,28 +30,30 @@ Poiché OCR si basa sul riconoscimento ottico, è probabile che il servizio OCR 
 Il traffico dei file al e dal servizio OCR viene elaborato da un movimento coda processi dedicato, creato automaticamente quando si abilita la relativa connessione del servizio. Per ulteriori informazioni, vedere [Procedura: Impostare Documenti in entrata](across-how-setup-income-documents.md).
 
 ## <a name="to-send-a-pdf-or-image-file-to-the-ocr-service-from-the-incoming-documents-window"></a>Per inviare un file di immagine o PDF al servizio OCR dalla finestra **Documenti in entrata**
-1. Nell'angolo superiore destro, scegliere l'icona **Cerca pagina o report**, immettere **Documenti in entrata**, quindi scegliere il collegamento correlato.
+1. Scegliere l'icona ![Cerca pagina o report](media/ui-search/search_small.png "icona Cerca pagina o report"), immettere **Documenti in entrata**, quindi scegliere il collegamento correlato.
 2. Creare un nuovo record di documento in entrata e allegare il file. Per ulteriori informazioni, vedere [Procedura: Creare i record di documenti in entrata](across-how-create-income-document-records.md).  
 3. Nella finestra **Documenti in entrata** selezionare una o più righe e quindi scegliere **Invia a coda processi**.
 
     Il valore nel campo **Stato OCR** diventa **Pronto**. Il file di immagine o PDF allegato viene inviato al servizio OCR dalla coda processi in base alla pianificazione, a condizione che non siano presenti errori.
-5. In alternativa, nella finestra **Documenti in entrata** selezionare una o più righe e quindi scegliere l'azione **Invia al servizio OCR**.
+4. In alternativa, nella finestra **Documenti in entrata** selezionare una o più righe e quindi scegliere l'azione **Invia al servizio OCR**.
 
-Il valore nel campo **Stato OCR** diventa Inviato, a condizione che non siano presenti errori.
+Il valore nel campo **Stato OCR** diventa **Inviato**, a condizione che non siano presenti errori.
 
 ## <a name="to-send-a-pdf-or-image-file-to-the-ocr-service-by-email"></a>Per inviare un file di immagine o PDF del servizio OCR tramite e-mail
 Dall'applicazione e-mail, è possibile inviare un messaggio e-mail al provider di servizi OCR con il file di immagine o PDF allegato. Per informazioni sull'indirizzo e-mail di destinazione, vedere il sito Web del provider di servizi OCR.
 
 Dal momento che non esiste alcun record di documento in entrata per il file, un nuovo record verrà creato automaticamente nella finestra **Documenti in entrata** quando si riceve il documento elettronico risultante dal servizio OCR. Per ulteriori informazioni, vedere [Procedura: Creare i record di documenti in entrata](across-how-create-income-document-records.md).
 
-**Nota**: se si utilizza un tablet o un telefono, è possibile inviare il file al servizio OCR non appena viene scattata la foto del documento oppure è possibile creare direttamente un documento in entrata. Per ulteriori informazioni, vedere la sezione "Creare record di documenti in entrata facendo una foto" in [Procedura: Creare i record di documenti in entrata](across-how-create-income-document-records.md).
+> [!NOTE]  
+>   Se si utilizza un tablet o un telefono, è possibile inviare il file al servizio OCR non appena viene scattata la foto del documento oppure è possibile creare direttamente un documento in entrata. Per ulteriori informazioni, vedere la sezione "Creare record di documenti in entrata facendo una foto" in [Procedura: Creare i record di documenti in entrata](across-how-create-income-document-records.md).
 
 ## <a name="to-receive-the-resulting-electronic-document-from-the-ocr-service"></a>Per ricevere il documento elettronico risultante dal servizio OCR.
 Il documento elettronico creato dal servizio OCR dal PDF o dal file di immagine viene ricevuto automaticamente nella finestra **Documenti in entrata** dal movimento coda processi impostato quando si abilita il servizio OCR.
 
 Se non viene utilizzata una coda processi o si desidera ricevere un documento OCR finito prima di quanto previsto dal programma coda processi, è possibile scegliere il pulsante **Ricevi dal servizio OCR**. In tal modo verrà ricevuto qualsiasi documento completato dal servizio OCR.
 
-**Note**: se il servizio OCR è impostato per richiedere la verifica manuale dei documenti elaborati, nel campo **Stato OCR** è presente **In attesa di verifica**. In tal caso, eseguire le seguenti operazioni per accedere al sito Web del servizio OCR per verificare manualmente un documento OCR.
+> [!NOTE]  
+>   Se il servizio OCR è impostato per richiedere la verifica manuale dei documenti elaborati, nel campo **Stato OCR** è presente **In attesa di verifica**. In tal caso, eseguire le seguenti operazioni per accedere al sito Web del servizio OCR per verificare manualmente un documento OCR.
 
 1. Nel campo **Stato OCR** scegliere il collegamento ipertestuale **In attesa di verifica**. In alternativa, scegliere il riquadro **In attesa di verifica** nella home page.
 2. Nel sito Web del servizio OCR, accedere utilizzando le credenziali dell'account del servizio OCR. Sono le credenziali utilizzate anche per l'impostazione del servizio. Per ulteriori informazioni, vedere la sezione "Per impostare un servizio OCR" in [Procedura: Impostare documenti in entrata](across-how-setup-income-documents.md).
@@ -58,17 +62,18 @@ Se non viene utilizzata una coda processi o si desidera ricevere un documento OC
 
     Vengono visualizzate le informazioni per il documento OCR, inclusi il contenuto di origine del PDF o del file di immagine e i valori dei campi OCR risultanti.
 3. Analizzare i diversi valori dei campi e modificare o immettere manualmente i valori nei campi che il servizio OCR ha etichettato come incerti.
-4. Scegliere il pulsante **OK**. Il processo OCR è completato e il documento elettronico risultante viene inviato alla finestra **Documenti in entrata** in Dynamics NAV, in base al programma coda processi.
+4. Scegliere il pulsante **OK**. Il processo OCR è completato e il documento elettronico risultante viene inviato alla finestra **Documenti in entrata** in [!INCLUDE[d365fin](includes/d365fin_md.md)], in base al programma coda processi.
 
     Se si accede al sito Web selezionando il riquadro nella home page, qualsiasi altro documento OCR da verificare viene visualizzato automaticamente nel sito Web.
 5. Ripetere il passaggio 4 per qualsiasi altro documento OCR da verificare.
 
-A questo punto è possibile passare alla creazione dei record per i documenti elettronici ricevuti in Dynamics NAV manualmente o automaticamente. Per ulteriori informazioni, vedere la sezione "Per creare un record di documento in Dynamics NAV da un documento OCR ricevuto". È inoltre possibile connettere il nuovo record del documento in entrata al documento esistente registrato o non registrato in modo che il file di origine sia facilmente accessibile da Dynamics NAV. Per ulteriori informazioni, vedere [Elaborare i documenti in entrata](across-process-income-documents.md).
+A questo punto è possibile passare alla creazione dei record per i documenti elettronici ricevuti in [!INCLUDE[d365fin](includes/d365fin_md.md)], manualmente o automaticamente. Per ulteriori informazioni, vedere la procedura che segue. È inoltre possibile connettere il nuovo record del documento in entrata al documento esistente registrato o non registrato in modo che il file di origine sia facilmente accessibile da [!INCLUDE[d365fin](includes/d365fin_md.md)]. Per ulteriori informazioni, vedere [Elaborare i documenti in entrata](across-process-income-documents.md).
 
 ## <a name="to-create-a-purchase-invoice-from-an-electronic-document-received-from-the-ocr-service"></a>Per creare una fattura di acquisto da un documento elettronico ricevuto dal servizio OCR
 Di seguito viene descritto come creare un record di fattura di acquisto da una fattura fornitore ricevuta come documento elettronico dal servizio OCR. La procedura è identica a quella per creare, ad esempio, una riga di registrazione COGE da una ricevuta di spesa.
 
-**Nota**: i campi **Descrizione** e **Nr.** nelle righe di documento create verranno compilati solo se è stato precedentemente mappato il testo individuato nel documento OCR ai due campi in Dynamics NAV. Questa operazione può essere eseguita come cross reference articolo, per le righe documento di tipo Articolo, o come mappature testo a conto, per le righe di registrazione o documento di tipo Conto C/G. Per ulteriori informazioni, vedere la descrizione comando per l'azione **Cross reference** nelle schede articolo e la procedura correlata, [Procedura: Mappatura del testo nei pagamenti ricorrenti a conti per la riconciliazione automatica](receivables-how-map-text-recurring-payments-accounts-auto-reconcilliation.md).
+> [!NOTE]  
+>   I campi **Descrizione** e **Nr.** nelle righe di documento create verranno compilati solo se è stato precedentemente mappato il testo individuato nel documento OCR ai due campi in [!INCLUDE[d365fin](includes/d365fin_md.md)]. Questa operazione può essere eseguita come cross reference articolo, per le righe documento di tipo Articolo, o come mappature testo a conto, per le righe di registrazione o documento di tipo Conto C/G. Per ulteriori informazioni, vedere la descrizione comando per l'azione **Cross reference** nelle schede articolo e la procedura correlata, [Procedura: Mappatura del testo nei pagamenti ricorrenti a conti per la riconciliazione automatica](receivables-how-map-text-recurring-payments-accounts-auto-reconcilliation.md).
 
 Per i documenti in entrata, in genere l'azione **Mappa testo a conto** si utilizza per definire che un determinato testo in una fattura fornitore ricevuta dal servizio OCR viene mappato a un determinato conto fornitore. Andando in avanti, qualsiasi parte della descrizione del documento in entrata esistente come testo di mappatura indica che il campo **Nr.** nelle righe di registrazione o del documento risultanti di tipo Conto G/C viene compilato con il fornitore in questione.
 
@@ -79,9 +84,9 @@ Oltre alla mappatura a un conto fornitore o ad altri conti C/G, è possibile map
 3. Per mappare i numeri di articolo del documento alle descrizioni degli articoli del fornitore, aprire la scheda di ciascun articolo e scegliere l'azione **Cross reference** per impostare i riferimenti incrociati tra le descrizioni degli articoli dell'utente e quelle del fornitore.
 4. Nella finestra **Documenti in entrata** scegliere l'azione **Crea documento**.
 
-Una fattura di acquisto verrà creata in Dynamics NAV sulla base delle informazioni contenute nel documento elettronico del fornitore che è stato ricevuto dal servizio OCR.
+Una fattura di acquisto verrà creata in [!INCLUDE[d365fin](includes/d365fin_md.md)] sulla base delle informazioni contenute nel documento elettronico del fornitore che è stato ricevuto dal servizio OCR.
 
-Tutti gli errori di convalida, in genere correlati a dati mancanti o errati in Dynamics NAV, verranno visualizzati nella scheda dettaglio **Errori e avvisi**. Per ulteriori informazioni, vedere la sezione "Per gestire gli errori durante la ricezione di documenti elettronici".
+Tutti gli errori di convalida, in genere correlati a dati mancanti o errati in [!INCLUDE[d365fin](includes/d365fin_md.md)], verranno visualizzati nella Scheda dettaglio **Errori e avvisi**. Per ulteriori informazioni, vedere la sezione "Per gestire gli errori durante la ricezione di documenti elettronici".
 
 ## <a name="to-handle-errors-when-receiving-electronic-documents"></a>Per gestire gli errori durante la ricezione di documenti elettronici
 1. Nella finestra **Documenti in entrata**, selezionare la riga per un documento elettronico ricevuto dal servizio OCR con errori. Ciò è indicato dal valore Errore nel campo **Stato OCR**.
@@ -97,7 +102,7 @@ Poiché OCR si basa sul riconoscimento ottico, è probabile che il servizio OCR 
 
 La finestra **Correzione dati OCR** che si apre dalla finestra **Documento in entrata** mostra i campi della Scheda dettaglio **Informazioni finanziarie** in due colonne, una con i dati OCR modificabili e una con i dati OCR di sola lettura. Scegliendo il pulsante **Invia commenti e suggerimenti OCR** il contenuto della finestra **Correzione dati OCR** viene inviato al servizio OCR. La volta successiva che il servizio elabora file PDF o di immagine contenenti i dati in questione, le correzioni verranno incluse per evitare gli stessi errori.
 
-1. Nell'angolo superiore destro, scegliere l'icona **Cerca pagina o report**, immettere **Documenti in entrata**, quindi scegliere il collegamento correlato.
+1. Scegliere l'icona ![Cerca pagina o report](media/ui-search/search_small.png "icona Cerca pagina o report"), immettere **Documenti in entrata**, quindi scegliere il collegamento correlato.
 2. Aprire un record del documento in entrata contenente i dati ricevuti dal servizio OCR da correggere.
 3. In alternativa, nella finestra **Documento in entrata** scegliere l'azione **Correggi dati OCR**.
 4. Nella finestra **Correggi dati OCR** sovrascrivere i dati nella colonna modificabile per ogni campo contenente un valore non corretto.
@@ -107,9 +112,9 @@ La finestra **Correzione dati OCR** che si apre dalla finestra **Documento in en
 
 I campi della Scheda dettaglio **Informazioni finanziarie** nella finestra **Documento in entrata** vengono aggiornati con i nuovi valori immessi nel passaggio 4.
 
-## <a name="see-also"></a>Vedi anche  
+## <a name="see-also"></a>Vedi anche
 [Elaborare i documenti in entrata](across-process-income-documents.md)  
 [Documenti in entrata](across-income-documents.md)  
-[Gestire gli acquisti](purchasing-manage-purchasing.md)  
-[Utilizzare Dynamics NAV](ui-work-product.md)
+[Acquisti](purchasing-manage-purchasing.md)  
+[Utilizzo di [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
 

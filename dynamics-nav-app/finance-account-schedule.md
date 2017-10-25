@@ -7,12 +7,12 @@ ms.reviewer: na
 ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
-ms-prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: ba67e7e09f4375cbdbf53f401fd0f3d83450c9ec
+ms.prod: dynamics-nav-2017
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: 5a072d9b0984adf8bf4ab89fb26d658cb13f50f0
 ms.contentlocale: it-it
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/16/2017
 
 ---
 
@@ -27,9 +27,9 @@ Per esempio, è possibile visualizzare i movimenti C/G come percentuali di movim
 Questo significa che è possibile creare quanti rendiconti finanziari personalizzati si desidera. Utilizzare la finestra **Situazione Contabile** per impostare le situazioni contabili.  
 
 ## <a name="account-categories-and-account-schedules"></a>Categorie di conti e situazioni contabili
-Le categorie di conto consentono di modificare il layout dei rendiconti finanziari. Dopo aver impostato le categorie di conto nella finestra **Categorie conto C/G** scegliere l'azione **Genera situazioni contabili**, le situazioni contabili sottostanti i report finanziari principali verranno aggiornate. alla successiva esecuzione di uno dei report, ad esempio l'estratto conto, nuovi totali e le voci secondarie vengono aggiunte, in base alle modifiche. Per ulteriori informazioni, vedere [Contabilità generale e piano dei conti](finance-setup-general-ledger.md).    
+Le categorie di conto consentono di modificare il layout dei rendiconti finanziari. Dopo aver impostato le categorie di conto nella finestra **Categorie conto C/G** scegliere l'azione **Genera situazioni contabili**, le situazioni contabili sottostanti i report finanziari principali verranno aggiornate. alla successiva esecuzione di uno dei report, ad esempio l'estratto conto, nuovi totali e le voci secondarie vengono aggiunte, in base alle modifiche. Per ulteriori informazioni, vedere [Contabilità generale e piano dei conti](finance-general-ledger.md).    
 ## <a name="see-also"></a>Vedi anche
-[Contabilità](finance-setup.md)  
-[Impostare gli aspetti finanziari](finance-setup-setup-finance-setup.md)  
-[Contabilità generale e piano dei conti](finance-setup-general-ledger.md)  
+[Contabilità](finance.md)  
+[Impostare gli aspetti finanziari](finance-setup-finance.md)  
+[Contabilità generale e piano dei conti](finance-general-ledger.md)  
 

@@ -8,19 +8,23 @@ ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: f5e529fe09859432e96c1171bf56f2fb9c7db052
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: 85904d4cbe69b82eb79963d4afadfe6db2b7c3f1
 ms.contentlocale: it-it
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/16/2017
 
 ---
 
 # <a name="using-search-for-page-or-report"></a>Utilizzo della funzionalità Cerca pagina o report
-È possibile trovare qualsiasi pagina, report o visualizzazione utilizzando l'icona **Cerca pagina o report** nell'angolo superiore destro della barra degli indirizzi.
-Quando si inizia a digitare dei caratteri, un elenco a discesa visualizza i nomi delle pagine contenenti i caratteri digitati. L'elenco a discesa cambia se si digitano ulteriori caratteri, quindi è possibile selezionare la pagina corretta dall'elenco quando viene visualizzata. Nella seconda colonna dell'elenco a discesa sono visualizzati i percorsi di spostamento alle pagine trovate.
+È possibile trovare pagine e report scegliendo il campo **Cerca pagina o report** nell'angolo superiore destro della barra degli indirizzi.
 
-**Nota**: la funzionalità **Cerca pagina o report** non effettua ricerche nei dati, come i nomi dei clienti, gli indirizzi o le transazioni. Per trovare i dati, è possibile utilizzare la ricerca associata alla pagina rappresentata dal simbolo di lente di ingrandimento e collocata nell'angolo superiore della pagina. Per informazioni sull'utilizzo di questo tipo di ricerca, vedere [Impostazione dei criteri nei filtri](ui-enter-criteria-filters.md).
+Se si utilizza [!INCLUDE[d365fin](includes/d365fin_md.md)] in un browser, cercare l'icona **Cerca pagina o report**.
+
+Quando si inizia a digitare dei caratteri, un elenco a discesa visualizza i nomi delle pagine contenenti i caratteri digitati. L'elenco a discesa cambia se si digitano ulteriori caratteri, quindi è possibile selezionare la pagina corretta dall'elenco quando viene visualizzata. Nella seconda colonna dell'elenco a discesa sono visualizzati i percorsi di spostamento alle pagine trovate. Inoltre è presente un collegamento che consente di cercare nella Guida i caratteri immessi.
+
+> [!NOTE]  
+>   La funzione **Cerca pagina o report** non effettua ricerche nei dati, come i nomi dei clienti, gli indirizzi o le transazioni. Al contrario, è possibile cercare i dati in pagine di elenchi scegliendo il simbolo della lente nell'angolo destro dell'intestazione dell'elenco. La ricerca si applica solo all'elenco che si sta visualizzando. Per ulteriori informazioni, vedere [Immissione di criteri di filtro](ui-enter-criteria-filters.md).  
 
 ## <a name="see-also"></a>Vedi anche
 [Utilizzare Dynamics NAV](ui-work-product.md)

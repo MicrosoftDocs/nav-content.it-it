@@ -7,22 +7,22 @@ ms.reviewer: na
 ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
-ms-prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: 647ebd5d4f47a367c86fc02057e28c514a433aec
+ms.prod: dynamics-nav-2017
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: cf4202c3b7186eb1dd4633f74d2d48664458455e
 ms.contentlocale: it-it
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/16/2017
 
 ---
 
 # <a name="using-dynamics-nav-as-your-business-inbox-in-outlook"></a>Utilizzo di Dynamics NAV come Posta in arrivo aziendale in Outlook
 Dynamics NAV offre la possibilità di gestire le interazioni d'affari con i clienti e fornitori, direttamente in Microsoft Outlook. Con il componente aggiuntivo Outlook di Dynamics NAV, è possibile visualizzare i dati finanziari relativi a clienti e fornitori e creare e inviare documenti finanziari, quali offerte o fatture.  
 
-Alcune società che utilizzano Office 365 limitano i permessi degli utenti alla distribuzione dei componenti aggiuntivi. Pertanto è necessario assicurarsi di disporre di una sottoscrizione di Office 365 che include la posta elettronica e consente di distribuire i componenti aggiuntivi. È possibile effettuare l'iscrizione per una prova gratuita di 1 mese di Office 365 [qui](https://products.office.com/try).  
+Alcune società che utilizzano Office 365 limitano i permessi degli utenti alla distribuzione dei componenti aggiuntivi. Pertanto è necessario assicurarsi di disporre di una sottoscrizione di Office 365 che include la posta elettronica e consente di distribuire i componenti aggiuntivi. È possibile effettuare l'iscrizione per una prova gratuita di 1 mese di di Office 365 [qui](https://products.office.com/try).  
 
 ## <a name="get-the-add-in"></a>Ottenere il componente aggiuntivo
-In Dynamics NAV una delle guide al setup assistito è **Impostare i componenti aggiuntivi per Office**. La guida consente inoltre di impostare una connessione tra l'account di Office 365 e Dynamics NAV. Il componente aggiuntivo di Dynamics NAV verrà automaticamente aggiunto ad Outlook.  
+In Dynamics NAV, una delle guide al setup assistito è **Impostare i componenti aggiuntivi per Office**. La guida consente inoltre di impostare una connessione tra l'account di Office 365 e Dynamics NAV. Il componente aggiuntivo di Dynamics NAV verrà automaticamente aggiunto a Outlook.  
 
 Il nuovo componente aggiuntivo viene aggiunto alla barra multifunzione di Outlook e in Outlook Web Access nella barra multifunzione del componente aggiuntivo, immediatamente sopra il corpo del messaggio e-mail.  
 
@@ -38,13 +38,13 @@ Talvolta si desidera visualizzare più campi rispetto a quelli che è possibile 
 ## <a name="quick-document-lookup"></a>Ricerca rapida del documento
 Il Componente aggiuntivo dei Collegamenti del documento di Dynamics NAV offre accesso rapido ai documenti citati nei messaggi di posta elettronica. Il componente aggiuntivo è disponibile per un messaggio e-mail se un numero di documento viene riconosciuto nel corpo del messaggio. Aprire il componente aggiuntivo consente l'accesso rapido al documento.  
 
-Ad esempio, se si riceve un messaggio e-mail che cita il testo *V-OFFER100*, Dynamics NAV lo identifica come un'offerta di vendita e consente di aprire il documento in Outlook. In Outlook, selezionare il pulsante **Collegamenti documento** immediatamente sopra il corpo del messaggio e-mail. In the Outlook Web App, selezionare il testo *V-OFFER1001* nel corpo del messaggio e-mail.  
+Ad esempio, se si riceve un messaggio e-mail che cita il testo *S-QUO100*, Dynamics NAV lo identifica come un'offerta di vendita e consente di aprire il documento in Outlook. In Outlook, selezionare il pulsante **Collegamenti documento** immediatamente sopra il corpo del messaggio e-mail. In the Outlook Web App, selezionare il testo *V-OFFER1001* nel corpo del messaggio e-mail.  
 
 Nel componente aggiuntivo Collegamenti documento, è possibile modificare ed effettuare azioni relative il documento, come in Dynamics NAV.
 
 ## <a name="see-also"></a>Vedi anche
 [Benvenuto in Dynamics NAV](across-get-started.md)  
-[Contabilità](finance-setup.md)  
+[Finanze](finance.md)  
 [Gestire le vendite](sales-manage-sales.md)  
 [Gestire gli acquisti](purchasing-manage-purchasing.md)  
 

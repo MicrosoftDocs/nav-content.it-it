@@ -1,1 +1,1 @@
-Installazione di Microsoft Dynamics NAV 2017
+Programma di installazione di Microsoft Dynamics NAV 2017

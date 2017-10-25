@@ -1,40 +1,112 @@
 ---
-title: Dimensioni
-author: edupont04
-ms.custom: na
-ms.date: 09/22/2016
-ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
+title: Utilizzare le dimensioni
+description: Utilizzare le dimensioni per classificare i movimenti, ad esempio, per reparto o progetto, in modo da tenere traccia e analizzare facilmente i dati.
+documentationcenter: 
+author: bholtorf
+ms.prod: dynamics-nav-2017
 ms.topic: article
-ms-prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: a1b38e74717e87bea6efb46f8f4e5236b6ec4e64
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords: analysis, history, track
+ms.date: 06/14/2017
+ms.author: bholtorf
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: f312a30686566cc5bf123b473c0d2b93d0fadd89
 ms.contentlocale: it-it
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/16/2017
 
 ---
+# <a name="working-with-dimensions"></a>Utilizzo delle dimensioni
+Per rendere più semplice eseguire analisi sui documenti, quali ordini di vendita, è possibile utilizzare le dimensioni. Le dimensioni sono attributi e valori che categorizzano i movimenti in modo da poterli seguire e analizzare. Ad esempio, le dimensioni possono indicare il progetto o il reparto da cui un movimento proviene.  
 
-#<a name="dimensions"></a>Dimensioni
-Le dimensioni sono dati che si aggiungono ai movimenti per suddividerli in categorie di analisi. Ad esempio, è possibile impostare dimensioni che indicano da quale progetto o reparto ha origine un movimento.
-quindi utilizzare tali dimensioni anziché impostare conti di contabilità generale distinti per ogni reparto e progetto. In questo modo si disporrà di informazioni dettagliate sull'analisi all'interno dei dati, senza dover utilizzare un piano dei conti complesso.
-È possibile definire un numero illimitato di dimensioni con un numero illimitato di valori dimensioni.  
+For example, anziché impostare conti di contabilità generale distinti per ogni reparto e progetto, è possibile utilizzare le dimensioni. Ciò dà un'opportunità ricca per l'analisi, senza creare un piano dei conti complesso. Per ulteriori informazioni, vedere [Business Intelligence](bi.md).
 
-Ad esempio, si imposta una dimensione denominata *Reparto* e si utilizza la dimensione e un valore di dimensione al momento della registrazione dei documenti di vendita. Quindi, è possibile successivamente ottenere i dati di Business Intelligence su quali articoli sono stati venduti per reparto.
-Più dimensioni si impostano e utilizzano, più dettagliati sono i report su cui è possibile basare le decisioni aziendali. Un singolo movimento di vendita può includere informazioni relative a dimensioni multiple, ad esempio, il conto nel quale è stato registrato l'articolo, il luogo di vendita, il nome del venditore e la tipologia del cliente che ha effettuato l'acquisto.  
+Un altro esempio consiste nell'impostare una dimensione denominata *Reparto* e nell'utilizzare tale dimensione al momento della registrazione dei documenti di vendita. In questo modo sarà possibile utilizzare strumenti di business intelligence per vedere quale reparto ha venduto quali articoli.
+Più dimensioni si utilizzano, più dettagliati sono i report su cui è possibile basare le decisioni aziendali. Ad esempio, un singolo movimento di vendita può includere le informazioni di più dimensioni, quali:  
 
-## <a name="using-dimensions"></a>Utilizzo delle dimensioni
-In un documento come un ordine di vendita, è possibile aggiungere le informazioni sulle dimensioni sia per una singola riga del documento che l'intero documento. Ad esempio, nella finestra **Ordine di vendita**, i valori dimensioni per le prime due dimensioni a collegamento rapido possono essere immessi direttamente nel documento, mentre le ulteriori informazioni sulle dimensioni relative alla testata possono essere aggiunte selezionando il pulsante **Dimensioni**.  
-Se si lavora nelle registrazioni invece, è possibile aggiungere informazioni sulle dimensioni a un movimento nello stesso modo, se le dimensioni a collegamento rapido sono state impostate come campi direttamente sulle righe di registrazione.  
-È possibile impostare le dimensioni di default per i conti o i tipi di conto, in modo che le dimensioni e i valori dimensioni vengano compilati automaticamente.  
+* Il conto in cui è stata registrata la vendita dell'articolo  
+* Dove l'articolo è stato venduto
+* Chi lo ha venduto
+* Il tipo di cliente che lo ha acquistato  
+
+## <a name="analyzing-by-dimensions"></a>Analisi per dimensioni
+La funzionalità Dimensioni svolge un ruolo importante in business intelligence, ad esempio quando si definiscono le visualizzazioni analisi. Per ulteriori informazioni, vedere [Procedura: Analizzare i dati per dimensioni](bi-how-analyze-data-dimension.md).
+
+> [!TIP]
+> Un modo rapido per analizzare i dati transazionali in base alle dimensioni consiste nel filtrare i totali nel piano dei conti e le voci in tutte le finestre **Voci** in base alle dimensioni. Cercare l'azione **Imposta filtro dimensione**.
 
 ## <a name="dimension-sets"></a>Set di dimensioni
 Un set di dimensioni è una combinazione univoca di valori dimensioni. Viene archiviato come movimenti set di dimensioni nel database. Ogni movimento set di dimensioni rappresenta un valore dimensioni singolo. Il set di dimensioni è identificato da un ID set di dimensioni comune assegnato a ogni movimento set di dimensioni che appartiene al set di dimensioni.  
 
-Quando si crea una nuova riga di registrazione, testata del documento o riga documento, è possibile specificare una combinazione di valori dimensioni. Anziché archiviare esplicitamente ogni valore dimensioni nel database, viene assegnato un ID set di dimensioni alla riga di registrazione, alla testata del documento o alla riga del documento per specificare il set di dimensioni.  
+Quando si crea una riga di registrazione, una testata del documento o una riga documento, è possibile specificare una combinazione di valori dimensioni. Anziché archiviare esplicitamente ogni valore dimensioni nel database, viene assegnato un ID set di dimensioni alla riga di registrazione, alla testata del documento o alla riga del documento per specificare il set di dimensioni.  
+
+## <a name="setting-up-dimensions"></a>Setup delle dimensioni
+È possibile definire le dimensioni e i valori di dimensione da utilizzare per classificare le registrazioni e i documenti, ad esempio ordini di vendita e di acquisto. Impostare le dimensioni nella finestra **Dimensioni** in cui si crea una riga per ogni dimensione, ad esempio *Progetto*, *Reparto*, *Area* e *Agente*.
+
+Vengono inoltre impostati i valori delle dimensioni. Ad esempio, i valori potrebbero essere i reparti della società. I valori di dimensione possono essere impostati in una struttura gerarchica simile al piano dei conti, in modo che i dati possano essere suddivisi in vari livelli di granularità e i sottoinsiemi dei valori di dimensione sommati. In base alle necessità, è possibile impostare un numero illimitato di dimensioni e di valori dimensioni che possono essere utilizzati da tutti gli utenti nella società.
+
+È inoltre possibile impostare alcune dimensioni globali e dimensioni a collegamento rapido:  
+
+* **Dimensioni globali** utilizzate come filtro, ad esempio, per report e processi batch. È possibile utilizzare solo due dimensioni globali, scegliere pertanto le dimensioni che verranno utilizzate più spesso.
+* Le **dimensioni a collegamento rapido** sono disponibili come campi nelle righe di registrazioni e documenti. È possibile creare fino a sei dimensioni a collegamento rapido.  
+
+### <a name="setting-up-default-dimensions-for-customers-vendors-and-other-accounts"></a>Impostazione delle dimensioni di default per clienti, fornitori e altri conti
+È possibile assegnare una dimensione di default per un conto specifico. La dimensione verrà copiata nelle registrazioni o nel documento quando si immette il numero di conto in una riga, ma è possibile eliminare o modificare il codice nella riga se il dato non è appropriato. È inoltre possibile impostare una dimensione richiesta per la registrazione del movimento con un tipo di conto specifico.  
+
+### <a name="translating-the-names-of-dimensions"></a>Traduzione dei nomi delle dimensioni
+Quando si crea una dimensione e, particolarmente una dimensione di collegamento, l'elemento che si sta effettivamente creando è un campo personalizzato o un'intestazione di colonna. Se l'attività è internazionale, è possibile inserire le traduzioni per il nome della dimensione. I documenti che includono la dimensione utilizzeranno il nome tradotto, quando applicabile.   
+
+### <a name="example-of-dimension-setup"></a>Esempio di setup dimensioni
+Supponiamo che la società desideri tenere traccia delle transazioni in base alla struttura organizzativa e alle posizioni geografiche. A tale scopo, è possibile impostare due dimensioni nella finestra **Dimensioni** :
+
+* **AREA**  
+* **REPARTO**  
+
+| Codice | Name | Didascalia codice | Didascalia filtro |
+| --- | --- | --- | --- |
+| AREA |Area |Codice area |Filtro area |
+| REPARTO |Reparto |Codice reparto |Filtro per reparto |
+
+Per **AREA**, è possibile aggiungere i seguenti valori dimensioni:
+
+| Codice | Name | Tipo valori dimensioni |
+| --- | --- | --- |
+| 10 |America |Inizio-Totale |
+| 2.0 |Nord America |Standard |
+| 30 |Pacifico |Standard |
+| 40 |Sud America |Standard |
+| 50 |America, totale |Fine-Totale |
+| 60 |Europa |Inizio-Totale |
+| 70 |UE |Standard |
+| 80 |Extracomunitaria |Standard |
+| 90 |Europa, totale |Fine-Totale |
+
+Per le zone due are geografiche principali, Europa e America,, si aggiungono sottocategorie per regioni tramite l'indentazione dei valori di dimensione. In questo modo sarà possibile ottenere report per vendite o spese nelle varie regioni e i totali per le aree geografiche più grandi. È anche possibile scegliere di utilizzare paesi o regioni come valori di dimensione, province o città, a seconda della propria attività.  
+> [!NOTE]  
+>   Per impostare una gerarchia, i codici devono essere in ordine alfabetico. Inclusi quelli dei valori dimensioni che forniti in [!INCLUDE[d365fin](includes/d365fin_md.md)].  
+
+Per **REPARTO**, è possibile aggiungere i seguenti valori dimensioni:
+
+| Codice | Name | Tipo valori dimensioni |
+| --- | --- | --- |
+| AMMIN |Setup |Standard |
+| PROD |Produzione |Standard |
+| VENDITE |Vendite |Standard |
+
+Con questa impostazione, si aggiungono le due dimensioni come dimensioni globali nella finestra **Setup contabilità generale**. Ciò significa che è possibile utilizzare AREA e REPARTO come filtri per i movimenti di contabilità generale, nonché per tutti i report e le situazioni contabili. Le dimensioni globali sono inoltre disponibili automaticamente come dimensioni a collegamento rapido nelle righe di registrazione e nelle testate dei documenti.  
+
+## <a name="using-dimensions"></a>Utilizzo delle dimensioni
+In un documento come un ordine di vendita, è possibile aggiungere le informazioni sulle dimensioni sia per una singola riga del documento che l'intero documento. Ad esempio, nella finestra **Ordine di vendita** è possibile immettere i valori dimensioni per le prime due dimensioni a collegamento rapido nelle singole righe vendita e aggiungere altre informazioni sulle dimensioni selezionando il pulsante **Dimensioni**.  
+
+Se si lavora nelle registrazioni invece, è possibile aggiungere informazioni sulle dimensioni a un movimento nello stesso modo, se le dimensioni a collegamento rapido sono state impostate come campi direttamente sulle righe di registrazione.  
+
+È possibile impostare le dimensioni di default per i conti o i tipi di conto, in modo che le dimensioni e i valori dimensioni vengano compilati automaticamente.
 
 ## <a name="see-also"></a>Vedi anche
-[Contabilità](finance-setup.md)  
-[Impostare le dimensioni](finance-setup-setup-dimensions.md)  
+[Business Intelligence](bi.md)  
+[Finanze](finance.md)  
+[Procedura: Analizzare i dati per dimensioni](bi-how-analyze-data-dimension.md)  
+[Utilizzo di [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
 

@@ -10,23 +10,22 @@ ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: 225773f7f686dd6e9a79f759d520d66f7e7b9d0a
+ms.translationtype: HT
+ms.sourcegitcommit: 6b60b1344a1e18ad91863046110df880f75f7c04
+ms.openlocfilehash: d41b96ab5807402a342991d5c5bc2d672db09e2f
 ms.contentlocale: it-it
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/16/2017
 
 ---
 # <a name="how-to-register-dynamics-nav-in-the-azure-management-portal"></a>Procedura: Registrare Dynamics NAV nel portale di gestione di Azure
 Se si desidera utilizzare i servizi che si basano su Microsoft Azure, è necessario registrare Dynamics NAV nel portale di gestione di Azure. Ad esempio, l'estensione [Previsione vendite e magazzino](ui-extensions-sales-forecast.md) richiede di specificare una chiave API e l'URI API e altri servizi richiedono informazioni simili. Dove si trovano dunque tali informazioni?
 
-È possibile utilizzare la guida **Registrare il portale di gestione di Azure** per registrare Dynamics NAV nel portale di gestione di Azure ed estrarre le informazioni che servono per usare i servizi, ad esempio l'estensione Previsione vendite e magazzino, Power BI, Office 365 e altro. È necessario registrarsi una sola volta nel portale di gestione di Azure e occorre essere un amministratore o un superutente di Dynamics NAV.
+È possibile utilizzare la guida **Impostare il portale di gestione di Azure** per registrare Dynamics NAV nel portale di gestione di Azure ed estrarre le informazioni che servono per usare i servizi, ad esempio l'estensione di previsione vendite e previsione magazzino, Power BI, Office 365 e altro. È necessario registrarsi una sola volta nel portale di gestione di Azure e occorre essere un amministratore o un utente principale di Dynamics NAV.
 
-Il punto della registrazione è che Dynamics NAV e il servizio che si desidera collegare devono conoscere i dettagli di Azure Active Directory (Azure AD) riguardanti l'un l'altro.
+Lo scopo della registrazione è fornire a Dynamics NAV e al servizio da collegare i rispettivi dettagli di Azure Active Directory (Azure AD).
 
 ## <a name="to-register-dynamics-nav-in-the-azure-management-portal"></a>Per registrare Dynamics NAV nel portale di gestione di Azure
-1. Effettuare l'accesso al portale di gestione di Azure all'indirizzo [https://portal.azure.com](https://portal.azure.com).
-    Se non si è familiari con il portale di gestione di Azure, è possibile trovare indicazioni nella [raccolta di documenti di Azure](https://azure.microsoft.com/en-us/documentation/articles)
+1. Effettuare l'accesso al portale di gestione di Azure all'indirizzo [https://portal.azure.com](https://portal.azure.com). Se non si ha familiarità con il portale di gestione di Azure, è possibile trovare indicazioni nella [raccolta di documenti di Azure](https://azure.microsoft.com/en-us/documentation/articles).
 2. Nel riquadro di spostamento sinistro scegliere **Più servizi**, quindi **Registrazioni app**.
 3. Nel menu superiore scegliere **Aggiungi**, quindi nel **riquadro Crea** compilare i campi con le seguenti informazioni:
     - **Nome**: specificare un nome per la propria soluzione Dynamics NAV, ad esempio *Dynamics NAV*.
@@ -34,7 +33,7 @@ Il punto della registrazione è che Dynamics NAV e il servizio che si desidera c
     - **URL accesso**: immettere l'URL del client del browser Dynamics NAV, ad esempio *https://MyServer:8080/DynamicsNAV/WebClient/OAuthLanding.htm*.
         Il file OAuthLanding.htm è un file che consente di gestire lo scambio di dati tra Dynamics NAV e altri servizi tramite Azure AD.
 4. Fare clic sul pulsante **Crea**.
-    Dynamics NAV viene inserito nel **riquadro delle registrazioni delle app**, in modo da potervi ora aggiungere impostazioni.
+    Dynamics NAV viene inserito nel **riquadro delle registrazioni delle app**, in modo da potervi ora aggiungere le impostazioni.
 5. Nell'**Elenco delle registrazioni delle app** scegliere una nuova app. Se questa non apre il riquadro **Impostazioni**, è necessario visualizzare un'azione per aprire **Impostazioni**.
 6. Nel riquadro **Impostazioni**, nella sezione **Accesso API**, scegliere **Chiavi**.
 7. Nel riquadro **Chiavi** specificare una descrizione e quando si desidera lasciare scadere la chiave, quindi scegliere **Salva**.

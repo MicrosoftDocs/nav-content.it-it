@@ -1,40 +1,51 @@
 ---
-title: Specificare la selezione della stampante per i report
+title: Impostare report da stampare su stampanti specifiche
+description: Informazioni su come specificare una stampante per un report utilizzando la finestra Selezioni stampante.
+documentationcenter: 
 author: SusanneWindfeldPedersen
-ms.custom: na
-ms.date: 09/22/2016
-ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
-ms.topic: article
 ms.prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: 55b48aef2bc108ced7f581f0ff6c11263ee467df
+ms.topic: article
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords: online printing
+ms.date: 03/29/2017
+ms.author: solsen
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: 4c31738da8ca833c06d976d26b9cb170a05fd46e
 ms.contentlocale: it-it
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/16/2017
 
 ---
-    
 # <a name="specify-printer-selection-for-reports"></a>Specificare la selezione della stampante per i report
-È possibile impostare i report in modo vengano stampati su una stampante specifica. Di seguito sono descritti alcuni utilizzi della selezione stampante: 
+Questa pagina è vuota perché non è ancora possibile impostare stampanti specifiche per report specifici. Stiamo lavorando per trovare una soluzione.
 
-- È possibile stampare report sulla carta intestata speciale della società.
-- È possibile stampare i report su formati carta diversi.
-- È possibile stampare report sulla stampante di default di un impiegato specificato.
+Nel frattempo, quando si desidera stampare un report, è necessario scaricarlo come documento PDF prima di tutto scegliendo il pulsante **Invia a**. Selezionare quindi il tipo di file in cui il report deve essere scaricato e scegliere **Documento PDF**. A questo punto è possibile aprire il documento PDF immediatamente e stamparlo oppure salvarlo e stamparlo in seguito.
 
-Utilizzare la finestra **Selezioni stampante** per impostare valori differenti al fine di ottenere un output differente. Se si imposta una selezione stampante specifica, questa ha la precedenza su una selezione stampante generale. Ad esempio, è possibile impostare una selezione stampante che dispone di valori nei campi **ID utente**, **ID report** e **Nome stampante**. Questa selezione stampante ha la precedenza su una selezione stampante che ha movimenti vuoti nei campi **ID report** o **ID utente**. 
+<!--
 
-Nella seguente tabella viene descritta la combinazione dei valori da specificare quando si impostano le selezioni stampante per un report.
+You can set up reports so that they must be printed on a specific printer. The following are some uses of printer selection:
 
-|Per                                                 |Impostare i seguenti valori                                             |
+- You can print reports on special company letterhead.
+- You can print reports on different paper sizes.
+- You can print reports on the default printer of a specified employee.
+
+You use the **Printer Selections** window to set different values to obtain different output. If you set a specific printer selection, then it takes precedence over a more general printer selection. For example, you can set a printer selection that has values in the **User ID**, **Report ID**, and **Printer Name** fields. This printer selection takes precedence over a printer selection that has blank entries in the **User ID** or **Report ID** fields.
+
+The following table describes the combination of values to specify when you set up printer selections for a report.
+
+|To                                                 |Set the following values                                             |
 |---------------------------------------------------|---------------------------------------------------------------------|
-|Stampare un report su una stampante specifica per tutti gli utenti |Specificare i valori nei campi **Nome stampante** e **ID report** e lasciare vuoto il campo **ID utente**.|
-|Stampare tutti i report su una stampante specifica per un utente specifico|Specificare i valori nei campi **ID utente** e **Nome stampante** e lasciare vuoto il campo **ID utente**.|
-|Impostare la stampante di default per tutti i report|Specificare un valore nel campo **Nome stampante** e lasciare vuoti i campi **ID utente** e **ID report**.|
-|Stampare un report specifico sulla stampante di default dell'utente|Specificare un valore nel campo **ID report** e lasciare vuoti i campi **Nome stampante** e **ID utente**.|
-|Stampare un report specifico su una stampante specifica per un utente specifico|Specificare i valori in tutti e tre i campi.|
+|Print a report to a specific printer for all users |Specify values in the **Report ID** and **Printer Name** fields and leave the **User ID** field blank.|
+|Print all reports to a specific printer for a specific user|Specify values in the **User ID** and **Printer Name** fields and leave the **Report ID** field blank.|
+|Set the default printer for all reports|Specify a value in the **Printer Name** field and leave the **User ID** and **Report ID** fields blank.|
+|Print a specific report to the user’s default printer|Specify a value in the **Report ID** field and leave the **Printer Name** and **User ID** fields blank.|
+|Print a specific report to a specific printer for a specific user|Specify values in all three fields.|
+-->
 
 ## <a name="see-also"></a>Vedi anche
-[Utilizzare Dynamics NAV](ui-work-product.md)
+[Utilizzo di [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
+[Procedura: Eseguire i processi batch](ui-how-run-batch-jobs.md)  
+[Procedura: Inviare documenti via e-mail](ui-how-send-documents-email.md)  
 

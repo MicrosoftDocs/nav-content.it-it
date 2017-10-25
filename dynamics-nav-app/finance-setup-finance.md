@@ -1,38 +1,50 @@
 ---
-title: Impostare i processi finanziari di base
+title: Impostare i processi finanziari
+description: "Informazioni sulle attività per impostare i dati finanziari nella propria attività per adattarli alle esigenze di contabilità, controllo e gestione dei libri contabili."
+documentationcenter: 
 author: edupont04
-ms.custom: na
-ms.date: 09/22/2016
-ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
+ms.prod: dynamics-nav-2017
 ms.topic: article
-ms-prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: b911f3701f7a326e5812f13c8528a4719c25241a
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords: accounting, auditing, bookkeeping
+ms.date: 08/10/2017
+ms.author: edupont
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: 4fbd005dce27b7afdf926704f97f3908cb3db803
 ms.contentlocale: it-it
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/16/2017
 
 ---
+# <a name="setting-up-finance"></a>Impostazione di dati finanziari
+Per velocizzare l'inizio, [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)] include le configurazioni di default della maggior parte dei processi finanziari. Se è necessario apportare modifiche alle configurazioni per adattarle alla propria attività, procedere subito. Ad esempio, nella home page è possibile utilizzare la guida al setup assistito per configurare l'aliquota in base all'ubicazione.  
 
-#<a name="set-up-core-financial-processes"></a>Impostare i processi finanziari di base
-Dynamics NAV include una configurazione standard per la maggior parte dei processi finanziari. Tuttavia, tale configurazione può essere adattata alle esigenze aziendali.
-Dalla home page, è possibile accedere alla guida al setup assistito che consente di configurare le imposte di vendita di default in base all'ubicazione, ad esempio. Altri aspetti della gestione finanziaria-di setup che è necessario configurare, ad esempio se si desidera utilizzare le dimensioni.  
+Tuttavia, esistono alcune opzioni che occorre impostare manualmente. Ad esempio, se si desidera utilizzare le dimensioni come base per la categoria di business intelligence.  
 
 Nella tabella seguente viene descritta una sequenza di task, con collegamenti agli argomenti che li descrivono.
 
-| Per                                                                  | Vedere                      |
-|---------------------------------------------------------------------|--------------------------|
-|Scegliere la modalità di gestione dei pagamenti dei fornitori.|[Metodi di pagamento](finance-setup-payment-methods.md)|
-|Impostare periodi fiscali.|[Procedura: aprire un nuovo anno fiscale](finance-setup-how-open-new-fiscal-year.md)|
-|Impostare le valute aggiuntive per il commercio internazionale.|[Impostare le valute](finance-setup-setup-currencies.md)|
-|Aggiungere le dimensioni per Business Intelligence più dettagliata.|[Impostare le dimensioni](finance-setup-setup-dimensions.md)|
-|Aggiungere nuovi conti a un piano dei conti esistente.|[Impostazione di un piano dei conti](finance-setup-setup-chart-accounts.md)|
+| A | Vedere |
+| --- | --- |
+| Scegliere la modalità di pagamento dei fornitori. |[Definizione dei metodi di pagamento](finance-payment-methods.md) |
+| Specificare le categorie di registrazione che associano entità come clienti, fornitori, articoli, risorse e documenti di vendita o di acquisto a conti di contabilità generale. |[Impostazione delle categorie di registrazione](finance-posting-groups.md)|
+|Impostare una tolleranza da cui il sistema chiude una fattura anche se il pagamento, incluso un eventuale sconto, non copre interamente l'importo della fattura.|[Procedura Utilizzare le tolleranze pagamento e le tolleranze sconto pagamento](finance-payment-tolerance-and-payment-discount-tolerance.md)|
+| Impostare periodi fiscali. |[Procedura: aprire un nuovo anno fiscale](finance-how-open-new-fiscal-year.md) |
+| Definire come dichiarare alle autorità fiscali gli importi dell'imposta sul valore aggiunto (IVA) raccolti per le vendite. |[Procedura: Dichiarare l'IVA all'autorità fiscale](finance-how-report-vat.md)|
+| Impostare le funzionalità Vendite e acquisti per gestire i pagamenti in valute estere.|[Procedura: Abilitare il collegamento dei movimenti contabili fornitore in valute diverse](finance-how-enable-application-ledger-entries-different-currencies.md)
+| Aggiungere nuovi conti a un piano dei conti esistente. |[Impostazione del piano dei conti](finance-setup-chart-accounts.md) |
+| Impostare i grafici di business intelligence (BI) per analizzare il flusso di cassa. |[Impostazione di un'analisi di un flusso di cassa](finance-setup-cash-flow-analyses.md) |
+|Abilitazione della fatturazione di un cliente che non è impostato nel sistema.|[Procedura: Impostare clienti per vendite in contanti](finance-how-to-set-up-cash-customers.md)|
+| Impostare la creazione di report Intrastat e inviare il report a un'autorità | [Procedura: Impostare e registrare report Intrastat](finance-how-setup-report-intrastat.md)|
 
+## <a name="see-also"></a>Vedi anche
+[Contabilità](finance.md)  
+[Gestione di conti correnti bancari](bank-manage-bank-accounts.md)  
+[Utilizzo delle dimensioni](finance-dimensions.md)  
+[Importazione dei dati aziendali da altri sistemi contabili](upload-data.md)  
+[Analizzare il flusso di cassa dell'azienda](finance-analyze-cash-flow.md)  
+[Utilizzo di [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
 
-
-##<a name="see-also"></a>Vedi anche
-[Gestire i conti correnti bancari](bank-manage-bank-accounts.md)    
-[Dimensioni](finance-setup-dimensions.md)  
+## 
 

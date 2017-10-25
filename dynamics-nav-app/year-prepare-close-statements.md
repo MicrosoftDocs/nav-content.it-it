@@ -8,11 +8,11 @@ ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: c9e938b4ce2b136b4a2abb72d1d9cc8a9b78bbf8
+ms.translationtype: HT
+ms.sourcegitcommit: 6b60b1344a1e18ad91863046110df880f75f7c04
+ms.openlocfilehash: 2943acdfca4580245d1210ce0d17526e357ca478
 ms.contentlocale: it-it
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/16/2017
 
 ---
 # <a name="prepare-closing-statements"></a>Preparare gli estratti conto di chiusura
@@ -29,7 +29,7 @@ Nella tabella che segue sono descritti alcuni report che possono risultare utili
 |Confrontare il bilancio di verifica con un budget.|Bilancio di verifica/budget|
 |Stampare un report di bilancio di verifica con saldi periodi e conti per i conti di contabilità generale calcolati per una serie di periodi.|Bilancio di verifica per periodo|
 |Stampare una situazione contabile per analizzare le cifre nei conti di contabilità generale o confrontare i movimenti effettivi di contabilità generale con i movimenti budget di contabilità generale.|Situazione contabile|
-|Verificare se i movimenti contabili dei clienti e quelli dei fornitori corrispondono con i relativi movimenti di contabilità generale.|Riconcilia conti clienti e fornitori|
+|Verificare se i movimenti contabili dei clienti e quelli dei fornitori corrispondono con i relativi movimenti di contabilità generale.|Riconc. conti clienti e forn.|
 Per visualizzare un report, nell'angolo superiore destro scegliere l'icona **Cerca pagina o report**, digitare il nome che appare nella tabella, quindi scegliere il collegamento correlato.
 ## <a name="see-also"></a>Vedi anche
 [Chiusura di anni e periodi](year-close-years-periods.md)
