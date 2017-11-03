@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 44f01241825a95d6e34ee838a36474f1dd347873
+ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
+ms.openlocfilehash: 3e8fd9d1e56de77c54f5190d97f95faa0702908e
 ms.contentlocale: it-it
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/23/2017
 
 ---
 # <a name="how-to-work-on-service-tasks"></a>Procedura: Utilizzare i compiti di assistenza
@@ -83,7 +83,7 @@ Quando si presta assistenza ad un articolo in assistenza composto da diverse par
     |**Ignora**|La lista dei componenti dell'articolo in assistenza non viene modificata.|  
   
 7. Scegliere **Sostituisci componente**.  
-8. Scegliere il componente da sostituire quindi scegliere **OK**.  
+8. Scegliere il componente da sostituire quindi scegliere il pulsante **OK**.  
 
 ## <a name="to-change-the-response-time-for-a-service-item-line"></a>Per modificare il tempo di risposta per una riga di articolo in assistenza  
 Quando si registra una riga di articolo in assistenza in un ordine o in un'offerta di assistenza, a seconda che l'articolo in assistenza sia incluso in un contratto di assistenza o meno, viene automaticamente immesso il tempo di risposta espresso in ore e vengono calcolate di conseguenza la data e l'ora della risposta. Se necessario, è possibile modificare il tempo di risposta in ore e la data e l'ora di risposta.  

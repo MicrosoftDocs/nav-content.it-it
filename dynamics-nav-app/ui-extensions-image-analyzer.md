@@ -12,14 +12,14 @@ ms.search.keywords: API, extension, Cognitive Services, image, computer vision, 
 ms.date: 06/19/2017
 ms.author: bholtorf
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 8df580f599db12ab2f56a3bbeeb880fa12afb081
+ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
+ms.openlocfilehash: 08a832708dcbb550e880d2a669af265b2fb670b5
 ms.contentlocale: it-it
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/23/2017
 
 ---
 
-# <a name="the-image-analyzer-extension-for-microsoft-dynamics-nav"></a>Estensione di analisi immagini per Microsoft Dynamics NAV
+# <a name="the-image-analyzer-extension-for-includenavnowincludesnavnowmdmd"></a>Estensione di analisi immagini per [!INCLUDE[navnow](includes/navnow_md.md)]
 L'estensione di analisi immagini utilizza potenti funzionalità di analisi delle immagini fornite dall'API Visione artificiale dei Servizi cognitivi Microsoft per individuare gli attributi nelle immagini importate per gli articoli e le persone di contatto, in modo da potere esaminare e assegnare questi elementi con semplicità. Per gli articoli, agli attributi possono indicare, ad esempio, se si tratta di un tavolo o un'automobile o se è di colore rosso o blu. Per i contatti, gli attributi possono riguardare il sesso o l'età.
 
 L'analisi immagini suggerisce gli attributi in base ai tag trovati dall'API Visione artificiale e ne indica il livello di affidabilità. Per impostazione predefinita, l'estensione suggerisce gli attributi solo se presentano un livello di affidabilità minimo dell'80% riguardo all'esattezza dell'attributo. È possibile impostare un livello di affidabilità diverso, se necessario. Per ulteriori informazioni su tag e livello di affidabilità, vedere [API Visione artificiale](https://go.microsoft.com/fwlink/?linkid=851476).  
@@ -48,12 +48,12 @@ L'estensione di analisi delle immagini è incorporata in [!INCLUDE[d365fin](incl
 > Per abilitare l'estensione di analisi delle immagini, è necessario disporre dei diritti di amministratore. Assicurarsi di disporre del set di autorizzazioni come utente con privilegi **AVANZATI**.
 
 1. Per attivare l'estensione di analisi immagini, effettuare una delle seguenti operazioni:
-  
+
 * Aprire un articolo o una scheda contatto. Nella barra di notifica scegliere **Analisi immagine** e seguire i passaggi nella Guida assistita di setup.  
 * Scegliere l'icona ![Cerca pagina o report](media/ui-search/search_small.png "icona Cerca pagina o report"), immettere **Connessioni servizio**, quindi scegliere **Setup analisi immagine**. Scegliere la casella di controllo **Abilita analisi immagine** e completare i passaggi nella Guida assistita di setup.  
 
 >   [!TIP]  
->   Nella pagina **Setup analisi immagine** è possibile anche modificare il grado di affidabilità per i suggerimenti relativi all'attributo. Ad esempio, se si intende richiedere un maggior grado di affidabilità, è possibile immettere un valore percentuale più alto. 
+>   Nella pagina **Setup analisi immagine** è possibile anche modificare il grado di affidabilità per i suggerimenti relativi all'attributo. Ad esempio, se si intende richiedere un maggior grado di affidabilità, è possibile immettere un valore percentuale più alto.
 
 ## <a name="to-analyze-an-image-of-an-item"></a>Per analizzare un'immagine di un articolo
 Nei seguenti passaggi viene descritto come analizzare un'immagine importata prima dell'abilitazione dell'estensione di analisi immagini.  
@@ -74,16 +74,16 @@ Nei seguenti passaggi viene descritto come analizzare un'immagine importata prim
 
 ## <a name="to-use-your-own-account-for-the-computer-vision-api"></a>Per utilizzare il proprio account per l'API Visione artificiale
 È anche possibile utilizzare il proprio account per l'API Visione artificiale, ad esempio, se si desidera analizzare più immagini rispetto al numero consentito.  
-  
+
 1. Scegliere l'icona ![Cerca pagina o report](media/ui-search/search_small.png "icona Cerca pagina o report"), immettere **Setup analisi immagine**, quindi selezionare il collegamento correlato.  
 2. Immettere l'**URI API** e la **Chiave API** ricevuti per l'API Visione artificiale.  
-  
+
 >   [!NOTE]  
 >   È necessario aggiungere **/analyze** alla fine dell'URI API, se non è già presente. Ad esempio: ```https://cronus.api.cognitive.microsoft.com/vision/v1.0/analyze```
 
 ## <a name="to-see-how-many-analyses-you-have-left-in-the-current-period"></a>Per visualizzare il numero delle analisi rimanenti per il periodo corrente
 È possibile visualizzare il numero delle analisi effettuate e il numero rimanente per il periodo corrente.  
-  
+
 1. Scegliere l'icona ![Cerca pagina o report](media/ui-search/search_small.png "icona Cerca pagina o report"), immettere **Setup analisi immagine**, quindi selezionare il collegamento correlato.  
 2. I campi **Tipo di limite**, **Valore limite** e **Analisi eseguite** forniscono informazioni sull'utilizzo.  
 
@@ -95,5 +95,4 @@ Nei seguenti passaggi viene descritto come analizzare un'immagine importata prim
 [Procedura: Utilizzare gli attributi degli articoli](inventory-how-work-item-attributes.md)  
 [Personalizzazione di [!INCLUDE[d365fin](includes/d365fin_md.md)] utilizzando le estensioni](ui-extensions.md)  
 [Benvenuto in [!INCLUDE[d365fin](includes/d365fin_md.md)]](index.md)  
-
 

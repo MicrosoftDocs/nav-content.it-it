@@ -12,10 +12,10 @@ ms.search.keywords: stock
 ms.date: 08/15/2017
 ms.author: SorenGP
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: b046027ef9327603b58111ba578dfe1c5254d081
+ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
+ms.openlocfilehash: 81872839df11a13489bbc192ad97dae04976ebb0
 ms.contentlocale: it-it
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/23/2017
 
 ---
 # <a name="how-to-view-the-availability-of-items"></a>Procedura: Visualizzare la disponibilità di articoli
@@ -26,10 +26,10 @@ Dal contesto di un task di business, è possibile ottenere informazioni avanzate
 > [!NOTE]  
 >   Le visualizzazioni di disponibilità per ubicazione richiedono che si disponga di un magazzino presso più di un'ubicazione. Per ulteriori informazioni, vedere [Procedura: Impostare le ubicazioni](inventory-how-setup-locations.md).
 
-In [[!INCLUDE[d365fin](includes/d365fin_md.md)] i dati relativi alla disponibilità vengono visualizzati in due campi diversi, ognuno con una diversa definizione:
+In [!INCLUDE[d365fin](includes/d365fin_md.md)], i dati relativi alla disponibilità vengono visualizzati in due campi diversi, ognuno con una diversa definizione:
 
 * Il campo **Giacenza** mostra l'effettiva quantità in base ai movimenti contabili articoli registrati.
-* Nel campo **Disponibilità calcolata** viene calcolato e viene visualizzata la giacenza più i carichi programmati e meno il fabbisogno lordo. (In [[!INCLUDE[d365fin](includes/d365fin_md.md)] i carichi programmati includono le quantità degli ordini di acquisto e degli ordini di trasferimento in entrata. Il fabbisogno lordo include le quantità degli ordini di vendita e degli ordini di trasferimento in uscita.)
+* Nel campo **Disponibilità calcolata** viene calcolato e viene visualizzata la giacenza più i carichi programmati e meno il fabbisogno lordo. (In [!INCLUDE[d365fin](includes/d365fin_md.md)], i carichi programmati includono le quantità degli ordini di acquisto e degli ordini di trasferimento in entrata. Il fabbisogno lordo include le quantità degli ordini di vendita e degli ordini di trasferimento in uscita.)
 
 > [!TIP]  
 >   La disponibilità calcolata è particolarmente importante per visualizzare le finestra **Disponibilità art. per periodi** e **Disponibilità articolo per evento** dal momento che contengono le dimensioni per data.  

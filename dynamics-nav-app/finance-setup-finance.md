@@ -12,10 +12,10 @@ ms.search.keywords: accounting, auditing, bookkeeping
 ms.date: 08/10/2017
 ms.author: edupont
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 4fbd005dce27b7afdf926704f97f3908cb3db803
+ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
+ms.openlocfilehash: f3d7c01b079b6af60505fc232faf0d9c5ac393cd
 ms.contentlocale: it-it
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/23/2017
 
 ---
 # <a name="setting-up-finance"></a>Impostazione di dati finanziari
@@ -39,12 +39,12 @@ Nella tabella seguente viene descritta una sequenza di task, con collegamenti ag
 | Impostare la creazione di report Intrastat e inviare il report a un'autorità | [Procedura: Impostare e registrare report Intrastat](finance-how-setup-report-intrastat.md)|
 
 ## <a name="see-also"></a>Vedi anche
-[Contabilità](finance.md)  
+[Finanze](finance.md)  
 [Gestione di conti correnti bancari](bank-manage-bank-accounts.md)  
 [Utilizzo delle dimensioni](finance-dimensions.md)  
 [Importazione dei dati aziendali da altri sistemi contabili](upload-data.md)  
 [Analizzare il flusso di cassa dell'azienda](finance-analyze-cash-flow.md)  
 [Utilizzo di [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
 
-## 
+##
 

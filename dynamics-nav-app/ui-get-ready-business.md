@@ -12,10 +12,10 @@ ms.search.keywords: SMTP, mail, Office 365, setup, wizard, experience
 ms.date: 03/21/2017
 ms.author: solsen
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 30074087545e8ca01b9a3cc956c8cc6ef938d8ae
+ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
+ms.openlocfilehash: 8a7683886f3f823e8bdbd47b007f58c2c65c0f2d
 ms.contentlocale: it-it
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/23/2017
 
 ---
 # <a name="getting-ready-for-doing-business"></a>Preparazione al business
@@ -39,8 +39,8 @@ Nella home page, nella parte inferiore del riquadro di spostamento, è disponibi
 Dopo avere eseguito un setup assistito, viene contrassegnato come **Completato**. Per eseguire il setup assistito, scegliere i tre punti noti anche come menu di scelta rapida e quindi selezionare **Avvia setup**.
 
 ## <a name="home"></a>Pagina iniziale
-Nella home page è disponibile una panoramica dell'azienda. A sinistra è presente una barra di spostamento che consente di accedere rapidamente a clienti, fornitori, articoli e così via. Al centro si trovano i riquadri **Attività**. I riquadri **Attività** mostrano i dati correnti ed è possibile fare clic su di essi o toccarli per accedere al documento selezionato. È possibile impostare degli **Indicatori delle prestazioni chiave** (KPI) per visualizzare un determinato grafico per rappresentare visivamente i flussi di cassa o le spese e i ricavi. È inoltre possibile creare una lista di **Clienti preferiti** nella home page per gli account con cui si intrattengono affari spesso o a cui è importante prestare un'attenzione speciale.
-Utilizzare le frecce per comprimere parte della pagina e per creare più spazio dove visualizzare i dati specifici. Nella parte superiore della home page si trovano tutte le azioni applicabili al contenuto corrente. Anche questa parte può essere compressa. È sufficiente fare clic o toccare all'interno dell'area compressa per visualizzarla di nuovo.
+Nella home page è disponibile una panoramica dell'azienda. A sinistra è presente una barra di spostamento che consente di accedere rapidamente a clienti, fornitori, articoli e così via. Al centro si trovano i riquadri **Attività**. I riquadri **Attività** mostrano i dati correnti ed è possibile sceglierli o toccarli per accedere al documento selezionato. È possibile impostare degli **Indicatori delle prestazioni chiave** (KPI) per visualizzare un determinato grafico per rappresentare visivamente i flussi di cassa o le spese e i ricavi. È inoltre possibile creare una lista di **Clienti preferiti** nella home page per gli account con cui si intrattengono affari spesso o a cui è importante prestare un'attenzione speciale.
+Utilizzare le frecce per comprimere parte della pagina e per creare più spazio dove visualizzare i dati specifici. Nella parte superiore della home page si trovano tutte le azioni applicabili al contenuto corrente. Anche questa parte può essere compressa. È sufficiente scegliere o toccare all'interno dell'area compressa per visualizzarla di nuovo.
 
 ## <a name="company-information"></a>Informazioni società
 In **Impostazioni società** è possibile visualizzare e modificare le informazioni di setup sulla società corrente. Molte di queste informazioni sono precompilate se è stato precedentemente completato il setup assistito **Imposta società** quando è stata effettuata l'iscrizione a [!INCLUDE[d365fin](includes/d365fin_md.md)]. Se si desidera modificare il logo della società, le informazioni di contatto, le impostazioni della banca o le informazioni tributarie, è possibile farlo in questa finestra.    

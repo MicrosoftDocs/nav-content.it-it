@@ -12,10 +12,10 @@ ms.search.keywords: change Role Center, notification, change company, change wor
 ms.date: 03/29/2017
 ms.author: solsen
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 1fd559bd0bf213a745f0c567c2b2d5721071c553
+ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
+ms.openlocfilehash: cf5a74cea6d7906845a0e087576ab090c319f297
 ms.contentlocale: it-it
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/23/2017
 
 ---
 # <a name="changing-basic-settings"></a>Modifica delle impostazioni di base
@@ -24,9 +24,9 @@ Nella finestra **Impostazioni personali** è possibile vedere e modificare le im
 ## <a name="role-center"></a>Gestione ruolo utente
 Gestione ruolo utente rappresenta la home page, una pagina iniziale che è progettata per le esigenze del ruolo. Nella home page è disponibile una panoramica dell'azienda. A sinistra è presente una barra di spostamento che consente di accedere rapidamente a clienti, fornitori, articoli e così via.
 
-Al centro si trovano i riquadri Attività. I riquadri Attività mostrano i dati correnti ed è possibile fare clic su di essi o toccarli per accedere al documento selezionato. È possibile impostare degli indicatori delle prestazioni chiave (KPI) per visualizzare un determinato grafico per rappresentare visivamente i flussi di cassa o le spese e i ricavi.
+Al centro si trovano i riquadri Attività. I riquadri Attività mostrano i dati correnti ed è possibile sceglierli o toccarli per accedere al documento selezionato. È possibile impostare degli indicatori delle prestazioni chiave (KPI) per visualizzare un determinato grafico per rappresentare visivamente i flussi di cassa o le spese e i ricavi.
 
-È inoltre possibile creare una lista di Clienti preferiti nella home page per gli account con cui si intrattengono affari spesso o a cui è importante prestare un'attenzione speciale. Utilizzare le frecce per comprimere parte della pagina e per creare più spazio dove visualizzare i dati specifici. Nella parte superiore della home page si trovano tutte le azioni applicabili al contenuto corrente. Anche questa parte può essere compressa. È sufficiente fare clic o toccare all'interno dell'area compressa per visualizzarla di nuovo.
+È inoltre possibile creare una lista di Clienti preferiti nella home page per gli account con cui si intrattengono affari spesso o a cui è importante prestare un'attenzione speciale. Utilizzare le frecce per comprimere parte della pagina e per creare più spazio dove visualizzare i dati specifici. Nella parte superiore della home page si trovano tutte le azioni applicabili al contenuto corrente. Anche questa parte può essere compressa. È sufficiente scegliere o toccare all'interno dell'area compressa per visualizzarla di nuovo.
 
 La Gestione ruolo utente di default è **Manager aziendale**, ma è possibile selezionare un altro Centro ruolo utente più adatto alle proprie esigenze. Per ulteriori informazioni, vedere [Procedura: Modificare il Centro ruolo utente](change-role.md).
 

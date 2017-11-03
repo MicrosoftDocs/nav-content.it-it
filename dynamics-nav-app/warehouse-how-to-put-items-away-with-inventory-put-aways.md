@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 08/31/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 38d24e04398467c43592f47412662b6895fe915e
+ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
+ms.openlocfilehash: b42ac71b23a173d5bd3a9e3f1a99b9ac5379e286
 ms.contentlocale: it-it
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/23/2017
 
 ---
 # <a name="how-to-put-items-away-with-inventory-put-aways"></a>Procedura: Stoccare articoli con gli stoccaggi magazzino
@@ -44,7 +44,7 @@ In seguito alla creazione della richiesta warehouse, un dipendente della warehou
 
 ## <a name="to-create-an-inventory-put-away-based-on-the-source-document"></a>Per creare uno stoccaggio in magazzino in base al documento origine
 Ora che la richiesta è stata creata, l'impiegato della warehouse può creare un nuovo stoccaggio in magazzino basato sul documento di origine rilasciato.   
-1.  Scegliere l'icona ![Cerca pagina o report](media/ui-search/search_small.png "Cerca pagina o report"), immettere **Stoccaggio magazzino**, quindi selezionare il collegamento correlato.  
+1.  Scegliere l'icona ![Cerca pagina o report](media/ui-search/search_small.png "Cerca pagina o report"), immettere **Stoccaggio magazzino**, quindi scegliere il collegamento correlato.  
 2. Scegliere l'azione **Nuovo**.  
 3. Nel campo **Documento origine**, selezionare il tipo di documento di origine per cui si esegue lo stoccaggio.  
 4. Nel campo **Nr. origine** selezionare il documento di origine.  

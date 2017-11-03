@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 08/14/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 67487fb46f5a195b8175b69ce38a9fa69c7fa217
+ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
+ms.openlocfilehash: 5ce50e2e83d1d4f1d0dfee238833c831a32e103e
 ms.contentlocale: it-it
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/23/2017
 
 ---
 # <a name="how-to-reserve-items"></a>Procedura: Impegnare articoli
@@ -85,7 +85,7 @@ Dai documenti in uscita per gli articoli tracciati, ad esempio ordini di vendita
 Ciò è denominato impegno specifico, in quanto viene impegnata una quantità dell'articolo X appartenente al lotto X. Se si impegnano semplicemente quantità dell'articolo X, si tratta di impegno normale, non specifico. Per ulteriori informazioni, vedere [Dettagli di progettazione: Tracciabilità articolo e impegni](design-details-item-tracking-and-reservations.md).
 
 La seguente procedura è basata su ordine di vendita.    
-1. Scegliere l'icona ![Cerca pagina o report](media/ui-search/search_small.png "icona Cerca pagina o report"), immettere **Ordini di vendita**, quindi scegliere il collegamento correlato.  
+1. Scegliere l'icona ![Cerca pagina o report](media/ui-search/search_small.png "icona Cerca pagina o report"), immettere **Ordini vendita**, quindi scegliere il collegamento correlato.  
 2. Creare una riga di ordine di vendita per un articolo tracciato.  
 3. Assegnare i numeri di serie e di lotto alla riga dell'ordine di vendita. Per ulteriori informazioni, vedere [Procedura: Utilizzo dei numeri di serie e di lotto](inventory-how-work-item-tracking.md).
 4. Nella riga ordine di vendita scegliere l'azione **Impegna**.  

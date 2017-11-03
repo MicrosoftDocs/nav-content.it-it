@@ -12,10 +12,10 @@ ms.search.keywords: contact, prospect, client
 ms.date: 06/06/2017
 ms.author: jswymer
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: bf85a4fd44590eea3b4866d63601f0b2aa3fcfb2
+ms.sourcegitcommit: a16640e014e157d4dbcaabc53d0df2d3e063f8f9
+ms.openlocfilehash: e48a11b73cd844b4eacf157bb90228617d4dc53d
 ms.contentlocale: it-it
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/26/2017
 
 ---
 # <a name="managing-relationships"></a>Gestione delle relazioni
@@ -34,6 +34,6 @@ Per iniziare, vedere i seguenti argomenti:
 ## <a name="see-also"></a>Vedi anche
 [Vendite](sales-manage-sales.md)  
 [Setup Relationship Management](marketing-setup-marketing.md)  
-[Gestione delle relazioni clienti utilizzando Dynamics 365 for Sales tramite [!INCLUDE[d365fin](includes/d365fin_md.md)]](marketing-integrate-dynamicscrm.md)  
+[Gestire clienti e vendite creati in Dynamics 365 for Sales](marketing-integrate-dynamicscrm.md)  
 [Utilizzo di [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
 

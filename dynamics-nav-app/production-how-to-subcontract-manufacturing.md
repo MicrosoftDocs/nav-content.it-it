@@ -11,10 +11,10 @@ ms.search.keywords:
 ms.date: 09/04/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 3519d4b6fd6aed2b973a8f000a028f5f6a7a9f33
+ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
+ms.openlocfilehash: fa1d42f623ba3d13f60d49b502c15fcc3f48bde7
 ms.contentlocale: it-it
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/23/2017
 
 ---
 # <a name="how-to-subcontract-manufacturing"></a>Procedura: Come gestire le attività di conto lavoro
@@ -81,7 +81,7 @@ Quando l'acquisto viene registrato come ricevuto, viene automaticamente registra
 >  Per evitare che l'output previsto di un ordine di produzione venga registrato quando vengono ricevuti gli acquisti di conto lavoro, verificare che l'operazione in conto lavoro non sia l'ultima. In alternativa, inserire una nuova ultima operazione per la quantità di output finale.
 
 ## <a name="to-post-a-subcontract-purchase-order"></a>Per registrare un ordine di acquisto conto lavoro  
-1.  Scegliere l'icona ![Cerca pagina o report](media/ui-search/search_small.png "icona Cerca pagina o report"), immettere **Ordini acquisto**, quindi selezionare il collegamento correlato.  
+1.  Scegliere l'icona ![Cerca pagina o report](media/ui-search/search_small.png "icona Cerca pagina o report"), immettere **Ordini acquisto**, quindi scegliere il collegamento correlato.  
 2.  Aprire un ordine di acquisto creato dal prospetto conto lavoro.  
 
     Nelle righe ordine di acquisto è possibile visualizzare le stesse informazioni presenti nel prospetto. I campi **Nr. ordine produzione**, **Nr. riga ordine prod.**, **Nr. operazione** e **Nr. area produzione** vengono compilati con le informazioni dall'ordine di produzione di origine.  

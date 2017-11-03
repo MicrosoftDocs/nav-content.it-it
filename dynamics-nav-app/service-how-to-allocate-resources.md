@@ -11,10 +11,10 @@ ms.search.keywords:
 ms.date: 09/08/2017
 ms.author: bholtorf
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: fb0d7651e9ffb273f7aecedf5ff5072a1235b992
+ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
+ms.openlocfilehash: 7882727735c38a11281ef22ac94b82f543b712b7
 ms.contentlocale: it-it
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/23/2017
 
 ---
 
@@ -36,7 +36,7 @@ Spesso è necessario visualizzare la lista degli ordini di assistenza o delle of
 6. Per ottenere una lista di documenti che appartengono a un contratto, un cliente o una zona specifici, compilare il campo **Filtro Contratto/Filtro Cliente/Filtro per Zona**, quindi premere **Invio**.  
 7. Scegliere una riga corrispondente a un ordine di assistenza o a un'offerta di assistenza, quindi scegliere l'azione **Mostra documento**.  
 
-    Viene aperta la pagina **Ordine assistenza** o **Offerta assistenza** in cui è possibile utilizzare il documento. Per tornare alla pagina **Quadro attività** scegliere **OK**.
+    Viene aperta la pagina **Ordine assistenza** o **Offerta assistenza** in cui è possibile utilizzare il documento. Per tornare alla pagina **Quadro attività**, scegliere il pulsante **OK** .
 
 ## <a name="to-allocate-a-resource-using-resource-or-resource-group-availability"></a>Per assegnare una risorsa usando la disponibilità della risorsa o del gruppo di risorse    
 1. Scegliere l'icona ![Cerca pagina o report](media/ui-search/search_small.png "icona Cerca pagina o report"), immettere **Quadro attività**, quindi scegliere il collegamento correlato.  

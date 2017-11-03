@@ -11,10 +11,10 @@ ms.search.keywords:
 ms.date: 08/21/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: d5bd6388db1d72d6be0fb193a51df620e7e059c2
+ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
+ms.openlocfilehash: b768f78cd8ef7f6981e5e148fee5f61e9ab922ee
 ms.contentlocale: it-it
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/23/2017
 
 ---
 # <a name="how-to-set-up-sepa-direct-debit"></a>Procedura: Impostare gli addebiti diretti SEPA
@@ -38,7 +38,7 @@ Prima di poter elaborare elettronicamente i pagamenti del cliente esportando le 
 2. Scegliere l'azione **Nuovo**.  
 3. Impostare un metodo di pagamento. Compilare i campi specifici dell'addebito diretto come descritto nella tabella riportata di seguito.  
 
-    |Campo|[Descrizione|  
+    |Campo|Description|  
     |---------------------------------|---------------------------------------|  
     |**Addebito diretto**|Specificare se il metodo di pagamento riguarda la riscossione di addebiti diretti SEPA.|  
     |**Cod. condizioni pag. addebiti dir.**|Specificare le condizioni di pagamento, ad esempio NON PAGARE, che vengono visualizzate sulle fatture di vendita pagate con addebito diretto SEPA per indicare al cliente che il pagamento verrà riscosso automaticamente. In alternativa, lasciare vuoto il campo.|  
@@ -59,7 +59,7 @@ Prima di poter elaborare elettronicamente i pagamenti del cliente esportando le 
 4. Nella finestra **Lista C/C bancari clienti** selezionare il conto bancario cliente che utilizzerà gli addebiti diretti, quindi nel gruppo **Processo** della scheda **Pagina iniziale** scegliere **Mandati di addebito diretto**.  
 5. Nella finestra **Mandati per addebito diretto SEPA** compilare i campi come indicato nella tabella riportata di seguito.  
 
-    |[Descrizione|campo]|  
+    |Campo|Description|  
     |---------------------------------|---------------------------------------|  
     |**Codice C/C bancario clienti**|Specifica il conto bancario da cui vengono riscossi i pagamenti in addebito diretto. Questo campo viene compilato automaticamente.|  
     |**Data di inizio validità**|Specificare la data in cui ha inizio il mandato di addebito diretto.|  

@@ -1,6 +1,6 @@
 ---
 title: 'Procedura: Correggere i report di transazioni IVA'
-description: 
+description: "È possibile correggere e inviare nuovamente i report di transazioni IVA."
 documentationcenter: 
 author: SorenGP
 ms.prod: dynamics-nav-2017
@@ -12,20 +12,17 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 9df1fd56cbbe1f1c8bf862c0f9d0582c18676421
+ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
+ms.openlocfilehash: 0a61e4e4fd5c0c7b60f1a7aa1332fd2ffdf19c8e
 ms.contentlocale: it-it
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/23/2017
 
 ---
 # <a name="how-to-correct-vat-transactions-reports"></a>Procedura: Correggere i report di transazioni IVA
-### <a name="to-send-a-corrected-vat-transaction-report"></a>Per inviare un report corretto di transazione IVA  
 
-1.  Scegliere l'icona ![Cerca pagina o report](media/ui-search/search_small.png "icona Cerca pagina o report"), immettere **Report IVA** e scegliere il collegamento correlato.  
-
+1.  Scegliere l'icona ![Cerca pagina o report](../../media/ui-search/search_small.png "icona Cerca pagina o report"), immettere **Report IVA** e scegliere il collegamento correlato.  
 2.  Creare un nuovo report. Per ulteriori informazioni, vedere [Procedura: Creare report elettronici di transazioni IVA](how-to-create-electronic-vat-transactions-reports.md).  
-
-3.  Nel nuovo report, impostare il campo **Tipo report IVA** su **Correttiva** o **Annullamento**. Nel campo **Nr. report originale** selezionare il report che si desidera correggere dalla lista dei report disponibili. I campi **Data di fine** e**Data di inizio** vengono copiati dal report originale.  
+3.  Nel nuovo report, impostare il campo **Tipo report IVA** su **Correttiva** o **Annullamento**. Nel campo **Nr. report originale** selezionare il report che si desidera correggere dalla lista dei report disponibili. I campi **Data di fine** e **Data di inizio** vengono copiati dal report originale.  
 
     > [!NOTE]  
     >  È possibile selezionare soltanto i report IVA che risultano contrassegnati come inviati, in quanto è necessario che il report originale abbia un **Nr. ricevuta ufficio fiscale**  
@@ -36,19 +33,18 @@ ms.lasthandoff: 10/16/2017
 
 4.  Esaminare i dettagli della transazione. Per evitare che una riga venga dichiarata all'autorità fiscale, nella riga, deselezionare la casella di controllo **Elementi inclusi in report**.  
 
-     Nel gruppo **Processo** della scheda **Pagina iniziale** scegliere **Esporta**. Il processo batch **Esporta transazioni IVA** viene aperto.  
+    Scegliere l'azione **Esporta**. Il processo batch **Esporta transazioni IVA** viene aperto.  
 
     > [!NOTE]  
     >  Scegliendo **Esporta** per un report con lo stato Aperto, verrà convalidato automaticamente e lo stato verrà modificato in Rilasciato. A questo punto, è possibile riaprire il report per apportare le modifiche.  
 
 5.  Inviare il file all'autorità competente. Utilizzare le indicazioni fornite dall'autorità. Per ulteriori informazioni, vedere l'[agenzia delle entrate italiana](http://go.microsoft.com/fwlink/?LinkID=206524).  
 
-     Una volta ricevuta una risposta dalle autorità fiscali, è necessario aggiornare il report IVA.  
+    Una volta ricevuta una risposta dalle autorità fiscali, è necessario aggiornare il report IVA.  
 
 6.  Nella Scheda dettaglio **Generale** nel campo **Nr. ricevuta ufficio fiscale** specificare il numero di carico ricevuto dalle autorità fiscali.  
-
-7.  Nella scheda **Pagina iniziale**, nel gruppo **Processo**, scegliere **Contrassegna come Inviato** per completare il report. Il campo **Stato** verrà aggiornato su Inviato.  
+7.  Scegliere l'azione **Contrassegna come inviato** per completare il report. Il campo **Stato** verrà aggiornato su Inviato.  
 
 ## <a name="see-also"></a>Vedi anche  
- [Procedura: Esportare i report di transazioni IVA](how-to-export-vat-transactions-reports.md) 
+ [Procedura: Esportare i report di transazioni IVA](how-to-export-vat-transactions-reports.md)
 

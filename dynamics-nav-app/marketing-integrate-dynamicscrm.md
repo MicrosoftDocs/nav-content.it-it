@@ -12,24 +12,29 @@ ms.search.keywords: integration, synchronize, map
 ms.date: 06/06/2017
 ms.author: edupont
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: f3c9cff4094395a1f06ba04ba2476de76c4a04a1
+ms.sourcegitcommit: a16640e014e157d4dbcaabc53d0df2d3e063f8f9
+ms.openlocfilehash: 3f26a80427a2a1c38949ca94848751527383d7f9
 ms.contentlocale: it-it
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/26/2017
 
 ---
-# <a name="managing-your-customer-relationships-using-dynamics-365-for-sales-from-inside-dynamics-nav"></a>Gestione delle relazioni clienti utilizzando Dynamics 365 for Sales tramite Dynamics NAV
+# <a name="managing-customers-and-sales-created-in-dynamics-365-for-sales"></a>Gestire clienti e vendite creati in Dynamics 365 for Sales
 Se si utilizza Dynamics 365 for Sales per l'interazione con i clienti, si può utilizzare [!INCLUDE[d365fin](includes/d365fin_md.md)] per l'elaborazione degli ordini e i dati finanziari e sfruttare un'integrazione ottimale nel processo dai lead agli incassi.
 
 Quando l'applicazione è impostata per l'integrazione con Dynamics 365 for Sales, è possibile accedere ai dati di vendita da [!INCLUDE[d365fin](includes/d365fin_md.md)] e viceversa, in alcuni casi. Questa integrazione consente di utilizzare e sincronizzare i tipi di dati che sono comuni a entrambi i servizi, quali clienti, contatti e informazioni sulle vendite, e mantenere i dati aggiornati in entrambe le ubicazioni.  
 
-Ad esempio, l'agente in Dynamics 365 for Sales può utilizzare i listini prezzi di [!INCLUDE[d365fin](includes/d365fin_md.md)] quando si crea un ordine di vendita. Quando si aggiunge l'articolo alla riga dell'ordine di vendita in Dynamics 365 for Sales, è possibile visualizzare il livello di magazzino (disponibilità) dell'articolo da [!INCLUDE[d365fin](includes/d365fin_md.md)]. Questi dati vengono generati nell'ambito della Guida al setup assistito, **Setup connessione a Dynamics 365**.  
+Ad esempio, l'agente in Dynamics 365 for Sales può utilizzare i listini prezzi di [!INCLUDE[d365fin](includes/d365fin_md.md)] quando si crea un ordine di vendita. Quando si aggiunge l'articolo alla riga dell'ordine di vendita in Dynamics 365 for Sales, è possibile visualizzare il livello di magazzino (disponibilità) dell'articolo da [!INCLUDE[d365fin](includes/d365fin_md.md)].
+
+Viceversa, i gestori ordini in [!INCLUDE[d365fin](includes/d365fin_md.md)] possono gestire le caratteristiche specifiche degli ordini di vendita trasferiti automaticamente o manualmente da Dynamics 365 for Sales, come creare e registrare automaticamente righe di ordini di vendita valide per articoli o risorse che sono stati inseriti in Sales come prodotti aggiunti. Per ulteriori informazioni, vedere la sezione “Gestione di dati di ordini di vendita speciali".  
+
+> [!NOTE]
+> Prima di integrare Dynamics 365 for Sales, è necessario effettuare varie preparazioni tecniche. Per ulteriori informazioni, vedere [Procedura: Impostare una connessione a Microsoft Dynamics CRM](https://msdn.microsoft.com/en-us/dynamics-nav/how-to-set-up-a-dynamics-crm-connection) e [Procedura: Impostare Microsoft Dynamics CRM per l'integrazione](https://msdn.microsoft.com/en-us/dynamics-nav/how-to-prepare-dynamics-crm-for-integration) su MSDN.
 
 ## <a name="setting-up-the-connection"></a>Impostazione della connessione
-Da casa, è possibile accedere alla Guida al setup assistito **Setup connessione a Dynamics 365** che consente di impostare la connessione. Una volta fatto questo, si avrà a disposizione un'associazione perfetta tra i record di Dynamics 365 for Sales e i record di [!INCLUDE[d365fin](includes/d365fin_md.md)].  
+Dalla home page, è possibile accedere alla Guida al setup assistito **Setup connessione a Dynamics 365 for Sales** che fornisce informazioni sull'impostazione della connessione. Una volta fatto questo, si avrà a disposizione un'associazione perfetta tra i record di Dynamics 365 for Sales e i record di [!INCLUDE[d365fin](includes/d365fin_md.md)].  
 
 > [!NOTE]  
->   Di seguito viene descritto il setup assistito, ma è possibile eseguire manualmente gli stessi task nella finestra **Setup connessione Dynamics 365**.
+> Di seguito viene descritto il setup assistito, ma è possibile eseguire manualmente gli stessi task nella finestra **Setup connessione Dynamics 365 for Sales**.
 
 Nella Guida di setup assistito, scegliere quali dati sincronizzare tra i due servizi. È inoltre possibile specificare se si desidera importare la soluzione Dynamics 365 for Sales esistente. In questo caso, specificare le credenziali per un account utente amministrativo.
 
@@ -75,6 +80,13 @@ Alla fine della Guida al setup assistito è possibile scegliere l'azione **Esegu
 Per controllare l'avanzamento dei singoli processi in una sincronizzazione completa, eseguire il drill down nel campo **Stato movimento coda processi**, **Stato processo a tabella di integrazione** o **Stato processo da tabella di integrazione** nella finestra **Revisione sincronizzazione completa CRM**.
 
 Nella finestra **Setup connessione Dynamics 365** è possibile ottenere in qualsiasi momento le informazioni sulla sincronizzazione completa. Da qui, è anche possibile aprire la finestra **Mapping tabella integrazione** per visualizzare ulteriori dettagli sulle tabelle nella soluzione Dynamics NAV e in Dynamics 365 for Sales da sincronizzare.
+
+## <a name="handling-special-sales-order-data"></a>Gestione di dati di ordini di vendita speciali
+Gli ordini di vendita in Dynamics 365 for Sales verranno trasferiti automaticamente in [!INCLUDE[d365fin](includes/d365fin_md.md)] se si seleziona la casella di controllo **Crea ordini di vendita automaticamente** nella finestra **Setup connessione a Microsoft Dynamics 365 for Sales**. In tali ordini di vendita, il campo **Nome** dell'ordine originale viene trasferito e mappato al campo **Nr. documento esterno** dell'ordine di vendita in [!INCLUDE[d365fin](includes/d365fin_md.md)].
+
+Ciò può anche avvenire se l'ordine di vendita originale contiene prodotti aggiunti, ovvero articoli o risorse che non sono registrati nei prodotti. In tal caso, è necessario compilare i campi **Tipo prodotto aggiunto** e **Nr. prodotto aggiunto** nella finestra **Setup contabilità clienti e vendite**, in modo che tali vendite di prodotti non registrate siano mappate a un numero di articolo/risorsa specificato per le analisi finanziarie.
+
+Se la descrizione dell'articolo nell'ordine di vendita originale è molto lunga, una riga aggiuntiva di tipo Commento viene creata per contenere tutto il testo nell'ordine di vendita in [!INCLUDE[d365fin](includes/d365fin_md.md)].
 
 ## <a name="see-also"></a>Vedi anche
 [Relationship Management](marketing-relationship-management.md)  

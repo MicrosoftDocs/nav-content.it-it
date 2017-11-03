@@ -12,10 +12,10 @@ ms.search.keywords: video, library, how to
 ms.date: 06/02/2017
 ms.author: bholtorf
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 25d26af01e3006fccf025d0f7c146e0bc8f501ee
+ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
+ms.openlocfilehash: 456bdf12b9fc30e3845b83099759df1b83935d56
 ms.contentlocale: it-it
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/23/2017
 
 ---
 # <a name="visit-our-video-library"></a>Visitare la videoteca
@@ -35,8 +35,8 @@ Per ulteriori informazioni su come iniziare rapidamente, è disponibile una vide
 
 > [!Tip]  
 > Oltre ai video, **Assistenza Business** include le risorse ad esempio i collegamenti agli argomenti e alle guide di setup assistite che semplificano il processo di impostazione. Le risorse sostituiscono il grafico in Gestione ruolo utente. Dopo aver esplorato le risorse, è possibile tornare al grafico nel menu **Assistenza Business** scegliendo **Mostra grafico**.  
-  
-È possibile visualizzare i video delle procedure e molti altri contenuti nel canale YouTube creato per Microsoft Dynamics NAV. Per visitare subito il canale, [fare clic qui](https://go.microsoft.com/fwlink/?linkid=851533).
+
+È possibile visualizzare i video delle procedure e molti altri contenuti nel canale YouTube creato per [!INCLUDE[navnow](includes/navnow_md.md)]. Per visitare subito il canale, [scegliere](https://go.microsoft.com/fwlink/?linkid=851533).
 
 ## <a name="see-also"></a>Vedi anche
 [Benvenuto in [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)] ](index.md)

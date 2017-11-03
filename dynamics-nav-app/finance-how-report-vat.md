@@ -11,10 +11,10 @@ ms.search.keywords: VAT, tax, report, EC sales list, statement
 ms.date: 07/17/2017
 ms.author: bholtorf
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 0d037a971aed33f11d82ba140909907d6bbfab52
+ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
+ms.openlocfilehash: b4a0bad8b703591622081a42d7615145965c4957
 ms.contentlocale: it-it
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/23/2017
 
 ---
 
@@ -77,7 +77,7 @@ Per dichiarare l'IVA a un'autorità fiscale elettronicamente, è necessario conn
 4. Per convalidare e preparare il report per l'invio, scegliere l'azione **Rilascio**.  
 
     >  [!NOTE]  
->   [!INCLUDE[d365fin](includes/d365fin_md.md)] verifica che il report sia impostato correttamente. Se la convalida ha esito negativo, gli errori vengono visualizzati in **Errori e avvisi** per consentirne la correzione. In genere, se il messaggio è relativo a un'impostazione mancante in [!INCLUDE[d365fin](includes/d365fin_md.md)], è possibile fare clic sul messaggio per aprire la pagina che contiene le informazioni da correggere.  
+>   [!INCLUDE[d365fin](includes/d365fin_md.md)] verifica che il report sia impostato correttamente. Se la convalida ha esito negativo, gli errori vengono visualizzati in **Errori e avvisi** per consentirne la correzione. In genere, se il messaggio è relativo a un'impostazione mancante in [!INCLUDE[d365fin](includes/d365fin_md.md)], è possibile scegliere il messaggio per aprire la pagina che contiene le informazioni da correggere.  
 5. Per inviare il report, scegliere l'azione **Invia**.  
 
 Dopo avere inviato il report, [!INCLUDE[d365fin](includes/d365fin_md.md)] controlla il servizio e memorizza un record delle comunicazioni. Il campo **Stato** indica se il report è in esecuzione. Ad esempio, quando le autorità elaborano il report, lo stato del report diventa **Operazione completata**. Se l'autorità fiscale trova errori nel report inviato, lo stato del report diventa **Operazione non riuscita**. È possibile visualizzare gli errori in **Errori e avvisi**, correggerli e quindi inviare il report nuovamente. Per visualizzare un elenco di tutti i report Lista vendite UE, andare alla pagina **Report lista vendite UE**.  

@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 8dee7a54cb086ffa8259f6523733b964ee2c080a
+ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
+ms.openlocfilehash: 4180eeabe2e81aabcfc54642e656fc8ef37157a7
 ms.contentlocale: it-it
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/23/2017
 
 ---
 # <a name="how-to-manage-notification-templates"></a>Procedura: Gestire i modelli di notifica
@@ -43,7 +43,7 @@ Le notifiche vengono inviate agli utenti del workflow per informarli sui passagg
 2.  Nella finestra **Modelli di notifica** selezionare il modello di notifica che si desidera modificare.  
 3.  Scegliere l'azione **Esporta contenuto modello**.  
 4.  Nella finestra **Esporta file** scegliere il pulsante **Salva**, quindi denominare e salvare il file HTML in un percorso appropriato.  
-5.  Fare clic con il pulsante destro del mouse sul file, selezionare **Apri con**, quindi scegliere il programma appropriato.  
+5.  Fare clic con il pulsante destro del mouse sul file, scegliere **Apri con**, quindi scegliere il programma appropriato.  
 
     > [!NOTE]  
     >  Il contenuto dei modelli di notifica di tipo messaggio di posta elettronica è in formato HTML. Il contenuto dei modelli di notifica di tipo nota è in formato TXT.  

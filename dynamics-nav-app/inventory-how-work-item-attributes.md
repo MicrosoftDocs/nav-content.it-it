@@ -12,10 +12,10 @@ ms.search.keywords: categories, search words, facets
 ms.date: 06/02/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: afc4e69a427fc2a1d97037489dda99486ddb010a
+ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
+ms.openlocfilehash: 32de1ddb65b2862ae1e1223bb386cd332cb43a3d
 ms.contentlocale: it-it
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/23/2017
 
 ---
 # <a name="how-to-work-with-item-attributes"></a>Procedura: Utilizzare gli attributi degli articoli
@@ -24,7 +24,7 @@ Quando i clienti richiedono informazioni su un articolo, per corrispondenza o in
 È inoltre possibile assegnare gli attributi degli articoli alle categorie di articoli, che quindi si applicano agli articoli che utilizzano le categorie di articoli. Per ulteriori informazioni, vedere [Procedura: Classificare gli articoli](inventory-how-categorize-items.md).
 
 > [!Tip]  
-> Se all'articolo vengono allegate delle immagini, l'estensione per l'analisi delle immagini può individuare gli attributi nell'immagine e suggerire gli attributi in modo che sia possibile specificare se assegnarli. L'estensione è pronta. È solo necessario abilitarla. Per ulteriori informazioni, vedere [Estensione di analisi immagini per Microsoft Dynamics NAV](ui-extensions-image-analyzer.md).
+> Se all'articolo vengono allegate delle immagini, l'estensione per l'analisi delle immagini può individuare gli attributi nell'immagine e suggerire gli attributi in modo che sia possibile specificare se assegnarli. L'estensione è pronta. È solo necessario abilitarla. Per ulteriori informazioni, vedere [Estensione di analisi immagini per [!INCLUDE[navnow](includes/navnow_md.md)]](ui-extensions-image-analyzer.md).
 
 ## <a name="to-create-item-attributes"></a>Per creare attributi articolo
 1. Scegliere l'icona ![Cerca pagina o report](media/ui-search/search_small.png "icona Cerca pagina o report"), immettere **Attributi articolo**, quindi scegliere il collegamento correlato.

@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 08/22/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 8d7fa49b4ad7afa584baebd8f8c1d22738653fdf
+ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
+ms.openlocfilehash: fa6677e2f856fd22ff56139332aa307919b0ab96
 ms.contentlocale: it-it
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/23/2017
 
 ---
 # <a name="how-to-work-with-serial-and-lot-numbers"></a>Procedura: Utilizzo dei numeri di serie e di lotto
@@ -114,7 +114,7 @@ Le regole esatte per la gestione dei numeri di tracciabilità degli articoli in 
 > [!NOTE]  
 >  Per utilizzare i numeri di tracciabilità articolo nelle attività di warehouse, è necessario selezionare i campi di setup **Tracciab. lotto in warehouse** e **Tracciab. NS in warehouse**, in quanto definiscono i principi speciali di gestione dei numeri di lotto e seriali nelle attività di warehouse.  
 
-1.  Scegliere l'icona ![Cerca pagina o report](media/ui-search/search_small.png "icona Cerca pagina o report"), immettere **Ordini di acquisto**, quindi scegliere il collegamento correlato.  
+1.  Scegliere l'icona ![Cerca pagina o report](media/ui-search/search_small.png "icona Cerca pagina o report"), immettere **Ordini acquisto**, quindi scegliere il collegamento correlato.  
 2.  Selezionare la riga di documento pertinente e, nella Scheda dettaglio **Righe**, scegliere l'azione **Riga** e quindi scegliere l'azione **Righe tracciabilità articolo**.  
 
     È possibile assegnare i numeri seriali o di lotto nei seguenti modi:  
@@ -219,7 +219,7 @@ La funzionalità supporta i seguenti processi in uscita:
 
 In queste situazioni le righe di tracciabilità articolo esistenti vengono copiate automaticamente nella fattura o nella nota di credito. La finestra  **Righe Tracciabilità Articolo** non consente tuttavia di apportare modifiche ai numeri seriali o di lotto. Solo quantità possono essere modificate.  
 
-1.  Scegliere l'icona ![Cerca pagina o report](media/ui-search/search_small.png "icona Cerca pagina o report"), immettere **Fatture acquisto**, quindi scegliere il collegamento correlato.  
+1.  Scegliere l'icona ![Cerca pagina o report](media/ui-search/search_small.png "icona Cerca pagina o report"), immettere **Fatture di acquisto**, quindi scegliere il collegamento correlato.  
 2.  Aprire una fattura di acquisto di articoli acquistati con numero seriale o numero di lotto.  
 3.  Da una riga della fattura di acquisto, nella Scheda dettaglio **Righe** scegliere l'azione **Prendi righe di carico**.  
 4.  Nella finestra **Prendi righe di carico** , selezionare le righe di carico che contengono righe di tracciabilità articolo e fare clic sul pulsante **OK** .  

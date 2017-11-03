@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 43d12d3f457bac60b40225559c5698f6a9531971
+ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
+ms.openlocfilehash: 6e54764ac0709fdc20e55cdc3b3f07c9f6c714d4
 ms.contentlocale: it-it
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/23/2017
 
 ---
 # <a name="italian-vat"></a>IVA italiana
@@ -37,9 +37,9 @@ Le società sono soggette al pagamento dell'IVA allo Stato per la maggior parte 
 ### <a name="non-deductible-vat"></a>IVA non detraibile  
  Non è possibile detrarre l'IVA per alcuni acquisti per i seguenti motivi:  
 
--   Tipologia di beni e servizi acquistati: l'IVA non è detraibile completamente o parzialmente per legge su beni quali automobili, telefoni cellulari, alimentari acquistati presso ristoranti e così via.  
+- Tipologia di beni e servizi acquistati: l'IVA non è detraibile completamente o parzialmente per legge su beni quali automobili, telefoni cellulari, alimentari acquistati presso ristoranti e così via.  
 
--   IVA proporzionale parzialmente detraibile: l'IVA viene ripartita proporzionalmente tra le operazioni di vendita soggette a IVA e tutte le operazioni eseguite. L'IVA eccedente questo rapporto non può essere detratta.  
+- IVA proporzionale parzialmente detraibile: l'IVA viene ripartita proporzionalmente tra le operazioni di vendita soggette a IVA e tutte le operazioni eseguite. L'IVA eccedente questo rapporto non può essere detratta.  
 
 ## <a name="service-tariffs"></a>Nomenclatura articoli in assistenza  
  L'Unione Europea (UE) ha emesso le direttive che cambiano la dichiarazione dell'IVA per il commercio transfrontaliere di beni o servizi nell'Unione Europea.  
@@ -49,9 +49,8 @@ Le società sono soggette al pagamento dell'IVA allo Stato per la maggior parte 
 ## <a name="vat-transaction-reports"></a>Report transazioni IVA  
  È necessario inviare periodicamente i report alle autorità fiscali per elencare le transazioni che includono l'IVA con importi superiori a una soglia specificata. I report transazioni IVA vengono creati in base alle transazioni con clienti o fornitori da un paese esterno all'UE e non incluso nella blacklist. Le transazioni con clienti o fornitori dai paesi UE sono riportate nei report **Intrastat**. Le transazioni con clienti o fornitori dai paesi inclusi nella blacklist sono riportate nel report **Report comunicazioni blacklist**. [!INCLUDE[navnow](../../includes/navnow_md.md)] fornisce il supporto per i seguenti tipi di transazione:  
 
-|||  
-|-|-|  
-|**Tipo di transazione**|**Supportata**|  
+|**Tipo di transazione**|**Supportata**|
+|--------------------|-------------|  
 |FE - Fatture cliente (fatture emesse)|Sì|  
 |FR - Fatture fornitore (fatture ricevute)|Sì|  
 |NE - Note di accredito cliente (note emesse)|Sì|  
@@ -62,22 +61,22 @@ Le società sono soggette al pagamento dell'IVA allo Stato per la maggior parte 
 
  [!INCLUDE[navnow](../../includes/navnow_md.md)] non dichiara i seguenti tipi di transazioni:  
 
--   Fatture pagamento anticipato, in quanto l'importo totale sarà riportato al momento della fattura finale.  
+- Fatture pagamento anticipato, in quanto l'importo totale sarà riportato al momento della fattura finale.  
 
--   Operazioni senza fattura, ad esempio, i movimenti IVA registrati nei conti di contabilità generale, perché un numero di partita IVA, un codice fiscale o un riferimento del cliente o del fornitore deve essere incluso nel report.  
+- Operazioni senza fattura, ad esempio, i movimenti IVA registrati nei conti di contabilità generale, perché un numero di partita IVA, un codice fiscale o un riferimento del cliente o del fornitore deve essere incluso nel report.  
 
--   Le transazioni autofatturate, che non sono supportate.  
+- Le transazioni autofatturate, che non sono supportate.  
 
- I report di transazioni IVA includono le righe in cui l'importo è oltre la soglia e le righe che devono essere incluse per altri motivi legali. L'importo di soglia viene impostato dalle autorità italiane.  
+I report di transazioni IVA includono le righe in cui l'importo è oltre la soglia e le righe che devono essere incluse per altri motivi legali. L'importo di soglia viene impostato dalle autorità italiane.  
 
- Le righe del documento contengono un campo per indicare se la riga deve essere inclusa nei report di transazione IVA. I campi **Includi in report transazioni IVA** vengono selezionati automaticamente in base al giorno della transazione e al confronto con l'importo di soglia dell'anno di calendario. Se le righe di vendita sono collegate a un ordine programmato, la soglia è confrontata con l'importo dell'ordine programmato. Questa opzione è valida solo per la riga di vendita di tipo **Articolo**. Per le righe di assistenza, il confronto viene eseguito con l'importo del contratto di assistenza.  
+Le righe del documento contengono un campo per indicare se la riga deve essere inclusa nei report di transazione IVA. I campi **Includi in report transazioni IVA** vengono selezionati automaticamente in base al giorno della transazione e al confronto con l'importo di soglia dell'anno di calendario. Se le righe di vendita sono collegate a un ordine programmato, la soglia è confrontata con l'importo dell'ordine programmato. Questa opzione è valida solo per la riga di vendita di tipo **Articolo**. Per le righe di assistenza, il confronto viene eseguito con l'importo del contratto di assistenza.  
 
 > [!NOTE]  
 >  Le note di credito vengono incluse nel report transazioni IVA se il cliente o il fornitore è di un paese esterno all'UE e non incluso nella blacklist.  
 
- Quando si registrano le note di credito, è necessario aggiornare il campo **Riferito a periodo** e specificare il periodo appropriato. I report di transazione IVA includono le note di credito in cui il campo **Riferito a periodo** è impostato su **Anno di calendario corrente** o **Anno di calendario precedente**.  
+Quando si registrano le note di credito, è necessario aggiornare il campo **Riferito a periodo** e specificare il periodo appropriato. I report di transazione IVA includono le note di credito in cui il campo **Riferito a periodo** è impostato su **Anno di calendario corrente** o **Anno di calendario precedente**.  
 
- [!INCLUDE[navnow](../../includes/navnow_md.md)] aggiunto le note di credito ai report IVA in modi diversi a seconda dello stato dell'applicazione e del valore del campo **Riferito a periodo**. Nella seguente tabella vengono illustrate gli scenari.  
+[!INCLUDE[navnow](../../includes/navnow_md.md)] aggiunto le note di credito ai report IVA in modi diversi a seconda dello stato dell'applicazione e del valore del campo **Riferito a periodo**. Nella seguente tabella vengono illustrate gli scenari.  
 
 |Scenario|Impatto|  
 |--------------|------------|  
@@ -89,7 +88,7 @@ Le società sono soggette al pagamento dell'IVA allo Stato per la maggior parte 
 
  Le transazioni con IVA intracomunitaria non sono incluse nei report di transazione IVA. Le transazioni con pagamenti anticipati non sono incluse nei report di transazione IVA.  
 
- Per prepararsi i dati per le dichiarazioni, è necessario impostare la registrazione IVA in modo da includere gli importi di dichiarazione della transazione IVA. Quando una transazione ad esempio la registrazione di una fattura di vendita viene eseguita utilizzando questo setup registrazioni IVA, [!INCLUDE[navnow](../../includes/navnow_md.md)] verifica se la transazione soddisfa gli importi di soglia. Il controllo è basato sulle righe del documento perché un documento può contenere le righe che devono essere incluse nel report transazione IVA e le righe che devono essere escluse. I report di transazione IVA devono contiene solo le righe che devono essere inviate, pertanto Microsoft Dynamics NAV confronta gli importi con la soglia per ogni riga anziché per un documento.  
+ Per prepararsi i dati per le dichiarazioni, è necessario impostare la registrazione IVA in modo da includere gli importi di dichiarazione della transazione IVA. Quando una transazione ad esempio la registrazione di una fattura di vendita viene eseguita utilizzando questo setup registrazioni IVA, [!INCLUDE[navnow](../../includes/navnow_md.md)] verifica se la transazione soddisfa gli importi di soglia. Il controllo è basato sulle righe del documento perché un documento può contenere le righe che devono essere incluse nel report transazione IVA e le righe che devono essere escluse. I report di transazione IVA devono contiene solo le righe che devono essere inviate, pertanto [!INCLUDE[navnow](../../includes/navnow_md.md)] confronta gli importi con la soglia per ogni riga anziché per un documento.  
 
  È necessario inviare il report transazioni IVA elettronicamente alle autorità fiscali. Per ulteriori informazioni, vedere [Procedura: Creare report elettronici di transazioni IVA](how-to-create-electronic-vat-transactions-reports.md).  
 

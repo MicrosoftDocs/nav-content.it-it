@@ -12,36 +12,28 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 9074bbd044235efda791f785b14a4848ecd4eb3b
+ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
+ms.openlocfilehash: 55ed1e1c547824aeeb38bbc52fd7ac745a037d07
 ms.contentlocale: it-it
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/23/2017
 
 ---
 # <a name="how-to-set-up-automatic-payments-and-automatic-bills"></a>Procedura: Impostare i pagamenti automatici e gli effetti automatici
 In [!INCLUDE[navnow](../../includes/navnow_md.md)], è possibile gestire i pagamenti e gli effetti automatici.  
 
- Per utilizzare i pagamenti e gli effetti automatici, è necessario impostare le informazioni pertinenti.  
+Per utilizzare i pagamenti e gli effetti automatici, è necessario impostare le informazioni pertinenti.  
 
-### <a name="to-add-bank-information-for-your-company"></a>Per aggiungere le informazioni relative alla banca della società  
+## <a name="to-add-bank-information-for-your-company"></a>Per aggiungere le informazioni relative alla banca della società  
 
-1.  Scegliere l'icona ![Cerca pagina o report](media/ui-search/search_small.png "icona Cerca pagina o report"), immettere **Informazioni società**, quindi scegliere il collegamento correlato.  
-
+1.  Scegliere l'icona ![Cerca pagina o report](../../media/ui-search/search_small.png "icona Cerca pagina o report"), immettere **Informazioni società**, quindi scegliere il collegamento correlato.  
 2.  Nella Scheda dettaglio **Pagamenti** compilare i campi chiave come indicato nella tabella seguente.  
 
     |Campo|Description|  
-    |---
-    titolo: Procedura: Impostare i pagamenti automatici e gli effetti automatici descrizione: In [!INCLUDE[navnow](../../includes/navnow_md.md)], è possibile gestire i pagamenti e gli effetti automatici.
-
-    documentationcenter: '' author: SorenGP
-
-    ms.prod: "dynamics-nav-2017" ms.topic: article ms.devlang: na ms.tgt_pltfrm: na ms.workload: na ms.search.keywords: ms.date: 07/01/2017 ms.author: sgroespe
-
----------------------------------|---------------------------------------|  
+    |------------------------------------|---------------------------------------|  
     |**Metodo di pagamento**|Selezionare il metodo di pagamento per il tipo dei pagamenti effettuati dal o al conto corrente bancario. Ad esempio, per il conto corrente bancario da utilizzare per i pagamenti automatici effettuati da clienti, selezionare un metodo di pagamento per bonifici bancari.|  
-    |**Conto effetti all'Incasso**|Specificare i conti di contabilità generale in cui verranno accreditati gli effetti per la riscossione.|  
+    |**Conto effetti all'Incasso**|Specificare il conto C/G sul quale verranno accreditati gli effetti per la riscossione.|  
     |**Conto effetti allo sconto**|Specificare i conti di contabilità generale in cui verranno addebitati gli sconti di effetti.|  
-    |**Conto effetti salvo buon fine**|Specificare i conti di contabilità generale in cui verranno accreditati gli effetti soggetti a riscossione.|  
+    |**Conto effetti salvo buon fine**|Specificare il conto C/G sul quale verranno accreditati gli effetti soggetti alla riscossione.|  
     |**Conto spesa effetti**|Specificare i conti di contabilità generale in cui verranno registrate le spese per le ricevute bancarie.|  
 
 5.  Scegliere il pulsante **OK**.  
@@ -51,12 +43,11 @@ In [!INCLUDE[navnow](../../includes/navnow_md.md)], è possibile gestire i pagam
     >   
     >  Prima di esportare un effetto cliente, è necessario selezionare il formato di pagamento nel campo **Formato esport. addebito dir. SEPA** nella finestra **Scheda conto corrente bancario**.  
 
- Di seguito viene descritto come impostare gli effetti automatici per vendite e incassi, ma gli stessi passaggi sono applicabili per l'impostazione di acquisti e debiti per l'utilizzo dei pagamenti automatici.  
+Di seguito viene descritto come impostare gli effetti automatici per vendite e incassi, ma gli stessi passaggi sono applicabili per l'impostazione di acquisti e debiti per l'utilizzo dei pagamenti automatici.  
 
-### <a name="to-set-up-automatic-bills-for-sales-and-receivables"></a>Per impostare gli effetti automatici per vendite e incassi  
+## <a name="to-set-up-automatic-bills-for-sales-and-receivables"></a>Per impostare gli effetti automatici per vendite e incassi  
 
-1.  Scegliere l'icona ![Cerca pagina o report](media/ui-search/search_small.png "icona Cerca pagina o report"), immettere **Setup contabilità clienti e vendite**, quindi scegliere il collegamento correlato.  
-
+1.  Scegliere l'icona ![Cerca pagina o report](../../media/ui-search/search_small.png "icona Cerca pagina o report"), immettere **Setup contabilità clienti e vendite**, quindi scegliere il collegamento correlato.  
 2.  Nella Scheda dettaglio **Effetti**, nel campo **Nr. temp. distinta effetto** selezionare il numero temporaneo della distinta effetti. Compilare i campi come indicato nella tabella seguente.  
 
     |Campo|Description|  
@@ -69,19 +60,17 @@ In [!INCLUDE[navnow](../../includes/navnow_md.md)], è possibile gestire i pagam
 
  A questo punto, è necessario specificare i codici effetto per i metodi di pagamento utilizzati per i pagamenti automatici e gli effetti automatici.  
 
-### <a name="to-specify-bill-codes-for-a-payment-method"></a>Per specificare i codici effetto per un metodo di pagamento  
+## <a name="to-specify-bill-codes-for-a-payment-method"></a>Per specificare i codici effetto per un metodo di pagamento  
 
-1.  Scegliere l'icona ![Cerca pagina o report](media/ui-search/search_small.png "icona Cerca pagina o report"), immettere **Metodi di pagamento**, quindi scegliere il collegamento correlato.  
-
+1.  Scegliere l'icona ![Cerca pagina o report](../../media/ui-search/search_small.png "icona Cerca pagina o report"), immettere **Metodi di pagamento**, quindi scegliere il collegamento correlato.  
 2.  Selezionare il metodo di pagamento utilizzato per i trasferimenti bancari ai fornitori, quindi nel campo **Cod. effetto**, selezionare un codice effetto.  
 
-    1.  Per creare un codice effetto, nel campo **Cod. effetto**, scegliere il campo quindi scegliere **Nuovo**.  
+    1.  Per creare un codice effetto, nel campo **Cod. effetto**, scegliere il campo quindi scegliere l'azione **Nuovo**.  
+    2.  Compilare i campi nella finestra **Effetto**.
 
-    2.  Compilare i campi nella finestra **Effetto**. Per ulteriori informazioni, vedere Effetto.  
-
- A questo punto, è possibile elaborare gli effetti cliente e fornitore in modo che vengano gestiti automaticamente.  
+A questo punto, è possibile elaborare gli effetti cliente e fornitore in modo che vengano gestiti automaticamente.  
 
 ## <a name="see-also"></a>Vedi anche  
- [Procedura: Impostare le condizioni di pagamento](../../how-to-set-up-payment-terms.md)   
+ [Definizione dei metodi di pagamento](../../finance-payment-methods.md)     
   [Funzionalità locale per l'Italia](italy-local-functionality.md)
 

@@ -12,10 +12,10 @@ ms.search.keywords: electronic document, Intrastat, trade, EU, European Union
 ms.date: 08/15/2017
 ms.author: bholtorf
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 210d8290c7f281d9dc63dc520cf0be71b9a20233
+ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
+ms.openlocfilehash: 1eb3a9a17f07806546022d941f923bc195c7c7fc
 ms.contentlocale: it-it
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/23/2017
 
 ---
 # <a name="how-to-set-up-and-report-intrastat"></a>Procedura: Impostare e registrare report Intrastat
@@ -74,7 +74,7 @@ Dopo aver compilato le registrazioni Intrastat, è possibile stampare il report 
 
 ### <a name="to-fill-in-intrastat-journals"></a>Per compilare le registrazioni Intrastat  
 1. Scegliere l'icona ![Cerca pagina o report](media/ui-search/search_small.png "Cerca pagina o report"), immettere **Registrazioni Intrastat**, quindi scegliere il collegamento correlato.  
-2. Nella pagina **Registrazioni Intrastat**, nel campo **Nome batch** scegliere il batch di registrazioni interessato e quindi scegliere **OK**.  
+2. Nella pagina **Registrazioni Intrastat**, nel campo **Nome batch** scegliere il batch di registrazioni interessato e quindi scegliere il pulsante **OK**.  
 3. Scegliere l'azione **Suggerisci righe**. I campi **Data inizio** e **Data fine** verranno compilati automaticamente con le date specificate per il periodo statistico del batch di registrazioni.  
 4. Nel campo **% regolazione costi** è possibile immettere una percentuale per coprire trasporto e assicurazione. In questo caso il valore contenuto del campo **Valore Statistico** sarà proporzionalmente maggiore.  
 5. Selezionare **OK** per avviare il processo batch.  
@@ -101,7 +101,7 @@ Per ottenere le informazioni richieste nel modulo Intrastat dagli enti di statis
 2. Nella finestra **Registrazioni Intrastat** selezionare il batch contabile desiderato nel campo **Nome batch**.  
 3. Se non è stato fatto in precedenza, compilare le registrazioni manualmente o scegliendo **Suggerisci righe**.  
 4. Scegliere l'azione **Crea file**.  
-5. Nella finestra del processo batch fare clic su **OK**.  
+5. Nella finestra del processo batch, scegliere il pulsante **OK**.  
 6. Selezionare **Salva**.  
 7. Spostarsi sul percorso in cui si desidera salvare il file, quindi immettere il nome file desiderato e fare clic su **Salva**. 
 

@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: ca6e6f1fd6bf6c9d9a26a9e42fca8b9c4931f89d
+ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
+ms.openlocfilehash: aa0578c7311fcd997653c6dc6d31325abd1d367c
 ms.contentlocale: it-it
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/23/2017
 
 ---
 # <a name="how-to-create-service-orders"></a>Procedura: Creare ordini di assistenza
@@ -100,7 +100,7 @@ Gli ordini di assistenza non vengono, tuttavia, eliminati automaticamente se la 
 
 1. Scegliere l'icona ![Cerca pagina o report](media/ui-search/search_small.png "Cerca pagina o report"), immettere **Elimina ordini assistenza fatturati**, quindi scegliere il collegamento correlato. Verrà visualizzata la finestra di richiesta del processo batch **Elimina ordini assistenza fatturati**.  
 2. Per selezionare gli ordini da eliminare, è possibile impostare filtri nei campi **Nr.**, **Nr. cliente** e **Fatturare a - Nr. cliente**. .  
-3. Selezionare **OK**.  
+3. Scegliere il pulsante **OK**.  
 
 
 ## <a name="see-also"></a>Vedi anche  
