@@ -1,6 +1,6 @@
 ---
 title: Utilizzo dell'estensione dei codici postali GetAddress.io per il Regno Unito
-description: "Recuperare gli indirizzi per entit√† come clienti, fornitori, dipendenti e banche nel Regno Unito dal servizio GetAddress.io."
+description: "Recuperare gli indirizzi per entit‡ come clienti, fornitori, dipendenti e banche nel Regno Unito dal servizio GetAddress.io."
 documentationcenter: 
 author: bholtorf
 ms.prod: dynamics-nav-2017
@@ -20,20 +20,18 @@ ms.lasthandoff: 10/16/2017
 ---
 
 # <a name="the-getaddressio-uk-postcodes-extension-to-microsoft-dynamics-nav"></a>Estensione dei codici postali di GetAddress.io per il Regno Unito per Microsoft Dynamics NAV
-L'estensione dei codici postali di GetAddress.io per il Regno Unito pu√≤ far risparmiare tempo ed evitare errori durante l'inserimento degli indirizzi per entit√† come clienti, fornitori, conti bancari e impiegati. Ad esempio, quando si crea un cliente, si sceglie solo un codice postale e in [!INCLUDE[d365fin](includes/d365fin_md.md)] viene visualizzata una lista di indirizzi. Selezionare l'indirizzo che si desidera e in un attimo i campi degli indirizzi sono compilati.  
+L'estensione dei codici postali di GetAddress.io per il Regno Unito puÚ far risparmiare tempo ed evitare errori durante l'inserimento degli indirizzi per entit‡ come clienti, fornitori, conti bancari e impiegati. Ad esempio, quando si crea un cliente, si sceglie solo un codice postale e in [!INCLUDE[d365fin](includes/d365fin_md.md)] viene visualizzata una lista di indirizzi. Selezionare l'indirizzo che si desidera e in un attimo i campi degli indirizzi sono compilati.  
 
 ##<a name="to-use-the-getaddressio-uk-postcodes-extension-when-you-enter-an-address"></a>Per utilizzare l'estensione dei codici postali di GetAddress.io per il Regno Unito quando viene immesso un indirizzo
 1. In **Indirizzo** scegliere **Cercare l'indirizzo dal codice postale**.  
 
     > [!NOTE]  
->   L'opzione **Cercare l'indirizzo dal codice postale** √® disponibile solo se il campo **Codice paese** √® vuoto o contiene **GB**.
+>   L'opzione **Cercare l'indirizzo dal codice postale** Ë disponibile solo se il campo **Codice paese** Ë vuoto o contiene **GB**.
 2. Nella finestra **Ricerca del codice postale**, nel campo **CAP**, immettere o scegliere il codice postale.  
 3. Nella finestra **Selezione Indirizzo** selezionare l'indirizzo.  
 
 > [!TIP]  
->   Se si conosce il numero della via, √® possibile filtrare gli indirizzi immettendo il numero completo o parziale nel campo **Punto di consegna**.
+>   Se si conosce il numero della via, Ë possibile filtrare gli indirizzi immettendo il numero completo o parziale nel campo **Punto di consegna**.
 
 
-## <a name="see-also"></a>Vedi anche
-[Impostare l'estensione dei codici postali GetAddress.io per il Regno Unito](LocalFunctionality/UnitedKingdom/uk-setup-postal-code-service.md)
 
