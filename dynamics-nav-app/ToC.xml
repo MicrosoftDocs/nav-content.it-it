@@ -379,10 +379,4 @@
     <Node Name="" DisplayName="Dettagli di progettazione: Tracciabilità articolo" Page="design-details-item-tracking.html"/>
     <Node Name="" DisplayName="Dettagli di progettazione: riga di registrazione di contabilità generale" Page="design-details-general-journal-post-line.html"/>
   </Node>
-  <Node Name="" DisplayName="Funzionalità locale" Page="index.html">
-    <Node Name="" DisplayName="Canada" Page="LocalFunctionality/Canada/canada-local-functionality.html"/>
-    <Node Name="" DisplayName="Danimarca" Page="LocalFunctionality/Denmark/denmark-local-functionality.html"/>
-    <Node Name="" DisplayName="Gran Bretagna" Page="LocalFunctionality/UnitedKingdom/united-kingdom-local-functionality.html"/>
-    <Node Name="" DisplayName="Stati Uniti" Page="LocalFunctionality/UnitedStates/united-states-local-functionality.html"/>
-  </Node>
 </Node>
