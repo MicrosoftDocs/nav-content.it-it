@@ -57,5 +57,3 @@ Per alcune aree, è necessario disporre di privilegi di amministratore nella sot
 [Impostazione e amministrazione in [!INCLUDE[d365fin](includes/d365fin_md.md)]](admin-setup-and-administration.md)  
 [Benvenuto in [!INCLUDE[d365fin](includes/d365fin_md.md)]](index.md)  
 
-##
-
