@@ -8,13 +8,13 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: setup wizard
-ms.date: 08/23/2017
+ms.date: 02/11/2017
 ms.author: solsen
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 3162ca9bc53f862c1602f96ddf5eb7e9c7125005
+ms.sourcegitcommit: 3554bd08bf30f5faca43b4308a91f3c66e1baded
+ms.openlocfilehash: 30a9b0a3a283660359702788423811f756c94955
 ms.contentlocale: it-it
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 11/02/2017
 
 ---
 # <a name="welcome-to-included365finlongincludesd365finlongmdmd"></a>Benvenuto in [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]
@@ -39,7 +39,7 @@ Le home page utilizzano un design basato sui ruoli per consentire l'accesso rapi
 
 Ogni home page include un pulsante **Setup ed estensioni**. Qui è possibile accedere a un elenco di setup assistiti che consente di iniziare impostando rapidamente le aree selezionate. Se un'area non è gestita dall'impostazione assistita, scegliere l'azione **Setup manuale** per accedere alle finestre di setup dove è possibile compilare manualmente i campi per l'impostazione di tutte le aree. Per ulteriori informazioni, vedere anche [Impostazione di [!INCLUDE[d365fin](includes/d365fin_md.md)]](setup.md).  
 
-| Setup assistito | Description |
+| Setup assistito | Descrizione |
 | --- | --- |
 | Migra dati aziendali |Consente di importare i dati della società esistente come i fornitori, clienti e articoli da Excel o Quickbooks. |
 | Imposta società |Crea una nuova società di prova per immettere i dati e per provare [!INCLUDE[d365fin](includes/d365fin_md.md)]. Se si utilizza la presentazione di Introduzione questa operazione è già probabilmente **Completata**. |
