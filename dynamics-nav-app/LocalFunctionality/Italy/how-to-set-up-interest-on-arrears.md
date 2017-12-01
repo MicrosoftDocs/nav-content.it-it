@@ -3,7 +3,7 @@ title: 'Procedura: Impostare gli interessi di mora'
 description: "Per ciascuna condizione di addebito degli interessi, è possibile specificare come gli interessi di mora devono essere calcolati. È possibile impostare i calcoli di addebito degli interessi con diversi tassi di interesse per diversi periodi."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

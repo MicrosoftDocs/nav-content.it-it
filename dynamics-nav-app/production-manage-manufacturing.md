@@ -3,7 +3,7 @@ title: Esecuzione della produzione
 description: Quando una domanda viene pianificata e i materiali vengono emessi in base alle DB di produzione, le operazioni di produzione effettive possono essere avviate ed eseguite nella sequenza definita dal ciclo dell'ordine di produzione.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

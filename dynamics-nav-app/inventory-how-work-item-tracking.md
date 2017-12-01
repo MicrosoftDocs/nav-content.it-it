@@ -3,7 +3,7 @@ title: Come assegnare i numeri seriali e i numeri di lotto agli articoli per ten
 description: "È possibile aggiungere i numeri di serie e di lotto in qualsiasi documento in entrata o in uscita e visualizzare i relativi movimenti tracciabilità articolo registrati nei movimenti contabili articolo correlati."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

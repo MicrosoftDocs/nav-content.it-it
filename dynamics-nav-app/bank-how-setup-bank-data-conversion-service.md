@@ -3,7 +3,7 @@ title: Impostare il servizio di conversione dati bancari
 description: "È possibile impostare i conti correnti bancari per tenere traccia delle transazioni e importare o esportare i feed bancari."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

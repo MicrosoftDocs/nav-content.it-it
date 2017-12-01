@@ -3,7 +3,7 @@ title: Creazione di budget di costi
 description: Questo argomento fornisce informazioni su dove creare e analizzare budget costi.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

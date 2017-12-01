@@ -3,7 +3,7 @@ title: Contabilizzazione dei costi
 description: "La contabilità industriale viene utilizzata per comprendere i costi operativi di un'attività. Per un'introduzione sulla contabilità industriale, vedere i seguenti argomenti."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

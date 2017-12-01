@@ -2,7 +2,7 @@
 title: Ricevere e convertire documenti elettronici
 description: "È possibile ricevere documenti elettronici direttamente da partner commerciali o da un servizio OCR."
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

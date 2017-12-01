@@ -3,7 +3,7 @@ title: "Creare società contatto"
 description: "Descrive come creare un contatto per ogni società nuova o potenziale con cui si interagisce o si hanno relazioni."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

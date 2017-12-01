@@ -3,7 +3,7 @@ title: Creare fatture o note di credito per servizi
 description: Informazioni su come creare fatture per poter essere pagati per il servizio di assistenza fornito.
 documentationcenter: 
 author: bholtorf
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

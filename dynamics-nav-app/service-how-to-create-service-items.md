@@ -2,7 +2,7 @@
 title: Come creare articoli in assistenza
 description: "Quando si riceve un articolo non registrato per l'assistenza è possibile registrarlo come articolo in assistenza."
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

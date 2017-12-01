@@ -3,7 +3,7 @@ title: Dettagli di progettazione - Bilanciamento approvvigionamento con domanda
 description: Il cuore del sistema di pianificazione implica il bilanciamento tra domanda e approvvigionamento per mezzo di azioni suggerite all'utente per riesaminare gli ordini di approvvigionamento nel caso di sbilanciamento. Questa operazione viene eseguita per combinazione di variante e ubicazione.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

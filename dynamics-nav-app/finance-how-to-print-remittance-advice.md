@@ -3,7 +3,7 @@ title: Come stampare l'avviso di rimessa
 description: "È possibile aiutare i fornitori a eseguire le riconciliazioni stampando l'avviso di rimessa prima di effettuare una registrazione pagamenti e dopo la registrazione di un pagamento."
 documentationcenter: 
 author: bholtorf
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

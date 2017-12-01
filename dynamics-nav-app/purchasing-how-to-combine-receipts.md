@@ -3,7 +3,7 @@ title: Come cumulare i carichi
 description: "Se si desidera fatturare più di un carico di acquisto per volta, utilizzare la funzione Cumula carichi."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

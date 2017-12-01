@@ -3,7 +3,7 @@ title: "Impostare la contabilità generale cespiti"
 description: "Prima di utilizzare i cespiti occorre impostare i conti di default in contabilità generale, le categorie di registrazione, le chiavi di allocazione, le definizioni e i batch utilizzati per la registrazione e i codici di classe."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

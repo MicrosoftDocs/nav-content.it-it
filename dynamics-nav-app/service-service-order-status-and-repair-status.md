@@ -3,7 +3,7 @@ title: Stato ordine assistenza e stato riparazione
 description: Il campo **Stato** nella finestra **Ordine assistenza** e lo stato di riparazione dell'ordine di assistenza, rappresentato dal campo **Codice stato riparazione** nella finestra **Ordine assistenza**, sono correlati in Gestione assistenza. Lo stato dell'ordine di assistenza corrisponde allo stato di riparazione degli articoli in assistenza nell'ordine di assistenza.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

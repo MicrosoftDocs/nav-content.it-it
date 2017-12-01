@@ -2,7 +2,7 @@
 title: Come modificare l'importo annuo dei contratti di assistenza o delle offerte di contratto
 description: "È possibile modificare l'importo che verrà fatturato annualmente per i contratti di assistenza o le offerte di contratto."
 author: bholtorf
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

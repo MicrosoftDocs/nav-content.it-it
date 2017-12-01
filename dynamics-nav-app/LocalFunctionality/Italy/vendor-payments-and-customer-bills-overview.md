@@ -3,7 +3,7 @@ title: Panoramica di pagamenti fornitori ed effetti clienti
 description: "In [!INCLUDE[navnow](../../includes/navnow_md.md)], è possibile gestire gli effetti automatici per i clienti e dai fornitori."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

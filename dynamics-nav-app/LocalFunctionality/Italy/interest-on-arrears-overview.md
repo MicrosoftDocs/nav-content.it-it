@@ -3,7 +3,7 @@ title: Panoramica degli interessi di mora
 description: In [!INCLUDE[navnow](../../includes/navnow_md.md)], le condizioni di interessi finanziari possono includere gli interessi di mora se sono disponibili importi insoluti di clienti o importi insoluti di fornitori.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

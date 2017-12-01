@@ -3,7 +3,7 @@ title: Storno di scritture contabili
 description: "Nella finestra **Storna movimenti transazioni** sono stati aggiunti alcuni controlli per garantire la conformità alle normative locali."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

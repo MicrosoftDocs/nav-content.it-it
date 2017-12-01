@@ -3,7 +3,7 @@ title: Come creare gli ordini di produzione dagli ordini di vendita
 description: "È possibile creare ordini di produzione dagli ordini di vendita nell'area di applicazione Vendite e marketing."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

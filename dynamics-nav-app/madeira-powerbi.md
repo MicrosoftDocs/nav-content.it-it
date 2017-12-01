@@ -2,7 +2,7 @@
 title: Pacchetti di contenuto per Dynamics NAV e Power BI
 description: "Ottenere informazioni approfondite, business intelligence e KPI sui dati di Dynamics NAV è semplice con Power BI e con i pacchetti di contenuto di Dynamics NAV."
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: get-started-article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: "Come utilizzare l'unità di misura batch di produzione"
 description: "Se un articolo viene inserito in stock utilizzando un'unità di misura ma viene prodotto in un'altra, l'ordine di produzione deve utilizzare un'unità di misura batch di produzione per calcolare la quantità corretta di componenti. Un esempio di calcolo di un'unità di misura è il caso in cui un articolo prodotto viene inserito in stock in pezzi, ma viene prodotto in tonnellate."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

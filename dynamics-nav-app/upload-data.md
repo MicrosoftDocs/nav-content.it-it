@@ -2,7 +2,7 @@
 title: Importare i dati di gestione legacy in Dynamics NAV
 description: "È possibile migrare i dati relativi a clienti, fornitori e magazzino, ad esempio, da Excel, QuickBooks o Dynamics GP in Dynamics NAV."
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

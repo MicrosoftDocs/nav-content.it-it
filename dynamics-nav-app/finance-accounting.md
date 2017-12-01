@@ -2,7 +2,7 @@
 title: Esperienza di contabile in Dynamics NAV
 description: "Informazioni sul portale per contabili per Dynamics NAV e la Gestione ruolo utente Contabile che supporta i contabili interni ed esterni nella società client."
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

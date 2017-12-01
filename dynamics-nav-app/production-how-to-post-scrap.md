@@ -3,7 +3,7 @@ title: Come registrare lo scarto manualmente
 description: "Nelle registrazioni output può essere inserito lo scarto eventualmente prodotto. Si noti che la quantità di scarto non va ad aumentare la quantità di output."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

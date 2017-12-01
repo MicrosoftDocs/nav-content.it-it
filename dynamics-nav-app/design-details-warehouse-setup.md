@@ -3,7 +3,7 @@ title: Dettagli di progettazione - Impostazione warehouse
 description: "La funzionalità di warehouse in [!INCLUDE[d365fin](includes/d365fin_md.md)] contiene livelli diversi di complessità, che sono definiti dalle autorizzazioni di licenza nelle funzionalità offerte. Il livello di complessità in una soluzione warehouse è in gran parte definito dall'impostazione di collocazione nelle schede ubicazione, che a sua volta viene controllata dalla licenza perché l'accesso ai campi dell'impostazione di collocazione è definito dalla licenza."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

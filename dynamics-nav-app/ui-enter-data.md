@@ -2,7 +2,7 @@
 title: Come immettere dati nei campi
 description: Numerose funzioni generali consentono di immettere dati in modo semplice e veloce. In questo argomento sono descritte tutte le funzioni generali per l'immissione di dati.
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

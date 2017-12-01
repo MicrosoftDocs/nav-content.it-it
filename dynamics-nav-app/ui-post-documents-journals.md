@@ -3,7 +3,7 @@ title: Panoramica della contabilizzazione di documenti e registrazioni
 description: "Descrive le azioni di registrazione e i modi in cui è possibile contabilizzare documenti e registrazioni."
 documentationcenter: 
 author: SusanneWindfeldPedersen
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

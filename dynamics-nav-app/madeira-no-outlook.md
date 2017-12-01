@@ -3,7 +3,7 @@ title: Utilizzo di Dynamics NAV senza Outlook
 description: "È possibile utilizzare Dynamics NAV come Posta in arrivo aziendale in Outlook perché è possibile integrarlo con Office 365; tuttavia, è anche possibile non utilizzare Outlook e usare invece un browser o il dispositivo mobile."
 documentationcenter: 
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: get-started-article
 ms.devlang: na
 ms.tgt_pltfrm: na

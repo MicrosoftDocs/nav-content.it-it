@@ -2,7 +2,7 @@
 title: Informazioni sul framework di scambio dei dati
 description: Il formato di file per lo scambio di dati in file bancari, documenti elettronici, tassi di cambio e altro mediante i sistemi ERP varia in base al provider del file o del flusso di dati e al paese.
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

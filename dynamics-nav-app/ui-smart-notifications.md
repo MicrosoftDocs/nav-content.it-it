@@ -3,7 +3,7 @@ title: Utilizzare le notifiche smart e specificare quando visualizzarle
 description: "È possibile ricevere notifiche con informazioni sulle modifiche di stato o di eventi, ad esempio, per un saldo scaduto o un magazzino in esaurimento."
 documentationcenter: 
 author: bholtorf
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

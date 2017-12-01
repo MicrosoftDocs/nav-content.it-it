@@ -3,7 +3,7 @@ title: Procedura dettagliata - Vendita, assemblaggio e spedizione di kit
 description: "Per supportare un magazzino JIT (just-in-time) e la capacità di personalizzare i prodotti in base alle richieste del cliente, gli ordini di assemblaggio possono essere automaticamente creati e collegati non appena viene creata la riga ordine di vendita. Il collegamento tra la domanda di vendita e l'approvvigionamento di assemblaggio consente ai gestori dell'ordine di vendita di personalizzare l'articolo di assemblaggio al fine di comunicare le date di consegna in base alla disponibilità dei componenti. Inoltre, con la spedizione dell'ordine di vendita collegato vengono registrati automaticamente l'output e il consumo in fase di assemblaggio."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

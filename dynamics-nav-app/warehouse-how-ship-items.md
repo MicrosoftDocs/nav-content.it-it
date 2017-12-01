@@ -3,7 +3,7 @@ title: Come spedire articoli
 description: "A seconda della configurazione della warehouse, è possibile registrare la spedizione del documento aziendale in uscita correlato, ad esempio un ordine di vendita, direttamente, oppure è possibile utilizzare i documenti di spedizione warehouse che rispettano un flusso di lavoro e si integrano alle diverse attività di warehouse."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

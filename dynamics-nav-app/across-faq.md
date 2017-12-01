@@ -2,7 +2,7 @@
 title: Domande frequenti su Dynamics NAV
 description: Risposte alle domande comuni su come iscriversi a Dynamics NAV e cosa fare per iniziare.
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

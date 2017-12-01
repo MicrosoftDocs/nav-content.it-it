@@ -3,7 +3,7 @@ title: Come pianificare gli ordini di progetto
 description: "Questa attività di pianificazione viene avviata da un ordine di vendita e utilizza la finestra **Pianifica ordine vendita**. Al termine della creazione di un ordine di produzione progetto, è possibile eseguire un'ulteriore pianificazione mediante la finestra **Pianificazione ordini**."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

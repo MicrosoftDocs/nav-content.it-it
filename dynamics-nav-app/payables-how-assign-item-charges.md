@@ -3,7 +3,7 @@ title: Assegnare addebiti articoli a vendite e acquisti
 description: "Se si desidera aggiungere ai movimenti di magazzino ulteriori costi, quali spedizione, gestione fisica, assicurazione e trasporto sostenuti per l'acquisto o la vendita degli articoli, è possibile utilizzare la funzionalità Addebiti articoli."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

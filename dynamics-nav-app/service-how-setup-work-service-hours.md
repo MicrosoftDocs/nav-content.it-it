@@ -3,7 +3,7 @@ title: Come impostare le ore di lavoro e le ore di assistenza
 description: "È possibile specificare le ore lavorative solitamente dedicate all'assistenza nell'azienda. Le ore di assistenza vengono utilizzate per calcolare la data e l'ora di risposta per gli ordini e le offerte di assistenza e per inviare degli avvisi relativi all'ora di risposta."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

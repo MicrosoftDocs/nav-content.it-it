@@ -3,7 +3,7 @@ title: Impostare la posta elettronica
 description: "Descrive come utilizzare il server SMTP della società per inviare e ricevere messaggi e-mail all'interno di Dynamics NAV o, in alternativa, come utilizzare le impostazioni del server di posta elettronica create con la sottoscrizione di Office 365."
 documentationcenter: 
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: get-started-article
 ms.devlang: na
 ms.tgt_pltfrm: na

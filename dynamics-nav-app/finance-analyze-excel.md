@@ -2,7 +2,7 @@
 title: Utilizzare le sintesi finanziarie in Excel
 description: Informazioni su come aprire i rendiconti finanziari in Microsoft Excel da Dynamics NAV per una migliore analisi.
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

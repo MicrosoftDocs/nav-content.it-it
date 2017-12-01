@@ -3,7 +3,7 @@ title: Dettagli di progettazione - Gestione ordini prima della data di inizio pi
 description: In questo argomento vengono descritte le regole che la pianificazione applica agli ordini nella zona bloccata.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

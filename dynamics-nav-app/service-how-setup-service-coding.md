@@ -3,7 +3,7 @@ title: Impostare codici per servizi standard
 description: "Informazioni su come impostare i codici per le attività di assistenza eseguite di frequente."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: Come impostare i centri di costo
 description: "I centri di costo sono i reparti responsabili dei costi e delle entrate. Il grafico dei centri di costo è simile alle informazioni sulle dimensioni relative alla contabilità generale."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: Impostare attributi di articoli e assegnarli agli articoli
 description: Descrive come impostare i valori di attributo articolo, ad esempio che possono essere utilizzati come parole di ricerca, e come assegnarli agli articoli e alle categorie di articoli.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

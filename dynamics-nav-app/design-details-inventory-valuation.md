@@ -3,7 +3,7 @@ title: Dettagli di progettazione - Valutazione di magazzino
 description: "La valutazione di magazzino XE \"Valutazione magazzino\" è la determinazione del costo assegnato a un articolo di magazzino, espresso dalla seguente equazione."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

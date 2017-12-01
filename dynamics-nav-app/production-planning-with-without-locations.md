@@ -3,7 +3,7 @@ title: Pianificazione con o senza ubicazioni
 description: "È importante comprendere la pianificazione con o senza codici ubicazione nelle righe della domanda."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

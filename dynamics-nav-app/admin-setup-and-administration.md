@@ -2,7 +2,7 @@
 title: Task amministrativi in Dynamics NAV
 description: Alcuni task in [! INCLUDA] [d365fin (includes/d365fin_md.md)] richiedono un setup e un'amministrazione centrale. In questa sezione, viene fornita una descrizione di tali task e informazioni su come utilizzarli.
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: Come dichiarare operazioni commerciali con clienti e fornitori in paesi i
 description: "È necessario inviare un report periodico delle transazioni con clienti e fornitori in paesi che il governo italiano ha incluso in una blacklist."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

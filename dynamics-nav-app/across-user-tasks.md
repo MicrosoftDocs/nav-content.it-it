@@ -2,7 +2,7 @@
 title: Assegnazione e gestione di task
 description: Ottenere informazioni su come assegnare task agli utenti, incluso il proprio contabile, in Dynamics NAV
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

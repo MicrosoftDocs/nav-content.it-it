@@ -3,7 +3,7 @@ title: "Transazioni tra società della stessa organizzazione"
 description: "Utilizzando la funzionalità intercompany, è possibile semplificare i processi aziendali e le transazioni tra società all'interno della stessa organizzazione."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

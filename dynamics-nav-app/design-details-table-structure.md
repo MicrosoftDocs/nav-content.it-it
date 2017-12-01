@@ -3,7 +3,7 @@ title: Dettagli di progettazione - Struttura della tabella
 description: "Per comprendere in che modo sono state riprogettate l'archiviazione e la registrazione dei movimenti dimensione, è importante comprendere la struttura della tabella."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

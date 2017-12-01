@@ -3,7 +3,7 @@ title: Abilitare i pagamenti clienti tramite i servizi di pagamento
 description: Facilitare ai clienti il pagamento delle fatture abilitando i servizi di pagamento.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

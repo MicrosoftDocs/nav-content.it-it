@@ -3,7 +3,7 @@ title: Utilizzare i fogli presenza per le commesse
 description: Descrive come creare un foglio presenze per una commessa, copiarvi le righe di pianificazione, definire i tipi di lavoro, compilare il foglio di presenze e inviarlo per l'approvazione.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: "Informazioni sulle modalità di registrazione dei documenti di acquisto"
 description: Informazioni sulle diverse funzioni di registrazione per i documenti di acquisto.
 documentationcenter: 
 author: SusanneWindfeldPedersen
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

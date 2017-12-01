@@ -3,7 +3,7 @@ title: Come creare una previsione di produzione
 description: "Nella finestra **Previsione di produzione** è possibile creare previsioni di produzione e di vendita."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

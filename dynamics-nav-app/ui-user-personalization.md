@@ -3,7 +3,7 @@ title: Personalizzazione della visualizzazione di informazioni per un account ut
 description: Descrive come personalizzare l'aspetto di Dynamics NAV per il proprio account utente.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: Impostazione della registrazione delle transazioni intercompany
 description: Creare i fornitori e i clienti intercompany come partner intercompany e impostare un piano dei conti intercompany.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: Impostazione di un'analisi di un flusso di cassa
 description: "Impostare i grafici nella Gestione ruolo utente Conti per consentire di analizzare il flusso di denaro nell'attività commerciale, incluse uscite ed entrate, liquidità, incassi meno i pagamenti in contanti."
 documentationcenter: 
 author: bholtorf
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

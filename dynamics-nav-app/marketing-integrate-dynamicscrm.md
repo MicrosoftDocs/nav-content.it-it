@@ -3,7 +3,7 @@ title: Gestire i clienti tramite Dynamics 365 for Sales
 description: "È possibile utilizzare Dynamics 365 for Sales tramite Dynamics NAV per mappare i dati e sfruttare l'integrazione ottimale e la sincronizzazione nel processo dai lead agli incassi."
 documentationcenter: 
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: Come impostare gli oggetti di costo
 description: "Informazioni su come impostare oggetti di costo, i quali sono simili alle dimensioni relative alla contabilità generale."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

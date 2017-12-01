@@ -3,7 +3,7 @@ title: "Impostare le attività bancarie"
 description: Utilizzare le schede di conto corrente bancario per tenere traccia dei conti bancari e impostare i feed della banca per scambiare dati.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

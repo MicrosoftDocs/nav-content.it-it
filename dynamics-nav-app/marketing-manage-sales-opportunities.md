@@ -3,7 +3,7 @@ title: "Gestire opportunità di vendita e clienti potenziali"
 description: "Descrive la gestione delle nuove opportunità di vendita o dei clienti potenziali in Dynamics NAV e l'associazione dell'opportunità con un agente per tenere traccia delle vendite potenziali."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

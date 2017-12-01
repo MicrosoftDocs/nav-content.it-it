@@ -3,7 +3,7 @@ title: 'Procedura: Gestire le assenze di un impiegato'
 description: Descrive come registrare le assenze dei dipendenti e analizzare le statistiche sulle assenze.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

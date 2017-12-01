@@ -2,7 +2,7 @@
 title: Collegare i movimenti contabili clienti per riconciliare manualmente i pagamenti dei clienti
 description: "Descrive come collegare gli incassi o i rimborsi del cliente a uno o più movimenti contabili aperti del cliente e riconciliare i pagamenti del cliente."
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

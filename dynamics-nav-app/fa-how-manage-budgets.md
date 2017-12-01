@@ -3,7 +3,7 @@ title: Gestire budget per i cespiti
 description: Impostare le informazioni relative agli investimenti futuri, alle cessioni e all'ammortamento dei cespiti per preparare i budget e le previsioni.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

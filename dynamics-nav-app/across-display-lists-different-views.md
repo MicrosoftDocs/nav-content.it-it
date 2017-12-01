@@ -3,7 +3,7 @@ title: Modificare il livello dei dettagli visualizzati negli elenchi
 description: "È possibile visualizzare le liste nelle visualizzazioni dettagliate che forniscono ulteriori informazioni oppure come riquadri semplici da analizzare visivamente."
 documentationcenter: 
 author: SusanneWindfeldPedersen
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

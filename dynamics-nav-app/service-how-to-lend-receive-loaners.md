@@ -3,7 +3,7 @@ title: Dare in prestito articoli per sostituire articoli in assistenza
 description: "È possibile dare in prestito degli articoli ai clienti per sostituire temporaneamente gli articoli in assistenza ricevuti per prestare assistenza."
 documentationcenter: 
 author: bholtorf
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

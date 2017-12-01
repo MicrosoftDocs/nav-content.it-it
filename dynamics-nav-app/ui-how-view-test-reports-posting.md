@@ -3,7 +3,7 @@ title: Analizzare un report di test prima di registrare un documento di vendita 
 description: "Prima di registrare un documento, ad esempio, un ordine o una nota di credito, è possibile verificarlo e analizzarlo per controllare se sono presenti errori che potrebbero bloccare la registrazione."
 documentationcenter: 
 author: SusanneWindfeldPedersen
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

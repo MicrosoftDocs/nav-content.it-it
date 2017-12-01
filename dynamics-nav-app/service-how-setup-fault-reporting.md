@@ -3,7 +3,7 @@ title: Impostare il reporting dei guasti in Gestione assistenza
 description: Informazioni su come impostare i processi di reporting dei guasti.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

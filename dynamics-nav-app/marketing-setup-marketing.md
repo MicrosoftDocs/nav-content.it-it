@@ -3,7 +3,7 @@ title: Informazioni sul setup della gestione dei contatti e del marketing
 description: "È possibile impostare la gestione dei contatti e del marketing in Dynamics NAV per ottimizzare relazioni con i clienti o i clienti potenziali e migliorare le campagne e le promozioni."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

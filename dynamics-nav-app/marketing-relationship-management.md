@@ -3,7 +3,7 @@ title: Relationship Management
 description: "Le funzionalità di Relationship Management di Dynamics NAV supportano le attività di vendita e consentono di accedere alle informazioni sui contatti e i potenziali clienti in modo da poter assistere in modo efficiente i clienti."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

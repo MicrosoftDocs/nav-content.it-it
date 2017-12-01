@@ -3,7 +3,7 @@ title: Organizzazione dei dati mediante la funzione di ordinamento
 description: "È possibile utilizzare la funzione di ordinamento per ottenere una panoramica dei dati. Ad esempio, è possibile ordinare i clienti per codice valuta per ottenere un elenco di clienti selezionati."
 documentationcenter: 
 author: SusanneWindfeldPedersen
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

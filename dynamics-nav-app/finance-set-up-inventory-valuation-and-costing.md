@@ -3,7 +3,7 @@ title: Impostare la valutazione magazzino e i costi
 description: Nella tabella seguente viene descritta una sequenza di task, con collegamenti agli argomenti che li descrivono.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: Gestire i conti correnti bancari
 description: "È necessario riconciliare regolarmente i movimenti contabili bancari in Dynamics NAV con le transazioni bancarie correlate nei conti bancari."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

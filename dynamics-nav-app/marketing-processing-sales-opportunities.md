@@ -3,7 +3,7 @@ title: "Elaborare le opportunità di vendita nei cicli di vendita"
 description: "È possibile visualizzare, chiudere o eliminare le opportunità di vendita ed è anche possibile creare offerte e ordini di vendita per opportunità e spostare un'opportunità fra le fasi di un ciclo di vendita."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

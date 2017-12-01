@@ -3,7 +3,7 @@ title: "Sintesi della riga di registrazione di contabilità generale"
 description: "In questo argomento vengono presentate le modifiche alla Codeunit 12, **Registrazioni Gen.-Riga di registrazione**, ovvero il principale oggetto applicazione per la registrazione di contabilità generale e la sola area per registrare contabilità generale, IVA e movimenti contabili di clienti e fornitori."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

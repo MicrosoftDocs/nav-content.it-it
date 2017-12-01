@@ -3,7 +3,7 @@ title: Dettagli di progettazione - Rettifica costo
 description: "Il principale scopo della rettifica dei costi è di inoltrare le modifiche dei costi dalle origini di costo ai destinatari di costo, in base al metodo di costing di un articolo, per fornire una valutazione di magazzino corretta."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

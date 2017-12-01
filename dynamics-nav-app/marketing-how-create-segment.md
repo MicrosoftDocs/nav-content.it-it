@@ -3,7 +3,7 @@ title: Creare segmenti
 description: Descrive come creare un segmento per un gruppo di contatti in Dynamics NAV, ad esempio, per rivolgersi a diversi contatti tramite messaggi di posta diretti.
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

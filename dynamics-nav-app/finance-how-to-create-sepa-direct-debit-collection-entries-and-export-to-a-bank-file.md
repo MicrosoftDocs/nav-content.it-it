@@ -2,7 +2,7 @@
 title: Riscossione di addebiti diretti SEPA
 description: Creare una riscossione addebiti diretti ed esportarla in un file XML che si invia o si carica nella banca elettronica per l'elaborazione.
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

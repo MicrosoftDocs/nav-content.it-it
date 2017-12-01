@@ -2,7 +2,7 @@
 title: Creare un'origine dati di Power BI con Dynamics NAV
 description: "È possibile rendere disponibili i dati di Dynamics NAV come origine di dati in Power BI e sviluppare report efficaci dello stato dell'attività."
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

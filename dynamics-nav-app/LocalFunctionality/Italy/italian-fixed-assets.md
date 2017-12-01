@@ -3,7 +3,7 @@ title: Cespiti italiani
 description: "I cespiti sono beni appartenenti a una società, che vengono utilizzati per la produzione del suo reddito."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

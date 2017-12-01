@@ -3,7 +3,7 @@ title: Elaborare i documenti in entrata
 description: "Per registrare un documento esterno, ad esempio un PDF, in Dynamics NAV, è necessario prima creare o completare un record di documento in entrata."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

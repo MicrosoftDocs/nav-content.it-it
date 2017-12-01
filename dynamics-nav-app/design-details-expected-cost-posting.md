@@ -3,7 +3,7 @@ title: Dettagli di progettazione - Registrazione del costo previsto
 description: I costi previsti rappresentano, ad esempio, la stima del costo di un articolo acquistato registrato prima di ricevere la fattura per l'articolo.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

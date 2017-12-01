@@ -2,7 +2,7 @@
 title: Aggiunta di informazioni ai record
 description: "Associare una nota a qualsiasi record presente nell'applicazione. Ad esempio, se si dispone di informazioni aggiuntive relative a un ordine di vendita che non rientrano in nessuno dei campi dell'ordine di vendita, è possibile scrivere una nota."
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

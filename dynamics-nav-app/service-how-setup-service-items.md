@@ -3,7 +3,7 @@ title: Panoramica delle impostazioni per gli articoli in assistenza e i componen
 description: Informazioni sulle impostazioni da eseguire prima di poter utilizzare gli articoli di assistenza, inclusi i valori di default, ad esempio il tempo di risposta, la percentuale di sconto contrattuale e il gruppo dei prezzi di assistenza.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

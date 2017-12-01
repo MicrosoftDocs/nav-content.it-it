@@ -2,7 +2,7 @@
 title: Addebito diretto SEPA in Dynamics NAV
 description: "È possibile riscuotere i pagamenti direttamente dal conto bancario del cliente secondo il formato SEPA."
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

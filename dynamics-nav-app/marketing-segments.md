@@ -3,7 +3,7 @@ title: Gestire i segmenti e selezionare i contatti da includere
 description: Descrive i task per creare un segmento per selezionare un gruppo di contatti in base a criteri specifici, ad esempio, contatti in un settore specifico a cui si desidera rivolgersi.
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

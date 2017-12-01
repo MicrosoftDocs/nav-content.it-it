@@ -3,7 +3,7 @@ title: Come rintracciare i colli
 description: "È possibile utilizzare il servizio di tracciabilità degli spedizionieri per vedere lo stato di avanzamento di una consegna."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

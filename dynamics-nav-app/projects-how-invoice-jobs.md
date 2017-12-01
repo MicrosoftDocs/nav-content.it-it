@@ -3,7 +3,7 @@ title: Creare una fattura di vendita per fatturare una commessa
 description: Viene descritto come fatturare ai clienti le spese commessa durante lo svolgimento di un progetto.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

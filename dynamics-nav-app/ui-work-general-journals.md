@@ -3,7 +3,7 @@ title: "Utilizzo delle registrazioni COGE per registrare direttamente in contabi
 description: "Informazioni su come è possibile utilizzare le registrazioni COGE per la contabilizzazione nei conti C/G e in altri conti delle transazioni finanziarie, ad esempio i conti correnti bancari e i conti fornitori."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

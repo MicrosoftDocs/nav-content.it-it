@@ -2,7 +2,7 @@
 title: Mapping dei campi per l'esportazione dei file di pagamento bancario
 description: "Quando si esportano campi pagamento tramite la funzionalità servizio di conversione dati bancari, i dati esportati sono esposti al provider del servizio di conversione dati bancari."
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: Come vedere insieme articoli assemblaggio su ordine e articoli in magazzi
 description: "Se un articolo di assemblaggio è impostato per l'assemblaggio per magazzino, il processo dell'ordine di vendita di default presuppone che l'articolo sia già assemblato e che possa essere prelevato dal magazzino, se disponibile. Tuttavia se una parte (o tutta) della quantità non è disponibile, è possibile scegliere al volo di creare un ordine di assemblaggio per la quantità rimanente."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

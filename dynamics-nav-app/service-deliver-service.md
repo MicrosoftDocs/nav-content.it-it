@@ -3,7 +3,7 @@ title: Panoramica dei task per fornire assistenza
 description: "Descrive i task da impostare per garantire la fornitura di un servizio di qualità e il rispetto degli accordi con i clienti."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: Definire le impostazioni generali di magazzino
 description: Descrive come definire le impostazioni generali di magazzino, ad esempio numeri di serie e ubicazioni, in modo che sia possibile, ad esempio, gestire le warehouse e stock.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

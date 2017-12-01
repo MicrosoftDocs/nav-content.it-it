@@ -3,7 +3,7 @@ title: Creare interazioni per i contatti e i segmenti
 description: Descrive come creare interazioni per comunicazioni intercorse con i contatti e i segmenti in Dynamics NAV, ad esempio messaggi di posta diretta.
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

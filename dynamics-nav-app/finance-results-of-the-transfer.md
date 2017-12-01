@@ -3,7 +3,7 @@ title: Risultati del trasferimento
 description: Questo argomento descrive i risultati del trasferimento di movimenti C/G a movimenti di costo.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: Annullamento di Dynamics NAV
 description: Viene descritto come rimuovere o eliminare l'esperienza utente di Dynamics NAV.
 documentationcenter: 
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

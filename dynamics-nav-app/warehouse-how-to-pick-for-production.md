@@ -3,7 +3,7 @@ title: Come prelevare per la produzione in configurazioni della warehouse di bas
 description: "Quando l'ubicazione della warehouse richiede l'elaborazione dei prelievi ma non l'elaborazione delle spedizioni, è possibile utilizzare la finestra **Prelievi magazzino** per organizzare e registrare il prelievo di componenti."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

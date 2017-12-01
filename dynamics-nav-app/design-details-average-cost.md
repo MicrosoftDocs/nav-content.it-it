@@ -2,7 +2,7 @@
 title: Dettagli di progettazione - Costo medio
 description: "Il costo medio di un articolo viene calcolato con una media ponderata periodica, in base al costo medio del periodo che è impostato in Dynamics NAV."
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

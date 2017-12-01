@@ -3,7 +3,7 @@ title: Impostare le risorse, i fogli presenze e le commesse
 description: Descrive come impostare le risorse, i fogli presenze e le commesse per gestire progetti.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

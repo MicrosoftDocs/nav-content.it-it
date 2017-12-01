@@ -3,7 +3,7 @@ title: Come impostare task standard per le operazioni
 description: "È possibile immettere descrizioni per i task standard."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

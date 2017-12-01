@@ -3,7 +3,7 @@ title: Come specificare come e quando ricevere le notifiche
 description: "Quando si impostano gli utenti nei workflow di approvazione, è necessario specificare nelle finestre Setup di notifica e Programmazione notifica come e quando ciascun utente riceverà le notifiche relative alle fasi del workflow di approvazione. I singoli utenti possono inoltre modificare la propria impostazione delle notifiche scegliendo il pulsante Modifica impostazioni di notifica per qualsiasi notifica."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

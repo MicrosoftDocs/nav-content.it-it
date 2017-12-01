@@ -3,7 +3,7 @@ title: Come creare le testate degli ordini di produzione
 description: "Gli ordini di produzione possono essere creati manualmente. Prima di tutto è necessario creare la testata ordine di produzione."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

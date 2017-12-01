@@ -2,7 +2,7 @@
 title: Impostare le procedure ottimali per il setup di pianificazione globale
 description: La Scheda dettaglio **Pianificazione** della finestra **Setup manufacturing** contiene vari campi che definiscono le regole globali per la pianificazione forniture.
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

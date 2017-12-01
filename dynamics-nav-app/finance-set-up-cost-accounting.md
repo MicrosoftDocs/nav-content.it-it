@@ -3,7 +3,7 @@ title: "Impostazione della contabilità industriale"
 description: "Prima di iniziare a utilizzare la contabilità industriale, è necessario effettuare attività di impostazione."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

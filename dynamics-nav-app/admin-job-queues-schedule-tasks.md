@@ -2,7 +2,7 @@
 title: Programmare l'esecuzione automatica di processi
 description: "I task pianificati sono gestiti dalla coda processi. Questi processi eseguono report e codeunit. È possibile impostare commesse da eseguire una sola volta o periodicamente."
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

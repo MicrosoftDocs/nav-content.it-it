@@ -3,7 +3,7 @@ title: "Utilizzo della funzionalità Gestione personale"
 description: "È possibile registrare il nuovo personale, modificare le informazioni sul personale esistente e registrare e analizzare le assenze."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

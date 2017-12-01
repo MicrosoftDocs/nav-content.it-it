@@ -3,7 +3,7 @@ title: Dettagli di progettazione - Ordine
 description: Questo argomento fornisce informazioni a collegamenti ordine-a-ordine in un ambiente di produzione su ordine.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

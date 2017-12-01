@@ -3,7 +3,7 @@ title: Breakbulk automatico con stoccaggi e prelievi guidati
 description: "Per le ubicazioni che utilizzano stoccaggi e prelievi guidati, è possibile suddividere unità di misura più grandi in unità di misura più piccole, durante la creazione delle istruzioni di warehouse che consentono di soddisfare le richieste di documenti di origine, ordini di produzione o prelievi e stoccaggi interni."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: Come modificare i suggerimenti di pianificazione in una visualizzazione g
 description: "Un'attività tipica di pianificazione consiste nel modificare o aggiungere le righe del prospetto di pianificazione per modificare gli ordini di approvvigionamento suggeriti prima del commit eseguendo la funzione **Esegui messaggi di azione**. Un'alternativa a questa operazione nel prospetto di pianificazione è utilizzare una visualizzazione grafica."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

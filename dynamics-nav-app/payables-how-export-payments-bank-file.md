@@ -3,7 +3,7 @@ title: Esportare i pagamenti in un file di pagamento elettronico
 description: "Per eseguire i pagamenti ai fornitori, si può attivare un servizio di conversione dati bancari, esportare un file della banca, e caricare il file della banca elettronica per trasferire i fondi."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: Risoluzione dei problemi o soluzioni alternative relative all'iscrizione 
 description: "Informazioni sui motivi più comuni per cui non è possibile accedere a Dynamics NAV e soluzioni per risolvere gli errori di accesso."
 documentationcenter: 
 author: SusanneWindfeldPedersen
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

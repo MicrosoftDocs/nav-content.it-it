@@ -3,7 +3,7 @@ title: Dettagli di progettazione - Gestione warehouse
 description: "Questo argomento fornisce una panoramica della progettazione, dei concetti e dei principi alla base delle funzionalità di gestione warehouse in [!INCLUDE[d365fin](includes/d365fin_md.md)]."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

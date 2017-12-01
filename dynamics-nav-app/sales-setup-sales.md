@@ -3,7 +3,7 @@ title: Panoramica dei task per la configurazione dei processi di vendita
 description: Descrive i task per impostare le regole e i valori per definire i criteri e processi di vendita.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

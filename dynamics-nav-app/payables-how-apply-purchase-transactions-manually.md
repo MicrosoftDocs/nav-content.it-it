@@ -3,7 +3,7 @@ title: Riconciliare manualmente i pagamenti ai fornitori
 description: "Per elaborare, associare, riconciliare manualmente i pagamenti o i rimborsi dei fornitori, è possibile collegare l'importo a uno o più movimenti contabili aperti del fornitore."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

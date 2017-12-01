@@ -3,7 +3,7 @@ title: Impostare report da stampare su stampanti specifiche
 description: Informazioni su come specificare una stampante per un report utilizzando la finestra Selezioni stampante.
 documentationcenter: 
 author: SusanneWindfeldPedersen
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -2,7 +2,7 @@
 title: "Definire la modalità di scambio elettronico dei dati"
 description: "È possibile utilizzare un provider esterno di servizi OCR per convertire file PDF o di immagine in documenti elettronici."
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

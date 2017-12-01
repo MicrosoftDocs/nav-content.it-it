@@ -3,7 +3,7 @@ title: Assegnare un indirizzo contatto diverso
 description: Descrive come assegnare un indirizzo alternativo per i contatti o potenziali clienti, dove inviare talvolta le informazioni.
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

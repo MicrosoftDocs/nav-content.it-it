@@ -3,7 +3,7 @@ title: "Dettagli di progettazione - Disponibilità tracciabilità articolo"
 description: "Questo argomento descrive come assicurarsi che le persone che elaborano ordini possono basarsi sulla disponibilità dei numeri seriali o di lotto."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

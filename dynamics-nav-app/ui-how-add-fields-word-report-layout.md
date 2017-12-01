@@ -3,7 +3,7 @@ title: Come aggiungere campi a un layout di report Word
 description: Descrive come aggiungere campi di un set di dati del report a un layout di report Word esistente per un report.
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

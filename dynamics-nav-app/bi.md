@@ -3,7 +3,7 @@ title: Business Intelligence
 description: Acquisire e analizzare i dati aziendali, ad esempio, le cifre relative alle vendite, agli acquisti, alle spese operative, agli stipendi dei dipendenti e ai budget che possono diventare informazioni preziose, vale a dire Business Intelligence, per prendere le decisioni.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

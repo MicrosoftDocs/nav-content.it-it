@@ -3,7 +3,7 @@ title: Gestione assistenza
 description: "Informazioni su come utilizzare le funzionalità concepite per supportare l'attività di officine di riparazione e le operazioni di assistenza su campo."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

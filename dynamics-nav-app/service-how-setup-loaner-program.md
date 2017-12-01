@@ -3,7 +3,7 @@ title: Come impostare gli articoli in prestito
 description: "È possibile impostare degli articoli da prestare ai clienti in sostituzione degli articoli che sono in assistenza."
 documentationcenter: 
 author: bholtorf
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -2,7 +2,7 @@
 title: Impostare gli addebiti diretti SEPA
 description: Informazioni su come impostare gli addebiti diretti SEPA in Dynamics NAV.
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

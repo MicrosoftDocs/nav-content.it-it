@@ -3,7 +3,7 @@ title: Importazione ed esportazione di un layout di report e documento
 description: "È possibile esportare e importare un layout di report personalizzato esistente come file da e verso un computer o una rete."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: Come calcolare le date per la promessa ordine
 description: "La funzione promessa ordine consente di calcolare la prima data utile in cui l'articolo sarà disponibile per la spedizione. Consente inoltre di creare delle righe di richiesta per le date confermate dall'utente."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

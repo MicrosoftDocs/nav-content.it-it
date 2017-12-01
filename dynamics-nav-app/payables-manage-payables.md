@@ -3,7 +3,7 @@ title: Panoramica dei task di gestione fornitori
 description: Descrive i task per la gestione dei fornitori, ad esempio, pagare i creditori o collegare i pagamenti in uscita ai movimenti contabili per chiudere fatture o note di credito.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -2,7 +2,7 @@
 title: Sollecitare o applicare sanzioni per clienti con pagamenti scaduti
 description: Descrive come inviare un sollecito a un cliente per un pagamento scaduto e come aggiungere addebiti, od oneri aggiuntivi, al pagamento per il ritardo.
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

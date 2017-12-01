@@ -3,7 +3,7 @@ title: Acquistare articoli o servizi per una commessa e gestire gli approvvigion
 description: Descrive come gestire gli approvvigionamenti e gli acquisti di materiale e servizi per le commesse.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

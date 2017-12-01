@@ -3,7 +3,7 @@ title: Aggiungere righe ulteriori per definire il testo esteso per una descrizio
 description: "È possibile aggiungere righe supplementari per estendere il testo standard che descrive un articolo."
 documentationcenter: 
 author: SusanneWindfeldPedersen
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

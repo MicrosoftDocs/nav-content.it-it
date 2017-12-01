@@ -3,7 +3,7 @@ title: Impostazione della gestione assistenza
 description: "Sintesi delle attività necessarie per impostare la gestione dell'assistenza adattandola al modo in cui le organizzazioni gestiscono i propri servizi."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

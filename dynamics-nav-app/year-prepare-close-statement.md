@@ -3,7 +3,7 @@ title: Panoramica di report a supporto della preparazione degli estratti conto d
 description: "Fornisce una panoramica dei report che è possibile utilizzare per raccogliere le informazioni e preparare gli estratti conto di chiusura della società alla chiusura dell'anno fiscale."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

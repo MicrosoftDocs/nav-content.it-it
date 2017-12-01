@@ -3,7 +3,7 @@ title: Creare contatti
 description: Descrive i task PER creare una scheda contatto per una persona, ad esempio, un potenziale cliente o un fornitore, contribuendo a definire la relazione e personalizzare la comunicazione.
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

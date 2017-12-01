@@ -3,7 +3,7 @@ title: Ricerca di dati e immissione di criteri di filtro
 description: Descrive come utilizzare i filtri, come il Filtro rapido, per perfezionare i risultati nella ricerca dei dati.
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

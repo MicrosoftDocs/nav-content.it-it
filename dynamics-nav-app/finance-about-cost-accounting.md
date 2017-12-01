@@ -3,7 +3,7 @@ title: "Informazioni sulla contabilità industriale"
 description: "La contabilità industriale può essere utilizzata per comprendere i costi operativi di un'attività."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: "Procedura: Creazione di più schede cespite"
 description: "Durante la registrazione delle fatture di acquisto è possibile creare automaticamente più schede cespite."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: Pianificazione forniture
 description: Preparare un piano eseguibile dettagliato e la pianificazione della produzione di assemblaggio finale per la domanda di vendita e di produzione.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

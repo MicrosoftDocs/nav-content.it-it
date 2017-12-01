@@ -3,7 +3,7 @@ title: Impostare gli impiegati e modificare le informazioni
 description: Viene descritto come registrare il nuovo personale o modificare i dati relativi al personale esistente.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

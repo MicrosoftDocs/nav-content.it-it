@@ -3,7 +3,7 @@ title: "Dettagli di progettazione: Tracciabilità articolo e impegni"
 description: "Questo argomento descrive la tracciabilità articolo e gli impegni nonché i relativi concetti."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: Benvenuti
 description: Descrive le guide di setup assistito, i video, gli argomenti della Guida, le pagine e le finestre da utilizzare per iniziare a utilizzare Dynamics NAV.
 documentationcenter: 
 author: SusanneWindfeldPedersen
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

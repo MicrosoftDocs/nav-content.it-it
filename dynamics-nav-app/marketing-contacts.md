@@ -3,7 +3,7 @@ title: "Creare e gestire i contatti della società"
 description: "Si possono impostare come contatti tutte le entità esterne con cui si ha una relazione d'affari, ad esempio prospetti, clienti, fornitori e consulenti."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

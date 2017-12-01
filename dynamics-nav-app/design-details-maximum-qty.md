@@ -3,7 +3,7 @@ title: "Dettagli di progettazione - Qtà Massima"
 description: "Il criterio Quantità massima è un modo per mantenere il magazzino utilizzando un punto di riordino."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

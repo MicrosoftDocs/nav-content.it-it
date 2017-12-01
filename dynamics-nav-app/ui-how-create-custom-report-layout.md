@@ -3,7 +3,7 @@ title: Creare e modificare layout personalizzati per report e documenti
 description: "Informazioni su come creare i layout personalizzati che consentono di modificare l'aspetto del report quando è visualizzato, stampato o salvato."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

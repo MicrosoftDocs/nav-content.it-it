@@ -3,7 +3,7 @@ title: Dettagli di progettazione - Rivalutazione
 description: "È possibile rivalutare il magazzino in base alla base di valutazione che riflette nel modo più preciso il valore di magazzino. È inoltre possibile retrodatare una rivalutazione, in modo che il costo delle merci vendute (COGS) venga aggiornato correttamente per gli articoli che sono già stati venduti. Gli articoli che utilizzano il metodo di costing standard che non sono stati completamente fatturati possono essere rivalutati."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

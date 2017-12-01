@@ -3,7 +3,7 @@ title: Analisi degli importi effettivi e degli importi di budget
 description: Descrive come analizzare gli importi effettivi e gli importi di budget.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

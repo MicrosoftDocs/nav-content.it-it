@@ -3,7 +3,7 @@ title: "Attività facoltative per periodi di chiusura"
 description: "In questo argomento vengono descritti i processi e le attività facoltativi per la chiusura dei periodi contabili in Dynamics NAV."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: Correggere o annullare una fattura di vendita registrata
 description: Descrive come correggere oppure annullare una fattura di vendita registrata e collegarla a una nota di credito di vendita.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

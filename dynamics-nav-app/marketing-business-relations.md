@@ -3,7 +3,7 @@ title: Definire codici di relazioni d'affari per i contatti
 description: Utilizzare le relazioni d'affari in Dynamics NAV per supportare il marketing e per indicare il tipo di relazione commerciale che intercorre con prospetti e clienti, ad esempio, una banca o un fornitore di servizi.
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

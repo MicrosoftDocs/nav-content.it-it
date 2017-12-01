@@ -3,7 +3,7 @@ title: Creare report di analisi
 description: Descrive come creare nuovi report di analisi per vendite, acquisti e magazzino e impostare modelli di analisi.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -2,7 +2,7 @@
 title: Assegnare autorizzazioni utente e creare o modificare i set di autorizzazioni
 description: Descrive come aggiungere utenti di Office 365 a Dynamics NAV e quindi assegnare le autorizzazioni, i diritti di accesso e le impostazioni di protezione.
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

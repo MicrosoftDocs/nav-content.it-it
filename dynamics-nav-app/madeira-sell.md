@@ -3,7 +3,7 @@ title: Vendita di Dynamics NAV
 description: "Informazioni su come è possibile espandere le proprie opportunità di business e diventando partner Microsoft e rivenditore di Dynamics NAV."
 documentationcenter: 
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: get-started-article
 ms.devlang: na
 ms.tgt_pltfrm: na

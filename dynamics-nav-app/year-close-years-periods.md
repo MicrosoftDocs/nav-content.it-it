@@ -3,7 +3,7 @@ title: Panoramica dei task per la chiusura di un anno fiscale o di periodi conta
 description: Descrive i task per la chiusura di un anno fiscale o di periodi contabili, ad esempio, per garantire che documenti e registrazioni vengano contabilizzati e per verificare i saldi di conti correnti.
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

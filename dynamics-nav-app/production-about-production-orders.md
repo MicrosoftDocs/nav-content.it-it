@@ -3,7 +3,7 @@ title: Informazioni sugli ordini di produzione
 description: "Gli ordini di produzione vengono utilizzati per gestire la conversione dei materiali acquistati in articoli prodotti. Gli ordini di produzione (ordini di lavoro) diramano il lavoro in diverse unità (aree di produzione o centri di lavoro) nella produzione."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

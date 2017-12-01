@@ -3,7 +3,7 @@ title: Creare una scheda fornitore per registrare un nuovo fornitore
 description: Informazioni su come creare una scheda fornitore per registrare un nuovo fornitore.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

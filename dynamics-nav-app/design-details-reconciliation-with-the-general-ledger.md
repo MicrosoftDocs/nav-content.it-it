@@ -3,7 +3,7 @@ title: "Dettagli di progettazione - Riconciliazione con la contabilità generale
 description: "Questo argomento descrive la riconciliazione con la contabilità generale quando si registrano transazioni di magazzino, ad esempio spedizioni vendite, output di produzione o rettifiche negative."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

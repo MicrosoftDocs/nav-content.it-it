@@ -3,7 +3,7 @@ title: Creare una fattura di acquisto e registrare gli acquisti
 description: Viene descritto come acquistare articoli Magazzino o Assistenza creando e registrando le fatture o gli ordini di acquisto.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: Modificare l'aspetto di un report selezionando un layout diverso
 description: "È possibile utilizzare diversi layout per un report e passate tra i layout per modificare l'aspetto di un report."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

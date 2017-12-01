@@ -3,7 +3,7 @@ title: Registrare l'utilizzo previsto e fatturabile delle risorse commesse
 description: Descrive come registrare il consumo o l'utilizzo degli articoli o di risorse nelle commesse per semplificare la gestione progetti.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

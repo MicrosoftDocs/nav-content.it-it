@@ -3,7 +3,7 @@ title: Come creare cicli
 description: "Un ciclo contiene i dati master per l'acquisizione dei requisiti di processo di un determinato articolo prodotto. Dopo la creazione di un ordine di produzione per l'articolo, il ciclo relativo determinerà la pianificazione delle operazioni come rappresentato nella finestra **Cicli ordini produzione** nell'ordine di produzione."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

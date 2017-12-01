@@ -3,7 +3,7 @@ title: "Dettagli di progettazione - Struttura di registrazione di tracciabilità
 description: "Informazioni su come utilizzare i movimenti contabili articoli come vettori principali dei numeri di tracciabilità articolo."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: Come utilizzare contratti e offerte di contratto di assistenza
 description: "È possibile creare un contratto di assistenza manualmente o partendo da un'offerta di contratto assistenza. È possibile creare un contratto basato su un'offerta di contratto di assistenza."
 documentationcenter: 
 author: bholtorf
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

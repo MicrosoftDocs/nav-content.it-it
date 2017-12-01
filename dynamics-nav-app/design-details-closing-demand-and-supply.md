@@ -3,7 +3,7 @@ title: Dettagli di progettazione - Chiusura domanda e approvvigionamento
 description: In questo argomento viene fornito un suggerimento sulle azioni da eseguire dopo l'esecuzione delle procedure di contropartita di approvvigionamento.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

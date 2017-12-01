@@ -3,7 +3,7 @@ title: Come individuare le assegnazioni della warehouse
 description: "Per individuare le assegnazioni di warehouse, aprire la finestra della scheda per un articolo selezionato. Se sono state create istruzioni di warehouse, vengono visualizzate le righe Prendere e Mettere e sarà possibile iniziare a svolgere le operazioni necessarie relative a un'assegnazione. In alcune warehouse è possibile che il responsabile abbia assegnato istruzioni specifiche a ciascun addetto."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

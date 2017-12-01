@@ -3,7 +3,7 @@ title: Procedura dettagliata - Conduzione di una campagna di vendita
 description: "Una campagna è ogni tipo di attività che coinvolga diversi contatti. Una parte importante dell'impostazione di una campagna è la selezione del target. A questo scopo, in [!INCLUDE[d365fin](includes/d365fin_md.md)] si crea un segmento, o gruppo di contatti, utilizzando dei filtri."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -2,7 +2,7 @@
 title: Esportare movimenti riscossione addebiti diretti SEPA
 description: Creare una riscossione addebiti diretti, che contiene le informazioni sul conto corrente bancario del cliente, le fatture di vendita interessate e il mandato di addebito diretto.
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

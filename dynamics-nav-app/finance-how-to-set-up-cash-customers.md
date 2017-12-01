@@ -3,7 +3,7 @@ title: Come impostare clienti per vendite in contanti
 description: Questo argomento descrive la procedura per impostare i clienti che pagano in contanti.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

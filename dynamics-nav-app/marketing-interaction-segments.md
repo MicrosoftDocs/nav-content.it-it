@@ -3,7 +3,7 @@ title: Tenere traccia dei segmenti e delle interazioni correlate
 description: Informazioni su come creare segmenti per definire gruppi di contatti e specificare delle interazioni per i segmenti.
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

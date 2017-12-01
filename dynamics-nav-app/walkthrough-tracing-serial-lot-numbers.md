@@ -3,7 +3,7 @@ title: "Procedura dettagliata - Tracciabilità dei numeri seriali/di lotto"
 description: "In caso di prodotti difettosi, è necessario identificare gli errori e impedire la distribuzione degli articoli interessati. Qualora vengano spediti prodotti difettosi, è necessario risalire al destinatario e, se necessario, richiederne la restituzione."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

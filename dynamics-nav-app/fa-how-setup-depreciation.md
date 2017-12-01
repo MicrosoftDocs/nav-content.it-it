@@ -3,7 +3,7 @@ title: Impostare l'ammortamento cespiti
 description: "Specificare in un registro beni ammortizzabili la modalità di ammortamento o svalutazione dei cespiti."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

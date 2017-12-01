@@ -3,7 +3,7 @@ title: Panoramica dei task per adempiere i contratti di assistenza
 description: Descrive i task per gestire i contratti di assistenza con i clienti.
 documentationcenter: 
 author: bholtorf
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

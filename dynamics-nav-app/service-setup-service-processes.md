@@ -3,7 +3,7 @@ title: Impostazione dei processi di gestione assistenza
 description: Informazioni su come impostare i processi che consentono di assicurarsi che i clienti siano soddisfatti del servizio di assistenza clienti.
 documentationcenter: 
 author: bholtorf
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

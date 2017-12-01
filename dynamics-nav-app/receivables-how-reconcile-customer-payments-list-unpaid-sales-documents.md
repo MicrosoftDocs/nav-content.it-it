@@ -3,7 +3,7 @@ title: Collegare i pagamenti ai documenti di vendita non pagati
 description: "Si collegano gli importi pagati dai clienti ai relativi documenti di vendita e si registra il pagamento per aggiornare i movimenti contabili cliente, contabilità generale e i movimenti contabili bancari."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

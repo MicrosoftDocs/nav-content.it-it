@@ -3,7 +3,7 @@ title: Anteprima dei movimenti prima della contabilizzazione di una registrazion
 description: "È possibile verificare che i movimenti relativi ai documenti e alle registrazioni siano accurati, prima di registrarli in contabilità generale."
 documentationcenter: 
 author: SusanneWindfeldPedersen
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

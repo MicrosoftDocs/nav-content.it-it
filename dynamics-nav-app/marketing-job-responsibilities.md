@@ -3,7 +3,7 @@ title: Impostazioni di ruoli professionali per i contatti
 description: "È possibile definire un codice ruolo professionale e assegnarlo a un contatto per indicare i task per cui il contatto è responsabile nella propria società, ad esempio IT o produzione."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

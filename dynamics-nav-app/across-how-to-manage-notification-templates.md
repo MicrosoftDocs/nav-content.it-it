@@ -3,7 +3,7 @@ title: Come gestire i modelli di notifica
 description: "Le notifiche vengono inviate agli utenti del workflow per informarli sui passaggi che devono eseguire o sullo stato delle fasi del workflow. È possibile impostare gli utenti che ricevono la notifica e il momento in cui la ricevono configurando gli utenti di approvazione, la pianificazione della notifica agli utenti e le risposte del flusso di lavoro interessato per definire il destinatario della notifica. Per ulteriori informazioni, vedere [Impostazione delle notifiche del workflow](across-setting-up-workflow-notifications.md)."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

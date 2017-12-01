@@ -3,7 +3,7 @@ title: Riconciliare i conti correnti bancari separatamente
 description: "Descrive come il valore di magazzino è riconciliato con la contabilità generale."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: Come creare flussi di lavoro da modelli di flusso di lavoro
 description: "Per risparmiare tempo durante la creazione di nuovi workflow, è possibile creare i workflow da modelli di workflow."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: Come ripianificare o aggiornare direttamente gli ordini di produzione
 description: Nelle righe degli ordini di produzione sono contenuti gli articoli da produrre.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

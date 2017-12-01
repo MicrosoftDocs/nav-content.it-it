@@ -3,7 +3,7 @@ title: Statistiche assistenza
 description: Ottenere una rapida panoramica del contenuto di un documento di assistenza, ovvero ordini, offerte, fatture o note di credito, dei dettagli relativi alle righe di assistenza e degli articoli in assistenza.
 documentationcenter: 
 author: bholtorf
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

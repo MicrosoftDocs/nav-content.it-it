@@ -3,7 +3,7 @@ title: 'Procedura: Creazione di numerazioni '
 description: Informazioni su come impostare la numerazione per assegnare codici di identificazione univoci a conti e documenti in Dynamics NAV.
 documentationcenter: 
 author: SusanneWindfeldPedersen
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: "Procedura: Impostazione di informazioni sulla società"
 description: "I documenti fiscali devono contenere tutte le informazioni sulla società. È possibile immettere tutti i dati rilevanti nella finestra **Informazioni società** durante l'impostazione di una società."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

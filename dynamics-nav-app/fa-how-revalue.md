@@ -3,7 +3,7 @@ title: Rivalutazione dei cespiti
 description: Informazioni su come rettificare il valore dei cespiti, registrando i nuovi importi come svalutazione o rivalutazione e registrare i costi di acquisto aggiuntivi.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

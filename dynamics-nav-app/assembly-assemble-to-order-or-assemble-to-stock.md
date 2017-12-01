@@ -3,7 +3,7 @@ title: Assemblaggio su ordine e assemblaggio per magazzino
 description: Gli articoli di assemblaggio possono essere approvvigionati assemblandoli quando vengono ordinati o assemblandoli per essere conservati in magazzino fino a quando non vengono richiesti in un ordine di vendita.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -18,13 +18,13 @@ ms.contentlocale: it-it
 ms.lasthandoff: 10/16/2017
 
 ---
-# Assemblaggio su ordine e assemblaggio per magazzino
+# <a name="understanding-assemble-to-order-and-assemble-to-stock"></a>Assemblaggio su ordine e assemblaggio per magazzino
 Gli articoli di assemblaggio possono essere forniti nei seguenti due processi:  
 
 -   Assemblaggio su ordine.  
 -   Assemblaggio per magazzino.  
 
-## Assemblaggio su ordine  
+## <a name="assemble-to-order"></a>Assemblaggio su ordine  
 In genere si utilizza l'*assemblaggio su ordine* per gli articoli che non si desidera immagazzinare perché si prevede di personalizzarli in base alle richieste del cliente o perché si desidera ridurre i costi di trasporto a magazzino. La funzionalità di supporto include:  
 
 -   Capacità di personalizzare gli articoli di assemblaggio quando si accetta un ordine di vendita.  
@@ -44,7 +44,7 @@ Quando si immette un articolo da assemblare su ordine in una riga di vendita, vi
 
  Per abilitare il processo, il campo **Criteri di assemblaggio** nella scheda articolo deve essere impostato su **Assemblaggio su ordine**.  
 
-## Assemblaggio per magazzino  
+## <a name="assemble-to-stock"></a>Assemblaggio per magazzino  
  In genere si utilizza l'*assemblaggio per magazzino* per gli articoli che si desidera assemblare prima delle vendite, ad esempio preparare una campagna di kit e tenerli in stock fino a quando vengono ordinati. Tali articoli sono in genere articoli standard, ad esempio in kit in pacchetti di cui non viene offerta la personalizzazione in base richieste del cliente.  
 
  Nel processo di assemblaggio per magazzino, l'articolo è assemblato senza una richiesta di vendita immediata ed è immagazzinato nella warehouse come articolo di magazzino per la vendita o il consumo successivo come subassemblaggio. Per ulteriori informazioni, vedere [Procedura: Assemblare articoli](assembly-how-to-assemble-items.md). Da questo punto, l'articolo è prelevato ed elaborato come singolo articolo e viene gestito come un articolo di produzione completato.  
@@ -56,7 +56,7 @@ Quando si immette un articolo da assemblare su ordine in una riga di vendita, vi
 
  Per abilitare il processo, il campo **Criteri di assemblaggio** nella scheda articolo deve essere impostato su **Assemblaggio per magazzino**.  
 
-## Scenari di combinazione  
+## <a name="combination-scenarios"></a>Scenari di combinazione  
  Il principio generale della gestione assemblaggio consiste nel fatto che una volta combinate in una riga ordine di vendita, le quantità per l'assemblaggio su ordine devono essere spedite prima delle quantità di magazzino.  
 
  Se un ordine di assemblaggio è collegato a una riga ordine di vendita, il valore del campo **Qtà per assemblaggio su ordine** nella riga ordine di vendita viene copiato nel campo **Quantità da assemblare** tramite il campo **Quantità** nell'intestazione dell'ordine di assemblaggio. Per ulteriori informazioni, vedere [Procedura: Vendere articoli assemblati su ordine](assembly-how-to-sell-items-assembled-to-order.md).  
@@ -84,7 +84,7 @@ Quando si immette un articolo da assemblare su ordine in una riga di vendita, vi
 -   La quantità minima che è possibile immettere è 1. Ciò avviene in quanto è necessario assemblare almeno un'unità per poter vendere le quattro unità, presupponendo che le tre restanti siano disponibili in magazzino.  
 -   La quantità massima che è possibile immettere è 4. Questo avviene per garantire che non sia assemblata una quantità di questo articolo di assemblaggio su ordine maggiore della quantità richiesta per la vendita.  
 
-## Vedi anche  
+## <a name="see-also"></a>Vedi anche  
 [Gestione assemblaggio](assembly-assemble-items.md)  
 [Procedura: Utilizzare le distinte base](inventory-how-work-BOMs.md)  
 [Magazzino](inventory-manage-inventory.md)  

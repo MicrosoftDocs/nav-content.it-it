@@ -3,7 +3,7 @@ title: Come pianificare prelievi nei prospetti
 description: "Se la warehouse prevede l'elaborazione dei prelievi e delle spedizioni, è possibile fare in modo che le righe dei documenti di spedizione non vengano convertite automaticamente in istruzioni di prelievo, bensì vengano rese disponibili per il prospetto prelievi."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: Creare contatti
 description: Descrive come creare una scheda contatto per ogni persona nuova o potenziale cliente con cui si ha una relazione d'affari.
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
