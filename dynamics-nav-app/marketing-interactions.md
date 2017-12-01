@@ -3,7 +3,7 @@ title: Gestire le interazioni con i contatti
 description: "È possibile gestire tutti i tipi di comunicazioni o interazioni che intercorrono tra la società e i contatti, ad esempio comunicazioni via lettera, fax, e-mail, telefono, riunioni e così via."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: relationship, prospect
 ms.date: 06/06/2017
 ms.author: jswymer
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 82ba8bc54a94b866b9adb1babc37b45f0a463050
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 343103b909ef6d91d96e1f255b825bdfa4b5ad84
 ms.contentlocale: it-it
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="managing-interactions-with-contacts"></a><span data-ttu-id="61c58-103">Gestione di interazioni con i contatti</span><span class="sxs-lookup"><span data-stu-id="61c58-103">Managing Interactions With Contacts</span></span>

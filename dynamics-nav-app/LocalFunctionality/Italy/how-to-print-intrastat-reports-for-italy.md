@@ -3,7 +3,7 @@ title: 'Procedura: Stampa di report Intrastat per l''Italia'
 description: "È possibile stampare report Intrastat mensili e trimestrali e inviarli alle autorità su un disco floppy eseguendo il processo batch **Intrastat - Floppy dichiaraz.**. Le informazioni relative al carico e alla consegna di merci vengono incluse automaticamente."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
-ms.openlocfilehash: 99cf202cb398fe043512f73c27999a0171d8dce4
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 198e734fe0bf3780f94be50eb62c88010d78a7ec
 ms.contentlocale: it-it
-ms.lasthandoff: 10/23/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-print-intrastat-reports-for-italy"></a><span data-ttu-id="b4c0a-104">Procedura: Stampa di report Intrastat per l'Italia</span><span class="sxs-lookup"><span data-stu-id="b4c0a-104">How to: Print Intrastat Reports for Italy</span></span>

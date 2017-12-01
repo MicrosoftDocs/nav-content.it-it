@@ -3,7 +3,7 @@ title: "Registrare le entrate o le spese direttamente nella contabilità general
 description: "Per le attività aziendali che non vengono rappresentate da un documento, ad esempio le spese più piccole o le ricevute di pagamento, è possibile creare le transazioni correlate registrando le righe nella finestra Registrazioni COGE."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: direct posting, general ledger
 ms.date: 06/28/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: fc87a8111eb1383985816eb5901c714bbe1ccac1
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 92cc0e680452cdfdb3e3244eeb86eade0c6575d7
 ms.contentlocale: it-it
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-post-transactions-directly-to-the-general-ledger"></a><span data-ttu-id="1861a-103">Procedura: Registrare le transazioni direttamente nella contabilità generale</span><span class="sxs-lookup"><span data-stu-id="1861a-103">How to: Post Transactions Directly to the General Ledger</span></span>

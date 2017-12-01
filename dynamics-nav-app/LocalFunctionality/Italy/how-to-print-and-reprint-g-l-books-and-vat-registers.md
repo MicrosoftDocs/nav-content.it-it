@@ -3,7 +3,7 @@ title: 'Procedura: Stampare e ristampare i libri giornale e i registri IVA'
 description: "Le autorità fiscali richiedono l'invio di due report fiscali che elencano tutti i movimenti contabili registrati, i report **Libro giornale - Stampa** e **Registro IVA - Stampa**."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
-ms.openlocfilehash: 6ae0115507cbd383b90e8cef32fdd46ee7e3d16e
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 77bb9d969e2601fec0384d15c89933314939113a
 ms.contentlocale: it-it
-ms.lasthandoff: 10/23/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-print-and-reprint-gl-books-and-vat-registers"></a><span data-ttu-id="fbd14-103">Procedura: Stampare e ristampare i libri giornale e i registri IVA</span><span class="sxs-lookup"><span data-stu-id="fbd14-103">How to: Print and Reprint GL Books and VAT Registers</span></span>

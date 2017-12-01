@@ -2,7 +2,7 @@
 title: Come modificare l'importo annuo dei contratti di assistenza o delle offerte di contratto
 description: "È possibile modificare l'importo che verrà fatturato annualmente per i contratti di assistenza o le offerte di contratto."
 author: bholtorf
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -11,10 +11,10 @@ ms.search.keywords:
 ms.date: 09/08/2017
 ms.author: bholtorf
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 7c2008b7de70f6a6b862671f84e6830d13177407
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: c7924cc55437d13febc6fd071d4b99ce84e8c04c
 ms.contentlocale: it-it
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-change-the-annual-amount-on-service-contracts-or-contract-quotes"></a><span data-ttu-id="b2ac2-103">Procedura: Modificare l'importo annuo dei contratti di assistenza o delle offerte di contratto</span><span class="sxs-lookup"><span data-stu-id="b2ac2-103">How to: Change the Annual Amount on Service Contracts or Contract Quotes</span></span>

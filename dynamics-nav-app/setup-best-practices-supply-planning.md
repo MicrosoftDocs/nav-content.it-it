@@ -3,7 +3,7 @@ title: Impostare le procedure ottimali - Pianificazione forniture
 description: "La pianificazione forniture è un settore commerciale critico. Una volta impostata e utilizzata correttamente, la pianificazione forniture consente a una società di evitare l'esaurimento scorte e di ridurre i costi di ordinazione e di magazzino."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 06df461119c7a6f5f77c3ad3162f0451af31c8f2
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 335d393ab82697213a81dcbd4ef070e6b3698a83
 ms.contentlocale: it-it
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="setup-best-practices-supply-planning"></a><span data-ttu-id="6695a-104">Impostare le procedure ottimali: Pianificazione forniture</span><span class="sxs-lookup"><span data-stu-id="6695a-104">Setup Best Practices: Supply Planning</span></span>

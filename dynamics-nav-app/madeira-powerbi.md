@@ -2,7 +2,7 @@
 title: Pacchetti di contenuto per Dynamics NAV e Power BI
 description: "Ottenere informazioni approfondite, business intelligence e KPI sui dati di Dynamics NAV è semplice con Power BI e con i pacchetti di contenuto di Dynamics NAV."
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: get-started-article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -11,10 +11,10 @@ ms.search.keywords: account schedule, analysis, reporting, financial report, bus
 ms.date: 09/05/2017
 ms.author: edupont
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 3442284851f3e392c1108c59b8aa7d0a417f1e51
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 70ced0aad225fa8f8f2dd27d89b1cdc988e1c37e
 ms.contentlocale: it-it
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="enabling-your-business-data-for-power-bi"></a><span data-ttu-id="edc5a-103">Abilitare i dati aziendali per Power BI</span><span class="sxs-lookup"><span data-stu-id="edc5a-103">Enabling Your Business Data for Power BI</span></span>

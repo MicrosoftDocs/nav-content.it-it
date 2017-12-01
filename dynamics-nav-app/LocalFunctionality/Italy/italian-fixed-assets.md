@@ -3,7 +3,7 @@ title: Cespiti italiani
 description: "I cespiti sono beni appartenenti a una società, che vengono utilizzati per la produzione del suo reddito."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
-ms.openlocfilehash: e8b2a37b55ba5a3cc45c4d9fe0d756d629c88085
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: e7cb6ba92cf7bd320ada30e2c2f732605fad9d1c
 ms.contentlocale: it-it
-ms.lasthandoff: 10/23/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="italian-fixed-assets"></a><span data-ttu-id="c990b-103">Cespiti italiani</span><span class="sxs-lookup"><span data-stu-id="c990b-103">Italian Fixed Assets</span></span>

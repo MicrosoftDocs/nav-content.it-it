@@ -3,7 +3,7 @@ title: Relationship Management
 description: "Le funzionalità di Relationship Management di Dynamics NAV supportano le attività di vendita e consentono di accedere alle informazioni sui contatti e i potenziali clienti in modo da poter assistere in modo efficiente i clienti."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: contact, prospect, client
 ms.date: 06/06/2017
 ms.author: jswymer
 ms.translationtype: HT
-ms.sourcegitcommit: a16640e014e157d4dbcaabc53d0df2d3e063f8f9
-ms.openlocfilehash: e48a11b73cd844b4eacf157bb90228617d4dc53d
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 4f2bd57bbc043789efcae560c0d3e96d3414f19f
 ms.contentlocale: it-it
-ms.lasthandoff: 10/26/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="managing-relationships"></a><span data-ttu-id="2d39a-103">Gestione delle relazioni</span><span class="sxs-lookup"><span data-stu-id="2d39a-103">Managing Relationships</span></span>

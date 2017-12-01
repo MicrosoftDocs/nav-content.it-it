@@ -3,7 +3,7 @@ title: Come utilizzare contratti e offerte di contratto di assistenza
 description: "È possibile creare un contratto di assistenza manualmente o partendo da un'offerta di contratto assistenza. È possibile creare un contratto basato su un'offerta di contratto di assistenza."
 documentationcenter: 
 author: bholtorf
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 08/29/2017
 ms.author: bholtorf
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 104a73b51ee03a0123cd9f4c8c3c7779d1fbe358
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 4861f1651e04df61bfe4bf5ead84c91ef0f1a899
 ms.contentlocale: it-it
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-work-with-service-contracts-and-service-contract-quotes"></a><span data-ttu-id="0f655-104">Procedura: Utilizzare contratti e offerte di contratto di assistenza</span><span class="sxs-lookup"><span data-stu-id="0f655-104">How to: Work with Service Contracts and Service Contract Quotes</span></span>

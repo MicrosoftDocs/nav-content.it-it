@@ -3,7 +3,7 @@ title: Come assegnare collocazioni di default ad articoli
 description: "Quando si utilizzano le collocazioni di un'ubicazione, l'assegnazione di collocazioni di default agli articoli può semplificarne il processo di spedizione, ricezione e spostamento. Quando si assegna una collocazione di default a un articolo, tale collocazione viene suggerita ogni volta che viene avviata una transazione per l'articolo."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 09/08/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: c046cb3631cd690ba4bf4a1f1147f6e03d7cec9a
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 7cec85ca0e564f7591534c4f18a1b5e0a1fe62a5
 ms.contentlocale: it-it
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-assign-default-bins-to-items"></a><span data-ttu-id="55429-104">Procedura: Assegnare collocazioni di default ad articoli</span><span class="sxs-lookup"><span data-stu-id="55429-104">How to: Assign Default Bins to Items</span></span>

@@ -3,7 +3,7 @@ title: IVA italiana
 description: "Le società sono soggette al pagamento dell'IVA allo Stato per la maggior parte dei beni e dei servizi acquistati. L'IVA può essere detraibile se i beni o i servizi acquistati sono utilizzati nella produzione del reddito della società stessa."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
-ms.openlocfilehash: 6e54764ac0709fdc20e55cdc3b3f07c9f6c714d4
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 6ec6222ca65515eb430495c8b3450be65af0b7f1
 ms.contentlocale: it-it
-ms.lasthandoff: 10/23/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="italian-vat"></a><span data-ttu-id="aa260-104">IVA italiana</span><span class="sxs-lookup"><span data-stu-id="aa260-104">Italian VAT</span></span>

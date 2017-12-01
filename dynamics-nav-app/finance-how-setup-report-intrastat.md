@@ -3,7 +3,7 @@ title: Impostare e registrare report Intrastat
 description: "Informazioni su come impostare le funzionalità di reporting Intrastat e come segnalare le attività commerciali con società in altri paesi UE."
 documentationcenter: 
 author: bholtorf
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: electronic document, Intrastat, trade, EU, European Union
 ms.date: 08/15/2017
 ms.author: bholtorf
 ms.translationtype: HT
-ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
-ms.openlocfilehash: 1eb3a9a17f07806546022d941f923bc195c7c7fc
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 96a840ed697df0bb74755af92ced351ebf26ea40
 ms.contentlocale: it-it
-ms.lasthandoff: 10/23/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-set-up-and-report-intrastat"></a><span data-ttu-id="2b697-103">Procedura: Impostare e registrare report Intrastat</span><span class="sxs-lookup"><span data-stu-id="2b697-103">How To: Set Up and Report Intrastat</span></span>

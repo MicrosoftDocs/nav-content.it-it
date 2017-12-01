@@ -3,7 +3,7 @@ title: 'Procedura: Stampa di report delle ritenute'
 description: Nel report **Ritenute** viene visualizzato un elenco delle ritenute dovute allo stato.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: a16640e014e157d4dbcaabc53d0df2d3e063f8f9
-ms.openlocfilehash: 70065445a8d19361b03c84648611f580e1929bd7
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: eac48015401dba3461af42709ac91e531fb375c0
 ms.contentlocale: it-it
-ms.lasthandoff: 10/26/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-print-withholding-tax-reports"></a><span data-ttu-id="2c976-103">Procedura: Stampa di report delle ritenute</span><span class="sxs-lookup"><span data-stu-id="2c976-103">How to: Print Withholding Tax Reports</span></span>

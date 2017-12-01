@@ -3,7 +3,7 @@ title: Come impostare le warehouse di base con aree di operazioni
 description: "Se le aree delle operazioni interne, ad esempio produzione o assemblaggio, sono presenti nelle configurazioni di warehouse di base in cui le ubicazioni utilizzano il campo di setup **Collocazione obbligatoria** ed eventualmente i campi di setup **Richiesto prelievo** e **Richiesto stoccaggio**, è possibile utilizzare tre documenti warehouse di base per registrare le attività di warehouse per le aree delle operazioni interne."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 09/08/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: d141fcb9f5357355272f6a34d71b88f50129985b
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 30b4f824925255ca3afa6ddb831aef45884c85da
 ms.contentlocale: it-it
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-set-up-basic-warehouses-with-operations-areas"></a><span data-ttu-id="55717-103">Procedura: Impostare le warehouse di base con aree di operazioni</span><span class="sxs-lookup"><span data-stu-id="55717-103">How to: Set Up Basic Warehouses with Operations Areas</span></span>

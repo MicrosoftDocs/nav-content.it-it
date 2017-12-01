@@ -3,7 +3,7 @@ title: Utilizzare il collegamento automatico per riconciliare i pagamenti
 description: Descrive come utilizzare la funzione automatica di collegamento per collegare i pagamenti o gli incassi ai movimenti aperti relativi e per riconciliare i pagamenti.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: payment process, direct payment posting, reconcile payment, 
 ms.date: 03/29/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 7b8b6251c0b28fcf6dc7bc0d0b53360932d64fcd
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: f216170b017b4ae8205af53c9c378c7d24ab6d20
 ms.contentlocale: it-it
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-reconcile-payments-using-automatic-application"></a><span data-ttu-id="ea00d-103">Procedura: Riconciliare i pagamenti utilizzando il collegamento automatico</span><span class="sxs-lookup"><span data-stu-id="ea00d-103">How to: Reconcile Payments Using Automatic Application</span></span>

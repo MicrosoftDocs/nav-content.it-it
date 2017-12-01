@@ -3,7 +3,7 @@ title: Storno di scritture contabili
 description: "Nella finestra **Storna movimenti transazioni** sono stati aggiunti alcuni controlli per garantire la conformità alle normative locali."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
-ms.openlocfilehash: 166e497abe3bab1f2aa1e72604f59e200d2dd2a9
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: c7779753007c954612ece778dd282b1148a90928
 ms.contentlocale: it-it
-ms.lasthandoff: 10/23/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="reversing-journal-entries"></a><span data-ttu-id="0cc75-103">Storno di scritture contabili</span><span class="sxs-lookup"><span data-stu-id="0cc75-103">Reversing Journal Entries</span></span>

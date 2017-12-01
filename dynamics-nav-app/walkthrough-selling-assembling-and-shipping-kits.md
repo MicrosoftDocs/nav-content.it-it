@@ -3,7 +3,7 @@ title: Procedura dettagliata - Vendita, assemblaggio e spedizione di kit
 description: "Per supportare un magazzino JIT (just-in-time) e la capacità di personalizzare i prodotti in base alle richieste del cliente, gli ordini di assemblaggio possono essere automaticamente creati e collegati non appena viene creata la riga ordine di vendita. Il collegamento tra la domanda di vendita e l'approvvigionamento di assemblaggio consente ai gestori dell'ordine di vendita di personalizzare l'articolo di assemblaggio al fine di comunicare le date di consegna in base alla disponibilità dei componenti. Inoltre, con la spedizione dell'ordine di vendita collegato vengono registrati automaticamente l'output e il consumo in fase di assemblaggio."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 7cc4a50a981041d066e029da7e6a2666241e38eb
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: de99f1b69ba11bd4faca59a20bcd7b52c2f7ac8b
 ms.contentlocale: it-it
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="walkthrough-selling-assembling-and-shipping-kits"></a><span data-ttu-id="7fde2-105">Procedura dettagliata: vendita, assemblaggio e spedizione di kit</span><span class="sxs-lookup"><span data-stu-id="7fde2-105">Walkthrough: Selling, Assembling, and Shipping Kits</span></span>

@@ -3,7 +3,7 @@ title: Dettagli di progettazione - Lotto-per-Lotto
 description: "Informazioni su come utilizzare il metodo lotto-per lotto per stabilire la quantità dell'ordine in base alla domanda."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 039afd9dd6f7e4c608b17229f5b438c23ba3624b
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 544d7044d9c5504476e520552fdaf4470b2bd02d
 ms.contentlocale: it-it
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="design-details-lot-for-lot"></a><span data-ttu-id="334da-103">Dettagli di progettazione: Lotto-per-Lotto</span><span class="sxs-lookup"><span data-stu-id="334da-103">Design Details: Lot-for-Lot</span></span>

@@ -3,7 +3,7 @@ title: Utilizzare i documenti in entrata
 description: "È possibile gestire i documenti aziendali esterni in entrata, ad esempio le ricevute di pagamento o i PDF, gestire attività OCR e convertire i file in record e documenti in formato elettronico in Dynamics NAV."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: electronic document, e-invoice, incoming document, OCR, ecom
 ms.date: 06/02/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 278513ffa6918612f30b94c7306e340362505f32
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 83babfdc97f8155baf89d75b729ca0d8507e1a49
 ms.contentlocale: it-it
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="incoming-documents"></a><span data-ttu-id="7ccaf-103">Documenti in entrata</span><span class="sxs-lookup"><span data-stu-id="7ccaf-103">Incoming Documents</span></span>

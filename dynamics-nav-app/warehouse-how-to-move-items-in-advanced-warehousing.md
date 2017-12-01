@@ -3,7 +3,7 @@ title: Come spostare articoli in configurazioni di warehouse avanzate
 description: Nelle configurazioni warehouse avanzate, ovvero le ubicazioni con stoccaggi e prelievi guidati, occorre preparare le movimentazioni warehouse tra collocazioni nel prospetto movimentazioni, un'operazione in genera affidata a un responsabile di reparto, quindi creare le movimentazioni warehouse che dovranno essere eseguite dagli impiegati warehouse.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 08/232017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: a7e26a8910b0cf7d8a78b7f86291d9cfd5d18bec
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: c722576066a2e5a271aef61698ca76de7dcdb193
 ms.contentlocale: it-it
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-move-items-in-advanced-warehouse-configurations"></a><span data-ttu-id="49dd4-103">Procedura: Spostare articoli in configurazioni di warehouse avanzate</span><span class="sxs-lookup"><span data-stu-id="49dd4-103">How to: Move Items in Advanced Warehouse Configurations</span></span>

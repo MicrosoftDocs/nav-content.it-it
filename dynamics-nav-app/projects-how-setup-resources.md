@@ -3,7 +3,7 @@ title: "Impostare costi, prezzi e capacità per le risorse"
 description: "Per utilizzare le risorse e semplificare la gestione dei progetti, specificare i costi e i prezzi per le singole risorse o i gruppi di risorse e impostare la capacità della risorsa."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: project management, capacity, staff
 ms.date: 06/06/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: e1c2f8f41bb493c4ce2efa2156631c6d9d273439
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 05192eb463f7ab5529f6d2cd0707431b8a4d5268
 ms.contentlocale: it-it
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-set-up-resources"></a><span data-ttu-id="3f42a-103">Procedura: Impostare risorse</span><span class="sxs-lookup"><span data-stu-id="3f42a-103">How to: Set Up Resources</span></span>

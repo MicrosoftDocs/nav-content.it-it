@@ -3,7 +3,7 @@ title: Configurazione dei processi della warehouse
 description: "La strategia di distribuzione di una società si riflette in una configurazione dei relativi processi di warehouse. Include la definizione della modalità di gestione dei diversi articoli nelle diverse ubicazioni di warehouse, ad esempio il livello di controllo della collocazione e l'estensione del flusso di lavoro necessario tra le diverse attività di warehouse."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 09/08/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 9ac91030555d0f12e9920b661cd26b9fff67248e
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: b19d9b711579ac9fc7850c1e8780c675888069f0
 ms.contentlocale: it-it
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="setting-up-warehouse-management"></a><span data-ttu-id="44d78-104">Impostazione gestione warehouse</span><span class="sxs-lookup"><span data-stu-id="44d78-104">Setting Up Warehouse Management</span></span>

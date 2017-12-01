@@ -3,7 +3,7 @@ title: "Funzionalità locale per l'Italia"
 description: "Negli argomenti indicati di seguito viene descritta la funzionalità locale nella versione italiana di [!INCLUDE[navnow](../../includes/navnow_md.md)]."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: a16640e014e157d4dbcaabc53d0df2d3e063f8f9
-ms.openlocfilehash: ca7519f85a5b620445ee4d5bb672f2c644098a84
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: efbcb113101942d9f7f809a33275b4a6eda29940
 ms.contentlocale: it-it
-ms.lasthandoff: 10/26/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="italy-local-functionality"></a><span data-ttu-id="ba928-103">Funzionalità locale per l'Italia</span><span class="sxs-lookup"><span data-stu-id="ba928-103">Italy Local Functionality</span></span>

@@ -3,7 +3,7 @@ title: Creare i documenti in entrata da documenti
 description: "È possibile creare i record dei documenti in entrata, ad esempio le fatture elettroniche, e gestire le attività OCR, il commercio elettronico e il servizio di scambio documenti."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: electronic document, e-invoice, incoming document, OCR, ecom
 ms.date: 06/02/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: fd8eba03f98d4d667a25639c1c958edf6936b0cb
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 6667a77725ad276dd7a8d41a0bf9b7415e0a48bc
 ms.contentlocale: it-it
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-create-incoming-document-records-directly-from-documents-and-entries"></a><span data-ttu-id="2cd30-103">Procedura: Creare i record di documenti in entrata direttamente da documenti e movimenti</span><span class="sxs-lookup"><span data-stu-id="2cd30-103">How to: Create Incoming Document Records Directly from Documents and Entries</span></span>

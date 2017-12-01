@@ -3,7 +3,7 @@ title: 'Procedura: Impostazione di definizioni e batch di registrazioni'
 description: "Tutte le società dell'Unione Europea (UE) sono tenute e presentare dichiarazioni Intrastat all'ufficio doganale, indicando in dettaglio le cessioni e gli acquisti intracomunitari relativamente all'anno in corso."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
-ms.openlocfilehash: 9a1c549392f43c854a4d99f6505b61ea0168a63a
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 24bd2b22dc9482f681fc39a81bf1252506935b9b
 ms.contentlocale: it-it
-ms.lasthandoff: 10/23/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-set-up-journal-templates-and-batches"></a><span data-ttu-id="b562b-103">Procedura: Impostazione di definizioni e batch di registrazioni</span><span class="sxs-lookup"><span data-stu-id="b562b-103">How to: Set Up Journal Templates and Batches</span></span>

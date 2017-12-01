@@ -3,7 +3,7 @@ title: 'Procedura: Inviare le dichiarazioni IVA'
 description: "Le società sono soggette al pagamento dell'IVA per la maggior parte dei beni e dei servizi acquistati. L'IVA può essere detraibile se i beni e i servizi acquistati sono utilizzati nella produzione del reddito della società stessa."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
-ms.openlocfilehash: 2a9715fe3cde8b53993065b7cf37b73c2eab7f78
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 5525847b68ec83b5bbea28757961d7abb8ec9d3e
 ms.contentlocale: it-it
-ms.lasthandoff: 10/23/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-submit-vat-statements"></a><span data-ttu-id="57796-104">Procedura: Inviare le dichiarazioni IVA</span><span class="sxs-lookup"><span data-stu-id="57796-104">How to: Submit VAT Statements</span></span>

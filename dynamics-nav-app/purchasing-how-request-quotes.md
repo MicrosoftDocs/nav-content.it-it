@@ -3,7 +3,7 @@ title: Creare un'offerta di acquisto per richiedere un'offerta dal fornitore
 description: Descrive come creare un documento di un'offerta di vendita o una richiesta di offerta (RdO) per registrare la propria offerta a un cliente per la vendita di prodotti in base a termini determinati.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: rfq
 ms.date: 08/08/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 615f40834b26826edafbfc70eb82db969c6d3d4c
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: bd11c5b1faa9c9450787260a86a222773ea16241
 ms.contentlocale: it-it
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-request-quotes"></a><span data-ttu-id="ad358-103">Procedura: Richiedere le offerte</span><span class="sxs-lookup"><span data-stu-id="ad358-103">How to: Request Quotes</span></span>

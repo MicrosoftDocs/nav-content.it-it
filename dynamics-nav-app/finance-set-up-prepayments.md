@@ -3,7 +3,7 @@ title: Impostare i pagamenti anticipati
 description: "I pagamenti anticipati sono pagamenti che vengono fatturati e registrati in un ordine di pagamento anticipato di vendita o di acquisto prima della fatturazione finale. Potrebbe essere necessario richiedere un deposito prima di iniziare la produzione di articoli su ordine oppure richiedere il pagamento prima della spedizione degli articoli a un cliente. La funzionalità di pagamento anticipato consente di fatturare e riscuotere i depositi richiesti dai clienti o di rimettere i depositi ai fornitori. In questo modo è possibile assicurarsi che tutti i pagamenti siano registrati a fronte di una fattura."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 08/07/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: cdbd9113d43aaab48788e18e7b56cb7d8eef5410
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 7219f32fee591134c2c239b0df959e000d63aeb3
 ms.contentlocale: it-it
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-set-up-prepayments"></a><span data-ttu-id="f626d-106">Procedura: Impostare i pagamenti anticipati</span><span class="sxs-lookup"><span data-stu-id="f626d-106">How to: Set Up Prepayments</span></span>

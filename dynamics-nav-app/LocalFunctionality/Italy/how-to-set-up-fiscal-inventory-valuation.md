@@ -3,7 +3,7 @@ title: 'Procedura: Impostare la valutazione magazzino fiscale'
 description: "Per utilizzare la valutazione magazzino fiscale, è necessario impostare i metodi di valutazione magazzino."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
-ms.openlocfilehash: c6a3560bf19338a0437acfbaadb40b24bf532926
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: d3a62fcfe710626766871b526eb27cd1c9df0d50
 ms.contentlocale: it-it
-ms.lasthandoff: 10/23/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-set-up-fiscal-inventory-valuation"></a><span data-ttu-id="42577-103">Procedura: Impostare la valutazione magazzino fiscale</span><span class="sxs-lookup"><span data-stu-id="42577-103">How to: Set Up Fiscal Inventory Valuation</span></span>

@@ -3,7 +3,7 @@ title: Procedura dettagliata - Impostazione e fatturazione dei pagamenti anticip
 description: "I pagamenti anticipati sono pagamenti che vengono fatturati e registrati in un ordine di pagamento anticipato di vendita o di acquisto prima della fatturazione finale. La società può richiedere un deposito prima di produrre gli articoli oppure esigere il pagamento prima di spedire gli articoli al cliente. La funzionalità di pagamento anticipato in [!INCLUDE[d365fin](includes/d365fin_md.md)] consente di fatturare e riscuotere i depositi richiesti dai clienti o di rimettere i depositi ai fornitori. In questo modo è possibile assicurarsi che tutti i pagamenti siano registrati a fronte di una fattura."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 09/07/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 3076aca3a3b0ef70da183ec55ee1938926d04702
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 6794c05ab61a568f923c1b7c7fc835d12e65b7e3
 ms.contentlocale: it-it
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="walkthrough-setting-up-and-invoicing-sales-prepayments"></a><span data-ttu-id="4859f-106">Procedura dettagliata: impostazione e fatturazione dei pagamenti anticipati vendite</span><span class="sxs-lookup"><span data-stu-id="4859f-106">Walkthrough: Setting Up and Invoicing Sales Prepayments</span></span>

@@ -2,7 +2,7 @@
 title: Impostare prezzi di vendita e sconti speciali per i clienti
 description: "Descrive le modalità di definizione di prezzi e accordi di sconto alternativi che si desidera collegare a documenti di vendita per clienti diversi."
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -11,10 +11,10 @@ ms.search.keywords: special price, alternate price, pricing
 ms.date: 09/08/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 980e6e117887e0a0dab68aedfa99f99c27b876c9
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 346513b40d3eec3de828124dbd07cb59f89412c9
 ms.contentlocale: it-it
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-record-special-sales-prices-and-discounts"></a><span data-ttu-id="2aa08-103">Procedura: Registrare i prezzi di vendita e gli sconti speciali</span><span class="sxs-lookup"><span data-stu-id="2aa08-103">How to: Record Special Sales Prices and Discounts</span></span>

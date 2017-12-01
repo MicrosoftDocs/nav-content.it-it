@@ -3,7 +3,7 @@ title: 'Procedura: Definizione di dare e avere'
 description: "I campi **Dare** e **Avere** sono presenti in più registrazioni e tabelle, tra cui **Registrazioni COGE**, la tabella **Mov. contabili clienti** e la tabella **Mov. contabili fornitori**."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
-ms.openlocfilehash: 119e311d9a68c88b14ce7deef003c75b8ad5ce96
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: ec0eca05203a9b45e5579e3d375b42420347ae40
 ms.contentlocale: it-it
-ms.lasthandoff: 10/23/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-define-debit-and-credit-amounts"></a><span data-ttu-id="a4f74-103">Procedura: Definizione di dare e avere</span><span class="sxs-lookup"><span data-stu-id="a4f74-103">How to: Define Debit and Credit Amounts</span></span>

@@ -3,7 +3,7 @@ title: Come eseguire la pianificazione completa, MPS e MRP
 description: "L'espressione \"esecuzione del prospetto di pianificazione\" o \"esecuzione di MRP\" si riferisce al calcolo della programmazione di produzione master e delle richieste di materiale in base alla domanda effettiva e prevista. Il sistema di pianificazione può calcolare la programmazione MPS o la pianificazione MRP su richiesta oppure può calcolarle entrambe contemporaneamente."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 09/26/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 851ec29a213925d5508d0dbe8ec429a050823540
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 9c095a10534ab109eeb2099a20b513a86f71323c
 ms.contentlocale: it-it
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-run-full-planning-mps-or-mrp"></a><span data-ttu-id="93e0c-104">Procedura: Eseguire la pianificazione completa, MPS o MRP</span><span class="sxs-lookup"><span data-stu-id="93e0c-104">How to: Run Full Planning, MPS or MRP</span></span>

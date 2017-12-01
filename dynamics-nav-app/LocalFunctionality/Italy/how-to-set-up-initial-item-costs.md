@@ -3,7 +3,7 @@ title: 'Procedura: Impostare i costi iniziali per gli articoli'
 description: Quando si imposta [!INCLUDE[navnow](../../includes/navnow_md.md)] nell'organizzazione.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
-ms.openlocfilehash: 72bcab1a34c23fe764c9565c8327af803dd63028
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: f936b754b7efe47cf753e77706af9752cbea8806
 ms.contentlocale: it-it
-ms.lasthandoff: 10/23/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-set-up-initial-item-costs"></a><span data-ttu-id="b4be5-103">Procedura: Impostare i costi iniziali per gli articoli</span><span class="sxs-lookup"><span data-stu-id="b4be5-103">How to: Set Up Initial Item Costs</span></span>

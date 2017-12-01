@@ -3,7 +3,7 @@ title: Trasferimento e registrazione di movimenti di costi
 description: "Prima di definire le allocazioni costi, è necessario comprendere da dove derivano i movimenti di costo."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 604e331388344b87691fd73b6044b938b9649154
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 795cdff8655fdcc53c76c79db3713f5fac205249
 ms.contentlocale: it-it
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="transferring-and-posting-cost-entries"></a><span data-ttu-id="750ff-103">Trasferimento e registrazione di movimenti di costi</span><span class="sxs-lookup"><span data-stu-id="750ff-103">Transferring and Posting Cost Entries</span></span>

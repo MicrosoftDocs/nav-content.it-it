@@ -3,7 +3,7 @@ title: Creare nuovi movimenti di valorizzazione per gli articoli in magazzino
 description: "Descrive come rivalutare o ammortizzare i movimenti di valorizzazione di uno o più articoli in magazzino registrandone il corrente valore calcolato."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: costing, inventory cost, value entries
 ms.date: 08/07/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 5bc7e72a44f002e42ad9b3d37c9eab6cd512eff3
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: f945b13f87dfbab07d4df59a43dd4daf26ff9cb0
 ms.contentlocale: it-it
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-revalue-inventory"></a><span data-ttu-id="13ea9-103">Procedura: Rivalutare il magazzino</span><span class="sxs-lookup"><span data-stu-id="13ea9-103">How to: Revalue Inventory</span></span>

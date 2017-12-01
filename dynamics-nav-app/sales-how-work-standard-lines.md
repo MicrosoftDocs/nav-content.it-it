@@ -3,7 +3,7 @@ title: Impostare e utilizzare righe standard per vendite e acquisti ricorrenti
 description: "È possibile impostare righe di vendita e acquisto più frequentemente usate e quindi inserirle nei documenti di vendita e di acquisto per compilare rapidamente le righe con informazioni standard."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: trade, sell, replenishment
 ms.date: 07/02/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: d3e7b514dfc91346a697b3c85cf36d7d69f56ddc
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 93db689d9a6a33c39507fdc2e2328930483c247d
 ms.contentlocale: it-it
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-create-recurring-sales-and-purchase-lines"></a><span data-ttu-id="f1a0d-103">Procedura: Creare righe di vendite e acquisti ricorrenti</span><span class="sxs-lookup"><span data-stu-id="f1a0d-103">How to: Create Recurring Sales and Purchase Lines</span></span>

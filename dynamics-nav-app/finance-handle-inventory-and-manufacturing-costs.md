@@ -3,7 +3,7 @@ title: Gestire i costi del magazzino e di produzione
 description: "Sebbene la maggior parte della funzionalità di contabilizzazione dei costi venga espressa in processi sottostanti senza interazione da parte dell'utente, ad esempio il collegamento dei movimenti contabili e la rettifica automatica dei costi, numerosi campi, finestre e report sono destinati agli utenti affinché possano gestire, direttamente o indirettamente, il costo degli articoli o delle operazioni."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 08/09/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: e7173c243a1603a54cca2362b9a4faea3fc4e00e
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: bd6fd393a08f0258d3a07270bf91e2ea2c836a07
 ms.contentlocale: it-it
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="handling-inventory-and-manufacturing-costs"></a><span data-ttu-id="ca6fe-103">Gestione dei costi del magazzino e di produzione</span><span class="sxs-lookup"><span data-stu-id="ca6fe-103">Handling Inventory and Manufacturing Costs</span></span>

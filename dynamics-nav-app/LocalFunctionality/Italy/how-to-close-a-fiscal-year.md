@@ -3,7 +3,7 @@ title: 'Procedura: Chiusura di un anno fiscale'
 description: Per valutare i profitti e le perdite, alla fine di ogni anno fiscale viene fornito un report di chiusura dell'anno fiscale.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: a16640e014e157d4dbcaabc53d0df2d3e063f8f9
-ms.openlocfilehash: bfbf3d9dab1e6b490d85813e9045253de26cf9fd
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 31da07d2be73af65dff26a9c8a8ef04d8a35a6bb
 ms.contentlocale: it-it
-ms.lasthandoff: 10/26/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-close-a-fiscal-year"></a><span data-ttu-id="449da-103">Procedura: Chiusura di un anno fiscale</span><span class="sxs-lookup"><span data-stu-id="449da-103">How to: Close a Fiscal Year</span></span>

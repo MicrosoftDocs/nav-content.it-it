@@ -3,7 +3,7 @@ title: Procedura dettagliata - Calcolo del valore WIP per una commessa
 description: Le commesse consentono di pianificare l'impiego delle risorse dell'azienda e di tenere traccia dei vari costi connessi all'impiego delle risorse in un progetto specifico. Le commesse implicano il consumo di ore di lavoro del personale, di ore macchina, degli articoli a magazzino e altri consumi che vanno monitorati man mano che la commessa progredisce.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 09/06/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: ea0953192454302a83a9187cd6569905723fd150
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 4345fe957a243f60f1ba70af8817471827c6b37d
 ms.contentlocale: it-it
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="walkthrough-calculating-work-in-process-for-a-job"></a><span data-ttu-id="513d9-104">Procedura dettagliata: Calcolo del valore WIP per una commessa</span><span class="sxs-lookup"><span data-stu-id="513d9-104">Walkthrough: Calculating Work in Process for a Job</span></span>

@@ -2,7 +2,7 @@
 title: Esporre oggetti come servizi Web
 description: Pubblicare oggetti di [! INCLUDA] [d365fin (includes/d365fin_md.md)] come servizi Web per renderli immediatamente disponibili nella rete.
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -11,10 +11,10 @@ ms.search.keywords:
 ms.date: 09/01/2017
 ms.author: edupont
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 7c2bb65caeed819088382f811eb179eaeda35a7c
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 177eb9ca4219a33ce8e4bbdbcd1c53a8b0a4b998
 ms.contentlocale: it-it
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-publish-a-web-service"></a><span data-ttu-id="e5919-103">Procedura: Pubblicare un servizio Web</span><span class="sxs-lookup"><span data-stu-id="e5919-103">How to: Publish a Web Service</span></span>

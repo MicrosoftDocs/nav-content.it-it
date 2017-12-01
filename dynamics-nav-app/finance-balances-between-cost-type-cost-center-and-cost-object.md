@@ -3,7 +3,7 @@ title: Saldi tra tipo di costo, centro di costo e oggetto di costo
 description: "Quando si imposta la contabilità industriale, è necessario assicurarsi che tutti i movimenti vengano assegnati a un tipo di costo, nonché a un centro di costo o a un oggetto di costo. Pertanto, a ogni movimento di costo deve essere assegnato un tipo di costo e un codice del centro di costo o un oggetto di costo. Questa regola garantisce la visualizzazione di ciascun movimento di costo nei centri di costo o negli oggetti di costo, ma mai in entrambe le aree."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 46b480caf8195b7cf1cad0f37780ccaccb8ffb6f
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 323fffa5d63fa682a378928733680917b44d9188
 ms.contentlocale: it-it
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="balances-between-cost-type-cost-center-and-cost-object"></a><span data-ttu-id="374c9-105">Saldi tra tipo di costo, centro di costo e oggetto di costo</span><span class="sxs-lookup"><span data-stu-id="374c9-105">Balances Between Cost Type, Cost Center, and Cost Object</span></span>

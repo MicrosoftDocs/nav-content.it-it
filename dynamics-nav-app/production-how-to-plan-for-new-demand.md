@@ -3,7 +3,7 @@ title: Come pianificare ordine per ordine
 description: "È possibile eseguire questa attività di pianificazione nella finestra **Pianificazione ordini**, in cui viene visualizzata tutta la nuova domanda, oltre alle informazioni sulla disponibilità e ai suggerimenti sull'approvvigionamento. In questa finestra sono disponibili la visualizzazione e gli strumenti necessari per una pianificazione efficace della domanda dalle righe di vendita e dalle righe di componenti e per la creazione diretta di diversi tipi di ordini di approvvigionamento."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 09/06/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: fcf12223ce5f2fa083c87da4886aed1c7040e4a7
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: ab072cd0bae72b7fe3a7ca04c1dd8d00ce5ca5ba
 ms.contentlocale: it-it
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-plan-for-new-demand-order-by-order"></a><span data-ttu-id="6eb20-104">Procedura: Pianificare una nuova domanda ordine per ordine</span><span class="sxs-lookup"><span data-stu-id="6eb20-104">How to: Plan for New Demand Order by Order</span></span>

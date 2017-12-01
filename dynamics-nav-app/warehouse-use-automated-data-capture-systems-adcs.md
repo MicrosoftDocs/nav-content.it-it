@@ -2,7 +2,7 @@
 title: Utilizzare i sistemi di acquisizione automatica dei dati (ADCS, Automatic Data Capture System)
 description: "È possibile utilizzare il sistema di acquisizione automatica dei dati (ADCS, Automatic Data Capture System) per registrare il movimento degli articoli nella warehouse e alcune attività di registrazione, ad esempio le rettifiche delle quantità nella registrazioni articoli di warehouse e gli inventari fisici."
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -11,10 +11,10 @@ ms.search.keywords:
 ms.date: 09/18/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 2e5fb701013f75557302b7a26ba8c6f2972806a3
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 8696a1173ba315a39ac4cc76c944f257035f20d7
 ms.contentlocale: it-it
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-enable-automated-data-capture-systems-adcs"></a><span data-ttu-id="f4272-103">Procedura: Abilitare sistemi di acquisizione automatica dei dati (ADCS, Automatic Data Capture System)</span><span class="sxs-lookup"><span data-stu-id="f4272-103">How to: Enable Automated Data Capture Systems (ADCS)</span></span>

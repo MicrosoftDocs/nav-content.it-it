@@ -3,7 +3,7 @@ title: Creazione di budget
 description: "Descrive come creare i budget per prevedere diverse attività finanziarie e assegnare le dimensioni per scopi di business intelligence."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: postpone
 ms.date: 06/16/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: db5d6a5ca5930a36824d37badff3f3aa18fa1289
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 682bcfd87a93f29863b249b0f23ee95d8560be3c
 ms.contentlocale: it-it
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-create--budgets"></a><span data-ttu-id="37de1-103">Procedura: Creare budget</span><span class="sxs-lookup"><span data-stu-id="37de1-103">How to: Create  Budgets</span></span>

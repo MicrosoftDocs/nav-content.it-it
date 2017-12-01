@@ -3,7 +3,7 @@ title: Spostamento degli articoli
 description: "Quando gli articoli si trovano in magazzino, potrebbe essere necessario spostarli per supportare le attività di warehouse quotidiane necessarie per mantenere il flusso degli articoli nella warehouse. Alcuni movimenti avvengono in relazione diretta con le operazioni interne, ad esempio un ordine di produzione che richiede la consegna di componenti o lo stoccaggio di articoli finali. Altri movimenti vengono eseguiti come pura ottimizzazione dello spazio della warehouse oppure come movimenti ad-hoc da e verso tali operazioni."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 08/22/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: ce2e6f176d2eb13c74e54e903d284a41948d87b8
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 6a962914ba13b3c4e57b1be655c1066b44f0d60c
 ms.contentlocale: it-it
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="moving-items"></a><span data-ttu-id="5ab47-105">Spostamento di articoli</span><span class="sxs-lookup"><span data-stu-id="5ab47-105">Moving Items</span></span>

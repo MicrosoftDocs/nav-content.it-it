@@ -3,7 +3,7 @@ title: Come creare distinte base di produzione
 description: "Una DB di produzione contiene i dati master che descrivono i componenti e i sottoassemblaggi utilizzati nella produzione di un articolo padre. Dopo la creazione di un ordine di produzione per l'articolo padre, la relativa DB di produzione determinerà il calcolo delle richieste di materiale come rappresentato nella finestra **Componenti ordine produzione**."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 09/05/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 122bc1fa0b259e4d80ad134b94abcdc4d2d96640
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 790a0fa6fb3fc023b6fc0580dd6ed124ccec092c
 ms.contentlocale: it-it
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-create-production-boms"></a><span data-ttu-id="17bee-104">Procedura: Creare distinte base di produzione</span><span class="sxs-lookup"><span data-stu-id="17bee-104">How to: Create Production BOMs</span></span>

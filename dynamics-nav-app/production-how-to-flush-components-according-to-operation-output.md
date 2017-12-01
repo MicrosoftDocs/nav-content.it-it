@@ -3,7 +3,7 @@ title: Come eseguire la consuntivazione dei componenti in base all'output dell'o
 description: Per gli articoli impostati con il metodo di consuntivazione a ritroso, il comportamento di default prevede di calcolare e registrare il consumo di componenti quando si modifica lo stato di un ordine di produzione rilasciato in **Completato**. Per ulteriori informazioni, vedere Metodo consuntivazione.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 09/06/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 48645ff5d943b2f7093224289ff3cad6cfa6537e
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 335d6b4bfc27228bbdd0f9ccdf2bbed6fe9e2c5a
 ms.contentlocale: it-it
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-flush-components-according-to-operation-output"></a><span data-ttu-id="f2ad0-104">Procedura: Eseguire la consuntivazione dei componenti in base all'output dell'operazione</span><span class="sxs-lookup"><span data-stu-id="f2ad0-104">How to: Flush Components According to Operation Output</span></span>
