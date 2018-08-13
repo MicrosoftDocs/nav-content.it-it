@@ -66,7 +66,7 @@ Quando i clienti richiedono informazioni su un articolo, per corrispondenza o in
 4. Nel campo **Valore** scegliere il pulsante di ricerca e selezionare un valore attributo in base a cui filtrare gli articoli.
 
     > [!NOTE]  
->   È possibile selezionare solo i valori direttamente per gli attributi dell'articolo che hanno valori fissi, ad esempio il colore. Per gli attributi dell'articolo che hanno valori variabili, quali la larghezza, è necessario specificare il valore dell'attributo dell'articolo selezionando prima una condizione. Vedere il passaggio 5.
+   >   È possibile selezionare solo i valori direttamente per gli attributi dell'articolo che hanno valori fissi, ad esempio il colore. Per gli attributi dell'articolo che hanno valori variabili, quali la larghezza, è necessario specificare il valore dell'attributo dell'articolo selezionando prima una condizione. Vedere il passaggio 5.
 5. Nel campo **Valore** per un attributo articolo variabile, fare clic sul pulsante di ricerca.
 6. Nella finestra **Specifica valore filtro** nel campo **Condizione**, fare clic sulla freccia rivolta verso il basso e selezionare una condizione.
 7. Nel campo **Valore**, immettere un valore attributo in base a cui filtrare gli articoli.

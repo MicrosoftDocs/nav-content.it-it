@@ -37,7 +37,7 @@ La stampante deve essere configurata per i moduli di assegni e deve essere defin
    * **Assegno manuale**: selezionare questa opzione se è stato creato un assegno manualmente e si desidera creare un corrispondente movimento contabile per questo importo. Non è possibile stampare assegni tramite questa opzione da [!INCLUDE[d365fin](includes/d365fin_md.md)]. È possibile selezionare **Assegno manuale** solo se il campo **Tipo contropartita** o il campo **Tipo conto** è impostato su **Conto bancario**.
 
      > [!NOTE]  
->   È necessario stampare gli assegni automatici prima di poter registrare le righe di registrazione correlate.
+     >   È necessario stampare gli assegni automatici prima di poter registrare le righe di registrazione correlate.
 4. In caso di assegni automatici, scegliere **Stampa assegno**.
 5. Nella finestra **Assegno** compilare i campi secondo le proprie necessità. [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]
 6. Selezionare il pulsante **Stampa**.

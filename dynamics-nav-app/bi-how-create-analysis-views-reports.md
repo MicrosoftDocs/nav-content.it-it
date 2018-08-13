@@ -69,10 +69,10 @@ Un modello contiene un insieme di righe, che rappresentano le colonne di analisi
 4. Nella finestra **Colonne Analisi** compilare i campi per specificare le colonne da includere nel report analisi.  
 
     > [!NOTE]  
->   Per definire una colonna, è necessario compilare il campo **Codice tipo analisi** per tutti i tipi di colonna ad eccezione di **Formula**. La finestra **Tipi di analisi** consente di impostare i codici di tipo di analisi.  
+   >   Per definire una colonna, è necessario compilare il campo **Codice tipo analisi** per tutti i tipi di colonna ad eccezione di **Formula**. La finestra **Tipi di analisi** consente di impostare i codici di tipo di analisi.  
 
     **Nota**. Se si seleziona **Mov. articoli** nel campo **Tipo mov. contabile**, i valori effettivi verranno copiati dai movimenti contabili articoli. Se si seleziona **Movimenti budget articoli**, i valori previsti verranno copiati dal budget.  
-5.  Scegliere il pulsante **OK** per salvare le modifiche.  
+5. Scegliere il pulsante **OK** per salvare le modifiche.  
 
 ## <a name="to-set-up-analysis-line-templates"></a>Per impostare modelli di righe di analisi  
 La seguente procedura è basata sui report di analisi per le vendite. I passaggi sono simili a quelli dei report di analisi di magazzino e di acquisto.

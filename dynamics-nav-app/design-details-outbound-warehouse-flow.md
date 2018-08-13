@@ -33,11 +33,11 @@ Inoltre, sono presenti i seguenti documenti di origine interni che funzionano co
 - Ordine di produzione con componenti necessari  
 - Ordine di assemblaggio con componenti necessari  
 
- Gli ultimi due documenti rappresentano i flussi in uscita dalla warehouse alle aree operative interne. Per ulteriori informazioni sulla gestione del magazzino per i processi in entrata e in uscita interni, vedere [Dettagli di progettazione: Flussi warehouse interni](design-details-internal-warehouse-flows.md).  
+  Gli ultimi due documenti rappresentano i flussi in uscita dalla warehouse alle aree operative interne. Per ulteriori informazioni sulla gestione del magazzino per i processi in entrata e in uscita interni, vedere [Dettagli di progettazione: Flussi warehouse interni](design-details-internal-warehouse-flows.md).  
 
- I processi e i documenti dell'interfaccia utente nei flussi di warehouse in uscita sono diversi nelle configurazioni di base e avanzata della warehouse. La principale differenza consiste nel fatto che le attività sono eseguite ordine per ordine nelle configurazioni di base della warehouse e vengono consolidate per più ordini nelle configurazioni avanzate della warehouse. Per ulteriori informazioni sui diversi livelli di complessità della warehouse, vedere [Dettagli di progettazione: Panoramica warehouse](design-details-warehouse-setup.md).  
+  I processi e i documenti dell'interfaccia utente nei flussi di warehouse in uscita sono diversi nelle configurazioni di base e avanzata della warehouse. La principale differenza consiste nel fatto che le attività sono eseguite ordine per ordine nelle configurazioni di base della warehouse e vengono consolidate per più ordini nelle configurazioni avanzate della warehouse. Per ulteriori informazioni sui diversi livelli di complessità della warehouse, vedere [Dettagli di progettazione: Panoramica warehouse](design-details-warehouse-setup.md).  
 
- In [!INCLUDE[d365fin](includes/d365fin_md.md)], i processi in uscita per il prelievo e la spedizione possono essere eseguiti in quattro modalità utilizzando diverse funzionalità a seconda del livello di complessità della warehouse.  
+  In [!INCLUDE[d365fin](includes/d365fin_md.md)], i processi in uscita per il prelievo e la spedizione possono essere eseguiti in quattro modalità utilizzando diverse funzionalità a seconda del livello di complessità della warehouse.  
 
 |Metodo|Processo in entrata|Collocazioni|Prelievi|Spedizioni|Livello di complessità (vedere [Dettagli di progettazione: Setup warehouse](design-details-warehouse-setup.md))|  
 |------------|---------------------|----------|-----------|---------------|--------------------------------------------------------------------------------------------------------------------|  

@@ -79,12 +79,12 @@ Al termine del salvataggio della registrazione magazzino standard, viene visuali
     Se non si è selezionato il campo **Salva importo unitario** quando si è utilizzato il processo della funzione **Salva come registrazioni magazzino standard**, il campo **Importo unitario** delle righe inserite dalle registrazioni standard viene automaticamente completato con il valore corrente dell'articolo, copiato dal campo **Costo unitario** della scheda articolo.
 
     > [!NOTE]  
->   in caso di selezione dei campi **Salva Importo Unitario** o **Salva Quantità**, è opportuno assicurarsi che i valori inseriti siano corretti per la rettifica di magazzino specifica prima di contabilizzare la registrazione di magazzino.
+   >   in caso di selezione dei campi **Salva Importo Unitario** o **Salva Quantità**, è opportuno assicurarsi che i valori inseriti siano corretti per la rettifica di magazzino specifica prima di contabilizzare la registrazione di magazzino.
 
     Se le righe di registrazione di magazzino inserite contengono importi unitari salvati che non si desidera contabilizzare, è possibile eseguire rapidamente la rettifica al valore corrente dell'articolo come indicato di seguito.
 
-6. Selezionare e righe di registrazioni magazzino che si desidera rettificare e scegliere l'azione **Ricalcola importo unitario**. Il campo Importo unitario verrà così aggiornato con il costo unitario corrente dell'articolo.
-7. Scegliere l'azione **Registra**.
+5. Selezionare e righe di registrazioni magazzino che si desidera rettificare e scegliere l'azione **Ricalcola importo unitario**. Il campo Importo unitario verrà così aggiornato con il costo unitario corrente dell'articolo.
+6. Scegliere l'azione **Registra**.
 
 ## <a name="to-renumber-document-numbers-in-journals"></a>Rinumerare i documenti nei giornali di registrazione
 Per evitare errori di registrazione dovuti all'ordine dei numeri di documento, è possibile utilizzare la funzione **Rinumera documenti** prima di effettuare una registrazione.

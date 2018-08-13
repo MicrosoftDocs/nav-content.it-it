@@ -38,11 +38,11 @@ La presente procedura dettagliata illustra il processo di pianificazione degli o
 ## <a name="prerequisites"></a>Prerequisiti  
  Prima di iniziare questa procedura dettagliata, occorre installare [!INCLUDE[d365fin](includes/d365fin_md.md)]. Le seguenti modifiche devono essere apportate al database:  
 
--   Eliminare tutti gli ordini di biciclette esistenti  
--   Creare un ordine di vendita per 10 biciclette per l'ubicazione BLU  
--   Eliminare tutti gli ordini di produzione confermati e pianificati. Non eliminare gli ordini avviati con movimenti già registrati.  
+- Eliminare tutti gli ordini di biciclette esistenti  
+- Creare un ordine di vendita per 10 biciclette per l'ubicazione BLU  
+- Eliminare tutti gli ordini di produzione confermati e pianificati. Non eliminare gli ordini avviati con movimenti già registrati.  
 
- Come regola generale, si raccomanda di utilizzare i dati suggeriti nella procedura perché dispongono dei record necessari.  
+  Come regola generale, si raccomanda di utilizzare i dati suggeriti nella procedura perché dispongono dei record necessari.  
 
 ## <a name="story"></a>Scenario  
  Eduardo, l'addetto alla pianificazione della produzione di una piccola società , si sta apprestando a pianificare la produzione e gli ordini di acquisto per soddisfare una nuova domanda di vendita.  
@@ -91,30 +91,30 @@ La presente procedura dettagliata illustra il processo di pianificazione degli o
 
 ### <a name="to-plan-a-purchase-order-to-fulfill-component-need-in-production"></a>Per pianificare un ordine di acquisto per i componenti necessari per la produzione  
 
-1.  Espandere la prima riga (fare clic sul simbolo +).  
-2.  Scegliere la prima riga di domanda, con l'articolo **LSU-15**, quindi scegliere l'azione **Mostra documento**.  
-3.  Chiudere l'ordine di produzione aperto per tornare alla finestra **Pianificazione ordini**.  
-4.  Nel campo **Sistema di rifornimento** selezionare **Acquisto**.  
+1. Espandere la prima riga (fare clic sul simbolo +).  
+2. Scegliere la prima riga di domanda, con l'articolo **LSU-15**, quindi scegliere l'azione **Mostra documento**.  
+3. Chiudere l'ordine di produzione aperto per tornare alla finestra **Pianificazione ordini**.  
+4. Nel campo **Sistema di rifornimento** selezionare **Acquisto**.  
 
-     Il valore di default corrisponde alla scheda articolo (o scheda USK), ma è possibile modificarlo selezionando una delle opzioni seguenti:  
+    Il valore di default corrisponde alla scheda articolo (o scheda USK), ma è possibile modificarlo selezionando una delle opzioni seguenti:  
 
-    -   **Acquisto**: per creare un ordine di acquisto  
-    -   **Trasferimento**: per creare un ordine di trasferimento  
-    -   **Ord. prod.**: per creare un ordine di produzione  
+   -   **Acquisto**: per creare un ordine di acquisto  
+   -   **Trasferimento**: per creare un ordine di trasferimento  
+   -   **Ord. prod.**: per creare un ordine di produzione  
 
-5.  Nel campo **Approvvigionamento da** selezionare una delle opzioni seguenti in base al sistema di rifornimento specificato:  
+5. Nel campo **Approvvigionamento da** selezionare una delle opzioni seguenti in base al sistema di rifornimento specificato:  
 
-    -   **Fornitore** - Per acquisti  
-    -   **Ubicazione** – Per i trasferimenti  
+   - **Fornitore** - Per acquisti  
+   - **Ubicazione** – Per i trasferimenti  
 
      Se il campo è lasciato vuoto, viene visualizzato un messaggio di errore quando si cerca di creare gli ordini di approvvigionamento.  
 
-    > [!NOTE]  
-    >  Se nelle schede articolo è impostato un fornitore predefinito per i componenti, le righe saranno precompilate.  
+   > [!NOTE]  
+   >  Se nelle schede articolo è impostato un fornitore predefinito per i componenti, le righe saranno precompilate.  
 
-6.  Selezionare il campo **Approvvigionamento da** .  
-7.  Nella finestra **Catalogo art. fornitori** scegliere l'azione **Nuovo** e selezionare il fornitore **30000**.  
-8.  Fare clic su **OK** per tornare alla finestra **Pianificazione ordini**.  
+6. Selezionare il campo **Approvvigionamento da** .  
+7. Nella finestra **Catalogo art. fornitori** scegliere l'azione **Nuovo** e selezionare il fornitore **30000**.  
+8. Fare clic su **OK** per tornare alla finestra **Pianificazione ordini**.  
 9. Copiare il fornitore **30000** nelle altre righe del componente "altoparlante" nell'ordine di produzione.  
 
      È ora possibile creare un ordine di acquisto.  
@@ -159,22 +159,22 @@ La presente procedura dettagliata illustra il processo di pianificazione degli o
 
 ### <a name="to-plan-multilevel-production-to-fulfill-sales-demand"></a>Per pianificare un ordine di produzione multilivello per soddisfare la domanda di vendita  
 
-1.  Selezionare la riga di pianificazione con la domanda di vendita per l'ordine **1001**, creato in precedenza come prerequisito.  
+1. Selezionare la riga di pianificazione con la domanda di vendita per l'ordine **1001**, creato in precedenza come prerequisito.  
 
-     Questa domanda è una riga di vendita, ma il sistema di rifornimento previsto per l'articolo è **Ordine di produzione**. È necessario aggiungere un altro campanello ai componenti necessari per ciascuna bicicletta.  
+    Questa domanda è una riga di vendita, ma il sistema di rifornimento previsto per l'articolo è **Ordine di produzione**. È necessario aggiungere un altro campanello ai componenti necessari per ciascuna bicicletta.  
 
-2.  Scegliere l'azione **Componenti** per aprire la finestra **Componenti pianificazione**.  
-3.  Nella riga con l'articolo Campanello, modificare il campo **Quantità per** da **1** a **2**.  
-4.  Nella finestra **Pianificazione ordini**, considerare le opzioni di pianificazione. In questo caso non esistono metodi di approvvigionamento alternativi, trasferimento, prodotti sostitutivi o una consegna ritardata. È necessario quindi creare l'ordine di approvvigionamento suggerito, ovvero un ordine di produzione.  
-5.  Selezionare l'azione **Crea ordini** per creare l'ordine di produzione.  
+2. Scegliere l'azione **Componenti** per aprire la finestra **Componenti pianificazione**.  
+3. Nella riga con l'articolo Campanello, modificare il campo **Quantità per** da **1** a **2**.  
+4. Nella finestra **Pianificazione ordini**, considerare le opzioni di pianificazione. In questo caso non esistono metodi di approvvigionamento alternativi, trasferimento, prodotti sostitutivi o una consegna ritardata. È necessario quindi creare l'ordine di approvvigionamento suggerito, ovvero un ordine di produzione.  
+5. Selezionare l'azione **Crea ordini** per creare l'ordine di produzione.  
 
-     Si noti che nella finestra **Pianificazione ordini** la riga di pianificazione per l'ordine di vendita **1001** non è più presente e che la domanda di vendita iniziale è stata coperta.  
+    Si noti che nella finestra **Pianificazione ordini** la riga di pianificazione per l'ordine di vendita **1001** non è più presente e che la domanda di vendita iniziale è stata coperta.  
 
-6.  Chiudere la finestra **Pianificazione ordini**.  
+6. Chiudere la finestra **Pianificazione ordini**.  
 
-     A questo punto, è possibile completare tutte le attività di pianificazione in questa finestra. Tuttavia, per questo esercizio, si assumerà il ruolo di addetto alla pianificazione della produzione e si aprirà a tal scopo l'ordine appena creato nella finestra **Pianificazione ordini**.  
+    A questo punto, è possibile completare tutte le attività di pianificazione in questa finestra. Tuttavia, per questo esercizio, si assumerà il ruolo di addetto alla pianificazione della produzione e si aprirà a tal scopo l'ordine appena creato nella finestra **Pianificazione ordini**.  
 
- L'addetto alla pianificazione della produzione ha in questo caso il compito di pianificare un ordine di produzione specifico.  
+   L'addetto alla pianificazione della produzione ha in questo caso il compito di pianificare un ordine di produzione specifico.  
 
 ### <a name="to-plan-a-specific-production-order"></a>Per pianificare un ordine di produzione specifico  
 

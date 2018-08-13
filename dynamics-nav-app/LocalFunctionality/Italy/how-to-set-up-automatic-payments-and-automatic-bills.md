@@ -47,18 +47,20 @@ Di seguito viene descritto come impostare gli effetti automatici per vendite e i
 
 ## <a name="to-set-up-automatic-bills-for-sales-and-receivables"></a>Per impostare gli effetti automatici per vendite e incassi  
 
-1.  Scegliere l'icona ![Cerca pagina o report](../../media/ui-search/search_small.png "icona Cerca pagina o report"), immettere **Setup contabilità clienti e vendite**, quindi scegliere il collegamento correlato.  
-2.  Nella Scheda dettaglio **Effetti**, nel campo **Nr. temp. distinta effetto** selezionare il numero temporaneo della distinta effetti. Compilare i campi come indicato nella tabella seguente.  
+1. Scegliere l'icona ![Cerca pagina o report](../../media/ui-search/search_small.png "icona Cerca pagina o report"), immettere **Setup contabilità clienti e vendite**, quindi scegliere il collegamento correlato.  
+2. Nella Scheda dettaglio **Effetti**, nel campo **Nr. temp. distinta effetto** selezionare il numero temporaneo della distinta effetti. Compilare i campi come indicato nella tabella seguente.  
 
-    |Campo|Description|  
-    |---------------------------------|---------------------------------------|  
-    |**Nr. temp. distinta effetto**|Selezionare la numerazione che sarà utilizzata le distinte effetti temporanee.|  
-    |**Richiamo effetti - Descrizione**|Specificare il testo descrittivo che verrà utilizzato per gli effetti richiamati.|  
-    |**Periodo rischio RIBA**|Specificare una formula di data per il calcolo del periodo di rischio in giorni, ad esempio **20G**.<br /><br /> Questo sarà un riferimento per la chiusura ricevute bancarie. Gli effetti del cliente verranno chiusi solo alla fine del periodo di rischio specificato qui.|  
 
-3.  Scegliere il pulsante **OK**.  
+   |             Campo             |                                                                                                             Description                                                                                                              |
+   |-------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+   |  **Nr. temp. distinta effetto**  |                                                                                 Selezionare la numerazione che sarà utilizzata le distinte effetti temporanee.                                                                                 |
+   |  **Richiamo effetti - Descrizione**  |                                                                                  Specificare il testo descrittivo che verrà utilizzato per gli effetti richiamati.                                                                                  |
+   | **Periodo rischio RIBA** | Specificare una formula di data per il calcolo del periodo di rischio in giorni, ad esempio **20G**.<br /><br /> Questo sarà un riferimento per la chiusura ricevute bancarie. Gli effetti del cliente verranno chiusi solo alla fine del periodo di rischio specificato qui. |
 
- A questo punto, è necessario specificare i codici effetto per i metodi di pagamento utilizzati per i pagamenti automatici e gli effetti automatici.  
+
+3. Scegliere il pulsante **OK**.  
+
+   A questo punto, è necessario specificare i codici effetto per i metodi di pagamento utilizzati per i pagamenti automatici e gli effetti automatici.  
 
 ## <a name="to-specify-bill-codes-for-a-payment-method"></a>Per specificare i codici effetto per un metodo di pagamento  
 

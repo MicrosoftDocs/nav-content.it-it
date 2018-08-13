@@ -35,7 +35,7 @@ ms.lasthandoff: 10/16/2017
 3. Dopo aver immesso le informazioni richieste, fare clic sul pulsante OK. Il passaggio successivo consiste nell'immettere il nome utente e password.
 
    > [!NOTE]  
->    Se sono disponibili altre opzioni di autenticazione nel pannello di navigazione di sinistra, scegliere *Di base*.
+   >    Se sono disponibili altre opzioni di autenticazione nel pannello di navigazione di sinistra, scegliere *Di base*.
 4. Immettere il nome utente e password. È possibile trovare queste informazioni nella finestra di dialogo **Utenti** in [!INCLUDE[d365fin](includes/d365fin_md.md)]. Utilizzare **Chiave di accesso Web** come password.
 
    Ad esempio, il nome utente è *ADMIN* e la chiave del servizio di accesso Web utilizzata è *EgzeUFQ9Uv0o5O0lUMyqCzo1ueUW9yRF3SsLU=*.
@@ -47,7 +47,7 @@ ms.lasthandoff: 10/16/2017
 7. Ripetere i passaggi precedenti per aggiungere altri dati [!INCLUDE[d365fin](includes/d365fin_md.md)] per il modello dati Power BI.
 
    > [!NOTE]  
->    Una volta stabilita la connessione a [!INCLUDE[d365fin](includes/d365fin_md.md)], non verrà nuovamente richiesto l'URL OData, il nome utente o la password.
+   >    Una volta stabilita la connessione a [!INCLUDE[d365fin](includes/d365fin_md.md)], non verrà nuovamente richiesto l'URL OData, il nome utente o la password.
 
 Dopo che i dati sono stati caricati verranno visualizzati nel riquadro di spostamento destro nella pagina. A questo punto, è stata stabilita correttamente la connessione ai dati di Dynamics NAV e si è pronti per iniziare a creare il report di Power BI. Per ulteriori informazioni, vedere la [Documentazione di Power BI](https://powerbi.microsoft.com/documentation/powerbi-landing-page/).
 

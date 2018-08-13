@@ -57,17 +57,17 @@ I movimenti dei pagamenti vengono registrati nei conti di contabilità generale,
 2. Selezionare la casella di controllo **Pagamento effettuato** nelle righe che rappresentano i documenti registrati per lo stesso cliente o fornitore per cui è stato eseguito un pagamento forfettario.  
 
     > [!NOTE]  
->   Il cliente nel campo **Nome** deve essere lo stesso in tutte le righe che verranno registrate come pagamento forfettario.  
+   >   Il cliente nel campo **Nome** deve essere lo stesso in tutte le righe che verranno registrate come pagamento forfettario.  
 
     Se la casella di controllo **Compila automaticamente data di ricezione** nella finestra **Setup registrazione pagamenti** è selezionata, la data di lavorazione viene inserita nel campo **Data ricezione**.  
 3. Nel campo **Data ricezione** immettere la data di esecuzione del pagamento. La data può essere diversa dalla data di lavoro.  
 
     > [!NOTE]  
->   Questa data deve essere uguale in tutte le righe che verranno registrate come pagamento forfettario.  
+   >   Questa data deve essere uguale in tutte le righe che verranno registrate come pagamento forfettario.  
 4. Nel campo **Importo ricevuto** immettere gli importi su più righe che riassumono l'importo del pagamento forfettario.  
 
     > [!TIP]  
->   Provare a registrare quanti più pagamenti completi è possibile con l'importo forfettario. Immettere gli importi che sono gli stessi presenti nel campo **Importo residuo** nel maggior numero di righe possibili.  
+   >   Provare a registrare quanti più pagamenti completi è possibile con l'importo forfettario. Immettere gli importi che sono gli stessi presenti nel campo **Importo residuo** nel maggior numero di righe possibili.  
 5. Ripetere i passaggi da 2 a 4 per altre righe che rappresentano i documenti registrati per lo stesso cliente per cui è stato eseguito un pagamento forfettario.  
 6. Scegliere l'azione **Registra come pagamento forfettario**. Le informazioni sui pagamenti immesse vengono registrate per i documenti rappresentati dalle righe in cui è selezionata la casella di controllo **Pagamento effettuato**.  
 
@@ -104,7 +104,7 @@ Nella seguenti procedure vengono illustrati quattro modi diversi di registrare i
 3. Nel campo **Data ricezione** immettere la data di pagamento che è posteriore alla data indicata nel campo **Data sconto pagamento**. Il carattere dei campi dati diventano rossi e un messaggio di errore viene visualizzato nella parte inferiore della finestra.
 
     > [!TIP]  
->   Per fare un'eccezione e concedere lo sconto anche se il pagamento è in ritardo, è necessario attenersi alla seguente procedura:
+   >   Per fare un'eccezione e concedere lo sconto anche se il pagamento è in ritardo, è necessario attenersi alla seguente procedura:
 4. Scegliere l'azione **Dettagli**.  
 5. Nella finestra **Dettagli registrazione pagamenti**, nel campo **Data sconto pagamento** della Scheda dettaglio **Sconto pagamento**, immettere una data che sia posteriore alla data indicata nel campo **Data ricezione** della finestra **Registrazione pagamenti**.  
 
@@ -153,7 +153,7 @@ Nella procedura seguente viene illustrato come trovare un documento specifico ut
 3. Nella finestra **Ricerca documenti** immettere un valore di ricerca nel campo **Nr. documento**.  
 
     > [!NOTE]  
->   Il valore immesso in questo campo è contenuta in caratteri jolly nascosti. Ciò significa che la funzione ricerca tutti i numeri dei documenti contenenti il valore immesso.    
+   >   Il valore immesso in questo campo è contenuta in caratteri jolly nascosti. Ciò significa che la funzione ricerca tutti i numeri dei documenti contenenti il valore immesso.    
 4. Nel campo **Importo** immettere l'importo specifico presente nel documento che si desidera cercare.  
 5. Nel campo **% tolleranza importo** immettere una percentuale per definire l'intervallo degli importi che si desidera cercare per trovare il documento aperto.  
 

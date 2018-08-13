@@ -29,12 +29,13 @@ Questi due campi vengono compilati automaticamente quando si utilizza la funzion
 ## <a name="relationship-between-general-ledger-accounts-and-cost-types"></a>Relazione tra i conti di contabilità generale e i tipi di costo  
 Tra i conti di contabilità generale e i tipi di costo esiste una relazione n:1. A un tipo di costo possono appartenere più conti di contabilità generale, ma ognuno di questi appartiene a un solo tipo di costo. Nella seguente tabella vengono descritti i dettagli delle relazioni.  
 
-|Relazione|**Intervallo conti C/G**|**Nr. tipo di costo**|  
-|------------------|------------------------------------------------|-------------------------------------------|  
-|Un conto di contabilità generale per ogni tipo di costo|Un conto di contabilità generale|Un tipo di costo|  
-|Più conti di contabilità generale per un tipo di costo|Intervallo di conti di contabilità generale, ad esempio da 7110 a 7193, per ciascun conto di contabilità generale|Per ciascun conto di contabilità generale nell'intervallo, esiste un solo tipo di costo|  
-|Tipi di costo senza conti di contabilità generale corrispondenti|<Empty>||  
-|Conti di contabilità generale i cui movimenti non saranno trasferiti||<Empty>|  
+
+|                         Relazione                          |                                 **Intervallo conti C/G**                                 |                             **Nr. tipo di costo**                             |
+|---------------------------------------------------------------|---------------------------------------------------------------------------------------|---------------------------------------------------------------------------|
+|         Un conto di contabilità generale per ogni tipo di costo         |                              Un conto di contabilità generale                               |                               Un tipo di costo                               |
+|       Più conti di contabilità generale per un tipo di costo       | Intervallo di conti di contabilità generale, ad esempio da 7110 a 7193, per ciascun conto di contabilità generale | Per ciascun conto di contabilità generale nell'intervallo, esiste un solo tipo di costo |
+|   Tipi di costo senza conti di contabilità generale corrispondenti    |                                        <Empty>                                        |                                                                           |
+| Conti di contabilità generale i cui movimenti non saranno trasferiti |                                                                                       |                                  <Empty>                                  |
 
 ## <a name="cost-types-without-a-relationship-to-the-general-ledger"></a>Tipi di costo senza una relazione con la contabilità generale  
 Un tipo di costo non può avere una relazione con i conti di contabilità generale se una delle seguenti condizioni è vera:  

@@ -208,35 +208,37 @@ Quando l'ordine di vendita viene successivamente registrato come totalmente fatt
 
 ### <a name="selling-the-assembly-items"></a>Vendita degli articoli di assemblaggio  
 
-1.  Scegliere l'icona ![Cerca pagina o report](media/ui-search/search_small.png "Cerca pagina o report"), immettere **Ordini vendita**, quindi scegliere il collegamento correlato.  
-2.  Nel gruppo **Gestisci** della scheda **Pagina iniziale** scegliere **Nuovo**.  
-3.  Creare due righe di ordine di vendita per il cliente 62000, reparto dispositivi, per la data di elaborazione con i seguenti dati.  
+1. Scegliere l'icona ![Cerca pagina o report](media/ui-search/search_small.png "Cerca pagina o report"), immettere **Ordini vendita**, quindi scegliere il collegamento correlato.  
+2. Nel gruppo **Gestisci** della scheda **Pagina iniziale** scegliere **Nuovo**.  
+3. Creare due righe di ordine di vendita per il cliente 62000, reparto dispositivi, per la data di elaborazione con i seguenti dati.  
 
-    |**Tipo**|**descrizione**|**Quantità**|Qtà per assemblaggio su ordine|Data spedizione|  
-    |--------------|---------------------|------------------|-------------------------------|-------------------|  
-    |Articolo|Kit B - PC avanzato|3|3|23 gennaio|  
-    |Articolo|Kit A - PC di base|15|5|27 gennaio|  
+   |**Tipo**|**descrizione**|**Quantità**|Qtà per assemblaggio su ordine|Data spedizione|  
+   |--------------|---------------------|------------------|-------------------------------|-------------------|  
+   |Articolo|Kit B - PC avanzato|3|3|23 gennaio|  
+   |Articolo|Kit A - PC di base|15|5|27 gennaio|  
 
-    > [!NOTE]  
-    >  Il seguente problema di disponibilità esiste per la riga dell'ordine di vendita relativa al Kit B:  
-    >   
-    >  -   Il componente di assemblaggio 80210 non è disponibile. Ciò significa che le tre unità specificate per il Kit B non possono essere assemblate e questo è indicato dallo **0** nel campo **In grado di assemblare** della finestra **Disponibilità assemblaggio**.  
-    >   
-    >  Il seguente problema di disponibilità esiste per la riga dell'ordine di vendita relativa al Kit A:  
-    >   
-    >  -   Le dieci unità del Kit A non sono disponibili. Ciò indica al sistema di pianificazione che la quantità deve essere assemblata per magazzino.  
+   > [!NOTE]
+   >  Il seguente problema di disponibilità esiste per la riga dell'ordine di vendita relativa al Kit B:  
+   > 
+   > - Il componente di assemblaggio 80210 non è disponibile. Ciò significa che le tre unità specificate per il Kit B non possono essere assemblate e questo è indicato dallo **0** nel campo **In grado di assemblare** della finestra **Disponibilità assemblaggio**.  
+   > 
+   >   Il seguente problema di disponibilità esiste per la riga dell'ordine di vendita relativa al Kit A:  
+   > 
+   > - Le dieci unità del Kit A non sono disponibili. Ciò indica al sistema di pianificazione che la quantità deve essere assemblata per magazzino.  
 
-    Infine, personalizzare l'ordine di vendita.  
+   Infine, personalizzare l'ordine di vendita.  
 
-4.  Selezionare la riga dell'ordine di vendita per le tre unità del Kit B.  
-5.  Nella Scheda dettaglio **Righe** scegliere **Riga**, **Assemblaggio su ordine**, quindi **Righe di assemblaggio su ordine**.  
-6.  Nella finestra **Righe di assemblaggio su ordine**, nella riga dell'ordine di assemblaggio per l'articolo 80014, immettere **2** nel campo **Quantità per**.  
-7.  Nella riga dell'ordine di assemblaggio per l'articolo 80210, scegliere il campo **Nr.** e selezionare l'articolo 80209.  
-8.  Creare una nuova riga dell'ordine di assemblaggio con i seguenti dati.  
+4. Selezionare la riga dell'ordine di vendita per le tre unità del Kit B.  
+5. Nella Scheda dettaglio **Righe** scegliere **Riga**, **Assemblaggio su ordine**, quindi **Righe di assemblaggio su ordine**.  
+6. Nella finestra **Righe di assemblaggio su ordine**, nella riga dell'ordine di assemblaggio per l'articolo 80014, immettere **2** nel campo **Quantità per**.  
+7. Nella riga dell'ordine di assemblaggio per l'articolo 80210, scegliere il campo **Nr.** e selezionare l'articolo 80209.  
+8. Creare una nuova riga dell'ordine di assemblaggio con i seguenti dati.  
 
-    |Tipo|Nr.|Quantità per|  
-    |----------|---------|------------------|  
-    |Articolo|80203|1|  
+
+   | Tipo |  Nr.  | Quantità per |
+   |------|-------|--------------|
+   | Articolo | 80203 |      1       |
+
 
 9. Chiudere la finestra **Righe di assemblaggio su ordine**.  
 

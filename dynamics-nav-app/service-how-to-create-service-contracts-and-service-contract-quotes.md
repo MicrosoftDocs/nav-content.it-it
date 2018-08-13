@@ -52,7 +52,7 @@ Per i contratti non dettagliati l'importo fatturato verrà calcolato come segue:
 3. Scegliere l'azione **Crea contratto**.  
 4. Se la data di inizio del contratto risulta precedente al successivo periodo di fatturazione, viene richiesto se si desidera creare una fattura per il periodo iniziale del contratto. Selezionare **Sì**.  
   
- La fattura di assistenza viene registrata nel conto relativo all'assistenza del contratto, anche se il contratto è prepagato. 
+   La fattura di assistenza viene registrata nel conto relativo all'assistenza del contratto, anche se il contratto è prepagato. 
 
 ## <a name="to-create-contract-service-credit-memos"></a>Per creare note di credito di assistenza per un contratto
 È possibile utilizzare una nota di credito di assistenza per un contratto quando un cliente annulla un contratto di assistenza prepagato oppure elimina un articolo in assistenza da un contratto prepagato. La nota di credito di vendita consente inoltre di correggere una fattura di assistenza errata.  
@@ -70,9 +70,9 @@ Per i contratti non dettagliati l'importo fatturato verrà calcolato come segue:
 5. Compilare i campi relativi a **data di registrazione** e **data del documento**.  
 6. Nelle righe della nota di credito immettere le informazioni relative agli articoli resi o rimossi o agli abbuoni che verranno inviati. È inoltre possibile utilizzare il processo batch **Prendi mov. contr. prepagati**.  
   
- Per creare automaticamente una nota di credito durante l'eliminazione delle righe di contratto da un contratto di assistenza, nella Scheda dettaglio **Dettagli fattura** della finestra **Contratto di assistenza** selezionare la casella di controllo **Note credito automatiche**.  
+   Per creare automaticamente una nota di credito durante l'eliminazione delle righe di contratto da un contratto di assistenza, nella Scheda dettaglio **Dettagli fattura** della finestra **Contratto di assistenza** selezionare la casella di controllo **Note credito automatiche**.  
   
- Per creare manualmente una nota di credito durante l'eliminazione delle righe di contratto da un contratto di assistenza, nella finestra **Contratto di assistenza** scegliere **Nota credito** nel gruppo **Funzioni** della scheda **Azioni**.  
+   Per creare manualmente una nota di credito durante l'eliminazione delle righe di contratto da un contratto di assistenza, nella finestra **Contratto di assistenza** scegliere **Nota credito** nel gruppo **Funzioni** della scheda **Azioni**.  
 
 ## <a name="updating-and-evaluating-contracts"></a>Aggiornamento e valutazione dei contratti
 Talvolta può essere necessario modificare le condizioni di un contratto dopo che è stato creato. Nella maggior parte dei casi è sufficiente aprire il contratto in questione nella finestra **Contratto di assistenza** e apportare le modifiche necessarie.  

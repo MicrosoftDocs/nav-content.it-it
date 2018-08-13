@@ -19,10 +19,10 @@ ms.lasthandoff: 10/26/2017
 
 ---
 
-#<a name="how-to-print-remittance-advice"></a>Procedura: Stampare l'avviso di rimessa
+# <a name="how-to-print-remittance-advice"></a>Procedura: Stampare l'avviso di rimessa
 È possibile stampare l'avviso di rimessa prima di eseguire una registrazione pagamenti e dopo la registrazione di un pagamento. Questo avviso visualizza i numeri delle fatture fornitore e consente ai fornitori di eseguire le riconciliazioni.
 
-##<a name="to-print-remittance-advice"></a>Per stampare l'avviso di rimessa
+## <a name="to-print-remittance-advice"></a>Per stampare l'avviso di rimessa
 1. Scegliere l'icona ![Cerca pagina o report](media/ui-search/search_small.png "icona Cerca pagina o report"), immettere **Registrazioni pagamenti**, quindi scegliere il collegamento correlato.  
 2. Nella finestra **Registrazioni pagamenti**, selezionare il pagamento per il quale l'avviso di rimessa deve essere stampato.  
 3. Scegliere l'azione **Stampa avviso di rimessa**.  
@@ -48,5 +48,5 @@ Nella tabella seguente sono descritti i report utilizzabili con l'avviso di rime
 > [!Tip]
 > Per ulteriori informazioni su come utilizzare i report, vedere, [Visualizzazione di report test prima della registrazione](ui-how-view-test-reports-posting.md), [Utilizzare i report](ui-work-report.md) e [Ricerca, filtro e ordinamento di dati](ui-enter-criteria-filters.md).
 
-##<a name="see-also"></a>Vedi anche  
+## <a name="see-also"></a>Vedi anche  
 [Benvenuto in Dynamics NAV](across-get-started.md)

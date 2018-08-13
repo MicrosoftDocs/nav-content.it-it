@@ -98,7 +98,7 @@ Gli addetti al magazzino potranno quindi eseguire l'inventario e registrare tutt
     I campi correlati vengono aggiornati di conseguenza.
 
     > [!NOTE]  
->   Se dal conteggio fisico risultano differenze determinate dalla registrazione degli articoli con codici ubicazione non corretti, le differenze non devono essere inserite nelle registrazioni inventario fisico. In alternativa, utilizzare le registrazioni di riclassificazione o un ordine di trasferimento per reindirizzare gli articoli alle ubicazioni corrette. Per ulteriori informazioni, vedere Reg. ricl. articoli o Procedura: Creare ordini di trasferimento.
+   >   Se dal conteggio fisico risultano differenze determinate dalla registrazione degli articoli con codici ubicazione non corretti, le differenze non devono essere inserite nelle registrazioni inventario fisico. In alternativa, utilizzare le registrazioni di riclassificazione o un ordine di trasferimento per reindirizzare gli articoli alle ubicazioni corrette. Per ulteriori informazioni, vedere Reg. ricl. articoli o Procedura: Creare ordini di trasferimento.
 
 2. Per rettificare le quantità calcolate con le quantità effettive conteggiate, scegliere l'azione **Registra**.
 

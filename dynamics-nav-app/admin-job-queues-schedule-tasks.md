@@ -37,11 +37,11 @@ Le code processi sono uno strumento efficace per pianificare l'esecuzione dei pr
 
  [!INCLUDE[d365fin](includes/d365fin_md.md)] supporta la registrazione background per i seguenti tipi di documento:  
 
--   Vendite: ordine di vendita, ordine di reso, nota di credito, fattura  
+- Vendite: ordine di vendita, ordine di reso, nota di credito, fattura  
 
--   Acquisti: ordine di acquisto, ordine di reso, nota di credito, fattura  
+- Acquisti: ordine di acquisto, ordine di reso, nota di credito, fattura  
 
- Se la coda processi non può registrare l'ordine di vendita, lo stato viene modificato in **Errore** e l'ordine di vendita viene aggiunto all'elenco degli ordini di vendita che l'utente dovrà gestire.  
+  Se la coda processi non può registrare l'ordine di vendita, lo stato viene modificato in **Errore** e l'ordine di vendita viene aggiunto all'elenco degli ordini di vendita che l'utente dovrà gestire.  
 
 > [!NOTE]  
 >  Quando viene programmato un documento per la registrazione e inizia il processo di registrazione, la routine di registrazione viene configurata automaticamente affinché scada entro due ore se la routine di registrazione smette di rispondere per un motivo qualsiasi.  

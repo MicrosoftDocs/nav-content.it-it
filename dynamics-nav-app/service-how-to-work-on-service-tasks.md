@@ -58,7 +58,7 @@ Quando si elaborano gli articoli in assistenza negli ordini di assistenza, potre
 5. Nel campo **Nr.** selezionare il pezzo di ricambio appropriato.  
 6. Nel campo **Quantità** immettere la quantità di articoli da utilizzare.  
   
- È possibile utilizzare una procedura simile per registrare i pezzi di ricambio nella pagina **Righe assistenza**, che è possibile aprire dalla pagina **Ordine assistenza**.  
+   È possibile utilizzare una procedura simile per registrare i pezzi di ricambio nella pagina **Righe assistenza**, che è possibile aprire dalla pagina **Ordine assistenza**.  
   
 ## <a name="to-register-spare-parts-from-a-service-order"></a>Per registrare i pezzi di ricambio da un ordine di assistenza  
 1. Scegliere l'icona ![Cerca pagina o report](media/ui-search/search_small.png "icona Cerca pagina o report"), immettere **Ordini assistenza**, quindi scegliere il collegamento correlato.  
@@ -99,8 +99,8 @@ In seguito alla riparazione dell'articolo in assistenza, è possibile registrare
 2. Scegliere la riga che comprende l'articolo in assistenza appropriato, quindi scegliere l'azione **Prospetto interv. articolo**.  
 3. Nella pagina **Prospetto articoli in assistenza** scegliere **Relazioni codici guasto/risoluzione**. Viene aperta la finestra **Relazioni codici guasto/risoluzione**.  
   
-  >  [!Note]
-  >  I filtri vengono impostati nelle relazioni visualizzate nella finestra copiando il gruppo di articoli in assistenza e i codici guasto dalla finestra **Prospetto articoli in assistenza**.  
+   > [!Note]
+   >  I filtri vengono impostati nelle relazioni visualizzate nella finestra copiando il gruppo di articoli in assistenza e i codici guasto dalla finestra **Prospetto articoli in assistenza**.  
   
 4. Compilare la riga. Scegliere la corretta combinazione di codici guasto e risoluzione, quindi scegliere **OK** per copiarla nell'articolo in assistenza. Se non si riesce a trovare una combinazione corretta è possibile creare una nuova combinazione nella finestra.  
 

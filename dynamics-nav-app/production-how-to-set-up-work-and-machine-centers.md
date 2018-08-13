@@ -32,22 +32,22 @@ La disponibilità viene memorizzata nei movimenti di calendario. Prima di impost
 ## <a name="to-set-up-a-work-center"></a>Per impostare un'area di produzione
 Di seguito viene descritto come impostare un'area di produzione. I passaggi per impostare un calendario centro di lavoro sono gli stessi ad eccezione della Scheda dettaglio **Setup cicli**.  
 
-1.  Scegliere l'icona ![Cerca pagina o report](media/ui-search/search_small.png "icona Cerca pagina o report"), immettere **Aree di produzione** e quindi scegliere il collegamento correlato.  
-2.  Scegliere l'azione **Nuovo**.  
+1. Scegliere l'icona ![Cerca pagina o report](media/ui-search/search_small.png "icona Cerca pagina o report"), immettere **Aree di produzione** e quindi scegliere il collegamento correlato.  
+2. Scegliere l'azione **Nuovo**.  
 3. Compilare i campi come necessario. [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]
-4.  Nel campo **Gruppo aree di produzione** selezionare il raggruppamento di risorse di livello più alto in base a cui è organizzata l'area di produzione, se pertinente. Scegliere l'azione **Nuovo** nell'elenco a discesa.  
-5.  Selezionare il campo **Bloccato** se si desidera evitare che l'area di produzione venga utilizzata in qualsiasi elaborazione. In tal caso, non sarà quindi possibile registrare l'output per un articolo prodotto nell'area di produzione. Per ulteriori informazioni, vedere [Procedura: Registrare l'output di produzione](production-how-to-post-output-quantity.md).
-6.  Nel campo **Costo Unitario Diretto** specificare il costo di produzione di un'unità di misura nell'area di produzione selezionata, escludendo altri elementi di costo. Tale valore viene spesso definito *costo diretto manodopera*.  
-7.  Nel campo **% costi indiretti** specificare il costo operativo generale dell'utilizzo dell'area di produzione come percentuale del costo unitario diretto. Tale importo percentuale viene aggiunto al costo diretto nel calcolo del costo unitario.  
-8.  Nel campo **Coeff. costi generali** specificare come importo assoluto qualunque costo non operativo, ad esempio le spese di manutenzione, dell'area di produzione.  
+4. Nel campo **Gruppo aree di produzione** selezionare il raggruppamento di risorse di livello più alto in base a cui è organizzata l'area di produzione, se pertinente. Scegliere l'azione **Nuovo** nell'elenco a discesa.  
+5. Selezionare il campo **Bloccato** se si desidera evitare che l'area di produzione venga utilizzata in qualsiasi elaborazione. In tal caso, non sarà quindi possibile registrare l'output per un articolo prodotto nell'area di produzione. Per ulteriori informazioni, vedere [Procedura: Registrare l'output di produzione](production-how-to-post-output-quantity.md).
+6. Nel campo **Costo Unitario Diretto** specificare il costo di produzione di un'unità di misura nell'area di produzione selezionata, escludendo altri elementi di costo. Tale valore viene spesso definito *costo diretto manodopera*.  
+7. Nel campo **% costi indiretti** specificare il costo operativo generale dell'utilizzo dell'area di produzione come percentuale del costo unitario diretto. Tale importo percentuale viene aggiunto al costo diretto nel calcolo del costo unitario.  
+8. Nel campo **Coeff. costi generali** specificare come importo assoluto qualunque costo non operativo, ad esempio le spese di manutenzione, dell'area di produzione.  
 
-    Il campo **Costo Unitario** contiene il costo unitario calcolato della produzione di un'unità di misura nell'area di produzione specificata, inclusi tutti gli elementi di costo, come illustrato di seguito:  
+   Il campo **Costo Unitario** contiene il costo unitario calcolato della produzione di un'unità di misura nell'area di produzione specificata, inclusi tutti gli elementi di costo, come illustrato di seguito:  
 
-    Costo Unitario = Costo Unitario Diretto + (Costo Unitario Diretto x % Costi Indiretti) + Coeff. Costi Generali.  
+   Costo Unitario = Costo Unitario Diretto + (Costo Unitario Diretto x % Costi Indiretti) + Coeff. Costi Generali.  
 
-9.  Nel campo **Calcolo costo unitario** specificare se basare il calcolo precedente sulla quantità di tempo utilizzata, ovvero **Ora**, o sul numero di unità prodotte, ovvero **Unità**.  
-10.  Selezionare il campo **Costo unitario specifico** se si desidera definire il costo unitario dell'area di produzione nella riga ciclo in cui viene utilizzato. Tale soluzione potrebbe risultare utile per le operazioni che prevedono costi delle capacità notevolmente diversi rispetto a quelli consueti per l'area di produzione specificata.  
-11.  Nel campo **Metodo consuntivazione** specificare se calcolare e registrare registrazione di output nell'area di produzione manualmente o automaticamente, mediante uno dei metodi seguenti.  
+9. Nel campo **Calcolo costo unitario** specificare se basare il calcolo precedente sulla quantità di tempo utilizzata, ovvero **Ora**, o sul numero di unità prodotte, ovvero **Unità**.  
+10. Selezionare il campo **Costo unitario specifico** se si desidera definire il costo unitario dell'area di produzione nella riga ciclo in cui viene utilizzato. Tale soluzione potrebbe risultare utile per le operazioni che prevedono costi delle capacità notevolmente diversi rispetto a quelli consueti per l'area di produzione specificata.  
+11. Nel campo **Metodo consuntivazione** specificare se calcolare e registrare registrazione di output nell'area di produzione manualmente o automaticamente, mediante uno dei metodi seguenti.  
 
     |Opzione|Description|  
     |----------------------------------|---------------------------------------|  
@@ -58,17 +58,17 @@ Di seguito viene descritto come impostare un'area di produzione. I passaggi per 
     > [!NOTE]  
     >  Se necessario, il metodo consuntivazione selezionato qui e nella scheda **Articolo** può essere sostituito per singole operazioni, mediante la modifica delle impostazioni delle righe ciclo.
 
-12.  Nel campo **Cod. Unità di Misura** immettere l'unità di tempo utilizzata per il calcolo del costo dell'area di produzione specificata e per la programmazione della capacità.
+12. Nel campo **Cod. Unità di Misura** immettere l'unità di tempo utilizzata per il calcolo del costo dell'area di produzione specificata e per la programmazione della capacità.
     Per tenere costantemente sotto controllo il consumo, è necessario innanzitutto impostare un metodo di misura. Le unità immesse sono unità di base. Ad esempio, il tempo di elaborazione viene misurato in ore e minuti.
 
     > [!NOTE]  
     > Se si decide di utilizzare Giorni, tenere presente che un giorno equivale a 24 ore e non a 8 ore lavorative.
 
-13.  Il campo **Capacità** consente di specificare se nell'area di produzione sono disponibili più macchinari o persone che lavorano contemporaneamente. Se nell'installazione di [!INCLUDE[d365fin](includes/d365fin_md.md)] non è inclusa la funzionalità Centro di lavoro, è necessario che il valore di questo campo sia impostato su **1**.  
-14.  Specificare nel campo **Efficienza** la percentuale di output standard previsto prodotta effettivamente dall'area di produzione selezionata. Se si immette un valore pari a **100**, si indica che l'output effettivo dell'area di produzione corrisponde all'output standard.  
+13. Il campo **Capacità** consente di specificare se nell'area di produzione sono disponibili più macchinari o persone che lavorano contemporaneamente. Se nell'installazione di [!INCLUDE[d365fin](includes/d365fin_md.md)] non è inclusa la funzionalità Centro di lavoro, è necessario che il valore di questo campo sia impostato su **1**.  
+14. Specificare nel campo **Efficienza** la percentuale di output standard previsto prodotta effettivamente dall'area di produzione selezionata. Se si immette un valore pari a **100**, si indica che l'output effettivo dell'area di produzione corrisponde all'output standard.  
 15. Selezionare la casella di controllo **Calendario consolidato** se si utilizzano anche centri di lavoro. In questo modo viene eseguito il roll up dei movimenti di calendario dai calendari centro di lavoro.  
-16.  Selezionare un calendario reparto produzione nel campo **Cod. calendario reparto prod.**. Per ulteriori informazioni, vedere [Procedura: Creare calendari del reparto produzione](production-how-to-create-work-center-calendars.md).  
-17.  Il campo **Tempo in coda** consente di specificare un intervallo di tempo fisso che deve trascorrere prima di potere iniziare l'attività assegnata all'area di produzione selezionata. Si noti che il valore specificato in Tempo in coda viene aggiunto ad altri elementi di tempo non legati alla produzione, ad esempio Tempo attesa e Tempo spostamento, che possono essere definiti nelle righe ciclo mediante l'area di produzione selezionata.  
+16. Selezionare un calendario reparto produzione nel campo **Cod. calendario reparto prod.**. Per ulteriori informazioni, vedere [Procedura: Creare calendari del reparto produzione](production-how-to-create-work-center-calendars.md).  
+17. Il campo **Tempo in coda** consente di specificare un intervallo di tempo fisso che deve trascorrere prima di potere iniziare l'attività assegnata all'area di produzione selezionata. Si noti che il valore specificato in Tempo in coda viene aggiunto ad altri elementi di tempo non legati alla produzione, ad esempio Tempo attesa e Tempo spostamento, che possono essere definiti nelle righe ciclo mediante l'area di produzione selezionata.  
 
 ## <a name="example---different-machine-centers-assigned-to-a-work-center"></a>Esempio: diversi centri di lavoro assegnati a un'area di produzione
 Quando si impostano i centri di lavoro e le aree di produzione, è importante pianificare quali capacità formeranno la capacità totale.
@@ -94,7 +94,7 @@ Nella pianificazione con risorse vincolate alla capacità, il sistema garantisce
 
 > [!NOTE]
 > Le operazioni nelle aree di produzione o nei centri di lavoro impostati come risorse vincolate verranno sempre pianificate in modo seriale. Ciò significa che se una risorsa vincolata ha più capacità disponibili, allora tali capacità possono solo essere pianificate in sequenza e non in parallelo, come invece accade nel caso in cui l'area di produzione o il centro di lavoro non è stato impostato come risorsa vincolata. In una risorsa vincolata, il campo Capacità nell'area di produzione o nel centro di lavoro è maggiore di 1.
-
+> 
 > Nel caso che l'operazione venga suddivisa, il tempo di setup viene assegnato una sola volta perché si presuppone che vengano apportate alcune rettifiche manuali per ottimizzare la pianificazione.
 
 ## <a name="see-also"></a>Vedi anche  

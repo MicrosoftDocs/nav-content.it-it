@@ -100,22 +100,22 @@ Il flusso di articoli in una collocazione all'interno della società si concentr
 
  I seguenti passaggi descrivono le azioni implicate da utenti differenti e la risposta correlata:  
 
-1.  Il supervisore di produzione rilascia l'ordine di produzione. Gli articoli con il metodo di consuntivazione in **Avanti** e privi di un codice di legame ciclo-distinta base vengono dedotti dalla collocazione produzione aperta.  
-2.  Il supervisore di produzione fa clic sul pulsante **Creare il prelievo warehouse** nell'ordine di produzione. Un documento di prelievo warehouse viene creato per il prelievo degli articoli con i metodi di flushing **Manuale**, **Prelievo + Indietro** e **Prelievo + Avanti**. Questi articoli si trovano nella collocazione articoli per produzione.  
-3.  Il responsabile di warehouse assegna i prelievi a un lavoratore warehouse.  
-4.  L'addetto warehouse seleziona gli articoli dalle collocazioni appropriate e li inserisce nella collocazione articoli per produzione o nella collocazione specificata nel prelievo warehouse, che può essere una collocazione centro di lavoro o area di produzione.  
-5.  L'addetto warehouse registra il prelievo. La quantità viene sottratta dalle collocazioni di prelievo e aggiunta alla collocazione di consumo. Il campo **Qtà prelevata** nell'elenco dei componenti per tutti gli articoli selezionati viene aggiornato.  
+1. Il supervisore di produzione rilascia l'ordine di produzione. Gli articoli con il metodo di consuntivazione in **Avanti** e privi di un codice di legame ciclo-distinta base vengono dedotti dalla collocazione produzione aperta.  
+2. Il supervisore di produzione fa clic sul pulsante **Creare il prelievo warehouse** nell'ordine di produzione. Un documento di prelievo warehouse viene creato per il prelievo degli articoli con i metodi di flushing **Manuale**, **Prelievo + Indietro** e **Prelievo + Avanti**. Questi articoli si trovano nella collocazione articoli per produzione.  
+3. Il responsabile di warehouse assegna i prelievi a un lavoratore warehouse.  
+4. L'addetto warehouse seleziona gli articoli dalle collocazioni appropriate e li inserisce nella collocazione articoli per produzione o nella collocazione specificata nel prelievo warehouse, che può essere una collocazione centro di lavoro o area di produzione.  
+5. L'addetto warehouse registra il prelievo. La quantità viene sottratta dalle collocazioni di prelievo e aggiunta alla collocazione di consumo. Il campo **Qtà prelevata** nell'elenco dei componenti per tutti gli articoli selezionati viene aggiornato.  
 
-    > [!NOTE]  
-    >  Solo la quantità che è prelevata può essere utilizzata.  
+   > [!NOTE]  
+   >  Solo la quantità che è prelevata può essere utilizzata.  
 
-6.  L'operatore di macchina informa il responsabile di produzione che gli articoli finali sono terminati.  
-7.  Il supervisore di produzione utilizza le registrazioni di produzione o di consumo per registrare il consumo di articoli componenti che utilizzano il metodo di consuntivazione **Manuale** o i metodi di consuntivazione **Avanti** o **Prelievo+Aut.Inizio** insieme ai codici di legame del ciclo.  
-8.  Il responsabile di produzione registra l'output dell'ordine di produzione e modifica lo stato in **Completato**. La quantità di articoli componenti che utilizzano il metodo di consuntivazione **Da fine ordine** viene dedotta dalla collocazione produzione aperta e la quantità di articoli componente che utilizzano il metodo di consuntivazione **Prelievo+Aut.Fine** viene dedotta dalla collocazione articoli per produzione.  
+6. L'operatore di macchina informa il responsabile di produzione che gli articoli finali sono terminati.  
+7. Il supervisore di produzione utilizza le registrazioni di produzione o di consumo per registrare il consumo di articoli componenti che utilizzano il metodo di consuntivazione **Manuale** o i metodi di consuntivazione **Avanti** o **Prelievo+Aut.Inizio** insieme ai codici di legame del ciclo.  
+8. Il responsabile di produzione registra l'output dell'ordine di produzione e modifica lo stato in **Completato**. La quantità di articoli componenti che utilizzano il metodo di consuntivazione **Da fine ordine** viene dedotta dalla collocazione produzione aperta e la quantità di articoli componente che utilizzano il metodo di consuntivazione **Prelievo+Aut.Fine** viene dedotta dalla collocazione articoli per produzione.  
 
- Nell'illustrazione seguente viene mostrato quando il campo **Cod. collocazione** nell'elenco di componenti viene compilato in base all'ubicazione o all'impostazione area di produzione/centro di lavoro.  
+   Nell'illustrazione seguente viene mostrato quando il campo **Cod. collocazione** nell'elenco di componenti viene compilato in base all'ubicazione o all'impostazione area di produzione/centro di lavoro.  
 
- ![Diagramma di flusso collocazione](media/binflow.png "BinFlow")  
+   ![Diagramma di flusso collocazione](media/binflow.png "BinFlow")  
 
 ## <a name="see-also"></a>Vedi anche  
  [Dettagli di progettazione: Gestione warehouse](design-details-warehouse-management.md)

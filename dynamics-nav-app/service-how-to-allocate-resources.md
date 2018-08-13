@@ -51,7 +51,7 @@ Spesso è necessario visualizzare la lista degli ordini di assistenza o delle of
 
      Il campo **Stato** viene impostato su **Attivo**.  
 
- Ripetere i passaggi indicati per ogni data in cui si intende assegnare la risorsa al compito di assistenza.  
+   Ripetere i passaggi indicati per ogni data in cui si intende assegnare la risorsa al compito di assistenza.  
 
 > [!NOTE]  
 >  Per un articolo in assistenza in un ordine di assistenza possono esistere soltanto movimenti di assegnazione con stato **Attivo** con una risorsa o un gruppo di risorse alla volta.  
@@ -95,14 +95,14 @@ Se la risorsa assegnata a un compito di assistenza non è in grado di svolgere i
 4. Selezionare il movimento di assegnazione con il compito di assistenza a cui si intende riassegnare una risorsa.  
 5. Nel campo **Nr. risorsa** selezionare la risorsa appropriata. Il numero della risorsa presente nel campo verrà sovrascritto.  
 6. Premere INVIO. Viene aperta la finestra di dialogo **Causali riassegnaz. movimenti** in cui viene chiesto se si desidera riassegnare il movimento. Compilare il campo **Causale** se necessario e fare clic su **Sì** per confermare la riassegnazione.  
-7.  Compilare i campi **Data assegnazione** e **Ore assegnate**. Il movimento ora contiene la nuova risorsa e il relativo stato è **Attivo**.  
+7. Compilare i campi **Data assegnazione** e **Ore assegnate**. Il movimento ora contiene la nuova risorsa e il relativo stato è **Attivo**.  
 
-    > [!NOTE]  
-    >  Il movimento precedente esiste ancora, ma il relativo stato viene aggiornato come segue.  
-    >   
-    >  * Se l'assistenza è iniziata quando l'assegnazione aveva stato **Attivo**, ovvero se lo stato di riparazione dell'articolo in assistenza nel movimento è diventato **In corso**, lo stato di assegnazione passerà da **Riassegnazione necessaria** a **Completato**.  
-    > * Se l'assistenza non è iniziata quando l'assegnazione aveva stato **Attivo**, lo stato di assegnazione passerà da **Riassegnazione necessaria** ad **Annullato**.  
-    > * Se si sta riassegnando un ordine di assistenza convertito da un offerta, lo stato dei movimenti di assegnazione registrati per l'offerta diventerà sempre **Completato** durante la riassegnazione degli articoli in assistenza nell'ordine di assistenza.  
+   > [!NOTE]
+   >  Il movimento precedente esiste ancora, ma il relativo stato viene aggiornato come segue.  
+   > 
+   > * Se l'assistenza è iniziata quando l'assegnazione aveva stato **Attivo**, ovvero se lo stato di riparazione dell'articolo in assistenza nel movimento è diventato **In corso**, lo stato di assegnazione passerà da **Riassegnazione necessaria** a **Completato**.  
+   >   * Se l'assistenza non è iniziata quando l'assegnazione aveva stato **Attivo**, lo stato di assegnazione passerà da **Riassegnazione necessaria** ad **Annullato**.  
+   >   * Se si sta riassegnando un ordine di assistenza convertito da un offerta, lo stato dei movimenti di assegnazione registrati per l'offerta diventerà sempre **Completato** durante la riassegnazione degli articoli in assistenza nell'ordine di assistenza.  
 
 ## <a name="to-register-resource-hours"></a>Per registrare le ore di risorse  
 Durante l'elaborazione degli articoli in assistenza negli ordini di assistenza, occorre registrare le ore di risorse per l'assistenza. La seguente procedura indica come registrare le ore delle risorse nella finestra **Prospetto Art. in Assist.**  
@@ -138,7 +138,7 @@ La seguente procedura mostra come dividere le righe della risorsa nella finestra
 5. Nel campo **Causale** selezionare la causale appropriata.  
 6. Scegliere **Sì** per confermare l'eliminazione.  
 
-  > [!NOTE]  
+   > [!NOTE]  
     > Nel campo **Stato** verrà automaticamente selezionata l'opzione **Riassegnazione necessaria**. Se lo stato di riparazione dell'articolo in assistenza nel movimento è **Iniziale**, verrà impostato su **Demandato**, che indica che l'assistenza non è iniziata. Se lo stato di riparazione è **In corso**, passerà a **Parzialmente assistito**, ovvero parte dell'assistenza è stata completata.
 
 ## <a name="see-also"></a>Vedi anche

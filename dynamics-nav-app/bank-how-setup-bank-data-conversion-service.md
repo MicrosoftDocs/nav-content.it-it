@@ -35,7 +35,7 @@ Per importare o esportare i file dei conti correnti bancari, è necessario impos
 2. Viene aperta la finestra **Setup servizio conv. dati banca** con tre campi precompilati con gli URL del provider del servizio di conversione di dati bancari.
 
     > [!NOTE]  
->   Nel database di dimostrazione CRONUS International Ltd. i campi Nome utente e Password sono precompilati con informazioni di connessione dimostrative, che dovranno essere sostituite con le informazioni effettive della società nel momento in cui si procederà all'iscrizione al servizio di conversione di dati bancari.
+   >   Nel database di dimostrazione CRONUS International Ltd. i campi Nome utente e Password sono precompilati con informazioni di connessione dimostrative, che dovranno essere sostituite con le informazioni effettive della società nel momento in cui si procederà all'iscrizione al servizio di conversione di dati bancari.
 3. Nel campo **URL iscrizione** scegliere il pulsante Sfoglia per aprire la pagina di iscrizione del provider del servizio.  
 4. Nella pagina di iscrizione del provider del servizio dati bancari, immettere il nome utente e la password per l'iscrizione della società al servizio, quindi eseguire il processo di registrazione come indicato dal provider del servizio.
 

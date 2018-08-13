@@ -31,10 +31,10 @@ Come previsto dall'implementazione, si possono impostare gruppi di prezzi associ
 2. Creare un nuovo gruppo di prezzi di assistenza.  
 3. Compilare i campi **Codice** e **Descrizione**.  
 4. Scegliere l'azione **Setup**.  
-2. Compilare i campi come necessario. [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]  
+5. Compilare i campi come necessario. [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]  
 
- > [!Tip]
- > Con i campi **Tipo rettifica** e **Importo**, è possibile specificare se una rettifica riguarderà un importo fisso oppure verrà applicata esclusivamente ai prezzi totali di assistenza che supereranno o saranno inferiori all'importo specificato nel campo **Importo**.  
+   > [!Tip]
+   > Con i campi **Tipo rettifica** e **Importo**, è possibile specificare se una rettifica riguarderà un importo fisso oppure verrà applicata esclusivamente ai prezzi totali di assistenza che supereranno o saranno inferiori all'importo specificato nel campo **Importo**.  
 
 ## <a name="to-set-up-a-service-price-adjustment-group"></a>Per impostare un gruppo di rettifica dei prezzi di assistenza  
 È possibile impostare i gruppi di rettifica del prezzo per rettificare il prezzo di assistenza degli articoli in assistenza. Ad esempio, è possibile impostare gruppi di rettifica del prezzo per modificare il costo di spedizione o dei pezzi di ricambio.  

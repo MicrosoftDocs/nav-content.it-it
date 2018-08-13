@@ -21,9 +21,9 @@ ms.lasthandoff: 10/16/2017
 # <a name="how-to-pick-items-with-inventory-picks"></a>Procedura: prelevare articoli con prelievi magazzino
 Quando l'ubicazione è impostata in modo da richiedere l'elaborazione dei prelievi ma non l'elaborazione delle spedizioni, utilizzare la finestra **Prelievi magazzino** per registrare e contabilizzare le informazioni riguardanti il prelievo e la spedizione per i documenti di origine. Il documento di origine in uscita può essere un ordine di vendita, un ordine di reso da acquisto, un ordine di trasferimento in uscita o un ordine di produzione i cui componenti sono pronti per il prelievo.
 
-> [!NOTE]  
+> [!NOTE]
 > I componenti per gli ordini di assemblaggio non possono essere prelevati o registrati con i prelievi da magazzino. Pertanto, utilizzare la finestra **Movimento di magazzino**. Per ulteriori informazioni, vedere [Procedura: Spostare componenti in un'area di operazione nella gestione warehouse di base](warehouse-how-to-move-components-to-an-operation-area-in-basic-warehousing.md).
-
+> 
 >  Durante il prelievo e la spedizione di quantità righe di vendita assemblate sull'ordine, è necessario seguire determinate regole per la creazione di righe di prelievo magazzino. Per ulteriori informazioni, vedere la sezione "Gestione di articoli da assemblare su ordine in prelievi magazzino".  
 
 È possibile creare un prelievo da magazzino in tre modi:  

@@ -23,7 +23,7 @@ A seconda del volume e della natura dei prodotti, è necessario pianificare quot
 
 > [!NOTE]
 > Questo argomento descrive principalmente la pianificazione per le società coinvolte nella gestione della produzione o dell'assemblaggio dove gli ordini di approvvigionamento risultanti possono essere ordini di produzione, assemblaggio, trasferimento o acquisto. L'interfaccia principale per questo lavoro di pianificazione è la finestra **Prospetto pianificazione**.
-
+> 
 > [!INCLUDE[d365fin](includes/d365fin_md.md)] supporta inoltre anche la pianificazione degli approvvigionamenti per le società di vendita all'ingrosso dove gli ordini di approvvigionamento risultanti possono essere soltanto ordini di trasferimento e di acquisto. L'interfaccia principale per questo lavoro di pianificazione è la finestra **Richiesta di approvvigionamento**, descritta indirettamente in questo argomento in quanto la funzionalità di pianificazione è in larga parte applicabile a entrambi i prospetti.
 
 Prima di pianificare ed eseguire gli ordini di produzione, è necessario configurare le capacità di produzione, ad esempio la creazione di calendari del reparto produzione, cicli, DB di produzione e centri di lavoro. Per ulteriori informazioni, vedere [Impostazione della produzione](production-configure-production-processes.md).

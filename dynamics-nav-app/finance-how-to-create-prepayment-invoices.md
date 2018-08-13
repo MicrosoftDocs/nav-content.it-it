@@ -32,10 +32,10 @@ La procedura seguente descrive come fatturare un pagamento anticipato per un ord
     Nella Scheda dettaglio **Pagamento anticipato**, il campo **% pagamento anticipato** verrà compilato automaticamente se nella scheda cliente è impostata una percentuale pagamento anticipato di default. È possibile modificare il contenuto del campo. La percentuale pagamento anticipato viene copiata dalla testata solo nelle righe in cui non viene copiata la percentuale pagamento anticipato di default per l'articolo.  
 
     Se il campo **Comprimi pagamento anticipato** è selezionato, nella fattura le righe verranno combinate se:  
-    - Le righe hanno lo stesso conto di contabilità generale per i pagamenti anticipati, come determinato in Setup registrazioni COGE.  
-    - Le righe hanno le stesse dimensioni.  
+   - Le righe hanno lo stesso conto di contabilità generale per i pagamenti anticipati, come determinato in Setup registrazioni COGE.  
+   - Le righe hanno le stesse dimensioni.  
 
-    Lasciare vuoto il campo se si desidera specificare una fattura pagamento anticipato con una riga per ogni riga dell'ordine di vendita associata a una percentuale pagamento anticipato.  
+     Lasciare vuoto il campo se si desidera specificare una fattura pagamento anticipato con una riga per ogni riga dell'ordine di vendita associata a una percentuale pagamento anticipato.  
 
 3. Compilare le righe di vendita.  
 

@@ -39,7 +39,7 @@ Le estensioni PayPal Payments Standard e WorldPay Payments Standard vengono inst
 3. Nel campo **Servizio di pagamento** scegliere il servizio di pagamento.  
 
     > [!NOTE]  
->   Il campo **Servizio di pagamento** è disponibile solo se è stato abilitato il servizio di pagamento.  
+   >   Il campo **Servizio di pagamento** è disponibile solo se è stato abilitato il servizio di pagamento.  
 
 ## <a name="see-also"></a>Vedi anche  
 [Setup Vendite](sales-setup-sales.md)  

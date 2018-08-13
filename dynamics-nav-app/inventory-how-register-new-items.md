@@ -77,5 +77,5 @@ I fornitori vengono quindi visualizzati nella finestra **Catalogo art. fornitori
   [Vendite](sales-manage-sales.md)  
   [Utilizzo di [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]](ui-work-product.md)
 
-##
+# #
 

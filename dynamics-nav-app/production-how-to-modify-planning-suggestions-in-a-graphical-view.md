@@ -58,6 +58,7 @@ La seguente procedura illustra come modificare i suggerimenti di approvvigioname
 Per implementare le modifiche del piano di approvvigionamento, è necessario seguire i messaggi di azione risultanti dal prospetto di pianificazione oppure dalla richiesta di approvvigionamento. Per ulteriori informazioni, vedere Pianificaz - Esegui mess. azione.
 
 ## <a name="symbols-and-icons-on-the-timeline-fasttab"></a>Simboli e icone nella Scheda dettaglio Sequenza temporale
+
  |Simbolo/Icona|Description|  
  |------------------|---------------------------------------|  
  |Croce nera|Ordini (sia domanda che approvvigionamento).<br /><br /> - Non modificabile.<br />-   Visibile quando il campo **Mostra magazzino previsto** è selezionato (grafico arancione).|  
@@ -88,7 +89,7 @@ Oltre alle azioni da tastiera descritte in precedenza, è possibile utilizzare l
  |Selezionare un elemento, quindi premere MAIUSC+FRECCIA|Sposta l'elemento nella direzione della freccia utilizzata.|  
  |TAB|Passa all'elemento successivo.|  
  |MAIUSC+TAB|Passa all'elemento precedente.|  
- |Mentre si sposta un elemento, premere Esc.|Annulla lo spostamento. **Nota:**Non funziona se è stato rilasciato il pulsante del mouse.|
+ |Mentre si sposta un elemento, premere Esc.|Annulla lo spostamento. **Nota:** Non funziona se è stato rilasciato il pulsante del mouse.|
 
 ## <a name="see-also"></a>Vedi anche  
 [Pianif.](production-planning.md)   

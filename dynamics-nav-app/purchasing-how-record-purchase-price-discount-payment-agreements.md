@@ -58,7 +58,7 @@ Una volta informati degli sconti su fattura concessi dai fornitori, immettere il
 3. Nel campo **Cod. sconto fatt.** selezionare un codice per le condizioni di sconto fattura in questione che verrà utilizzato per calcolare gli sconti fattura per il fornitore.
 
     > [!NOTE]  
->   I codici sconto fattura sono rappresentati da schede fornitore esistenti. Questo consente di assegnare rapidamente le condizioni dello sconto fattura ai fornitori perché basterà selezionare il nome di un altro fornitore che avrà le stesse condizioni.
+   >   I codici sconto fattura sono rappresentati da schede fornitore esistenti. Questo consente di assegnare rapidamente le condizioni dello sconto fattura ai fornitori perché basterà selezionare il nome di un altro fornitore che avrà le stesse condizioni.
 
     Continuare a impostare le nuove condizioni dello sconto fattura di acquisto.
 4. Nella finestra **Scheda fornitore** scegliere l'azione **Sconti fattura**. Verrà visualizzata la finestra **Sconti fattura fornitori**.

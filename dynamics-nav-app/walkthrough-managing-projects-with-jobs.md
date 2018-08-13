@@ -75,26 +75,26 @@ Questa procedura dettagliata è incentrata su CRONUS International Ltd., una soc
 
 ### <a name="to-prepare-the-sample-data"></a>Per preparare i dati di esempio  
 
-1.  Scegliere l'icona ![Cerca pagina o report](media/ui-search/search_small.png "Cerca pagina o report"), immettere **Risorse**, quindi scegliere il collegamento correlato.  
-2.  Scegliere l'azione **Nuovo** per creare una nuova scheda risorsa.  
-3.  Nella Scheda dettaglio **Generale** immettere le seguenti informazioni:  
+1. Scegliere l'icona ![Cerca pagina o report](media/ui-search/search_small.png "Cerca pagina o report"), immettere **Risorse**, quindi scegliere il collegamento correlato.  
+2. Scegliere l'azione **Nuovo** per creare una nuova scheda risorsa.  
+3. Nella Scheda dettaglio **Generale** immettere le seguenti informazioni:  
 
-    - **Nr.**: **Di Marco**  
-    - **Nome**: **Di Marco**  
-    - **Tipo**: **Persona**  
+   - **Nr.**: **Di Marco**  
+   - **Nome**: **Di Marco**  
+   - **Tipo**: **Persona**  
 
-4.  Scegliere il campo **Unità di misura base** e scegliere l'azione **Nuovo** per aprire la finestra **Unità di misura risorse**. Nel campo **Codice** selezionare **Ora**. Scegliere il pulsante **OK**.  
-5.  Nella Scheda dettaglio **Fatturazione** inserire i seguenti dati:  
+4. Scegliere il campo **Unità di misura base** e scegliere l'azione **Nuovo** per aprire la finestra **Unità di misura risorse**. Nel campo **Codice** selezionare **Ora**. Scegliere il pulsante **OK**.  
+5. Nella Scheda dettaglio **Fatturazione** inserire i seguenti dati:  
 
-    -   **Costo unitario diretto**: **5**  
-    -   **% costi indiretti**: **4**  
-    -   **Costo unitario**: **10**  
-    -   **Cat. reg. articolo/servizio**: **Servizi**  
-    -   **Cat. reg. art./serv. IVA**: **IVA 25**  
+   -   **Costo unitario diretto**: **5**  
+   -   **% costi indiretti**: **4**  
+   -   **Costo unitario**: **10**  
+   -   **Cat. reg. articolo/servizio**: **Servizi**  
+   -   **Cat. reg. art./serv. IVA**: **IVA 25**  
 
-6.  Scegliere il pulsante **OK** per salvare le modifiche.  
+6. Scegliere il pulsante **OK** per salvare le modifiche.  
 
- Nella procedura descritta di seguito si crea un batch registrazioni commesse perché Cinzia possa registrare il relativo utilizzo.  
+   Nella procedura descritta di seguito si crea un batch registrazioni commesse perché Cinzia possa registrare il relativo utilizzo.  
 
 ### <a name="to-create-a-job-journal-batch"></a>Per creare un batch registrazioni commesse  
 
@@ -113,121 +113,123 @@ Questa procedura dettagliata è incentrata su CRONUS International Ltd., una soc
 
 ### <a name="to-set-up-a-job"></a>Per impostare una commessa  
 
-1.  Scegliere l'icona ![Cerca pagina o report](media/ui-search/search_small.png "icona Cerca pagina o report"), immettere **Commesse**, quindi scegliere il collegamento correlato.  
-2.  Scegliere l'azione **Nuovo** per creare una nuova scheda.  
-3.  Nella Scheda dettaglio **Generale** immettere le seguenti informazioni:  
+1. Scegliere l'icona ![Cerca pagina o report](media/ui-search/search_small.png "icona Cerca pagina o report"), immettere **Commesse**, quindi scegliere il collegamento correlato.  
+2. Scegliere l'azione **Nuovo** per creare una nuova scheda.  
+3. Nella Scheda dettaglio **Generale** immettere le seguenti informazioni:  
 
-    -   **Descrizione**: **Consulenza per progettazione aula conferenze**  
-    -   **Fatturare a - Nr. cli.**: **01445544**  
+   -   **Descrizione**: **Consulenza per progettazione aula conferenze**  
+   -   **Fatturare a - Nr. cli.**: **01445544**  
 
-4.  Nella Scheda dettaglio **Registrazione** inserire i seguenti dati:  
+4. Nella Scheda dettaglio **Registrazione** inserire i seguenti dati:  
 
-    -   **Stato**: **Ordine**  
-    -   **Cat. reg. commessa**: **Pianifica**  
-    -   **Metodo WIP**: **Valore costo**  
+   -   **Stato**: **Ordine**  
+   -   **Cat. reg. commessa**: **Pianifica**  
+   -   **Metodo WIP**: **Valore costo**  
 
-5.  Nella Scheda dettaglio **Durata** immettere la data odierna nei campi **Data inizio** e **Data fine**. Queste date agevolano l'applicazione delle conversioni di valuta al momento della fatturazione della commessa.  
-6.  Nella Scheda dettaglio **Commercio estero** impostare il codice di valuta su **USD**. Se si seleziona USD nel campo **Codice valuta fattura**, la commessa sarà fatturata in dollari statunitensi e pianificata solo nella valuta locale di CRONUS.  
+5. Nella Scheda dettaglio **Durata** immettere la data odierna nei campi **Data inizio** e **Data fine**. Queste date agevolano l'applicazione delle conversioni di valuta al momento della fatturazione della commessa.  
+6. Nella Scheda dettaglio **Commercio estero** impostare il codice di valuta su **USD**. Se si seleziona USD nel campo **Codice valuta fattura**, la commessa sarà fatturata in dollari statunitensi e pianificata solo nella valuta locale di CRONUS.  
 
- È possibile personalizzare il prezzo per i clienti in base alla commessa, in base ai contratti impostati. Nella procedura descritta di seguito, il manager progetto specifica un costo per il tempo di Cinzia, imposta il prezzo per il software necessario e aggiunge i costi di viaggio che il cliente ha accettato di pagare.  
+   È possibile personalizzare il prezzo per i clienti in base alla commessa, in base ai contratti impostati. Nella procedura descritta di seguito, il manager progetto specifica un costo per il tempo di Cinzia, imposta il prezzo per il software necessario e aggiunge i costi di viaggio che il cliente ha accettato di pagare.  
 
 ### <a name="to-customize-pricing"></a>Per personalizzare il prezzo  
 
-1.  Nella scheda commessa, scegliere l'azione **Risorsa**.  
-2.  Nella finestra **Prezzi risorse commesse**, immettere le seguenti informazioni:  
+1. Nella scheda commessa, scegliere l'azione **Risorsa**.  
+2. Nella finestra **Prezzi risorse commesse**, immettere le seguenti informazioni:  
 
-    -   **Codice**: **Di Marco**  
-    -   **Prezzo unitario**: **20**  
+   -   **Codice**: **Di Marco**  
+   -   **Prezzo unitario**: **20**  
 
-3.  Scegliere il pulsante **OK** per chiudere la finestra.  
-4.  Scegliere l'azione **Articolo**.  
-5.  Nella finestra **Prezzi articoli commesse**, immettere le seguenti informazioni e il prezzo personalizzato:  
+3. Scegliere il pulsante **OK** per chiudere la finestra.  
+4. Scegliere l'azione **Articolo**.  
+5. Nella finestra **Prezzi articoli commesse**, immettere le seguenti informazioni e il prezzo personalizzato:  
 
-    1.  **Nr. articolo**: **80201 (Progr.grafica)**  
-    2.  **Prezzo unitario**: **200**  
+   1.  **Nr. articolo**: **80201 (Progr.grafica)**  
+   2.  **Prezzo unitario**: **200**  
 
-6.  Scegliere il pulsante **OK** per chiudere la finestra.  
-7.  Scegliere l'azione **Conto C/G**.  
-8.  Nella finestra **Prezzi conti C/G commesse** , immettere le seguenti informazioni e i costi di viaggio, per i quali il cliente si impegna per pagare il costo più 25%:  
+6. Scegliere il pulsante **OK** per chiudere la finestra.  
+7. Scegliere l'azione **Conto C/G**.  
+8. Nella finestra **Prezzi conti C/G commesse** , immettere le seguenti informazioni e i costi di viaggio, per i quali il cliente si impegna per pagare il costo più 25%:  
 
-    1.  **Conto C/G**: **8430 (Spese per viaggi e trasferte)**  
-    2.  **Fattore costo unitario**: **1,25**  
+   1.  **Conto C/G**: **8430 (Spese per viaggi e trasferte)**  
+   2.  **Fattore costo unitario**: **1,25**  
 
 9. Scegliere il pulsante **OK** per chiudere la finestra.  
 
- I passaggi finali del setup della commessa sono l'aggiunta dei task commessa e delle righe di pianificazione che fanno parte di ogni task. Le righe di pianificazione determinano ciò che viene fatturato al cliente.  
+   I passaggi finali del setup della commessa sono l'aggiunta dei task commessa e delle righe di pianificazione che fanno parte di ogni task. Le righe di pianificazione determinano ciò che viene fatturato al cliente.  
 
 ### <a name="to-add-job-tasks"></a>Per aggiungere task commessa  
 
-1.  Nella scheda **Commessa** per la nuova commessa, scegliere l'azione **Righe task commessa**.  
-2.  Nella seguente tabella vengono illustrate le informazioni che è necessario immettere nei campi.  
+1. Nella scheda **Commessa** per la nuova commessa, scegliere l'azione **Righe task commessa**.  
+2. Nella seguente tabella vengono illustrate le informazioni che è necessario immettere nei campi.  
 
-    |Nr. task commessa|Description|Tipo task commessa|  
-    |------------------|---------------------------------------|-------------------|  
-    |1000|Consulenza per progettazione aula conferenze|Inizio-Totale|  
-    |1010|Incontro di consultazione con cliente|Analitico|  
-    |1020|Sviluppo|Analitico|  
-    |1090|Totale consulenza|Fine-Totale|  
 
-3.  Per indicare che alcuni task sono sottocategorie di altri task, nella scheda **Azioni** , nel gruppo **Funzioni** , selezionare **Indentazione task commesse**.  
+   | Nr. task commessa |            Description             | Tipo task commessa |
+   |--------------|------------------------------------|---------------|
+   |     1000     |      Consulenza per progettazione aula conferenze      |  Inizio-Totale  |
+   |     1010     | Incontro di consultazione con cliente |    Analitico    |
+   |     1020     |            Sviluppo             |    Analitico    |
+   |     1090     |          Totale consulenza          |   Fine-Totale   |
 
- Una riga di pianificazione può essere di uno dei seguenti tipi:  
 
--   **Programmazione**: aggiunto alla pianificazione ma non fatturato.  
--   **Contratto**: fatturato ma non aggiunto alla pianificazione.  
--   **Programmazione e contratto**: fatturato e aggiunto alla pianificazione.  
+3. Per indicare che alcuni task sono sottocategorie di altri task, nella scheda **Azioni** , nel gruppo **Funzioni** , selezionare **Indentazione task commesse**.  
 
- In questa procedura dettagliata, il manager progetto utilizza **Programmazione e contratto**. Crea tre righe di pianificazione per il task 1010 e due righe di pianificazione per il task 1020.  
+   Una riga di pianificazione può essere di uno dei seguenti tipi:  
+
+- **Programmazione**: aggiunto alla pianificazione ma non fatturato.  
+- **Contratto**: fatturato ma non aggiunto alla pianificazione.  
+- **Programmazione e contratto**: fatturato e aggiunto alla pianificazione.  
+
+  In questa procedura dettagliata, il manager progetto utilizza **Programmazione e contratto**. Crea tre righe di pianificazione per il task 1010 e due righe di pianificazione per il task 1020.  
 
 ### <a name="to-create-planning-lines"></a>Per creare righe di pianificazione  
 
-1.  Selezionare la riga 1010, quindi scegliere l'azione **Righe pianificazione commessa**. Inserire i seguenti dati:  
+1. Selezionare la riga 1010, quindi scegliere l'azione **Righe pianificazione commessa**. Inserire i seguenti dati:  
 
-     **Riga 1**  
+    **Riga 1**  
 
-    -   **Tipo riga**: **Programmazione e contratto**  
-    -   **Data pianificazione**: **(data odierna)**  
-    -   **Tipo**: **Risorsa**  
-    -   **Nr.**: **Di Marco**  
-    -   **Quantità**: **40**  
+   - **Tipo riga**: **Programmazione e contratto**  
+   - **Data pianificazione**: **(data odierna)**  
+   - **Tipo**: **Risorsa**  
+   - **Nr.**: **Di Marco**  
+   - **Quantità**: **40**  
 
      **Riga 2**  
 
-    -   **Tipo riga**: **Programmazione e contratto**  
-    -   **Data pianificazione**: **(data odierna)**  
-    -   **Tipo**: **Risorsa**  
-    -   **Nr.**: **Maldonado**  
-    -   **Quantità**: **40**  
+   - **Tipo riga**: **Programmazione e contratto**  
+   - **Data pianificazione**: **(data odierna)**  
+   - **Tipo**: **Risorsa**  
+   - **Nr.**: **Maldonado**  
+   - **Quantità**: **40**  
 
      **Riga 3**  
 
-    -   **Tipo riga**: **Programmazione e contratto**  
-    -   **Data pianificazione**: **(data odierna)**  
-    -   **Tipo**: **Conto C/G**  
-    -   **Nr.**: **8430 (spese per viaggi e trasferte)**  
-    -   **Quantità**: **2**  
-    -   **Costo unitario**: **400**  
+   - **Tipo riga**: **Programmazione e contratto**  
+   - **Data pianificazione**: **(data odierna)**  
+   - **Tipo**: **Conto C/G**  
+   - **Nr.**: **8430 (spese per viaggi e trasferte)**  
+   - **Quantità**: **2**  
+   - **Costo unitario**: **400**  
 
-2.  Scegliere il pulsante **OK** per chiudere la finestra. I totali vengono aggiornati nella finestra **Righe task commessa** .  
-3.  Selezionare la riga 1020, quindi scegliere l'azione **Righe pianificazione commessa**. Inserire i seguenti dati:  
+2. Scegliere il pulsante **OK** per chiudere la finestra. I totali vengono aggiornati nella finestra **Righe task commessa** .  
+3. Selezionare la riga 1020, quindi scegliere l'azione **Righe pianificazione commessa**. Inserire i seguenti dati:  
 
-     **Riga 1**  
+    **Riga 1**  
 
-    -   **Tipo riga**: **Programmazione e contratto**  
-    -   **Data pianificazione**: **(data odierna)**  
-    -   **Tipo**: **Risorsa**  
-    -   **Nr.**: **Di Marco**  
-    -   **Quantità**: **80**  
+   - **Tipo riga**: **Programmazione e contratto**  
+   - **Data pianificazione**: **(data odierna)**  
+   - **Tipo**: **Risorsa**  
+   - **Nr.**: **Di Marco**  
+   - **Quantità**: **80**  
 
      **Riga 2**  
 
-    -   **Tipo riga**: **Programmazione e contratto**  
-    -   **Data pianificazione**: **(data odierna)**  
-    -   **Tipo**: **Articolo**  
-    -   **Nr.**: **80201 (Progr.grafica)**  
-    -   **Quantità**: **1**  
+   - **Tipo riga**: **Programmazione e contratto**  
+   - **Data pianificazione**: **(data odierna)**  
+   - **Tipo**: **Articolo**  
+   - **Nr.**: **80201 (Progr.grafica)**  
+   - **Quantità**: **1**  
 
-4.  Scegliere il pulsante **OK** per chiudere la finestra. I totali vengono aggiornati nella finestra **Righe task commessa** .  
+4. Scegliere il pulsante **OK** per chiudere la finestra. I totali vengono aggiornati nella finestra **Righe task commessa** .  
 
 ## <a name="calculating-remaining-usage"></a>Calcolo dell'utilizzo residuo  
  Cinzia, il membro del team, lavora alla commessa da qualche tempo e desidera registrare le sue ore e l'utilizzo nella commessa. Non ha lavorato più ore di quanto concordato in origine con il cliente. Utilizza il processo batch **Calc. utilizzo residuo** per calcolare l'utilizzo residuo della commessa in una registrazione di commessa. Per ciascun task viene calcolata la differenza tra l'utilizzo programmato di articoli, risorse e spese di contabilità generale e l'utilizzo effettivo registrato nei movimenti contabili delle commesse. L'utilizzo residuo viene quindi visualizzato nelle registrazioni delle commesse, da cui è possibile eseguirne la registrazione.  
@@ -250,13 +252,13 @@ Questa procedura dettagliata è incentrata su CRONUS International Ltd., una soc
 
 ### <a name="to-create-a-job-sales-invoice"></a>Per creare una fattura di vendita per una commessa  
 
-1.  Scegliere l'icona ![Cerca pagina o report](media/ui-search/search_small.png "icona Cerca pagina o report"), immettere **Commesse**, quindi scegliere il collegamento correlato.  
-2.  Selezionare la commessa creata in precedenza, quindi scegliere l'azione **Crea fattura vendita per commessa**.  
-3.  Nella Scheda dettaglio **Task commessa**, cancellare i filtri in **Nr. task commessa** per fatturare la commessa. Nel campo **Nr. commessa** selezionare la commessa appropriata.  
-4.  Nella Scheda dettaglio **Opzioni** immettere la data di registrazione e specificare se creare una fattura per task oppure una singola fattura per tutti i task.  
-5.  Selezionare il pulsante **OK** per creare la fattura e fare clic sul pulsante **OK** nella finestra di conferma.  
+1. Scegliere l'icona ![Cerca pagina o report](media/ui-search/search_small.png "icona Cerca pagina o report"), immettere **Commesse**, quindi scegliere il collegamento correlato.  
+2. Selezionare la commessa creata in precedenza, quindi scegliere l'azione **Crea fattura vendita per commessa**.  
+3. Nella Scheda dettaglio **Task commessa**, cancellare i filtri in **Nr. task commessa** per fatturare la commessa. Nel campo **Nr. commessa** selezionare la commessa appropriata.  
+4. Nella Scheda dettaglio **Opzioni** immettere la data di registrazione e specificare se creare una fattura per task oppure una singola fattura per tutti i task.  
+5. Selezionare il pulsante **OK** per creare la fattura e fare clic sul pulsante **OK** nella finestra di conferma.  
 
- Dopo che Cinzia ha creato la fattura, può accedervi da **Vendite e marketing** sotto **Gestione ordini** per ulteriori elaborazioni.  
+   Dopo che Cinzia ha creato la fattura, può accedervi da **Vendite e marketing** sotto **Gestione ordini** per ulteriori elaborazioni.  
 
 ### <a name="to-post-a-new-sales-invoice"></a>Per registrare una nuova fattura di vendita  
 
@@ -266,11 +268,11 @@ Questa procedura dettagliata è incentrata su CRONUS International Ltd., una soc
 
 ### <a name="to-view-the-posted-invoice"></a>Per visualizzare la fattura registrata  
 
-1.  Aprire la commessa, quindi scegliere l'azione **Righe pianificazione commessa**.  
-2.  Selezionare una qualsiasi delle righe di pianificazione fatturate, quindi scegliere l'azione **Ottieni nota credito/fattura vendita**.
+1. Aprire la commessa, quindi scegliere l'azione **Righe pianificazione commessa**.  
+2. Selezionare una qualsiasi delle righe di pianificazione fatturate, quindi scegliere l'azione **Ottieni nota credito/fattura vendita**.
 3. Nella finestra **Fatture commessa** scegliere l'azione **Apri fattura/nota credito vendita**.  
 
- Informazioni sulla specifica commessa, come prezzi, costi o margini, sono ora reperibili mediante la finestra **Statistiche**.  
+   Informazioni sulla specifica commessa, come prezzi, costi o margini, sono ora reperibili mediante la finestra **Statistiche**.  
 
 ### <a name="to-open-the-statistics-window"></a>Per aprire la finestra Statistiche  
 
@@ -283,69 +285,69 @@ Questa procedura dettagliata è incentrata su CRONUS International Ltd., una soc
 
 ### <a name="to-manage-fixed-pricing-in-jobs"></a>Per gestire i prezzi fissi nelle commesse  
 
-1.  Scegliere l'icona ![Cerca pagina o report](media/ui-search/search_small.png "icona Cerca pagina o report"), immettere **Commesse**, quindi scegliere il collegamento correlato.  
-2.  Selezionare il numero di commessa **Società mercantile internaz.**, quindi scegliere l'azione **Righe task commessa**.  
-3.  Selezionare la riga 1120 e nel campo **Programmazione (costo totale)** fare clic con il pulsante destro del mouse sull'importo e scegliere **DrillDown**.  
+1. Scegliere l'icona ![Cerca pagina o report](media/ui-search/search_small.png "icona Cerca pagina o report"), immettere **Commesse**, quindi scegliere il collegamento correlato.  
+2. Selezionare il numero di commessa **Società mercantile internaz.**, quindi scegliere l'azione **Righe task commessa**.  
+3. Selezionare la riga 1120 e nel campo **Programmazione (costo totale)** fare clic con il pulsante destro del mouse sull'importo e scegliere **DrillDown**.  
 
-     Verificando le righe di pianificazione commessa, Alboni stabilisce che avrà anche bisogno di Cinzia per 30 ore per questa fase del progetto. Concorda un prezzo fisso con il cliente.  
+    Verificando le righe di pianificazione commessa, Alboni stabilisce che avrà anche bisogno di Cinzia per 30 ore per questa fase del progetto. Concorda un prezzo fisso con il cliente.  
 
-4.  Nella finestra **Righe task commessa**, selezionare la riga 1120, quindi scegliere l'azione **Righe pianificazione commessa**.  
-5.  Scegliere l'azione **Nuovo** per creare una nuova riga con le informazioni seguenti:  
+4. Nella finestra **Righe task commessa**, selezionare la riga 1120, quindi scegliere l'azione **Righe pianificazione commessa**.  
+5. Scegliere l'azione **Nuovo** per creare una nuova riga con le informazioni seguenti:  
 
-    -   **Tipo riga**: **Programmazione e contratto**  
-    -   **Tipo**: **Risorsa**  
-    -   **Nr.**: **Di Marco**  
-    -   **Quantità**: **30**  
+   -   **Tipo riga**: **Programmazione e contratto**  
+   -   **Tipo**: **Risorsa**  
+   -   **Nr.**: **Di Marco**  
+   -   **Quantità**: **30**  
 
-7.  Scegliere il pulsante **OK** per chiudere la finestra.  
-8.  Nel campo **Programmazione (costo totale)** , fare clic con il pulsante destro del mouse sul campo e selezionare **DrillDown** nella finestra **Righe task commessa** . Visualizzare le modifiche alla pianificazione. Le 30 ore sono state aggiunte alla pianificazione.  
-9. Scegliere il pulsante **OK** per chiudere le finestre.  
+6. Scegliere il pulsante **OK** per chiudere la finestra.  
+7. Nel campo **Programmazione (costo totale)** , fare clic con il pulsante destro del mouse sul campo e selezionare **DrillDown** nella finestra **Righe task commessa** . Visualizzare le modifiche alla pianificazione. Le 30 ore sono state aggiunte alla pianificazione.  
+8. Scegliere il pulsante **OK** per chiudere le finestre.  
 
- Dopo che Cinzia è stata aggiunta alla pianificazione per questa riga di task, lavora per 25 ore alla commessa. Immette le ore nelle registrazioni commesse.  
+   Dopo che Cinzia è stata aggiunta alla pianificazione per questa riga di task, lavora per 25 ore alla commessa. Immette le ore nelle registrazioni commesse.  
 
 ### <a name="to-enter-hours-in-the-job-journal"></a>Per inserire ore nelle Registrazioni commesse  
 
-1.  Scegliere l'icona ![Cerca pagina o report](media/ui-search/search_small.png "Cerca pagina o report"), immettere **Registrazioni commesse**, quindi scegliere il collegamento correlato.  
-2.  In una nuova riga inserire i seguenti dati:  
+1. Scegliere l'icona ![Cerca pagina o report](media/ui-search/search_small.png "Cerca pagina o report"), immettere **Registrazioni commesse**, quindi scegliere il collegamento correlato.  
+2. In una nuova riga inserire i seguenti dati:  
 
-    -   **Tipo riga**: **(vuoto)**  
-    -   **Data di registrazione**: **(data odierna)**  
-    -   **Nr. documento**: **J00002**  
-    -   **Nr. commessa**: **Società mercantile internaz.**  
-    -   **Nr. task commessa**: **1120**  
-    -   **Tipo**: **Risorsa**  
-    -   **Nr.**: **Di Marco**  
-    -   **Quantità**: **25**  
+   -   **Tipo riga**: **(vuoto)**  
+   -   **Data di registrazione**: **(data odierna)**  
+   -   **Nr. documento**: **J00002**  
+   -   **Nr. commessa**: **Società mercantile internaz.**  
+   -   **Nr. task commessa**: **1120**  
+   -   **Tipo**: **Risorsa**  
+   -   **Nr.**: **Di Marco**  
+   -   **Quantità**: **25**  
 
-3.  Scegliere l'azione **Registra**.  
+3. Scegliere l'azione **Registra**.  
 
-     Alcuni giorni più tardi, Cinzia lavora per altre 10 ore alla commessa. Ha lavorato 35 ore in tutto. Poiché il contratto è per 30 ore, solo cinque delle ore verranno addebitate al cliente. Cinzia aggiungerà manualmente le cinque ore aggiuntive lavorate alla pianificazione.  
+    Alcuni giorni più tardi, Cinzia lavora per altre 10 ore alla commessa. Ha lavorato 35 ore in tutto. Poiché il contratto è per 30 ore, solo cinque delle ore verranno addebitate al cliente. Cinzia aggiungerà manualmente le cinque ore aggiuntive lavorate alla pianificazione.  
 
-4.  Nella finestra **Registrazioni commesse**, scegliere l'azione **Calc. utilizzo residuo**.  
-5.  Nella Scheda dettaglio **Opzioni** della finestra **Commessa - Calc. utilizzo residuo** inserire le seguenti informazioni:  
+4. Nella finestra **Registrazioni commesse**, scegliere l'azione **Calc. utilizzo residuo**.  
+5. Nella Scheda dettaglio **Opzioni** della finestra **Commessa - Calc. utilizzo residuo** inserire le seguenti informazioni:  
 
-    -   **Nr. documento**: **J00003**  
-    -   **Data di registrazione**: **(data odierna)**  
+   -   **Nr. documento**: **J00003**  
+   -   **Data di registrazione**: **(data odierna)**  
 
-6.  Nella Scheda dettaglio **Task commessa** inserire le seguenti informazioni:  
+6. Nella Scheda dettaglio **Task commessa** inserire le seguenti informazioni:  
 
-    -   **Nr. commessa**: **Società mercantile internaz.**  
-    -   **Nr. task commessa**: **1120**  
+   - **Nr. commessa**: **Società mercantile internaz.**  
+   - **Nr. task commessa**: **1120**  
 
      Per eseguire il calcolo, fare clic sul pulsante **OK**. Ci sono cinque ore di lavoro residuo per Cinzia. Il campo **Tipo riga** è vuoto, il che indica che solo l'utilizzo deve essere ancora registrato perché il lavoro è già stato pianificato.  
 
-7.  Nella finestra **Registrazioni commesse**, creare una nuova riga con i seguenti dati. Accertarsi che entrambi i numeri di commessa siano consecutivi a quelli già usati:  
+7. Nella finestra **Registrazioni commesse**, creare una nuova riga con i seguenti dati. Accertarsi che entrambi i numeri di commessa siano consecutivi a quelli già usati:  
 
-    -   **Tipo riga**: **Programmazione**  
-    -   **Nr. commessa**: **Società mercantile internaz.**  
-    -   **Nr. task commessa**: **1120**  
-    -   **Tipo**: **Risorsa**  
-    -   **Nr.**: **Di Marco**  
-    -   **Quantità**: **5**  
+   - **Tipo riga**: **Programmazione**  
+   - **Nr. commessa**: **Società mercantile internaz.**  
+   - **Nr. task commessa**: **1120**  
+   - **Tipo**: **Risorsa**  
+   - **Nr.**: **Di Marco**  
+   - **Quantità**: **5**  
 
      Utilizzando il tipo di riga **Programmazione**, vengono aggiornati i prezzi e i costi pianificati, mentre non vengono aggiornati i costi e prezzi di contratto che sono fatturati al cliente.  
 
-8.  Scegliere l'azione **Registra**. Scegliere il pulsante **OK** per chiudere la finestra.  
+8. Scegliere l'azione **Registra**. Scegliere il pulsante **OK** per chiudere la finestra.  
 9. Aprire l'elenco **Commesse**.  
 10. Selezionare la commessa SOC. MERC, quindi scegliere l'azione **Righe task commessa**.  
 11. Selezionare la riga 1120 e fare clic con il pulsante destro del mouse sull'importo del campo **Programmazione (costo totale)**. Selezionare **Drilldown** per visualizzare le informazioni.  
@@ -389,84 +391,86 @@ Questa procedura dettagliata è incentrata su CRONUS International Ltd., una soc
 
 ### <a name="to-set-up-a-new-account"></a>Per impostare un nuovo conto  
 
-1.  Scegliere l'icona ![Cerca pagina o report](media/ui-search/search_small.png "icona Cerca pagina o report"), immettere **Piano dei conti**, quindi scegliere il collegamento correlato.  
-2.  Nella finestra **Piano dei conti** scegliere l'azione **Nuovo** per creare una nuova scheda.  
-3.  Nella scheda del nuovo **Conto C/G** inserire i seguenti dati:  
+1. Scegliere l'icona ![Cerca pagina o report](media/ui-search/search_small.png "icona Cerca pagina o report"), immettere **Piano dei conti**, quindi scegliere il collegamento correlato.  
+2. Nella finestra **Piano dei conti** scegliere l'azione **Nuovo** per creare una nuova scheda.  
+3. Nella scheda del nuovo **Conto C/G** inserire i seguenti dati:  
 
-    -   **Nr.**: **6630**  
-    -   **Nome**: **Pagamento commessa**  
+   -   **Nr.**: **6630**  
+   -   **Nome**: **Pagamento commessa**  
 
-4.  Nel campo **Cat. reg. articolo/servizio** della Scheda dettaglio **Registrazione** selezionare **VARIE**. Scegliere il pulsante **OK** per chiudere la finestra.  
-5.  Nella finestra **Piano dei conti**, selezionare **Nr. 6630 Pagamento commessa**, quindi scegliere **Indenta piano dei conti**. Scegliere **Sì** per confermare.  
+4. Nel campo **Cat. reg. articolo/servizio** della Scheda dettaglio **Registrazione** selezionare **VARIE**. Scegliere il pulsante **OK** per chiudere la finestra.  
+5. Nella finestra **Piano dei conti**, selezionare **Nr. 6630 Pagamento commessa**, quindi scegliere **Indenta piano dei conti**. Scegliere **Sì** per confermare.  
 
- Le procedure riportate di seguito mostrano come creare una nuova commessa, impostare il prezzo e il pagamento rateale. Nelle righe di task della commessa è possibile creare righe specifiche dedicate al pagamento rateale. Tutto il lavoro completato per la commessa che viene aggiunto alla pianificazione sarà inserito nelle righe di utilizzo. Per ogni riga di task pagamento nelle righe di pianificazione, il tipo di riga è Contratto, che significa che sarà emessa fattura al cliente. Immettere una nuova riga per il primo acconto. Nella riga di task utilizzo, inserire i dati relativi agli articoli e alle risorse che sono stati utilizzati nel progetto; ciò incrementa la pianificazione in termini di ore dei dipendenti e di articoli impiegati nella commessa.  
+   Le procedure riportate di seguito mostrano come creare una nuova commessa, impostare il prezzo e il pagamento rateale. Nelle righe di task della commessa è possibile creare righe specifiche dedicate al pagamento rateale. Tutto il lavoro completato per la commessa che viene aggiunto alla pianificazione sarà inserito nelle righe di utilizzo. Per ogni riga di task pagamento nelle righe di pianificazione, il tipo di riga è Contratto, che significa che sarà emessa fattura al cliente. Immettere una nuova riga per il primo acconto. Nella riga di task utilizzo, inserire i dati relativi agli articoli e alle risorse che sono stati utilizzati nel progetto; ciò incrementa la pianificazione in termini di ore dei dipendenti e di articoli impiegati nella commessa.  
 
 ### <a name="to-make-a-payment-by-installment"></a>Per effettuare un pagamento rateale  
 
-1.  Creare una nuova commessa.  
-2.  Nella nuova scheda **Commessa** inserire i seguenti dati:  
+1. Creare una nuova commessa.  
+2. Nella nuova scheda **Commessa** inserire i seguenti dati:  
 
-    -   **Descrizione**: **Ridecorazione dell'area reception**  
-    -   **Fatturare a - Nr. cli.**: **30000**  
-    -   **Cat. reg. commessa**: **Pianifica**  
-    -   **Metodo WIP**: **Valore costo**  
+   -   **Descrizione**: **Ridecorazione dell'area reception**  
+   -   **Fatturare a - Nr. cli.**: **30000**  
+   -   **Cat. reg. commessa**: **Pianifica**  
+   -   **Metodo WIP**: **Valore costo**  
 
-3.  Nella scheda commessa, scegliere l'azione **Risorsa**. Inserire i seguenti dati:  
+3. Nella scheda commessa, scegliere l'azione **Risorsa**. Inserire i seguenti dati:  
 
-    -   **Codice**: **Di Marco**  
-    -   **Prezzo unitario**: **10**  
-
-     Scegliere il pulsante **OK** per chiudere la finestra.  
-
-4.  Nella scheda **Commessa**, scegliere l'azione **Righe task commessa**.  
-
-     Nella seguente tabella vengono illustrate le righe che verranno create.  
-
-    |Riga|Nr. task commessa|Description|Tipo task commessa|  
-    |----------|------------------|---------------------------------------|-------------------|  
-    |1|1000|Pagamento - primo acconto|Registrazione|  
-    |2|2000|Utilizzo|Analitico|  
-    |3|3000|Pagamento - secondo acconto|Analitico|  
-    |4|4000|Pagamento - saldo|Registrazione|  
-
-5.  Nella finestra **Righe task commessa**, selezionare il task 1000, quindi scegliere l'azione **Righe pianificazione commessa**.  
-6.  Creare una riga di pianificazione con i seguenti dati:  
-
-    -   **Tipo riga**: **Contratto**  
-    -   **Data pianificazione**: **(data odierna)**  
-    -   **Tipo**: **Conto C/G**  
-    -   **Nr.**: **6630**  
-    -   **Quantità**: **1**  
-    -   **Prezzo unitario**: **5000**  
+   - **Codice**: **Di Marco**  
+   - **Prezzo unitario**: **10**  
 
      Scegliere il pulsante **OK** per chiudere la finestra.  
 
-7.  Nella finestra **Righe task commessa** selezionare il **task 2000** e aprirne le **Righe pianificazione commessa**.  
+4. Nella scheda **Commessa**, scegliere l'azione **Righe task commessa**.  
 
-     Nella seguente tabella vengono illustrate le righe di pianificazione che verranno create.  
+    Nella seguente tabella vengono illustrate le righe che verranno create.  
 
-    |Linee|Tipo riga|Data pianificazione|Tipo|Nr.|Quantità|  
-    |----------|---------------|-------------------|----------|---------|--------------|  
-    |1|Programmazione|(data odierna)|Risorsa|Cinzia|120|  
-    |2|Programmazione|(data odierna)|Articolo|70104|10|  
 
-     Scegliere il pulsante **OK** per chiudere la finestra. Nella finestra **Righe task commessa** è possibile visualizzare gli importi di programmazione aggiornati.  
+   | Riga | Nr. task commessa |     Description      | Tipo task commessa |
+   |------|--------------|----------------------|---------------|
+   |  1   |     1000     | Pagamento - primo acconto |    Registrazione    |
+   |  2   |     2000     |        Utilizzo         |    Analitico    |
+   |  3   |     3000     |   Pagamento - secondo acconto   |    Analitico    |
+   |  4   |     4000     | Pagamento - saldo |    Registrazione    |
 
-8.  Nella finestra **Righe task commessa** selezionare il **task 3000**.  
+
+5. Nella finestra **Righe task commessa**, selezionare il task 1000, quindi scegliere l'azione **Righe pianificazione commessa**.  
+6. Creare una riga di pianificazione con i seguenti dati:  
+
+   - **Tipo riga**: **Contratto**  
+   - **Data pianificazione**: **(data odierna)**  
+   - **Tipo**: **Conto C/G**  
+   - **Nr.**: **6630**  
+   - **Quantità**: **1**  
+   - **Prezzo unitario**: **5000**  
+
+     Scegliere il pulsante **OK** per chiudere la finestra.  
+
+7. Nella finestra **Righe task commessa** selezionare il **task 2000** e aprirne le **Righe pianificazione commessa**.  
+
+    Nella seguente tabella vengono illustrate le righe di pianificazione che verranno create.  
+
+   |Linee|Tipo riga|Data pianificazione|Tipo|Nr.|Quantità|  
+   |----------|---------------|-------------------|----------|---------|--------------|  
+   |1|Programmazione|(data odierna)|Risorsa|Cinzia|120|  
+   |2|Programmazione|(data odierna)|Articolo|70104|10|  
+
+    Scegliere il pulsante **OK** per chiudere la finestra. Nella finestra **Righe task commessa** è possibile visualizzare gli importi di programmazione aggiornati.  
+
+8. Nella finestra **Righe task commessa** selezionare il **task 3000**.  
 9. Creare una riga di pianificazione con i seguenti dati:  
 
-    -   **Tipo riga**: **Contratto**  
-    -   **Data pianificazione**: **una data futura**  
-    -   **Tipo**: **Conto C/G**  
-    -   **Nr.**: **6630**  
-    -   **Quantità**: **1**  
-    -   **Prezzo unitario**: **5000**  
+   - **Tipo riga**: **Contratto**  
+   - **Data pianificazione**: **una data futura**  
+   - **Tipo**: **Conto C/G**  
+   - **Nr.**: **6630**  
+   - **Quantità**: **1**  
+   - **Prezzo unitario**: **5000**  
 
      Scegliere il pulsante **OK** per chiudere la finestra.  
 
 10. Creare una simile movimento della riga di pianificazione per il task commessa 4000.  
 
- Ora che le righe di task e di pianificazione sono state registrate, Alboni crea una fattura per il primo pagamento. Procede dalle righe dei task commesse per assicurarsi che la fattura contenga solo le righe del primo pagamento. Aprire l'ordine di vendita dalle righe di pianificazione o dalle righe di task.  
+    Ora che le righe di task e di pianificazione sono state registrate, Alboni crea una fattura per il primo pagamento. Procede dalle righe dei task commesse per assicurarsi che la fattura contenga solo le righe del primo pagamento. Aprire l'ordine di vendita dalle righe di pianificazione o dalle righe di task.  
 
 ### <a name="to-create-an-invoice"></a>Per creare una fattura  
 

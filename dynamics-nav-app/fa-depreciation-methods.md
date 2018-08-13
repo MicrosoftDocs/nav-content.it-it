@@ -30,11 +30,11 @@ Esistono otto metodi di ammortamento:
 * Manuale  
 
   > [!NOTE]  
->   È possibile utilizzare questo metodo per i cespiti che non sono soggetti ad ammortamento, ad esempio i terreni. Immettere l'ammortamento nella Registrazioni Cespiti in C/G. Il processo batch **Calcolo ammortamento** non considera i cespiti che utilizzano questo metodo di ammortamento.  
+  >   È possibile utilizzare questo metodo per i cespiti che non sono soggetti ad ammortamento, ad esempio i terreni. Immettere l'ammortamento nella Registrazioni Cespiti in C/G. Il processo batch **Calcolo ammortamento** non considera i cespiti che utilizzano questo metodo di ammortamento.  
 * Convenzione semestrale  
 
   > [!NOTE]  
->    Utilizzando questo metodo nei cespiti, ogni anno viene ammortizzato lo stesso importo.  
+  >    Utilizzando questo metodo nei cespiti, ogni anno viene ammortizzato lo stesso importo.  
 
 ## <a name="straight-line-depreciation"></a>Ammortamento a quote costanti
 Se si utilizza il metodo a quote costanti occorre indicare nel registro beni ammortizzabili cespiti una delle seguenti opzioni:  

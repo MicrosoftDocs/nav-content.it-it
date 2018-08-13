@@ -112,11 +112,11 @@ Per informazioni sulla spedizione degli articoli nelle configurazioni di warehou
 3. Scegliere **Azioni**, quindi **Spedizione** e infine **Righe spedizioni assistenza**.  
 4. Scegliere le righe contenenti il consumo non corretto, quindi scegliere l'azione **Annulla consumo**.  
   
- Nei campi relativi alla quantità delle righe selezionate verrà inserita una riga di spedizione di assistenza di contropartita con valori negativi.  
+   Nei campi relativi alla quantità delle righe selezionate verrà inserita una riga di spedizione di assistenza di contropartita con valori negativi.  
   
-> [!NOTE]  
+> [!NOTE]
 >  Non è possibile annullare un consumo di assistenza se:  
-
+> 
 >    * L'ordine di assistenza è stato chiuso.  
 >    * È stato registrato nell'area Commesse e i movimenti contabili delle commesse sono stati collegati ad esso.  
   

@@ -40,7 +40,7 @@ I processi batch Intrastat includono solo i movimenti articoli, non i movimenti 
   
 È possibile esportare i movimenti in un file da inviare successivamente alle autorità Intrastat. È inoltre possibile stampare un report manualmente, immettere le informazioni nei moduli delle autorità, quindi inviare le informazioni.
 
->  [!Note]
+> [!Note]
 > È consigliabile impostare un batch Registrazione Intrastat per ogni mese.  
   
 1. Scegliere l'icona ![Cerca pagina o report](media/ui-search/search_small.png "icona Cerca pagina o report"), immettere **Definizioni registrazioni Intrastat**, quindi scegliere il collegamento correlato.  

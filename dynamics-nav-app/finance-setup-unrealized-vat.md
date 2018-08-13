@@ -45,11 +45,11 @@ Per utilizzare conti per l'IVA a esigibilità differita, procedere nel modo segu
 6. Nel campo **Conto IVA ven. ad esig. diff.** scegliere il conto per l'IVA di vendita a esigibilità differita.
 
     > [!NOTE]  
->   L'importo dell'IVA verrà registrato su questo conto e vi rimarrà fino alla registrazione del pagamento effettuato dal cliente. L'importo viene quindi trasferito sul conto relativo all'IVA sulle vendite.
+   >   L'importo dell'IVA verrà registrato su questo conto e vi rimarrà fino alla registrazione del pagamento effettuato dal cliente. L'importo viene quindi trasferito sul conto relativo all'IVA sulle vendite.
 7. Nel campo **Conto IVA acq. ad esig. diff.** immettere il conto C/G per l'IVA di acquisto a esigibilità differita.
 
     > [!NOTE]  
->   L'importo dell'IVA verrà registrato su questo conto e vi rimarrà fino alla registrazione del pagamento effettuato dal cliente. L'importo viene quindi trasferito sul conto relativo all'IVA sulle vendite.
+   >   L'importo dell'IVA verrà registrato su questo conto e vi rimarrà fino alla registrazione del pagamento effettuato dal cliente. L'importo viene quindi trasferito sul conto relativo all'IVA sulle vendite.
 
 ## <a name="see-also"></a>Vedi anche
 [impostazione dell'IVA](finance-setup-vat.md)

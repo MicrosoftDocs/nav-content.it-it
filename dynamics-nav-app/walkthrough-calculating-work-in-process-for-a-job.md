@@ -24,13 +24,13 @@ Le commesse consentono di pianificare l'impiego delle risorse dell'azienda e di 
 ## <a name="about-this-walkthrough"></a>Informazioni sulla procedura dettagliata  
  In questa procedura dettagliata sono illustrati i task seguenti:  
 
--   Calcolo del WIP  
--   Selezione di un metodo di calcolo del WIP  
--   Esclusione dal WIP di parte di una commessa.  
--   Registrazione del WIP nella contabilità generale.  
--   Storno di una registrazione WIP  
+- Calcolo del WIP  
+- Selezione di un metodo di calcolo del WIP  
+- Esclusione dal WIP di parte di una commessa.  
+- Registrazione del WIP nella contabilità generale.  
+- Storno di una registrazione WIP  
 
- In ogni fase della procedura viene calcolato il valore del WIP e le transazioni della commessa sono trasferite alla contabilità generale. Le fasi di calcolo e registrazione sono state separate per consentire all'utente di rivedere i dati e apportarvi modifiche prima di procedere alla registrazione nella contabilità generale. Pertanto, dopo aver eseguito i processi batch di calcolo e prima di effettuare i processi batch di registrazione, è necessario controllare che tutti i dati siano corretti.  
+  In ogni fase della procedura viene calcolato il valore del WIP e le transazioni della commessa sono trasferite alla contabilità generale. Le fasi di calcolo e registrazione sono state separate per consentire all'utente di rivedere i dati e apportarvi modifiche prima di procedere alla registrazione nella contabilità generale. Pertanto, dopo aver eseguito i processi batch di calcolo e prima di effettuare i processi batch di registrazione, è necessario controllare che tutti i dati siano corretti.  
 
 ## <a name="roles"></a>Ruoli  
  Questa procedura dettagliata è svolta da un membro del team (Cinzia Di Marco).  
@@ -48,37 +48,40 @@ Le commesse consentono di pianificare l'impiego delle risorse dell'azienda e di 
 
  Nella seguente tabella vengono illustrate tre opzioni.  
 
-|Campo|Description|  
-|-------------------------------------|---------------------------------------|  
-|**<blank>**|Lasciare vuota se il task commessa fa parte di un gruppo di task.|  
-|**Totale**|Definisce l'intervallo o il gruppo di task incluso nel calcolo di WIP e corrispettivo. Qualsiasi task commessa all'interno del gruppo con **Tipo task commessa** impostato su **Registrazione** verrà incluso nel totale WIP, a meno che il relativo campo **WIP-Totale** sia impostato su **Escluso**.|  
-|**Escluso**|Si applica solo a un task con **Tipo task commessa** impostato su **Registrazione**. Il task non viene incluso in caso di calcolo di WIP e corrispettivo.|  
+
+|    Campo     |                                                                                                                           Description                                                                                                                            |
+|--------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **<blank>**  |                                                                                                    Lasciare vuota se il task commessa fa parte di un gruppo di task.                                                                                                    |
+|  **Totale**   | Definisce l'intervallo o il gruppo di task incluso nel calcolo di WIP e corrispettivo. Qualsiasi task commessa all'interno del gruppo con **Tipo task commessa** impostato su **Registrazione** verrà incluso nel totale WIP, a meno che il relativo campo **WIP-Totale** sia impostato su **Escluso**. |
+| **Escluso** |                                                                 Si applica solo a un task con **Tipo task commessa** impostato su **Registrazione**. Il task non viene incluso in caso di calcolo di WIP e corrispettivo.                                                                  |
 
  Nella seguente procedura dettagliata, Cinzia applica il metodo Valore costo, lo standard della società, per calcolare il WIP. Specifica quale parte della commessa sarà inclusa nel calcolo WIP assegnando dei valori WIP-Totale a varie righe task commessa.  
 
 ### <a name="to-calculate-wip"></a>Per calcolare il WIP  
 
-1.  Scegliere l'icona ![Cerca pagina o report](media/ui-search/search_small.png "Cerca pagina o report"), immettere **Commesse**, quindi scegliere il collegamento correlato.  
-2.  Nell'elenco **Commesse** selezionare la commessa **Chernelli**, quindi scegliere l'azione **Modifica**. Verrà visualizzata la scheda commessa in modalità di modifica.  
+1. Scegliere l'icona ![Cerca pagina o report](media/ui-search/search_small.png "Cerca pagina o report"), immettere **Commesse**, quindi scegliere il collegamento correlato.  
+2. Nell'elenco **Commesse** selezionare la commessa **Chernelli**, quindi scegliere l'azione **Modifica**. Verrà visualizzata la scheda commessa in modalità di modifica.  
 
-     Il WIP può essere calcolato sulla base di valore del costo, valore delle vendite, costo del venduto, percentuale di completamento o contratto completato. Nell'esempio, CRONUS utilizza il metodo Valore costo.  
+    Il WIP può essere calcolato sulla base di valore del costo, valore delle vendite, costo del venduto, percentuale di completamento o contratto completato. Nell'esempio, CRONUS utilizza il metodo Valore costo.  
 
-3.  Selezionare il campo **Metodo WIP** della Scheda dettaglio **Registrazione**, quindi **Valore costo**.  
-4.  Scegliere l'azione **Righe task commessa** e impostare i valori elencati di seguito nel campo **WIP-Totale**.  
+3. Selezionare il campo **Metodo WIP** della Scheda dettaglio **Registrazione**, quindi **Valore costo**.  
+4. Scegliere l'azione **Righe task commessa** e impostare i valori elencati di seguito nel campo **WIP-Totale**.  
 
-     Nella seguente tabella vengono illustrati i valori.  
+    Nella seguente tabella vengono illustrati i valori.  
 
-    |Nr. task commessa|Campo WIP-Totale|  
-    |------------------|----------------------|  
-    |1130|Escluso|  
-    |1190|Totale|  
-    |1210|Escluso|  
-    |1310|Escluso|  
 
-5.  Scegliere l'azione **WIP**, quindi scegliere l'azione **Calcola WIP**.  
-6.  Nella finestra **Commessa - Calcola WIP** è possibile selezionare la commessa per la quale calcolare il WIP. Nella Scheda dettaglio **Commessa** selezionare **Chernelli** nel campo **Nr.** .  
-7.  Nel campo **Data di registrazione** immettere una data successiva alla data di lavoro.
-8.  Nel campo **Nr. documento** , immettere **1**. Viene quindi creato un documento a cui è possibile fare riferimento in seguito per la tracciabilità.  
+   | Nr. task commessa | Campo WIP-Totale |
+   |--------------|-----------------|
+   |     1130     |    Escluso     |
+   |     1190     |      Totale      |
+   |     1210     |    Escluso     |
+   |     1310     |    Escluso     |
+
+
+5. Scegliere l'azione **WIP**, quindi scegliere l'azione **Calcola WIP**.  
+6. Nella finestra **Commessa - Calcola WIP** è possibile selezionare la commessa per la quale calcolare il WIP. Nella Scheda dettaglio **Commessa** selezionare **Chernelli** nel campo **Nr.** .  
+7. Nel campo **Data di registrazione** immettere una data successiva alla data di lavoro.
+8. Nel campo **Nr. documento** , immettere **1**. Viene quindi creato un documento a cui è possibile fare riferimento in seguito per la tracciabilità.  
 9. Scegliere **OK** per eseguire il processo batch. Viene visualizzato un messaggio. Fare clic sul pulsante **OK** per continuare. Chiudere la finestra **Righe task commessa**.  
 
     > [!NOTE]  
@@ -86,15 +89,15 @@ Le commesse consentono di pianificare l'impiego delle risorse dell'azienda e di 
 
 10. Nella scheda **Commessa**, espandere la Scheda dettaglio **WIP e corrispettivo** per vedere i valori calcolati. È inoltre possibile visualizzare la **Data di registrazione WIP** e i valori che sono stati registrati nella contabilità generale, se disponibile.  
 
- Si noti che il valore **Importo costi ricon.** è 215,60 nella colonna **Da registrare**. Ciò riflette i costi totali di due degli articoli nel gruppo di task 1110 a 1130 della commessa. Il terzo articolo è stato impostato su **Escluso** e quindi non è incluso nel calcolo del WIP.  
+    Si noti che il valore **Importo costi ricon.** è 215,60 nella colonna **Da registrare**. Ciò riflette i costi totali di due degli articoli nel gruppo di task 1110 a 1130 della commessa. Il terzo articolo è stato impostato su **Escluso** e quindi non è incluso nel calcolo del WIP.  
 
 ### <a name="to-review-wip-warnings"></a>Per esaminare gli avvisi WIP  
 
-1.  Scegliere l'icona ![Cerca pagina o report](media/ui-search/search_small.png "icona Cerca pagina o report"), immettere **Pannello di controllo WIP commessa**, quindi scegliere il collegamento correlato.  
-2.  Selezionare la commessa **Chernelli**, quindi scegliere l'azione **Mostra avvisi**.  
-3.  Nella finestra **Avvisi WIP commessa** analizzare l'avviso associato alla commessa.  
+1. Scegliere l'icona ![Cerca pagina o report](media/ui-search/search_small.png "icona Cerca pagina o report"), immettere **Pannello di controllo WIP commessa**, quindi scegliere il collegamento correlato.  
+2. Selezionare la commessa **Chernelli**, quindi scegliere l'azione **Mostra avvisi**.  
+3. Nella finestra **Avvisi WIP commessa** analizzare l'avviso associato alla commessa.  
 
- Dopo il periodo contabile, Cinzia deve ricalcolare il WIP per includervi il lavoro completato finora.  
+   Dopo il periodo contabile, Cinzia deve ricalcolare il WIP per includervi il lavoro completato finora.  
 
 ### <a name="to-recalculate-wip"></a>Per ricalcolare il WIP  
 

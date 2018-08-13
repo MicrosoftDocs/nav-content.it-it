@@ -100,15 +100,15 @@ Per abilitare l'importazione/esportazione di dati in file XML attraverso il fram
 
 ### <a name="to-generate-a-data-exchange-definition-that-is-based-on-an-xml-schema"></a>Per generare una definizione di scambio di dati basata su uno schema XML  
 
-1.  Nella casella **Cerca** immettere **Schemi XML**, quindi selezionare il collegamento correlato.  
+1. Nella casella **Cerca** immettere **Schemi XML**, quindi selezionare il collegamento correlato.  
 
-2.  Selezionare lo schema XML pertinente, quindi, nella scheda **Pagina iniziale**, nel gruppo **Processo**, scegliere **Apri visualizzatore schema XML**.  
+2. Selezionare lo schema XML pertinente, quindi, nella scheda **Pagina iniziale**, nel gruppo **Processo**, scegliere **Apri visualizzatore schema XML**.  
 
-3.  Assicurarsi che i nodi pertinenti siano selezionati. Per ulteriori informazioni, vedere la sezione "Per selezionare o rimuovere i nodi in uno schema XML".  
+3. Assicurarsi che i nodi pertinenti siano selezionati. Per ulteriori informazioni, vedere la sezione "Per selezionare o rimuovere i nodi in uno schema XML".  
 
-4.  Nella finestra **Visualizzatore schema XML**, nella scheda **Pagina iniziale**, nel gruppo **Processo** scegliere **Genera definizione scambio dati**.  
+4. Nella finestra **Visualizzatore schema XML**, nella scheda **Pagina iniziale**, nel gruppo **Processo** scegliere **Genera definizione scambio dati**.  
 
- Verrà creata una definizione di scambio dati nella finestra **Registrazione definizioni di scambio** che si potrà completare specificando gli elementi del file da mappare con i campi in [!INCLUDE[d365fin](includes/d365fin_md.md)]. Per ulteriori informazioni, vedere [Procedura: Impostare le definizioni di scambio di dati](across-how-to-set-up-data-exchange-definitions.md).  
+   Verrà creata una definizione di scambio dati nella finestra **Registrazione definizioni di scambio** che si potrà completare specificando gli elementi del file da mappare con i campi in [!INCLUDE[d365fin](includes/d365fin_md.md)]. Per ulteriori informazioni, vedere [Procedura: Impostare le definizioni di scambio di dati](across-how-to-set-up-data-exchange-definitions.md).  
 
 > [!NOTE]  
 >  È inoltre possibile utilizzare la funzione **Ottieni struttura file** della finestra **Registrazione definizioni di scambio** che utilizza la funzionalità della finestra **Visualizzatore schema XML** per precompilare la Scheda dettaglio **Definizioni colonne**.  

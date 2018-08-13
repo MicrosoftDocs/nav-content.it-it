@@ -31,8 +31,8 @@ Per creare direttamente una fattura, è possibile utilizzare la finestra **Contr
 5. Nel campo **Azione** scegliere **Crea fatture**.  
 6. Scegliere **OK** per creare le fatture di assistenza.  
   
-  > [!NOTE]  
-  >  Non è possibile creare fatture di assistenza per il contratto di assistenza quando il valore del campo **Modifica stato** è impostato su **Aperto**.  
+   > [!NOTE]  
+   >  Non è possibile creare fatture di assistenza per il contratto di assistenza quando il valore del campo **Modifica stato** è impostato su **Aperto**.  
   
 ## <a name="to-post-an-invoice-from-a-service-order"></a>Per registrare una fattura da un ordine di assistenza  
 La procedura seguente indica le modalità di definizione della parte dei servizi di assistenza da addebitare al cliente.  
@@ -49,9 +49,9 @@ La procedura seguente indica le modalità di definizione della parte dei servizi
   
 5. Scegliere **Registra**, quindi **Fattura** o **Spedisci e fattura**. Per ulteriori informazioni su queste opzioni, vedere [Registrazione in Gestione assistenza](service-service-posting.md).  
   
- La riga di assistenza selezionata viene registrata. Per registrare diverse righe di assistenza contemporaneamente selezionarle tutte e scegliere **Registra**. Se si esegue questa operazione, verificare di avere immesso tutte le informazioni necessarie nelle righe da registrare.  
+   La riga di assistenza selezionata viene registrata. Per registrare diverse righe di assistenza contemporaneamente selezionarle tutte e scegliere **Registra**. Se si esegue questa operazione, verificare di avere immesso tutte le informazioni necessarie nelle righe da registrare.  
   
- Se si registra l'ordine mediante l'opzione **Fattura**, verrà creata una fattura di assistenza registrata con i movimenti contabili corrispondenti e verranno aggiornati i campi relativi nelle righe di assistenza dell'ordine. Verranno inoltre aggiornati i documenti di spedizione registrati in precedenza con le quantità fatturate. Se si seleziona l'opzione di registrazione **Spedisci e fattura**, verrà creata una spedizione registrata.
+   Se si registra l'ordine mediante l'opzione **Fattura**, verrà creata una fattura di assistenza registrata con i movimenti contabili corrispondenti e verranno aggiornati i campi relativi nelle righe di assistenza dell'ordine. Verranno inoltre aggiornati i documenti di spedizione registrati in precedenza con le quantità fatturate. Se si seleziona l'opzione di registrazione **Spedisci e fattura**, verrà creata una spedizione registrata.
 
 ## <a name="to-create-a-service-invoice-manually"></a>Per creare una fattura di assistenza manualmente  
 In genere, dopo la registrazione di un ordine di assistenza mediante l'opzione **Fattura** o **Spedisci e fattura**, verrà registrata automaticamente una fattura di assistenza. Può essere tuttavia necessario emettere una fattura che non sia collegata a un contratto di assistenza oppure a un ordine di assistenza. Di seguito vengono descritte le modalità di emissione di una fattura nel momento in cui il cliente riceve l'assistenza.  
@@ -79,7 +79,7 @@ Può essere necessario creare una fattura relativa a un'assistenza che è già s
 3. Creare righe di fattura per servizi di assistenza spediti, ma non fatturati. In alternativa, è possibile utilizzare l'azione **Prendi righe di spedizione** per aggiungere righe di spedizione registrate alla fattura.  
 4. Registrare la fattura di assistenza.  
   
- Verranno creati la fattura di assistenza registrata e i movimenti contabili corrispondenti. Verranno aggiornati i documenti di spedizione registrati in precedenza, nonché le quantità fatturate e quelle relative alle righe di assistenza degli ordini di origine.  
+   Verranno creati la fattura di assistenza registrata e i movimenti contabili corrispondenti. Verranno aggiornati i documenti di spedizione registrati in precedenza, nonché le quantità fatturate e quelle relative alle righe di assistenza degli ordini di origine.  
 
 ## <a name="to-create-a-combined-invoice"></a>Per creare una fattura cumulativa  
 È possibile fatturare l'assistenza fornita mediante ordini di assistenza diversi. Verranno create righe di fattura per articoli, ore o costi relativi alle risorse già spediti da ordini di assistenza diversi, ma non ancora fatturati.  

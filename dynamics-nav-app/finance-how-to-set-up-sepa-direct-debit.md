@@ -59,20 +59,22 @@ Prima di poter elaborare elettronicamente i pagamenti del cliente esportando le 
 4. Nella finestra **Lista C/C bancari clienti** selezionare il conto bancario cliente che utilizzerà gli addebiti diretti, quindi nel gruppo **Processo** della scheda **Pagina iniziale** scegliere **Mandati di addebito diretto**.  
 5. Nella finestra **Mandati per addebito diretto SEPA** compilare i campi come indicato nella tabella riportata di seguito.  
 
-    |Campo|Description|  
-    |---------------------------------|---------------------------------------|  
-    |**Codice C/C bancario clienti**|Specifica il conto bancario da cui vengono riscossi i pagamenti in addebito diretto. Questo campo viene compilato automaticamente.|  
-    |**Data di inizio validità**|Specificare la data in cui ha inizio il mandato di addebito diretto.|  
-    |**Data di fine validità**|Specificare la data in cui termina il mandato di addebito diretto.|  
-    |**Data di firma**|Specificare la data in cui il cliente ha firmato il mandato di addebito diretto.|  
-    |**Tipo di pagamento**|Specificare se l'accordo riguarda una (**Singola**) o più (**Ricorrente**) riscossioni di addebiti diretti.|  
-    |**Numero previsto di debiti**|Specificare il numero di riscossioni di addebiti diretti che si prevede di eseguire. Questo campo è pertinente solo se nel campo **Tipo di pagamento** è stato selezionato **Ricorrente**.|  
-    |**Contatore debiti**|Specifica quante riscossioni di addebiti diretti sono state effettuate mediante il mandato di addebito diretto. Questo campo viene aggiornato automaticamente.|  
-    |**Bloccato**|Specificare che le riscossioni di addebiti diretti non possono essere eseguite mediante questo mandato di addebito diretto.|  
 
-6.  Ripetere i passaggi da 1 a 5 per tutti i clienti che si desidera impostare per l'addebito diretto SEPA.  
+   |             Campo              |                                                                       Description                                                                       |
+   |--------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|
+   | **Codice C/C bancario clienti** |                     Specifica il conto bancario da cui vengono riscossi i pagamenti in addebito diretto. Questo campo viene compilato automaticamente.                     |
+   |         **Data di inizio validità**         |                                                 Specificare la data in cui ha inizio il mandato di addebito diretto.                                                 |
+   |          **Data di fine validità**          |                                                  Specificare la data in cui termina il mandato di addebito diretto.                                                  |
+   |     **Data di firma**      |                                          Specificare la data in cui il cliente ha firmato il mandato di addebito diretto.                                           |
+   |       **Tipo di pagamento**        |                       Specificare se l'accordo riguarda una (**Singola**) o più (**Ricorrente**) riscossioni di addebiti diretti.                       |
+   | **Numero previsto di debiti**  | Specificare il numero di riscossioni di addebiti diretti che si prevede di eseguire. Questo campo è pertinente solo se nel campo **Tipo di pagamento** è stato selezionato **Ricorrente**. |
+   |       **Contatore debiti**        |            Specifica quante riscossioni di addebiti diretti sono state effettuate mediante il mandato di addebito diretto. Questo campo viene aggiornato automaticamente.            |
+   |          **Bloccato**           |                                 Specificare che le riscossioni di addebiti diretti non possono essere eseguite mediante questo mandato di addebito diretto.                                  |
 
- Il mandato di addebito diretto viene inserito automaticamente nel campo **ID mandato per addebito diretto** quando si crea una fattura di vendita per il cliente selezionato nel passaggio 2. Per altre informazioni, vedere [Procedura: Creare righe di vendite e acquisti ricorrenti](sales-how-work-standard-lines.md).  
+
+6. Ripetere i passaggi da 1 a 5 per tutti i clienti che si desidera impostare per l'addebito diretto SEPA.  
+
+   Il mandato di addebito diretto viene inserito automaticamente nel campo **ID mandato per addebito diretto** quando si crea una fattura di vendita per il cliente selezionato nel passaggio 2. Per altre informazioni, vedere [Procedura: Creare righe di vendite e acquisti ricorrenti](sales-how-work-standard-lines.md).  
 
 ## <a name="see-also"></a>Vedi anche  
 [Riscuotere pagamenti con addebito diretto SEPA](finance-collect-payments-with-sepa-direct-debit.md)  

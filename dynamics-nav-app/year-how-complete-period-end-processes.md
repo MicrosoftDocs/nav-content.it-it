@@ -9,7 +9,7 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: year closing, close accounting period, close fiscal year, aging, creditor payments, vendor payments
-ms.date: 06/19/2017
+ms.date: 08/10/2018
 ms.author: jswymer
 ms.translationtype: HT
 ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
@@ -45,14 +45,14 @@ In [!INCLUDE[d365fin](includes/d365fin_md.md)] non è obbligatorio chiudere i pe
 * Eseguire il report **Scadenziario fornitori** e riconciliare i debiti v/fornitori nella contabilità generale.  
 * Eseguire il processo batch **Elimina ordini acquisto fatturati**.  
 
-Cespiti
+## <a name="fixed-assets"></a>Cespiti
 * Registrare tutti i costi di manutenzione che sono stati registrati tramite le registrazioni cespiti o le fatture.
 * Registrare le rettifiche.
 * Registrare la rivalutazione.
 * Registrare l'ammortamento.
 * Aggiornare e registrare le registrazioni periodiche cespiti.
 
-Intercompany
+## <a name="intercompany"></a>Intercompany
 * Elaborare transazioni Intercompany
 
 ## <a name="calculate-and-process-sales-tax"></a>Calcolare ed elaborare l'imposta di vendita.

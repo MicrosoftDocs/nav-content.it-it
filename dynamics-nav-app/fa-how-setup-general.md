@@ -34,7 +34,7 @@ Le categorie di registrazione vengono utilizzate per definire categorie di cespi
 3. Nella finestra **Scheda Cat. Reg. Cespite** compilare i campi in base alle esigenze.
 
     > [!NOTE]  
->   Per assicurarsi che le contropartite per le diverse registrazioni cespiti vengono inserite automaticamente quando si sceglie l'azione **Inserisci conto cespiti** nelle righe di registrazione, seguire il passo successivo, sulla base della registrazione della rivalutazione.
+   >   Per assicurarsi che le contropartite per le diverse registrazioni cespiti vengono inserite automaticamente quando si sceglie l'azione **Inserisci conto cespiti** nelle righe di registrazione, seguire il passo successivo, sulla base della registrazione della rivalutazione.
 4. Nella Scheda dettaglio **Contropartita**, selezionare nel campo **Contropartita rivalutazione** il conto di contabilità generale per cui si desidera inserire i movimenti di contropartita per la rivalutazione.
 
 Per ulteriori informazioni sull'utilizzo dell'azione **Inserisci conto cespiti** nelle righe registrazioni cespiti in C/G richieste, vedere ad esempio [Procedura: Rivalutazione dei cespiti](fa-how-revalue.md).

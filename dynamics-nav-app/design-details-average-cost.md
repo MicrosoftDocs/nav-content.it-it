@@ -43,12 +43,12 @@ Il costo medio di un articolo viene calcolato con una media ponderata periodica,
 
  Il costo medio di una transazione viene calcolato quando il costo dell'articolo viene rettificato. Per ulteriori informazioni, vedere [Dettagli di progettazione: Rettifica costo](design-details-cost-adjustment.md). La rettifica dei costi utilizza i movimenti nella tabella **Rettifica costo medio cod. spedizioni Intrastat** per identificare gli articoli o gli articoli, le ubicazioni e le varianti per cui calcolare il costo medio. Per ogni movimento il cui costo non è ancora stato rettificato, la rettifica costo utilizza quanto segue per determinare il costo medio:  
 
--   Determinazione del costo dell'articolo all'inizio del costo medio del periodo.  
--   Aggiunge la somma dei costi in entrata registrati nel costo medio del periodo. Sono inclusi gli acquisti, i resi di vendita, le rettifiche positive e gli output di produzione e di assemblaggio.  
--   Sottrazione della somma dei costi delle transazioni in uscita collegate in modo fisso ai carichi nel costo medio del periodo. In genere sono inclusi resi di acquisto e output negativi.  
--   Si divide per la quantità di magazzino totale per la fine del costo medio del periodo, escluse le riduzioni di magazzino che vengono stimate.  
+- Determinazione del costo dell'articolo all'inizio del costo medio del periodo.  
+- Aggiunge la somma dei costi in entrata registrati nel costo medio del periodo. Sono inclusi gli acquisti, i resi di vendita, le rettifiche positive e gli output di produzione e di assemblaggio.  
+- Sottrazione della somma dei costi delle transazioni in uscita collegate in modo fisso ai carichi nel costo medio del periodo. In genere sono inclusi resi di acquisto e output negativi.  
+- Si divide per la quantità di magazzino totale per la fine del costo medio del periodo, escluse le riduzioni di magazzino che vengono stimate.  
 
- Il costo medio calcolato viene quindi collegato alle riduzioni di magazzino per l'articolo (o articolo, ubicazione e variante) con le date di registrazione nel costo medio del periodo. Se vi sono aumenti di magazzino collegati in modo fisso alle riduzioni di magazzino nel costo medio del periodo, il costo medio calcolato viene trasferito dall'aumento a alla riduzione.  
+  Il costo medio calcolato viene quindi collegato alle riduzioni di magazzino per l'articolo (o articolo, ubicazione e variante) con le date di registrazione nel costo medio del periodo. Se vi sono aumenti di magazzino collegati in modo fisso alle riduzioni di magazzino nel costo medio del periodo, il costo medio calcolato viene trasferito dall'aumento a alla riduzione.  
 
 ### <a name="example-average-cost-period--day"></a>Esempio: Costo medio del periodo = Giorno  
  Nel seguente esempio viene illustrato l'effetto del calcolo del costo medio basato su un periodo di un giorno. Il campo **Tipo calcolo costo medio** della finestra **Setup magazzino** è impostato su **Articolo**.  

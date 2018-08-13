@@ -278,18 +278,18 @@ Sarà quindi necessario creare diverse transazioni di acquisto, produzione e ven
 
 ### <a name="to-find-all-occurrences-of-lot1-in-non-posted-records-such-as-open-orders"></a>Per trovare tutte le occorrenze del LOTTO1 nei record non registrati, ad esempio ordini aperti  
 
-1.  Nella finestra **Tracciabilità articolo** selezionare la prima riga di tracciabilità, la ricezione acquisti del LOTTO1.  
-2.  Scegliere l'azione **Naviga**.  
+1. Nella finestra **Tracciabilità articolo** selezionare la prima riga di tracciabilità, la ricezione acquisti del LOTTO1.  
+2. Scegliere l'azione **Naviga**.  
 
-    La finestra **Naviga** viene preimpostata con filtri di ricerca in base al risultato di analisi per il LOTTO1. Il manager qualità riconosce la maggior parte dei record che riguarda documenti già identificati nella finestra **Tracciabilità articolo**. Ad esempio, l'ultima riga Naviga di tipo Ordine di produzione fa riferimento ai due ordini di produzione rilasciati che hanno utilizzato i telai del LOTTO1.  
+   La finestra **Naviga** viene preimpostata con filtri di ricerca in base al risultato di analisi per il LOTTO1. Il manager qualità riconosce la maggior parte dei record che riguarda documenti già identificati nella finestra **Tracciabilità articolo**. Ad esempio, l'ultima riga Naviga di tipo Ordine di produzione fa riferimento ai due ordini di produzione rilasciati che hanno utilizzato i telai del LOTTO1.  
 
-    Tuttavia, la seconda riga Naviga di tipo **Righe vendite** è una riga documento non registrata, pertanto il manager qualità procede con l'analisi.  
+   Tuttavia, la seconda riga Naviga di tipo **Righe vendite** è una riga documento non registrata, pertanto il manager qualità procede con l'analisi.  
 
-3.  Per aprire il record Righe vendite, selezionare la seconda riga Naviga e scegliere l'azione **Mostra**. In alternativa, selezionare il valore nel campo **Nr. di record**.  
+3. Per aprire il record Righe vendite, selezionare la seconda riga Naviga e scegliere l'azione **Mostra**. In alternativa, selezionare il valore nel campo **Nr. di record**.  
 
-    Il manager qualità nota una riga vendite aperta per i telai da corsa difettosi. Suggerisce immediatamente al reparto vendite che questo ordine deve essere annullato e che è necessario avviare un nuovo ordine di produzione basato su telai non difettosi.  
+   Il manager qualità nota una riga vendite aperta per i telai da corsa difettosi. Suggerisce immediatamente al reparto vendite che questo ordine deve essere annullato e che è necessario avviare un nuovo ordine di produzione basato su telai non difettosi.  
 
- La procedura dettagliata relativa all'utilizzo della finestra **Naviga** per la gestione dei difetti in combinazione con la finestra **Tracciabilità articolo** è stata completata.  
+   La procedura dettagliata relativa all'utilizzo della finestra **Naviga** per la gestione dei difetti in combinazione con la finestra **Tracciabilità articolo** è stata completata.  
 
 ## <a name="see-also"></a>Vedi anche
 [Procedura: Utilizzo dei numeri di serie e di lotto](inventory-how-work-item-tracking.md)  

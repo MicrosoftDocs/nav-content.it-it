@@ -100,7 +100,7 @@ Nelle sezioni successive viene descritto come assegnare le categorie di registra
 
 * Nella scheda **Articolo** espandere la Scheda dettaglio **Prezzo e registrazione** quindi scegliere **Mostra di più** per visualizzare il campo **Cat. reg. art./serv. IVA**.  
 * Nella scheda **Risorsa** espandere la Scheda dettaglio **Fatturazione**.  
-3. Scegliere la categoria di registrazione articoli/servizi IVA.  
+* Scegliere la categoria di registrazione articoli/servizi IVA.  
 
 ## <a name="to-set-up-clauses-to-explain-the-use-of-non-standard-vat-rates"></a>Per impostare le categorie con cui descrivere l'utilizzo di aliquote IVA non standard
 È possibile impostare una categoria IVA per descrivere informazioni sul tipo di IVA che viene applicata. Le informazioni possono essere obbligatorie per la normativa statale. Dopo aver impostato una categoria IVA e averla associata a un setup registrazioni IVA, la categoria IVA viene visualizzata su tutti i documenti di vendita stampati con tale categoria di setup registrazioni IVA. 
@@ -222,8 +222,8 @@ Prima di impostare lo strumento di modifica dell'aliquota IVA, è necessario eff
 2. Verificare che sia già stata impostata la conversione della categoria di registrazione articoli/servizi IVA o quella relativa agli articoli/servizi.  
 3. Selezionare la casella di controllo **Esegui conversione**.  
   
-> [!IMPORTANT]  
-    >  Deselezionare la casella controllo **Strumento di modifica aliquota IVA completato**. La casella di controllo viene selezionata automaticamente al termine della conversione della modifica dell'aliquota IVA.  
+> [!IMPORTANT]
+>  Deselezionare la casella controllo **Strumento di modifica aliquota IVA completato**. La casella di controllo viene selezionata automaticamente al termine della conversione della modifica dell'aliquota IVA.  
   
 4. Scegliere l'azione **Converti**.  
 5. Al termine della conversione, nel gruppo **Processo** della scheda **Pagina iniziale** selezionare **Voci log modifiche aliquota IVA** per visualizzare i risultati della conversione.  

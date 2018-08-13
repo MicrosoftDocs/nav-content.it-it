@@ -1,4 +1,3 @@
-
 ---
 title: Includi file
 ms.custom: na
