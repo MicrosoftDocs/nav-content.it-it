@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
-ms.openlocfilehash: 5ad936ce7af986ca9a9fdb7d401bb742235ee091
+ms.sourcegitcommit: 2f7b7db12069fd9f93a616077ea2b61393c1e9a3
+ms.openlocfilehash: cbca2b55ed69e6b568ac2ac267f0b4dabbb3e35e
 ms.contentlocale: it-it
-ms.lasthandoff: 12/01/2017
+ms.lasthandoff: 08/13/2018
 
 ---
 # <a name="how-to-work-on-service-tasks"></a><span data-ttu-id="ecce9-103">Procedura: Utilizzare i compiti di assistenza</span><span class="sxs-lookup"><span data-stu-id="ecce9-103">How to: Work on Service Tasks</span></span>
@@ -58,7 +58,7 @@ ms.lasthandoff: 12/01/2017
 5. <span data-ttu-id="ecce9-136">Nel campo **Nr.**</span><span class="sxs-lookup"><span data-stu-id="ecce9-136">In the **No.**</span></span> <span data-ttu-id="ecce9-137">selezionare il pezzo di ricambio appropriato.</span><span class="sxs-lookup"><span data-stu-id="ecce9-137">field, choose the relevant spare part.</span></span>  
 6. <span data-ttu-id="ecce9-138">Nel campo **Quantità** immettere la quantità di articoli da utilizzare.</span><span class="sxs-lookup"><span data-stu-id="ecce9-138">In the **Quantity** field, enter the quantity of items you want to use.</span></span>  
   
- <span data-ttu-id="ecce9-139">È possibile utilizzare una procedura simile per registrare i pezzi di ricambio nella pagina **Righe assistenza**, che è possibile aprire dalla pagina **Ordine assistenza**.</span><span class="sxs-lookup"><span data-stu-id="ecce9-139">You can use a similar procedure to register the spare parts on the **Service Lines** page, which you can open from the **Service Order** page.</span></span>  
+   <span data-ttu-id="ecce9-139">È possibile utilizzare una procedura simile per registrare i pezzi di ricambio nella pagina **Righe assistenza**, che è possibile aprire dalla pagina **Ordine assistenza**.</span><span class="sxs-lookup"><span data-stu-id="ecce9-139">You can use a similar procedure to register the spare parts on the **Service Lines** page, which you can open from the **Service Order** page.</span></span>  
   
 ## <a name="to-register-spare-parts-from-a-service-order"></a><span data-ttu-id="ecce9-140">Per registrare i pezzi di ricambio da un ordine di assistenza</span><span class="sxs-lookup"><span data-stu-id="ecce9-140">To register spare parts from a service order</span></span>  
 1. <span data-ttu-id="ecce9-141">Scegliere l'icona ![Cerca pagina o report](media/ui-search/search_small.png "icona Cerca pagina o report"), immettere **Ordini assistenza**, quindi scegliere il collegamento correlato.</span><span class="sxs-lookup"><span data-stu-id="ecce9-141">Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Service Orders**, and then choose the related link.</span></span>  
@@ -99,8 +99,8 @@ ms.lasthandoff: 12/01/2017
 2. <span data-ttu-id="ecce9-180">Scegliere la riga che comprende l'articolo in assistenza appropriato, quindi scegliere l'azione **Prospetto interv. articolo**.</span><span class="sxs-lookup"><span data-stu-id="ecce9-180">Choose the line that includes the relevant service item, and then choose the **Item Worksheet** action.</span></span>  
 3. <span data-ttu-id="ecce9-181">Nella pagina **Prospetto articoli in assistenza** scegliere **Relazioni codici guasto/risoluzione**.</span><span class="sxs-lookup"><span data-stu-id="ecce9-181">On the **Service Item Worksheet** page, choose **Fault/Resol. Codes Relationships**.</span></span> <span data-ttu-id="ecce9-182">Viene aperta la finestra **Relazioni codici guasto/risoluzione**.</span><span class="sxs-lookup"><span data-stu-id="ecce9-182">The **Fault/Resolution Codes Relationships** window opens.</span></span>  
   
-  >  [!Note]
-  >  <span data-ttu-id="ecce9-183">I filtri vengono impostati nelle relazioni visualizzate nella finestra copiando il gruppo di articoli in assistenza e i codici guasto dalla finestra **Prospetto articoli in assistenza**.</span><span class="sxs-lookup"><span data-stu-id="ecce9-183">Filters are set on the relationships that are shown in the window by copying the service item group and the fault codes from the **Service Item Worksheet** window.</span></span>  
+   > [!Note]
+   >  <span data-ttu-id="ecce9-183">I filtri vengono impostati nelle relazioni visualizzate nella finestra copiando il gruppo di articoli in assistenza e i codici guasto dalla finestra **Prospetto articoli in assistenza**.</span><span class="sxs-lookup"><span data-stu-id="ecce9-183">Filters are set on the relationships that are shown in the window by copying the service item group and the fault codes from the **Service Item Worksheet** window.</span></span>  
   
 4. <span data-ttu-id="ecce9-184">Compilare la riga.</span><span class="sxs-lookup"><span data-stu-id="ecce9-184">Fill out the line.</span></span> <span data-ttu-id="ecce9-185">Scegliere la corretta combinazione di codici guasto e risoluzione, quindi scegliere **OK** per copiarla nell'articolo in assistenza.</span><span class="sxs-lookup"><span data-stu-id="ecce9-185">Choose the combination of fault and resolution codes, and then choose **OK** to copy it to the service item.</span></span> <span data-ttu-id="ecce9-186">Se non si riesce a trovare una combinazione corretta è possibile creare una nuova combinazione nella finestra.</span><span class="sxs-lookup"><span data-stu-id="ecce9-186">If an appropriate combination cannot be found, you can create a new combination in the window.</span></span>  
 

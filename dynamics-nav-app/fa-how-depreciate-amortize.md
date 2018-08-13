@@ -12,10 +12,10 @@ ms.search.keywords: write down
 ms.date: 06/02/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
-ms.openlocfilehash: 6bdb2a1029990d5b45bdcb1dd817fca2b136cf46
+ms.sourcegitcommit: 2f7b7db12069fd9f93a616077ea2b61393c1e9a3
+ms.openlocfilehash: a38ca853cff89761a9b8685d718309691ba1bbba
 ms.contentlocale: it-it
-ms.lasthandoff: 12/01/2017
+ms.lasthandoff: 08/13/2018
 
 ---
 # <a name="how-to-depreciate-or-amortize-fixed-assets"></a><span data-ttu-id="3c88a-103">Procedura: Ammortamento dei cespiti</span><span class="sxs-lookup"><span data-stu-id="3c88a-103">How to: Depreciate or Amortize Fixed Assets</span></span>
@@ -82,11 +82,11 @@ ms.lasthandoff: 12/01/2017
 5. <span data-ttu-id="3c88a-159">Scegliere l'icona ![Cerca pagina o report](media/ui-search/search_small.png "icona Cerca pagina o report"), immettere **Registrazioni cespiti**, quindi scegliere il collegamento correlato.</span><span class="sxs-lookup"><span data-stu-id="3c88a-159">Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **FA Journals**, and then choose the related link.</span></span>  
 
     > [!NOTE]  
->   <span data-ttu-id="3c88a-160">La finestra **Registrazioni cespiti** contiene le righe nuove per i diversi registri beni ammortizzabili a seconda della lista di duplicazione.</span><span class="sxs-lookup"><span data-stu-id="3c88a-160">The **Fixed Asset Journal** window contains new lines for different depreciation books according to the duplication list.</span></span>  
+   >   <span data-ttu-id="3c88a-160">La finestra **Registrazioni cespiti** contiene le righe nuove per i diversi registri beni ammortizzabili a seconda della lista di duplicazione.</span><span class="sxs-lookup"><span data-stu-id="3c88a-160">The **Fixed Asset Journal** window contains new lines for different depreciation books according to the duplication list.</span></span>  
 6. <span data-ttu-id="3c88a-161">Analizzare o modificare le righe e scegliere l'azione **Registra**.</span><span class="sxs-lookup"><span data-stu-id="3c88a-161">Review or edit the lines, and then choose the **Post** action.</span></span>  
 
     > [!NOTE]  
->   <span data-ttu-id="3c88a-162">Un altro modo per duplicare un movimento in un registro separato è l'inserimento di un codice registro beni ammortizzabili nel campo **Duplica nel reg. beni ammortiz.** durante la compilazione in una riga delle registrazioni.</span><span class="sxs-lookup"><span data-stu-id="3c88a-162">Another way to duplicate an entry in a separate book is to enter a depreciation book code in the **Duplicate in Depreciation Book** field when you fill in a journal line.</span></span>  
+   >   <span data-ttu-id="3c88a-162">Un altro modo per duplicare un movimento in un registro separato è l'inserimento di un codice registro beni ammortizzabili nel campo **Duplica nel reg. beni ammortiz.** durante la compilazione in una riga delle registrazioni.</span><span class="sxs-lookup"><span data-stu-id="3c88a-162">Another way to duplicate an entry in a separate book is to enter a depreciation book code in the **Duplicate in Depreciation Book** field when you fill in a journal line.</span></span>  
 
 <span data-ttu-id="3c88a-163">È possibile copiare movimenti da un registro dei beni ammortizzabili a un altro mediante il processo batch **Copia reg. beni ammortizz.**.</span><span class="sxs-lookup"><span data-stu-id="3c88a-163">You can copy entries from one depreciation book to another by using the **Copy Depreciation Book** batch job.</span></span> <span data-ttu-id="3c88a-164">Il processo batch crea le righe di registrazione nel batch delle registrazioni specificato nella finestra **Setup registrazioni cespiti** per il registro beni ammortizzabili in cui si desidera copiare.</span><span class="sxs-lookup"><span data-stu-id="3c88a-164">The batch job creates journal lines in the journal batch that you have specified in the **FA Journal Setup** window for the depreciation book that you want to copy to.</span></span> <span data-ttu-id="3c88a-165">Per ulteriori informazioni, vedere la seguente procedura.</span><span class="sxs-lookup"><span data-stu-id="3c88a-165">For more information, see the following procedure.</span></span>  
 

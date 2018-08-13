@@ -12,10 +12,10 @@ ms.search.keywords: categories, search words, facets
 ms.date: 06/02/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
-ms.openlocfilehash: 125f8c49dd759607836a38d7ef559b404ee7e59c
+ms.sourcegitcommit: 2f7b7db12069fd9f93a616077ea2b61393c1e9a3
+ms.openlocfilehash: 41a04b708b430e4ea2f4d935b2035133cb24f926
 ms.contentlocale: it-it
-ms.lasthandoff: 12/01/2017
+ms.lasthandoff: 08/13/2018
 
 ---
 # <a name="how-to-work-with-item-attributes"></a><span data-ttu-id="66900-103">Procedura: Utilizzare gli attributi degli articoli</span><span class="sxs-lookup"><span data-stu-id="66900-103">How to: Work with Item Attributes</span></span>
@@ -66,7 +66,7 @@ ms.lasthandoff: 12/01/2017
 4. <span data-ttu-id="66900-147">Nel campo **Valore** scegliere il pulsante di ricerca e selezionare un valore attributo in base a cui filtrare gli articoli.</span><span class="sxs-lookup"><span data-stu-id="66900-147">In the **Value** field, choose the lookup button and select an attribute value to filter items by.</span></span>
 
     > [!NOTE]  
->   <span data-ttu-id="66900-148">È possibile selezionare solo i valori direttamente per gli attributi dell'articolo che hanno valori fissi, ad esempio il colore.</span><span class="sxs-lookup"><span data-stu-id="66900-148">You can only select values directly for item attributes that have fixed values, such as Color.</span></span> <span data-ttu-id="66900-149">Per gli attributi dell'articolo che hanno valori variabili, quali la larghezza, è necessario specificare il valore dell'attributo dell'articolo selezionando prima una condizione.</span><span class="sxs-lookup"><span data-stu-id="66900-149">For item attributes that have variable values, such as Width, you must specify the item attribute value by first selecting a condition.</span></span> <span data-ttu-id="66900-150">Vedere il passaggio 5.</span><span class="sxs-lookup"><span data-stu-id="66900-150">See step 5.</span></span>
+   >   <span data-ttu-id="66900-148">È possibile selezionare solo i valori direttamente per gli attributi dell'articolo che hanno valori fissi, ad esempio il colore.</span><span class="sxs-lookup"><span data-stu-id="66900-148">You can only select values directly for item attributes that have fixed values, such as Color.</span></span> <span data-ttu-id="66900-149">Per gli attributi dell'articolo che hanno valori variabili, quali la larghezza, è necessario specificare il valore dell'attributo dell'articolo selezionando prima una condizione.</span><span class="sxs-lookup"><span data-stu-id="66900-149">For item attributes that have variable values, such as Width, you must specify the item attribute value by first selecting a condition.</span></span> <span data-ttu-id="66900-150">Vedere il passaggio 5.</span><span class="sxs-lookup"><span data-stu-id="66900-150">See step 5.</span></span>
 5. <span data-ttu-id="66900-151">Nel campo **Valore** per un attributo articolo variabile, fare clic sul pulsante di ricerca.</span><span class="sxs-lookup"><span data-stu-id="66900-151">In the **Value** field for a variable item attribute, choose the lookup button.</span></span>
 6. <span data-ttu-id="66900-152">Nella finestra **Specifica valore filtro** nel campo **Condizione**, fare clic sulla freccia rivolta verso il basso e selezionare una condizione.</span><span class="sxs-lookup"><span data-stu-id="66900-152">In the **Specify Filter Value** window, in the **Condition** field, choose the drop-down arrow and select a condition.</span></span>
 7. <span data-ttu-id="66900-153">Nel campo **Valore**, immettere un valore attributo in base a cui filtrare gli articoli.</span><span class="sxs-lookup"><span data-stu-id="66900-153">In the **Value** field, enter an attribute value to filter items by.</span></span>

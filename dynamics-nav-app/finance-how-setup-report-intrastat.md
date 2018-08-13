@@ -12,10 +12,10 @@ ms.search.keywords: electronic document, Intrastat, trade, EU, European Union
 ms.date: 08/15/2017
 ms.author: bholtorf
 ms.translationtype: HT
-ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
-ms.openlocfilehash: 96a840ed697df0bb74755af92ced351ebf26ea40
+ms.sourcegitcommit: 2f7b7db12069fd9f93a616077ea2b61393c1e9a3
+ms.openlocfilehash: 5e92495b3e35a064280ac2c1435daeaeb8f87c7e
 ms.contentlocale: it-it
-ms.lasthandoff: 12/01/2017
+ms.lasthandoff: 08/13/2018
 
 ---
 # <a name="how-to-set-up-and-report-intrastat"></a><span data-ttu-id="2b697-103">Procedura: Impostare e registrare report Intrastat</span><span class="sxs-lookup"><span data-stu-id="2b697-103">How To: Set Up and Report Intrastat</span></span>
@@ -40,7 +40,7 @@ ms.lasthandoff: 12/01/2017
   
 <span data-ttu-id="2b697-132">È possibile esportare i movimenti in un file da inviare successivamente alle autorità Intrastat.</span><span class="sxs-lookup"><span data-stu-id="2b697-132">You can export the entries to a file that you can send to your Intrastat authorities.</span></span> <span data-ttu-id="2b697-133">È inoltre possibile stampare un report manualmente, immettere le informazioni nei moduli delle autorità, quindi inviare le informazioni.</span><span class="sxs-lookup"><span data-stu-id="2b697-133">You can also print a report, manually enter the information on the forms from your authorities, and then submit the information.</span></span>
 
->  [!Note]
+> [!Note]
 > <span data-ttu-id="2b697-134">È consigliabile impostare un batch Registrazione Intrastat per ogni mese.</span><span class="sxs-lookup"><span data-stu-id="2b697-134">We recommended that you set up an Intrastat journal batch for each month.</span></span>  
   
 1. <span data-ttu-id="2b697-135">Scegliere l'icona ![Cerca pagina o report](media/ui-search/search_small.png "icona Cerca pagina o report"), immettere **Definizioni registrazioni Intrastat**, quindi scegliere il collegamento correlato.</span><span class="sxs-lookup"><span data-stu-id="2b697-135">Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Intrastat Journal Templates**, and then choose the related link.</span></span>  

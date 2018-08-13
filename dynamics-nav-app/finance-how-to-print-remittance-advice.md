@@ -12,17 +12,17 @@ ms.search.keywords:
 ms.date: 10/26/2017
 ms.author: bholtorf
 ms.translationtype: HT
-ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
-ms.openlocfilehash: 7c7004ac5ded9436861bf5034f59a9c2bcd99dd0
+ms.sourcegitcommit: 2f7b7db12069fd9f93a616077ea2b61393c1e9a3
+ms.openlocfilehash: cab9ab8e42ba9f4664f2afc6aadcc1ef8135cbe9
 ms.contentlocale: it-it
-ms.lasthandoff: 12/01/2017
+ms.lasthandoff: 08/13/2018
 
 ---
 
-#<a name="how-to-print-remittance-advice"></a><span data-ttu-id="82bd4-103">Procedura: Stampare l'avviso di rimessa</span><span class="sxs-lookup"><span data-stu-id="82bd4-103">How to: Print Remittance Advice</span></span>
+# <a name="how-to-print-remittance-advice"></a><span data-ttu-id="82bd4-103">Procedura: Stampare l'avviso di rimessa</span><span class="sxs-lookup"><span data-stu-id="82bd4-103">How to: Print Remittance Advice</span></span>
 <span data-ttu-id="82bd4-104">È possibile stampare l'avviso di rimessa prima di eseguire una registrazione pagamenti e dopo la registrazione di un pagamento.</span><span class="sxs-lookup"><span data-stu-id="82bd4-104">You can print remittance advice before posting a payment journal and after posting a payment.</span></span> <span data-ttu-id="82bd4-105">Questo avviso visualizza i numeri delle fatture fornitore e consente ai fornitori di eseguire le riconciliazioni.</span><span class="sxs-lookup"><span data-stu-id="82bd4-105">This advice displays vendor invoice numbers, which helps vendors to perform reconciliations.</span></span>
 
-##<a name="to-print-remittance-advice"></a><span data-ttu-id="82bd4-106">Per stampare l'avviso di rimessa</span><span class="sxs-lookup"><span data-stu-id="82bd4-106">To print remittance advice</span></span>
+## <a name="to-print-remittance-advice"></a><span data-ttu-id="82bd4-106">Per stampare l'avviso di rimessa</span><span class="sxs-lookup"><span data-stu-id="82bd4-106">To print remittance advice</span></span>
 1. <span data-ttu-id="82bd4-107">Scegliere l'icona ![Cerca pagina o report](media/ui-search/search_small.png "icona Cerca pagina o report"), immettere **Registrazioni pagamenti**, quindi scegliere il collegamento correlato.</span><span class="sxs-lookup"><span data-stu-id="82bd4-107">Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Payment Journals**, and then choose the related link.</span></span>  
 2. <span data-ttu-id="82bd4-108">Nella finestra **Registrazioni pagamenti**, selezionare il pagamento per il quale l'avviso di rimessa deve essere stampato.</span><span class="sxs-lookup"><span data-stu-id="82bd4-108">In the **Payment Journal** window, select the payment for which remittance advice must be printed.</span></span>  
 3. <span data-ttu-id="82bd4-109">Scegliere l'azione **Stampa avviso di rimessa**.</span><span class="sxs-lookup"><span data-stu-id="82bd4-109">Choose the **Print Remittance Advice** action.</span></span>  
@@ -48,5 +48,5 @@ ms.lasthandoff: 12/01/2017
 > [!Tip]
 > <span data-ttu-id="82bd4-129">Per ulteriori informazioni su come utilizzare i report, vedere, [Visualizzazione di report test prima della registrazione](ui-how-view-test-reports-posting.md), [Utilizzare i report](ui-work-report.md) e [Ricerca, filtro e ordinamento di dati](ui-enter-criteria-filters.md).</span><span class="sxs-lookup"><span data-stu-id="82bd4-129">For more information about how to work with reports, see [Viewing Test Reports before Posting](ui-how-view-test-reports-posting.md), [Work with Reports](ui-work-report.md), and [Searching, Filtering, and Sorting Data](ui-enter-criteria-filters.md).</span></span>
 
-##<a name="see-also"></a><span data-ttu-id="82bd4-130">Vedi anche</span><span class="sxs-lookup"><span data-stu-id="82bd4-130">See Also</span></span>  
+## <a name="see-also"></a><span data-ttu-id="82bd4-130">Vedi anche</span><span class="sxs-lookup"><span data-stu-id="82bd4-130">See Also</span></span>  
 [<span data-ttu-id="82bd4-131">Benvenuto in Dynamics NAV</span><span class="sxs-lookup"><span data-stu-id="82bd4-131">Welcome to Dynamics NAV</span></span>](across-get-started.md)

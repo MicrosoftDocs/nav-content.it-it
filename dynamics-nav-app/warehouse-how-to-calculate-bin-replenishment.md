@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 08/23/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
-ms.openlocfilehash: df1937cf6947d13186d6ced0b9076e9d38d37837
+ms.sourcegitcommit: 2f7b7db12069fd9f93a616077ea2b61393c1e9a3
+ms.openlocfilehash: 234c33c7ea9d0d5466d9377e46ddb4eb33f634d9
 ms.contentlocale: it-it
-ms.lasthandoff: 12/01/2017
+ms.lasthandoff: 08/13/2018
 
 ---
 # <a name="how-to-calculate-bin-replenishment"></a><span data-ttu-id="2870c-103">Procedura: Calcolare il rifornimento della collocazione</span><span class="sxs-lookup"><span data-stu-id="2870c-103">How to: Calculate Bin Replenishment</span></span>
@@ -37,14 +37,14 @@ ms.lasthandoff: 12/01/2017
 
 <span data-ttu-id="2870c-122">Al successivo calcolo per il rifornimento delle collocazioni, i suggerimenti precedentemente eliminati verranno ricreati, qualora risultino ancora validi.</span><span class="sxs-lookup"><span data-stu-id="2870c-122">The next time you calculate bin replenishment, the suggestions that you have deleted will be recreated, if they are still valid at that time.</span></span>  
 
-> [!NOTE]  
+> [!NOTE]
 >  <span data-ttu-id="2870c-123">Se per l'articolo vengono soddisfatte le seguenti condizioni:</span><span class="sxs-lookup"><span data-stu-id="2870c-123">If the following conditions are met for an item:</span></span>  
->   
->  -   <span data-ttu-id="2870c-124">L'articolo ha una data di scadenza</span><span class="sxs-lookup"><span data-stu-id="2870c-124">The item has an expiration date, and</span></span>  
-> -   <span data-ttu-id="2870c-125">Il campo **Prelievo in base a FEFO** della scheda ubicazione viene selezionato</span><span class="sxs-lookup"><span data-stu-id="2870c-125">The **Pick According to FEFO** field on the location card is selected, and</span></span>  
-> -   <span data-ttu-id="2870c-126">Viene utilizzata la funzionalità **Calcola rifornimento collocazione**</span><span class="sxs-lookup"><span data-stu-id="2870c-126">You use the **Calculate Bin Replenishment** functionality</span></span>  
->   
->  <span data-ttu-id="2870c-127">I campi **Dal codice zona** e **Dal codice collocazione** non saranno specificati, in quanto l'algoritmo per calcolare la posizione in cui spostare gli articoli viene attivato solo quando si utilizza la funzione **Crea movimento**.</span><span class="sxs-lookup"><span data-stu-id="2870c-127">then the **From Zone** and **From Bin** fields will be blank because the algorithm to calculate from where to move the items is triggered only when you activate the **Create Movement** function.</span></span>  
+> 
+> - <span data-ttu-id="2870c-124">L'articolo ha una data di scadenza</span><span class="sxs-lookup"><span data-stu-id="2870c-124">The item has an expiration date, and</span></span>  
+>   -   <span data-ttu-id="2870c-125">Il campo **Prelievo in base a FEFO** della scheda ubicazione viene selezionato</span><span class="sxs-lookup"><span data-stu-id="2870c-125">The **Pick According to FEFO** field on the location card is selected, and</span></span>  
+>   -   <span data-ttu-id="2870c-126">Viene utilizzata la funzionalità **Calcola rifornimento collocazione**</span><span class="sxs-lookup"><span data-stu-id="2870c-126">You use the **Calculate Bin Replenishment** functionality</span></span>  
+> 
+>   <span data-ttu-id="2870c-127">I campi **Dal codice zona** e **Dal codice collocazione** non saranno specificati, in quanto l'algoritmo per calcolare la posizione in cui spostare gli articoli viene attivato solo quando si utilizza la funzione **Crea movimento**.</span><span class="sxs-lookup"><span data-stu-id="2870c-127">then the **From Zone** and **From Bin** fields will be blank because the algorithm to calculate from where to move the items is triggered only when you activate the **Create Movement** function.</span></span>  
 
 ## <a name="see-also"></a><span data-ttu-id="2870c-128">Vedi anche</span><span class="sxs-lookup"><span data-stu-id="2870c-128">See Also</span></span>  
 [<span data-ttu-id="2870c-129">Gestione warehouse</span><span class="sxs-lookup"><span data-stu-id="2870c-129">Warehouse Management</span></span>](warehouse-manage-warehouse.md)  

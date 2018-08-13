@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
-ms.openlocfilehash: 8d49a15750a8a32a58b59b77446100176bac4428
+ms.sourcegitcommit: 2f7b7db12069fd9f93a616077ea2b61393c1e9a3
+ms.openlocfilehash: ecb5647a218bd35482f5c30b819a7d15d86a8f00
 ms.contentlocale: it-it
-ms.lasthandoff: 12/01/2017
+ms.lasthandoff: 08/13/2018
 
 ---
 # <a name="about-calculating-standard-cost"></a><span data-ttu-id="01f7e-104">Informazioni sul calcolo del costo standard</span><span class="sxs-lookup"><span data-stu-id="01f7e-104">About Calculating Standard Cost</span></span>
@@ -79,8 +79,8 @@ ms.lasthandoff: 12/01/2017
 
 <span data-ttu-id="01f7e-167">Impostare le tariffe per ognuno di questi tipi di tempo per ogni centro di lavoro o per ogni area di produzione in un singolo ciclo.</span><span class="sxs-lookup"><span data-stu-id="01f7e-167">You set up the rates for each time type for each machine or work center on an individual routing.</span></span>  
 
-> [!NOTE]  
-    >  <span data-ttu-id="01f7e-168">Mentre le tariffe per i tempi di lavorazione si applicano a ogni singolo articolo prodotto, quelle per il tempo di setup si applicano a ogni lotto.</span><span class="sxs-lookup"><span data-stu-id="01f7e-168">While run time rates apply for each item unit that is produced, the setup time rates apply for each lot.</span></span> <span data-ttu-id="01f7e-169">Il tempo di setup del ciclo per ogni operazione deve pertanto essere diviso in modo proporzionale alla dimensione del lotto.</span><span class="sxs-lookup"><span data-stu-id="01f7e-169">Therefore, you must prorate the routing setup time for each operation over the lot size.</span></span> <span data-ttu-id="01f7e-170">Specificare la dimensione del loro nel campo corrispondente della Scheda dettaglio **Ordinamento** nella scheda articolo.</span><span class="sxs-lookup"><span data-stu-id="01f7e-170">You specify the lot size in the corresponding field on the **Ordering** FastTab of the item card.</span></span>  
+> [!NOTE]
+>  <span data-ttu-id="01f7e-168">Mentre le tariffe per i tempi di lavorazione si applicano a ogni singolo articolo prodotto, quelle per il tempo di setup si applicano a ogni lotto.</span><span class="sxs-lookup"><span data-stu-id="01f7e-168">While run time rates apply for each item unit that is produced, the setup time rates apply for each lot.</span></span> <span data-ttu-id="01f7e-169">Il tempo di setup del ciclo per ogni operazione deve pertanto essere diviso in modo proporzionale alla dimensione del lotto.</span><span class="sxs-lookup"><span data-stu-id="01f7e-169">Therefore, you must prorate the routing setup time for each operation over the lot size.</span></span> <span data-ttu-id="01f7e-170">Specificare la dimensione del loro nel campo corrispondente della Scheda dettaglio **Ordinamento** nella scheda articolo.</span><span class="sxs-lookup"><span data-stu-id="01f7e-170">You specify the lot size in the corresponding field on the **Ordering** FastTab of the item card.</span></span>  
 
 <span data-ttu-id="01f7e-171">Per specificare il tempo di setup nel ciclo per la pianificazione senza includere questa spesa nel calcolo del costo standard, deselezionare il campo **Costi setup incluso** nella finestra **Setup manufacturing**.</span><span class="sxs-lookup"><span data-stu-id="01f7e-171">To specify setup time on the routing for planning but not include this expense in the standard cost calculation, clear the **Cost Incl. Setup** field in the **Manufacturing Setup** window.</span></span>  
 

@@ -12,10 +12,10 @@ ms.search.keywords: repair, service
 ms.date: 06/02/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
-ms.openlocfilehash: 1be0129888f60c6fbf795ec36ef88375cff26278
+ms.sourcegitcommit: 2f7b7db12069fd9f93a616077ea2b61393c1e9a3
+ms.openlocfilehash: ea97daf733b91443b9b3d19290b3dbb9183130fd
 ms.contentlocale: it-it
-ms.lasthandoff: 12/01/2017
+ms.lasthandoff: 08/13/2018
 
 ---
 # <a name="how-to-maintain-fixed-assets"></a><span data-ttu-id="f5864-103">Procedura: Gestione di cespiti</span><span class="sxs-lookup"><span data-stu-id="f5864-103">How to: Maintain Fixed Assets</span></span>
@@ -42,7 +42,7 @@ ms.lasthandoff: 12/01/2017
 7. <span data-ttu-id="f5864-124">Scegliere l'azione **Inserisci conto cespiti**.</span><span class="sxs-lookup"><span data-stu-id="f5864-124">Choose the **Insert FA Bal. Account** action.</span></span> <span data-ttu-id="f5864-125">Una seconda riga di registrazione viene creata per la contropartita impostata per la registrazione della manutenzione.</span><span class="sxs-lookup"><span data-stu-id="f5864-125">A second journal line is created for the balancing account that is set up for maintenance posting.</span></span>
 
     > [!NOTE]  
->   <span data-ttu-id="f5864-126">Il passaggio 7 funziona solo se è stato impostato quanto segue: nella finestra **Scheda Cat. Reg. Cespite** della categoria di registrazione del cespite il campo **Conto manutenzione** contiene il conto di addebito contabilità generale e il campo **Conto saldo manutenzione** contiene il conto C/G in cui si desidera registrare i movimenti di contropartita per la rivalutazione.</span><span class="sxs-lookup"><span data-stu-id="f5864-126">Step 7 only works if you have set up the following: In the **FA Posting Group Card** window for the posting group of the fixed asset, the **Maintenance Account** field contains the general ledger debit account and the **Maintenance Bal. Account** field contains the general ledger account to which you want to post balancing entries for appreciation.</span></span> <span data-ttu-id="f5864-127">Per ulteriori informazioni, vedere Impostare la sezione "Per impostare categorie di registrazione cespiti" in [Procedura: Impostare i valori generali per i cespiti](fa-how-setup-general.md).</span><span class="sxs-lookup"><span data-stu-id="f5864-127">For more information, see the "To set up fixed asset posting groups" section in [How to: Set Up General Fixed Asset Information](fa-how-setup-general.md).</span></span>
+   >   <span data-ttu-id="f5864-126">Il passaggio 7 funziona solo se è stato impostato quanto segue: nella finestra **Scheda Cat. Reg. Cespite** della categoria di registrazione del cespite il campo **Conto manutenzione** contiene il conto di addebito contabilità generale e il campo **Conto saldo manutenzione** contiene il conto C/G in cui si desidera registrare i movimenti di contropartita per la rivalutazione.</span><span class="sxs-lookup"><span data-stu-id="f5864-126">Step 7 only works if you have set up the following: In the **FA Posting Group Card** window for the posting group of the fixed asset, the **Maintenance Account** field contains the general ledger debit account and the **Maintenance Bal. Account** field contains the general ledger account to which you want to post balancing entries for appreciation.</span></span> <span data-ttu-id="f5864-127">Per ulteriori informazioni, vedere Impostare la sezione "Per impostare categorie di registrazione cespiti" in [Procedura: Impostare i valori generali per i cespiti](fa-how-setup-general.md).</span><span class="sxs-lookup"><span data-stu-id="f5864-127">For more information, see the "To set up fixed asset posting groups" section in [How to: Set Up General Fixed Asset Information](fa-how-setup-general.md).</span></span>
 8. <span data-ttu-id="f5864-128">Scegliere l'azione **Registra**.</span><span class="sxs-lookup"><span data-stu-id="f5864-128">Choose the **Post** action.</span></span>
 
 ## <a name="to-follow-up-on-fixed-assets-service-visits"></a><span data-ttu-id="f5864-129">Per pianificare le visite di assistenza relative ai cespiti</span><span class="sxs-lookup"><span data-stu-id="f5864-129">To follow up on fixed assets service visits</span></span>

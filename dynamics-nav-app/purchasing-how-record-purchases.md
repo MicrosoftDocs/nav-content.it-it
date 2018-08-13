@@ -12,10 +12,10 @@ ms.search.keywords: procurement
 ms.date: 08/08/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
-ms.openlocfilehash: e5fb93ff45ac8aa3f6710a8c0bde48e349ccb736
+ms.sourcegitcommit: 2f7b7db12069fd9f93a616077ea2b61393c1e9a3
+ms.openlocfilehash: 249221ad2d26dadec40fbf99cc461615dd98313c
 ms.contentlocale: it-it
-ms.lasthandoff: 12/01/2017
+ms.lasthandoff: 08/13/2018
 
 ---
 # <a name="how-to-record-purchases"></a><span data-ttu-id="18f98-103">Procedura: Registrare gli acquisti</span><span class="sxs-lookup"><span data-stu-id="18f98-103">How to: Record Purchases</span></span>
@@ -53,12 +53,12 @@ ms.lasthandoff: 12/01/2017
     <span data-ttu-id="18f98-141">A questo punto si è pronti a compilare le righe della fattura di acquisto con gli articoli di magazzino o i servizi acquistati presso il fornitore.</span><span class="sxs-lookup"><span data-stu-id="18f98-141">You are now ready to fill in the purchase invoice lines with inventory items or services that you have purchased from the vendor.</span></span>
 
     > [!NOTE]  
->   <span data-ttu-id="18f98-142">Se sono state impostate righe di acquisto periodiche per il fornitore, ad esempio un ordine di rifornimento mensile, è possibile inserire queste righe nella fattura scegliendo l'azione **Ottieni righe acquisto ricorrenti**.</span><span class="sxs-lookup"><span data-stu-id="18f98-142">If you have set up recurring purchase lines for the vendor, such as a monthly replenishment order, then you can insert these lines on the invoice by choosing the **Get Recurring Purchase Lines** action.</span></span>
+   >   <span data-ttu-id="18f98-142">Se sono state impostate righe di acquisto periodiche per il fornitore, ad esempio un ordine di rifornimento mensile, è possibile inserire queste righe nella fattura scegliendo l'azione **Ottieni righe acquisto ricorrenti**.</span><span class="sxs-lookup"><span data-stu-id="18f98-142">If you have set up recurring purchase lines for the vendor, such as a monthly replenishment order, then you can insert these lines on the invoice by choosing the **Get Recurring Purchase Lines** action.</span></span>
 10. <span data-ttu-id="18f98-143">Nella Scheda dettaglio **Righe** del campo **Nr. articolo** immettere il numero di un articolo di magazzino o di un servizio.</span><span class="sxs-lookup"><span data-stu-id="18f98-143">On the **Lines** FastTab, in the **Item No.** field, enter the number of an inventory item or service.</span></span>
 11. <span data-ttu-id="18f98-144">Nel campo **Quantità** immettere il numero di articoli da acquistare.</span><span class="sxs-lookup"><span data-stu-id="18f98-144">In the **Quantity** field, enter the number of items to be purchased.</span></span>
 
     > [!NOTE]  
->   <span data-ttu-id="18f98-145">Per gli articoli di tipo **Assistenza**, la quantità è un'unità temporale, ad esempio le ore, come indicato nel campo **Cod. unità di misura** nella riga.</span><span class="sxs-lookup"><span data-stu-id="18f98-145">For items of type **Service**, the quantity is a time unit, such as hours, as indicated in the **Unit of Measure Code** field on the line.</span></span>
+    >   <span data-ttu-id="18f98-145">Per gli articoli di tipo **Assistenza**, la quantità è un'unità temporale, ad esempio le ore, come indicato nel campo **Cod. unità di misura** nella riga.</span><span class="sxs-lookup"><span data-stu-id="18f98-145">For items of type **Service**, the quantity is a time unit, such as hours, as indicated in the **Unit of Measure Code** field on the line.</span></span>
 
     <span data-ttu-id="18f98-146">Il campo **Importo riga** viene aggiornato al valore del campo **Costo unitario diretto** moltiplicato per il valore del campo **Quantità**.</span><span class="sxs-lookup"><span data-stu-id="18f98-146">The **Line Amount** field is updated to show the value in the **Direct Unit Cost** field multiplied by the value in the **Quantity** field.</span></span>
 
@@ -66,7 +66,7 @@ ms.lasthandoff: 12/01/2017
 12. <span data-ttu-id="18f98-148">Nel campo **Importo sconto fattura** immettere un importo che deve essere dedotto dal valore indicato nel campo **Totale IVA incl.** nella parte inferiore della fattura.</span><span class="sxs-lookup"><span data-stu-id="18f98-148">In the **Invoice Discount Amount** field, enter an amount that should be deducted from the value shown in the **Total Incl. Tax** field at the bottom of the invoice.</span></span>
 
     > [!NOTE]  
->   <span data-ttu-id="18f98-149">Se sono stati impostati degli sconti su fattura per il fornitore, il valore percentuale specificato viene automaticamente inserito nel campo **% sconto fattura fornitore** se vengono soddisfatti i criteri e l'importo correlato viene inserito nel campo **Importo sconto fattura**.</span><span class="sxs-lookup"><span data-stu-id="18f98-149">If you have set up invoice discounts for the vendor, then the specified percentage value is automatically inserted in the **Vendor Invoice Discount %** field if the criteria are met, and the related amount is inserted in the **Invoice Discount Amount** field.</span></span>
+    >   <span data-ttu-id="18f98-149">Se sono stati impostati degli sconti su fattura per il fornitore, il valore percentuale specificato viene automaticamente inserito nel campo **% sconto fattura fornitore** se vengono soddisfatti i criteri e l'importo correlato viene inserito nel campo **Importo sconto fattura**.</span><span class="sxs-lookup"><span data-stu-id="18f98-149">If you have set up invoice discounts for the vendor, then the specified percentage value is automatically inserted in the **Vendor Invoice Discount %** field if the criteria are met, and the related amount is inserted in the **Invoice Discount Amount** field.</span></span>
 13. <span data-ttu-id="18f98-150">Quando si ricevono l'assistenza o gli articoli acquistati, scegliere **Registra**.</span><span class="sxs-lookup"><span data-stu-id="18f98-150">When you receive the purchased items or services, choose **Post**.</span></span>
 
 <span data-ttu-id="18f98-151">L'acquisto si riflette ora nel magazzino e nei record finanziari e il pagamento fornitore viene attivato.</span><span class="sxs-lookup"><span data-stu-id="18f98-151">The purchase is now reflected in inventory and financial records, and the vendor payment is activated.</span></span> <span data-ttu-id="18f98-152">La fattura di acquisto viene rimossa dall'elenco delle fatture di acquisto e sostituita con un nuovo documento nell'elenco delle fatture di acquisto registrate.</span><span class="sxs-lookup"><span data-stu-id="18f98-152">The purchase invoice is removed from the list of purchase invoices and replaced with a new document in the list of posted purchase invoices.</span></span>

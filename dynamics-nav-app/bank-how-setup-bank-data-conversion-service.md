@@ -12,10 +12,10 @@ ms.search.keywords: feed, stream, data exchange, AMC, bank file import, bank fil
 ms.date: 06/02/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
-ms.openlocfilehash: 74463c029f0f3b396acaeea2df9e7e9b72e2a2e4
+ms.sourcegitcommit: 2f7b7db12069fd9f93a616077ea2b61393c1e9a3
+ms.openlocfilehash: b9325c06df77d540dd41d35d7518ce89f093a2d5
 ms.contentlocale: it-it
-ms.lasthandoff: 12/01/2017
+ms.lasthandoff: 08/13/2018
 
 ---
 # <a name="how-to-set-up-the-bank-data-conversion-service"></a><span data-ttu-id="c0149-103">Procedura: Impostare il servizio di conversione di dati bancari</span><span class="sxs-lookup"><span data-stu-id="c0149-103">How to: Set Up the Bank Data Conversion Service</span></span>
@@ -35,7 +35,7 @@ ms.lasthandoff: 12/01/2017
 2. <span data-ttu-id="c0149-117">Viene aperta la finestra **Setup servizio conv. dati banca** con tre campi precompilati con gli URL del provider del servizio di conversione di dati bancari.</span><span class="sxs-lookup"><span data-stu-id="c0149-117">The **Bank Data Conv. Service Setup** window opens with three fields prefilled with relevant URLs of the provider of bank data conversion service.</span></span>
 
     > [!NOTE]  
->   <span data-ttu-id="c0149-118">Nel database di dimostrazione CRONUS International Ltd. i campi Nome utente e Password sono precompilati con informazioni di connessione dimostrative, che dovranno essere sostituite con le informazioni effettive della società nel momento in cui si procederà all'iscrizione al servizio di conversione di dati bancari.</span><span class="sxs-lookup"><span data-stu-id="c0149-118">In the CRONUS International Ltd. demonstration database, the User Name and Password fields are prefilled with demonstration logon information, which you will replace with your company’s actual information as you sign up for the bank data conversion service.</span></span>
+   >   <span data-ttu-id="c0149-118">Nel database di dimostrazione CRONUS International Ltd. i campi Nome utente e Password sono precompilati con informazioni di connessione dimostrative, che dovranno essere sostituite con le informazioni effettive della società nel momento in cui si procederà all'iscrizione al servizio di conversione di dati bancari.</span><span class="sxs-lookup"><span data-stu-id="c0149-118">In the CRONUS International Ltd. demonstration database, the User Name and Password fields are prefilled with demonstration logon information, which you will replace with your company’s actual information as you sign up for the bank data conversion service.</span></span>
 3. <span data-ttu-id="c0149-119">Nel campo **URL iscrizione** scegliere il pulsante Sfoglia per aprire la pagina di iscrizione del provider del servizio.</span><span class="sxs-lookup"><span data-stu-id="c0149-119">In the **Sign-up URL** field, choose the browser button to open the service provider’s sign-up page.</span></span>  
 4. <span data-ttu-id="c0149-120">Nella pagina di iscrizione del provider del servizio dati bancari, immettere il nome utente e la password per l'iscrizione della società al servizio, quindi eseguire il processo di registrazione come indicato dal provider del servizio.</span><span class="sxs-lookup"><span data-stu-id="c0149-120">On the sign-up page of the bank data service provider, enter the user name and password for your company’s subscription to the service, and then complete the sign-up process as instructed by the service provider.</span></span>
 

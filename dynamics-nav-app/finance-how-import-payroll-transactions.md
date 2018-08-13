@@ -12,10 +12,10 @@ ms.search.keywords: Ceridian, Quickbooks, salary
 ms.date: 06/16/2017
 ms.author: SorenGP
 ms.translationtype: HT
-ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
-ms.openlocfilehash: 6ba2934efabf76917c43ab3852dd251ae87fae2d
+ms.sourcegitcommit: 2f7b7db12069fd9f93a616077ea2b61393c1e9a3
+ms.openlocfilehash: dbae2065fd8135eabf68a530cbf16a3ae03ebf8d
 ms.contentlocale: it-it
-ms.lasthandoff: 12/01/2017
+ms.lasthandoff: 08/13/2018
 
 ---
 # <a name="how-to-import-payroll-transactions"></a><span data-ttu-id="afc21-103">Procedura: Importare transazioni retributive </span><span class="sxs-lookup"><span data-stu-id="afc21-103">How to: Import Payroll Transactions</span></span>
@@ -30,7 +30,7 @@ ms.lasthandoff: 12/01/2017
 3. <span data-ttu-id="afc21-115">Seguire i passaggi indicati nella finestra **Importa transazioni retribuzioni**.</span><span class="sxs-lookup"><span data-stu-id="afc21-115">Follow the steps in the **Import Payroll Transactions** window.</span></span>
 
     > [!TIP]  
->   <span data-ttu-id="afc21-116">Nel passaggio relativo alla mappatura dei record di retribuzione esterni ai conti C/G, i mapping eseguiti verranno ricordati che la successiva importazione degli stessi record.</span><span class="sxs-lookup"><span data-stu-id="afc21-116">In the step about mapping the external payroll records to your G/L accounts, the mappings that you make will be remembered next time the same records are imported.</span></span> <span data-ttu-id="afc21-117">In questo modo si risparmia tempo in quando non occorre compilare manualmente il campo **Nr. conto** nelle registrazioni COGE ogni volta che si importano transazioni retribuzioni periodiche.</span><span class="sxs-lookup"><span data-stu-id="afc21-117">This will save you time as you do not have to manually fill in the **Account No.** field in the general journal every time you have imported recurring payroll transactions.</span></span>   
+   >   <span data-ttu-id="afc21-116">Nel passaggio relativo alla mappatura dei record di retribuzione esterni ai conti C/G, i mapping eseguiti verranno ricordati che la successiva importazione degli stessi record.</span><span class="sxs-lookup"><span data-stu-id="afc21-116">In the step about mapping the external payroll records to your G/L accounts, the mappings that you make will be remembered next time the same records are imported.</span></span> <span data-ttu-id="afc21-117">In questo modo si risparmia tempo in quando non occorre compilare manualmente il campo **Nr. conto** nelle registrazioni COGE ogni volta che si importano transazioni retribuzioni periodiche.</span><span class="sxs-lookup"><span data-stu-id="afc21-117">This will save you time as you do not have to manually fill in the **Account No.** field in the general journal every time you have imported recurring payroll transactions.</span></span>   
 
     <span data-ttu-id="afc21-118">Se si sceglie il pulsante **OK** nella guida al setup assistito, la finestra **Contabilità generale** viene popolata con le righe che rappresentano le transazioni che contiene il file retribuzioni e con i conti appropriati già precompilati nei campi **Conto C/G** in base ai mapping effettuati nella guida.</span><span class="sxs-lookup"><span data-stu-id="afc21-118">When you choose the **OK** button in the assisted setup guide, the **General Journal** window is filled with lines representing the transactions that the payroll file contains and with the relevant accounts prefilled in the **G/L Account** fields according to mappings you made in the guide.</span></span>
 4. <span data-ttu-id="afc21-119">Modificare o registrare le righe delle registrazioni relative a tutte le altre le transazioni della contabilità generale.</span><span class="sxs-lookup"><span data-stu-id="afc21-119">Edit or post the journal lines as for any other general ledger transactions.</span></span> <span data-ttu-id="afc21-120">Per ulteriori informazioni, vedere [Procedura: Registrare le transazioni direttamente nella contabilità generale](finance-how-post-transactions-directly.md).</span><span class="sxs-lookup"><span data-stu-id="afc21-120">For more information, see [How to: Post Transactions Directly to the General Ledger](finance-how-post-transactions-directly.md).</span></span>   

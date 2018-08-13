@@ -12,10 +12,10 @@ ms.search.keywords: undo, credit memo, return
 ms.date: 08/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
-ms.openlocfilehash: 3c2d1725daae7d4d82647a61f5a50ea5d2fd6bf3
+ms.sourcegitcommit: 2f7b7db12069fd9f93a616077ea2b61393c1e9a3
+ms.openlocfilehash: 61e7d374b28845f0fcfea3c6e9924e5ccb41b5fc
 ms.contentlocale: it-it
-ms.lasthandoff: 12/01/2017
+ms.lasthandoff: 08/13/2018
 
 ---
 # <a name="how-to-correct-or-cancel-unpaid-purchase-invoices"></a><span data-ttu-id="9937d-103">Procedura: Correggere o annullare le fatture di acquisto non pagate</span><span class="sxs-lookup"><span data-stu-id="9937d-103">How to: Correct or Cancel Unpaid Purchase Invoices</span></span>
@@ -30,7 +30,7 @@ ms.lasthandoff: 12/01/2017
 2. <span data-ttu-id="9937d-115">Selezionare la fattura di acquisto che si desidera rettificare.</span><span class="sxs-lookup"><span data-stu-id="9937d-115">Select the posted purchase invoice that you want to correct.</span></span>  
 
     > [!NOTE]  
->   <span data-ttu-id="9937d-116">Se viene selezionata la casella di controllo **Annullata**, non è possibile rettificare la fattura di acquisto registrata poiché è già stata rettificata o annullata.</span><span class="sxs-lookup"><span data-stu-id="9937d-116">If the **Canceled** check box is selected, then you cannot correct the posted purchase invoice because it has already been corrected or canceled.</span></span>
+   >   <span data-ttu-id="9937d-116">Se viene selezionata la casella di controllo **Annullata**, non è possibile rettificare la fattura di acquisto registrata poiché è già stata rettificata o annullata.</span><span class="sxs-lookup"><span data-stu-id="9937d-116">If the **Canceled** check box is selected, then you cannot correct the posted purchase invoice because it has already been corrected or canceled.</span></span>
 3. <span data-ttu-id="9937d-117">Nella finestra **Fattura acquisto registrata** scegliere **Rettifica**.</span><span class="sxs-lookup"><span data-stu-id="9937d-117">In the **Posted Purchase Invoice** window, choose **Correct**.</span></span>
 
     <span data-ttu-id="9937d-118">Viene creata una nuova fattura di acquisto con le stesse informazioni in cui è possibile apportare la rettifica.</span><span class="sxs-lookup"><span data-stu-id="9937d-118">A new purchase invoice with the same information is created where you can make the correction.</span></span> <span data-ttu-id="9937d-119">Per ulteriori informazioni, vedere [Procedura: Registrare gli acquisti](purchasing-how-record-purchases.md).</span><span class="sxs-lookup"><span data-stu-id="9937d-119">For more information, see [How to: Record Purchases](purchasing-how-record-purchases.md).</span></span> <span data-ttu-id="9937d-120">Il campo **Annullato** nella fattura di acquisto registrata iniziale viene modificato in **Sì**.</span><span class="sxs-lookup"><span data-stu-id="9937d-120">The **Canceled** field on the initial posted purchase invoice is changed to **Yes**.</span></span>
@@ -43,7 +43,7 @@ ms.lasthandoff: 12/01/2017
 2. <span data-ttu-id="9937d-125">Selezionare la fattura di acquisto che si desidera annullare.</span><span class="sxs-lookup"><span data-stu-id="9937d-125">Select the posted purchase invoice that you want to cancel.</span></span>
 
     > [!NOTE]  
->   <span data-ttu-id="9937d-126">Se viene selezionata la casella di controllo **Annullata**, non è possibile annullare la fattura di acquisto registrata poiché è già stata rettificata o annullata.</span><span class="sxs-lookup"><span data-stu-id="9937d-126">If the **Canceled** check box is selected, then you cannot cancel the posted purchase invoice because it has already been canceled or corrected.</span></span>
+   >   <span data-ttu-id="9937d-126">Se viene selezionata la casella di controllo **Annullata**, non è possibile annullare la fattura di acquisto registrata poiché è già stata rettificata o annullata.</span><span class="sxs-lookup"><span data-stu-id="9937d-126">If the **Canceled** check box is selected, then you cannot cancel the posted purchase invoice because it has already been canceled or corrected.</span></span>
 3. <span data-ttu-id="9937d-127">Nella finestra **Fattura acquisto registrata** scegliere **Annulla**.</span><span class="sxs-lookup"><span data-stu-id="9937d-127">In the **Posted Purchase Invoice** window, choose **Cancel**.</span></span>
 
     <span data-ttu-id="9937d-128">Una nota di credito di acquisto viene automaticamente creata e registrata per annullare la fattura di acquisto registrata iniziale.</span><span class="sxs-lookup"><span data-stu-id="9937d-128">A purchase credit memo is automatically created and posted to void the initial posted purchase invoice.</span></span> <span data-ttu-id="9937d-129">Il campo **Annullato** nella fattura di acquisto registrata iniziale viene modificato in **Sì**.</span><span class="sxs-lookup"><span data-stu-id="9937d-129">The **Canceled** field on the initial posted purchase invoice is changed to **Yes**.</span></span>

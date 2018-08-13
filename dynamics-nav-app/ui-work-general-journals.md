@@ -11,10 +11,10 @@ ms.workload: na
 ms.date: 07/02/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
-ms.openlocfilehash: 9c1eaec9c0a74d280de118c649d37d9b44ef8591
+ms.sourcegitcommit: 2f7b7db12069fd9f93a616077ea2b61393c1e9a3
+ms.openlocfilehash: 9778f8d18d45a7b86ae7f54b4246277117a72ca6
 ms.contentlocale: it-it
-ms.lasthandoff: 12/01/2017
+ms.lasthandoff: 08/13/2018
 
 ---
 # <a name="working-with-general-journals"></a><span data-ttu-id="ef564-103">Utilizzo delle registrazioni COGE</span><span class="sxs-lookup"><span data-stu-id="ef564-103">Working with General Journals</span></span>
@@ -79,12 +79,12 @@ ms.lasthandoff: 12/01/2017
     <span data-ttu-id="ef564-164">Se non si è selezionato il campo **Salva importo unitario** quando si è utilizzato il processo della funzione **Salva come registrazioni magazzino standard**, il campo **Importo unitario** delle righe inserite dalle registrazioni standard viene automaticamente completato con il valore corrente dell'articolo, copiato dal campo **Costo unitario** della scheda articolo.</span><span class="sxs-lookup"><span data-stu-id="ef564-164">If you did not check the **Save Unit Amount** field when you used the **Save as Standard Item Journal** function job, then the **Unit Amount** field on lines that are inserted from the standard journal is automatically filled with the item’s current value, copied from the **Unit Cost** field on the item card.</span></span>
 
     > [!NOTE]  
->   <span data-ttu-id="ef564-165">in caso di selezione dei campi **Salva Importo Unitario** o **Salva Quantità**, è opportuno assicurarsi che i valori inseriti siano corretti per la rettifica di magazzino specifica prima di contabilizzare la registrazione di magazzino.</span><span class="sxs-lookup"><span data-stu-id="ef564-165">If you selected the **Save Unit Amount** or **Save Quantity** fields, you should now make sure the inserted values are correct for this particular inventory adjustment before you post the item journal.</span></span>
+   >   <span data-ttu-id="ef564-165">in caso di selezione dei campi **Salva Importo Unitario** o **Salva Quantità**, è opportuno assicurarsi che i valori inseriti siano corretti per la rettifica di magazzino specifica prima di contabilizzare la registrazione di magazzino.</span><span class="sxs-lookup"><span data-stu-id="ef564-165">If you selected the **Save Unit Amount** or **Save Quantity** fields, you should now make sure the inserted values are correct for this particular inventory adjustment before you post the item journal.</span></span>
 
     <span data-ttu-id="ef564-166">Se le righe di registrazione di magazzino inserite contengono importi unitari salvati che non si desidera contabilizzare, è possibile eseguire rapidamente la rettifica al valore corrente dell'articolo come indicato di seguito.</span><span class="sxs-lookup"><span data-stu-id="ef564-166">If the inserted item journal lines contain saved unit amounts that you do not want to post, you can quickly adjust it to the current value of the item as follows.</span></span>
 
-6. <span data-ttu-id="ef564-167">Selezionare e righe di registrazioni magazzino che si desidera rettificare e scegliere l'azione **Ricalcola importo unitario**.</span><span class="sxs-lookup"><span data-stu-id="ef564-167">Select the item journal lines you want to adjust, and then choose the **Recalculate Unit Amount** action.</span></span> <span data-ttu-id="ef564-168">Il campo Importo unitario verrà così aggiornato con il costo unitario corrente dell'articolo.</span><span class="sxs-lookup"><span data-stu-id="ef564-168">This will update the Unit Amount field with the current unit cost of the item.</span></span>
-7. <span data-ttu-id="ef564-169">Scegliere l'azione **Registra**.</span><span class="sxs-lookup"><span data-stu-id="ef564-169">Choose the **post** action.</span></span>
+5. <span data-ttu-id="ef564-167">Selezionare e righe di registrazioni magazzino che si desidera rettificare e scegliere l'azione **Ricalcola importo unitario**.</span><span class="sxs-lookup"><span data-stu-id="ef564-167">Select the item journal lines you want to adjust, and then choose the **Recalculate Unit Amount** action.</span></span> <span data-ttu-id="ef564-168">Il campo Importo unitario verrà così aggiornato con il costo unitario corrente dell'articolo.</span><span class="sxs-lookup"><span data-stu-id="ef564-168">This will update the Unit Amount field with the current unit cost of the item.</span></span>
+6. <span data-ttu-id="ef564-169">Scegliere l'azione **Registra**.</span><span class="sxs-lookup"><span data-stu-id="ef564-169">Choose the **post** action.</span></span>
 
 ## <a name="to-renumber-document-numbers-in-journals"></a><span data-ttu-id="ef564-170">Rinumerare i documenti nei giornali di registrazione</span><span class="sxs-lookup"><span data-stu-id="ef564-170">To renumber document numbers in journals</span></span>
 <span data-ttu-id="ef564-171">Per evitare errori di registrazione dovuti all'ordine dei numeri di documento, è possibile utilizzare la funzione **Rinumera documenti** prima di effettuare una registrazione.</span><span class="sxs-lookup"><span data-stu-id="ef564-171">To make sure that you do not receive posting errors because of the document number order, you can use the **Renumber Document Numbers** function before you post a journal.</span></span>

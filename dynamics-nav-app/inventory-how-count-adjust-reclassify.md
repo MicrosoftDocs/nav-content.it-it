@@ -12,10 +12,10 @@ ms.search.keywords: adjustment, negative, positive, increase, decrease
 ms.date: 08/16/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
-ms.openlocfilehash: 3b2c3484067caaea98666a2df1ef5596af3becec
+ms.sourcegitcommit: 2f7b7db12069fd9f93a616077ea2b61393c1e9a3
+ms.openlocfilehash: 76a4aeef19e3834a529b4c983ab89a3cb7290e06
 ms.contentlocale: it-it
-ms.lasthandoff: 12/01/2017
+ms.lasthandoff: 08/13/2018
 
 ---
 # <a name="how-to-count-adjust-and-reclassify-inventory"></a><span data-ttu-id="3ef92-103">Procedura: Conteggio, rettifica e riclassificazione dell'inventario</span><span class="sxs-lookup"><span data-stu-id="3ef92-103">How to: Count, Adjust, and Reclassify Inventory</span></span>
@@ -98,7 +98,7 @@ ms.lasthandoff: 12/01/2017
     <span data-ttu-id="3ef92-171">I campi correlati vengono aggiornati di conseguenza.</span><span class="sxs-lookup"><span data-stu-id="3ef92-171">The related fields are updated accordingly.</span></span>
 
     > [!NOTE]  
->   <span data-ttu-id="3ef92-172">Se dal conteggio fisico risultano differenze determinate dalla registrazione degli articoli con codici ubicazione non corretti, le differenze non devono essere inserite nelle registrazioni inventario fisico.</span><span class="sxs-lookup"><span data-stu-id="3ef92-172">If the physical count reveals differences that are caused by items posted with incorrect location codes, do not enter the differences in the physical inventory journal.</span></span> <span data-ttu-id="3ef92-173">In alternativa, utilizzare le registrazioni di riclassificazione o un ordine di trasferimento per reindirizzare gli articoli alle ubicazioni corrette.</span><span class="sxs-lookup"><span data-stu-id="3ef92-173">Instead, use the reclassification journal or a transfer order to redirect the items to the correct locations.</span></span> <span data-ttu-id="3ef92-174">Per ulteriori informazioni, vedere Reg. ricl. articoli o Procedura: Creare ordini di trasferimento.</span><span class="sxs-lookup"><span data-stu-id="3ef92-174">For more information, see Item Reclass. Journal or How to: Create Transfer Orders.</span></span>
+   >   <span data-ttu-id="3ef92-172">Se dal conteggio fisico risultano differenze determinate dalla registrazione degli articoli con codici ubicazione non corretti, le differenze non devono essere inserite nelle registrazioni inventario fisico.</span><span class="sxs-lookup"><span data-stu-id="3ef92-172">If the physical count reveals differences that are caused by items posted with incorrect location codes, do not enter the differences in the physical inventory journal.</span></span> <span data-ttu-id="3ef92-173">In alternativa, utilizzare le registrazioni di riclassificazione o un ordine di trasferimento per reindirizzare gli articoli alle ubicazioni corrette.</span><span class="sxs-lookup"><span data-stu-id="3ef92-173">Instead, use the reclassification journal or a transfer order to redirect the items to the correct locations.</span></span> <span data-ttu-id="3ef92-174">Per ulteriori informazioni, vedere Reg. ricl. articoli o Procedura: Creare ordini di trasferimento.</span><span class="sxs-lookup"><span data-stu-id="3ef92-174">For more information, see Item Reclass. Journal or How to: Create Transfer Orders.</span></span>
 
 2. <span data-ttu-id="3ef92-175">Per rettificare le quantità calcolate con le quantità effettive conteggiate, scegliere l'azione **Registra**.</span><span class="sxs-lookup"><span data-stu-id="3ef92-175">To adjust the calculated quantities to the actual counted quantities, choose the **Post** action.</span></span>
 

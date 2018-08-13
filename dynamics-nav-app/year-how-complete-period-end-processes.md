@@ -9,13 +9,13 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: year closing, close accounting period, close fiscal year, aging, creditor payments, vendor payments
-ms.date: 06/19/2017
+ms.date: 08/10/2018
 ms.author: jswymer
 ms.translationtype: HT
-ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
-ms.openlocfilehash: 2d6754559e35ab1765bd34704a975dce0575c108
+ms.sourcegitcommit: 2f7b7db12069fd9f93a616077ea2b61393c1e9a3
+ms.openlocfilehash: 54f27054069f6a39fcd843e8aebb5b2adb81377a
 ms.contentlocale: it-it
-ms.lasthandoff: 12/01/2017
+ms.lasthandoff: 08/13/2018
 
 ---
 # <a name="overview-of-tasks-to-close-accounting-periods"></a><span data-ttu-id="b8d9e-103">Panoramica delle attività per la chiusura dei periodi contabili</span><span class="sxs-lookup"><span data-stu-id="b8d9e-103">Overview of Tasks to Close Accounting Periods</span></span>
@@ -45,14 +45,14 @@ ms.lasthandoff: 12/01/2017
 * <span data-ttu-id="b8d9e-125">Eseguire il report **Scadenziario fornitori** e riconciliare i debiti v/fornitori nella contabilità generale.</span><span class="sxs-lookup"><span data-stu-id="b8d9e-125">Run the **Aged Accounts Payable** report and reconcile accounts payable to the general ledger.</span></span>  
 * <span data-ttu-id="b8d9e-126">Eseguire il processo batch **Elimina ordini acquisto fatturati**.</span><span class="sxs-lookup"><span data-stu-id="b8d9e-126">Run the **Delete Invoiced Purchase Orders** batch job.</span></span>  
 
-<span data-ttu-id="b8d9e-127">Cespiti</span><span class="sxs-lookup"><span data-stu-id="b8d9e-127">Fixed Assets</span></span>
+## <a name="fixed-assets"></a><span data-ttu-id="b8d9e-127">Cespiti</span><span class="sxs-lookup"><span data-stu-id="b8d9e-127">Fixed Assets</span></span>
 * <span data-ttu-id="b8d9e-128">Registrare tutti i costi di manutenzione che sono stati registrati tramite le registrazioni cespiti o le fatture.</span><span class="sxs-lookup"><span data-stu-id="b8d9e-128">Post all maintenance costs have been posted through the fixed asset journals or invoices.</span></span>
 * <span data-ttu-id="b8d9e-129">Registrare le rettifiche.</span><span class="sxs-lookup"><span data-stu-id="b8d9e-129">Post adjustments.</span></span>
 * <span data-ttu-id="b8d9e-130">Registrare la rivalutazione.</span><span class="sxs-lookup"><span data-stu-id="b8d9e-130">Post appreciation.</span></span>
 * <span data-ttu-id="b8d9e-131">Registrare l'ammortamento.</span><span class="sxs-lookup"><span data-stu-id="b8d9e-131">Post depreciation.</span></span>
 * <span data-ttu-id="b8d9e-132">Aggiornare e registrare le registrazioni periodiche cespiti.</span><span class="sxs-lookup"><span data-stu-id="b8d9e-132">Update and post the recurring fixed asset journal.</span></span>
 
-<span data-ttu-id="b8d9e-133">Intercompany</span><span class="sxs-lookup"><span data-stu-id="b8d9e-133">Intercompany</span></span>
+## <a name="intercompany"></a><span data-ttu-id="b8d9e-133">Intercompany</span><span class="sxs-lookup"><span data-stu-id="b8d9e-133">Intercompany</span></span>
 * <span data-ttu-id="b8d9e-134">Elaborare transazioni Intercompany</span><span class="sxs-lookup"><span data-stu-id="b8d9e-134">Process Intercompany Transactions</span></span>
 
 ## <a name="calculate-and-process-sales-tax"></a><span data-ttu-id="b8d9e-135">Calcolare ed elaborare l'imposta di vendita.</span><span class="sxs-lookup"><span data-stu-id="b8d9e-135">Calculate and Process Sales Tax</span></span>

@@ -12,10 +12,10 @@ ms.search.keywords: special price, alternate price, pricing
 ms.date: 07/03/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
-ms.openlocfilehash: ea66ef594dfc9637cc6e187d71b2d3d31b299306
+ms.sourcegitcommit: 2f7b7db12069fd9f93a616077ea2b61393c1e9a3
+ms.openlocfilehash: ed8f12642270295f4085d3ad535cce31b2c95a40
 ms.contentlocale: it-it
-ms.lasthandoff: 12/01/2017
+ms.lasthandoff: 08/13/2018
 
 ---
 # <a name="how-to-record-special-purchase-prices-and-discounts"></a><span data-ttu-id="34ae7-103">Procedura: Registrare i prezzi di acquisto e gli sconti speciali</span><span class="sxs-lookup"><span data-stu-id="34ae7-103">How to: Record Special Purchase Prices and Discounts</span></span>
@@ -58,7 +58,7 @@ ms.lasthandoff: 12/01/2017
 3. <span data-ttu-id="34ae7-134">Nel campo **Cod. sconto fatt.** selezionare un codice per le condizioni di sconto fattura in questione che verrà utilizzato per calcolare gli sconti fattura per il fornitore.</span><span class="sxs-lookup"><span data-stu-id="34ae7-134">In the **Invoice Disc. Code** field, select a code for the relevant invoice discount terms to use to calculate invoice discounts for the vendor.</span></span>
 
     > [!NOTE]  
->   <span data-ttu-id="34ae7-135">I codici sconto fattura sono rappresentati da schede fornitore esistenti.</span><span class="sxs-lookup"><span data-stu-id="34ae7-135">Invoice discount codes are represented by existing vendor cards.</span></span> <span data-ttu-id="34ae7-136">Questo consente di assegnare rapidamente le condizioni dello sconto fattura ai fornitori perché basterà selezionare il nome di un altro fornitore che avrà le stesse condizioni.</span><span class="sxs-lookup"><span data-stu-id="34ae7-136">This enables you to quickly assign invoice discount terms to vendors by picking the name of another vendors who will have the same terms.</span></span>
+   >   <span data-ttu-id="34ae7-135">I codici sconto fattura sono rappresentati da schede fornitore esistenti.</span><span class="sxs-lookup"><span data-stu-id="34ae7-135">Invoice discount codes are represented by existing vendor cards.</span></span> <span data-ttu-id="34ae7-136">Questo consente di assegnare rapidamente le condizioni dello sconto fattura ai fornitori perché basterà selezionare il nome di un altro fornitore che avrà le stesse condizioni.</span><span class="sxs-lookup"><span data-stu-id="34ae7-136">This enables you to quickly assign invoice discount terms to vendors by picking the name of another vendors who will have the same terms.</span></span>
 
     <span data-ttu-id="34ae7-137">Continuare a impostare le nuove condizioni dello sconto fattura di acquisto.</span><span class="sxs-lookup"><span data-stu-id="34ae7-137">Proceed to set up new the purchase invoice discount terms.</span></span>
 4. <span data-ttu-id="34ae7-138">Nella finestra **Scheda fornitore** scegliere l'azione **Sconti fattura**.</span><span class="sxs-lookup"><span data-stu-id="34ae7-138">In the **Vendor Card** window, choose the **Invoice Discounts** action.</span></span> <span data-ttu-id="34ae7-139">Verrà visualizzata la finestra **Sconti fattura fornitori**.</span><span class="sxs-lookup"><span data-stu-id="34ae7-139">The **Vend. Invoice Discounts** window opens.</span></span>

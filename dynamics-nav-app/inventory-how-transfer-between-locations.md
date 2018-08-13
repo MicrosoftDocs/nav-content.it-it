@@ -12,10 +12,10 @@ ms.search.keywords: move, warehouse
 ms.date: 06/02/2017
 ms.author: SorenGP
 ms.translationtype: HT
-ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
-ms.openlocfilehash: 06f7b6d5efdd895383be8bbed82a3e9f5f8e071e
+ms.sourcegitcommit: 2f7b7db12069fd9f93a616077ea2b61393c1e9a3
+ms.openlocfilehash: bfa377de06a42c47e0bb76a2659de28ddb581e90
 ms.contentlocale: it-it
-ms.lasthandoff: 12/01/2017
+ms.lasthandoff: 08/13/2018
 
 ---
 # <a name="how-to-transfer-inventory-between-locations"></a><span data-ttu-id="c8649-103">Procedura: Trasferire il magazzino tra le ubicazioni</span><span class="sxs-lookup"><span data-stu-id="c8649-103">How to: Transfer Inventory Between Locations</span></span>
@@ -35,7 +35,7 @@ ms.lasthandoff: 12/01/2017
 2. <span data-ttu-id="c8649-118">Nella finestra **Ordine di trasferimento** compilare i campi secondo le necessità.</span><span class="sxs-lookup"><span data-stu-id="c8649-118">In the **Transfer Order** window, fill in the fields as necessary.</span></span> [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]
 
     > [!NOTE]  
->   <span data-ttu-id="c8649-119">Se i campi **Codice in transito**, **Cod. spedizioniere** e **Servizi spedizioniere** nella finestra **Specifica percorso trasf.** sono stati compilati al momento dell'impostazione del percorso di trasferimento, i dati verranno immessi automaticamente nei campi corrispondenti dell'ordine di trasferimento.</span><span class="sxs-lookup"><span data-stu-id="c8649-119">If you have filled in the **In-Transit Code**, **Shipping Agent Code**, and **Shipping Agent Service** fields in the **Trans. Route Spec.** window when you set up the transfer route, then the corresponding fields on the transfer order are filled in automatically.</span></span>
+   >   <span data-ttu-id="c8649-119">Se i campi **Codice in transito**, **Cod. spedizioniere** e **Servizi spedizioniere** nella finestra **Specifica percorso trasf.** sono stati compilati al momento dell'impostazione del percorso di trasferimento, i dati verranno immessi automaticamente nei campi corrispondenti dell'ordine di trasferimento.</span><span class="sxs-lookup"><span data-stu-id="c8649-119">If you have filled in the **In-Transit Code**, **Shipping Agent Code**, and **Shipping Agent Service** fields in the **Trans. Route Spec.** window when you set up the transfer route, then the corresponding fields on the transfer order are filled in automatically.</span></span>
 
     <span data-ttu-id="c8649-120">Se si compila il campo **Servizio spedizioniere**, il programma calcola la data di ricezione nell'ubicazione di trasferimento sommando il tempo di spedizione del servizio spedizioniere alla data di spedizione.</span><span class="sxs-lookup"><span data-stu-id="c8649-120">When you fill in the **Shipping Agent Service** field, the receipt date at the transfer-to location is calculated by adding the shipping time of the shipping agent service to the shipment date.</span></span>
 
@@ -53,7 +53,7 @@ ms.lasthandoff: 12/01/2017
 3. <span data-ttu-id="c8649-129">Nel campo **Cod. ubicazione** immettere l'ubicazione in cui gli articoli si trovano attualmente.</span><span class="sxs-lookup"><span data-stu-id="c8649-129">In the **Location Code** field, enter the location where the items are currently stored.</span></span>
 
     > [!NOTE]  
->   <span data-ttu-id="c8649-130">Per trasferire gli articoli che non presentano codice ubicazione, lasciare vuoto il campo **Codice ubicazione**.</span><span class="sxs-lookup"><span data-stu-id="c8649-130">To transfer items that have no location code, leave the **Location Code** field blank.</span></span>
+   >   <span data-ttu-id="c8649-130">Per trasferire gli articoli che non presentano codice ubicazione, lasciare vuoto il campo **Codice ubicazione**.</span><span class="sxs-lookup"><span data-stu-id="c8649-130">To transfer items that have no location code, leave the **Location Code** field blank.</span></span>
 4. <span data-ttu-id="c8649-131">Nel campo **Nuovo codice ubicazione** immettere l'ubicazione verso cui si intende trasferire gli articoli.</span><span class="sxs-lookup"><span data-stu-id="c8649-131">In the **New Location Code** field, enter the location that you want to transfer the items to.</span></span>
 5. <span data-ttu-id="c8649-132">Scegliere l'azione **Registra**.</span><span class="sxs-lookup"><span data-stu-id="c8649-132">Choose the **Post** action.</span></span>
 
@@ -65,5 +65,5 @@ ms.lasthandoff: 12/01/2017
 <span data-ttu-id="c8649-137">[Personalizzazione di [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-customizing-overview.md)</span><span class="sxs-lookup"><span data-stu-id="c8649-137">[Customizing [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-customizing-overview.md)</span></span>  
 [<span data-ttu-id="c8649-138">Funzionalità aziendali generali</span><span class="sxs-lookup"><span data-stu-id="c8649-138">General Business Functionality</span></span>](ui-across-business-areas.md)
 
-##
+# #
 

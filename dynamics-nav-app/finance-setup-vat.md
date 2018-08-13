@@ -12,10 +12,10 @@ ms.search.keywords: VAT, posting, tax, value-added tax
 ms.date: 04/20/2017
 ms.author: bholtorf
 ms.translationtype: HT
-ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
-ms.openlocfilehash: 4582d23e5745d5b066b0a0895fb7729cf7be1019
+ms.sourcegitcommit: 2f7b7db12069fd9f93a616077ea2b61393c1e9a3
+ms.openlocfilehash: 81560d1652aed88e6c8553f26da37014886a4fa4
 ms.contentlocale: it-it
-ms.lasthandoff: 12/01/2017
+ms.lasthandoff: 08/13/2018
 
 ---
 
@@ -100,7 +100,7 @@ ms.lasthandoff: 12/01/2017
 
 * <span data-ttu-id="061e2-168">Nella scheda **Articolo** espandere la Scheda dettaglio **Prezzo e registrazione** quindi scegliere **Mostra di più** per visualizzare il campo **Cat. reg. art./serv. IVA**.</span><span class="sxs-lookup"><span data-stu-id="061e2-168">On the **Item** card, expand the **Price & Posting** FastTab, and then choose **Show more** to display the **VAT Product Posting Group** field.</span></span>  
 * <span data-ttu-id="061e2-169">Nella scheda **Risorsa** espandere la Scheda dettaglio **Fatturazione**.</span><span class="sxs-lookup"><span data-stu-id="061e2-169">On the **Resource** card, expand the **Invoicing** FastTab.</span></span>  
-3. <span data-ttu-id="061e2-170">Scegliere la categoria di registrazione articoli/servizi IVA.</span><span class="sxs-lookup"><span data-stu-id="061e2-170">Choose the VAT product posting group.</span></span>  
+* <span data-ttu-id="061e2-170">Scegliere la categoria di registrazione articoli/servizi IVA.</span><span class="sxs-lookup"><span data-stu-id="061e2-170">Choose the VAT product posting group.</span></span>  
 
 ## <a name="to-set-up-clauses-to-explain-the-use-of-non-standard-vat-rates"></a><span data-ttu-id="061e2-171">Per impostare le categorie con cui descrivere l'utilizzo di aliquote IVA non standard</span><span class="sxs-lookup"><span data-stu-id="061e2-171">To set up clauses to explain the use of non-standard VAT rates</span></span>
 <span data-ttu-id="061e2-172">È possibile impostare una categoria IVA per descrivere informazioni sul tipo di IVA che viene applicata.</span><span class="sxs-lookup"><span data-stu-id="061e2-172">You set up a VAT clause to describe information about the type of VAT that is being applied.</span></span> <span data-ttu-id="061e2-173">Le informazioni possono essere obbligatorie per la normativa statale.</span><span class="sxs-lookup"><span data-stu-id="061e2-173">The information may be required by government regulation.</span></span> <span data-ttu-id="061e2-174">Dopo aver impostato una categoria IVA e averla associata a un setup registrazioni IVA, la categoria IVA viene visualizzata su tutti i documenti di vendita stampati con tale categoria di setup registrazioni IVA.</span><span class="sxs-lookup"><span data-stu-id="061e2-174">After you set up a VAT clause, and associate it with a VAT posting setup, the VAT clause is displayed on printed sales documents that use the VAT posting setup group.</span></span> 
@@ -222,8 +222,8 @@ ms.lasthandoff: 12/01/2017
 2. <span data-ttu-id="061e2-300">Verificare che sia già stata impostata la conversione della categoria di registrazione articoli/servizi IVA o quella relativa agli articoli/servizi.</span><span class="sxs-lookup"><span data-stu-id="061e2-300">Verify that you have already set up the VAT product posting group conversion or general product posting group conversion.</span></span>  
 3. <span data-ttu-id="061e2-301">Selezionare la casella di controllo **Esegui conversione**.</span><span class="sxs-lookup"><span data-stu-id="061e2-301">Choose the **Perform Conversion** check box.</span></span>  
   
-> [!IMPORTANT]  
-    >  <span data-ttu-id="061e2-302">Deselezionare la casella controllo **Strumento di modifica aliquota IVA completato**.</span><span class="sxs-lookup"><span data-stu-id="061e2-302">Clear the **VAT Rate Change Tool Completed** check box.</span></span> <span data-ttu-id="061e2-303">La casella di controllo viene selezionata automaticamente al termine della conversione della modifica dell'aliquota IVA.</span><span class="sxs-lookup"><span data-stu-id="061e2-303">The check box is automatically selected when the VAT rate change conversion is completed.</span></span>  
+> [!IMPORTANT]
+>  <span data-ttu-id="061e2-302">Deselezionare la casella controllo **Strumento di modifica aliquota IVA completato**.</span><span class="sxs-lookup"><span data-stu-id="061e2-302">Clear the **VAT Rate Change Tool Completed** check box.</span></span> <span data-ttu-id="061e2-303">La casella di controllo viene selezionata automaticamente al termine della conversione della modifica dell'aliquota IVA.</span><span class="sxs-lookup"><span data-stu-id="061e2-303">The check box is automatically selected when the VAT rate change conversion is completed.</span></span>  
   
 4. <span data-ttu-id="061e2-304">Scegliere l'azione **Converti**.</span><span class="sxs-lookup"><span data-stu-id="061e2-304">Choose the **Convert** action.</span></span>  
 5. <span data-ttu-id="061e2-305">Al termine della conversione, nel gruppo **Processo** della scheda **Pagina iniziale** selezionare **Voci log modifiche aliquota IVA** per visualizzare i risultati della conversione.</span><span class="sxs-lookup"><span data-stu-id="061e2-305">After the conversion is complete, on the **Home** tab, in the **Process** group, choose **VAT Rate Change Log Entries** to view the results of the conversion.</span></span>  

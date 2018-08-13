@@ -12,10 +12,10 @@ ms.search.keywords: customized report, document layout, logo, personalize
 ms.date: 03/29/2017
 ms.author: jswymer
 ms.translationtype: HT
-ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
-ms.openlocfilehash: e3c919930421bcbb57a7452b80b69880f8859d7b
+ms.sourcegitcommit: 2f7b7db12069fd9f93a616077ea2b61393c1e9a3
+ms.openlocfilehash: 134bbf845254e055de2639d24bd0411b21a670fd
 ms.contentlocale: it-it
-ms.lasthandoff: 12/01/2017
+ms.lasthandoff: 08/13/2018
 
 ---
 # <a name="how-to-change-which-layout-is-currently-used-on-a-report"></a><span data-ttu-id="09272-103">Procedura: Modificare il layout attualmente utilizzato in un report</span><span class="sxs-lookup"><span data-stu-id="09272-103">How to: Change Which Layout is Currently Used on a Report</span></span>
@@ -33,8 +33,8 @@ ms.lasthandoff: 12/01/2017
    * <span data-ttu-id="09272-115">Personalizzato utilizza nel report un layout personalizzato.</span><span class="sxs-lookup"><span data-stu-id="09272-115">Custom, uses a custom layout on the report.</span></span>  
      <span data-ttu-id="09272-116">È possibile visualizzare i layout personalizzati disponibili per il report nel Dettaglio informazioni Parte di layout report.</span><span class="sxs-lookup"><span data-stu-id="09272-116">You can see which custom layouts are available for the report in the Report Layouts Part FactBox.</span></span> <span data-ttu-id="09272-117">Se non esistono layout personalizzati per il report, è necessario innanzitutto creare uno.</span><span class="sxs-lookup"><span data-stu-id="09272-117">If there are no custom layouts for the report, then you will have to create one first.</span></span> <span data-ttu-id="09272-118">Se si seleziona questa opzione, andare alla procedura descritta di seguito per specificare il layout personalizzato da utilizzare.</span><span class="sxs-lookup"><span data-stu-id="09272-118">If you choose this option, go to the next procedure to specify the custom layout that you want to use.</span></span>
 
-    > [!NOTE]  
-    >   <span data-ttu-id="09272-119">Se si sceglie **RDLC (predefinito)** o **Word (predefinito)** e si visualizza un messaggio di errore che indica che il report non dispone di un layout del tipo specificato, è necessario selezionare un'altra opzione di layout o creare un layout di report personalizzato del tipo che si desidera utilizzare.</span><span class="sxs-lookup"><span data-stu-id="09272-119">If you choose **RDLC (built-in)** or **Word (built-in)** and you get an error message that the report does not have a layout of the specified type, then you must choose another layout option or create a custom report layout of the type that you want to use.</span></span>
+     > [!NOTE]  
+     >   <span data-ttu-id="09272-119">Se si sceglie **RDLC (predefinito)** o **Word (predefinito)** e si visualizza un messaggio di errore che indica che il report non dispone di un layout del tipo specificato, è necessario selezionare un'altra opzione di layout o creare un layout di report personalizzato del tipo che si desidera utilizzare.</span><span class="sxs-lookup"><span data-stu-id="09272-119">If you choose **RDLC (built-in)** or **Word (built-in)** and you get an error message that the report does not have a layout of the specified type, then you must choose another layout option or create a custom report layout of the type that you want to use.</span></span>
 
 <span data-ttu-id="09272-120">Se è stato selezionato un layout di report RDLC o Word predefinito, non sono necessarie ulteriori azioni e il layout verrà utilizzato alla successiva esecuzione del report.</span><span class="sxs-lookup"><span data-stu-id="09272-120">If you selected a built-in RDLC or Word report layout, then no further action is required and the layout will be used the next time the report is run.</span></span>
 

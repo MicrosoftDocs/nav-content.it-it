@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: jswymer
 ms.translationtype: HT
-ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
-ms.openlocfilehash: c80244f5632e63b2b4f1076c5896a6d68d2f1bb9
+ms.sourcegitcommit: 2f7b7db12069fd9f93a616077ea2b61393c1e9a3
+ms.openlocfilehash: 6c439f90bd06c12b0f9fe4ebd89c4f5d8bea36bb
 ms.contentlocale: it-it
-ms.lasthandoff: 12/01/2017
+ms.lasthandoff: 08/13/2018
 
 ---
 # <a name="how-to-import-and-export-a-report-or-document-layout"></a><span data-ttu-id="b660f-103">Procedura: Importare ed esportare un layout di report o documento</span><span class="sxs-lookup"><span data-stu-id="b660f-103">How to: Import and Export a Report or Document Layout</span></span>
@@ -36,19 +36,19 @@ ms.lasthandoff: 12/01/2017
   
 ### <a name="to-import-a-report-layout-file"></a><span data-ttu-id="b660f-113">Per importare un file di layout di report</span><span class="sxs-lookup"><span data-stu-id="b660f-113">To import a report layout file</span></span>  
   
-1.  <span data-ttu-id="b660f-114">Assicurarsi che il file pertinente che definisce il layout di report sia disponibile nel computer o in rete.</span><span class="sxs-lookup"><span data-stu-id="b660f-114">Make sure that the relevant file that defines the report layout is available on your computer or network.</span></span>  
+1. <span data-ttu-id="b660f-114">Assicurarsi che il file pertinente che definisce il layout di report sia disponibile nel computer o in rete.</span><span class="sxs-lookup"><span data-stu-id="b660f-114">Make sure that the relevant file that defines the report layout is available on your computer or network.</span></span>  
   
-     <span data-ttu-id="b660f-115">Un file del layout di report Word deve avere l'estensione .docx.</span><span class="sxs-lookup"><span data-stu-id="b660f-115">A Word report layout file must have the .docx file type extension.</span></span> <span data-ttu-id="b660f-116">Un file del layout di report RDLC deve avere l'estensione .rdl o .rdlc.</span><span class="sxs-lookup"><span data-stu-id="b660f-116">An RDLC report layout file must have the .rdlc or .rdl file type extension.</span></span>  
+    <span data-ttu-id="b660f-115">Un file del layout di report Word deve avere l'estensione .docx.</span><span class="sxs-lookup"><span data-stu-id="b660f-115">A Word report layout file must have the .docx file type extension.</span></span> <span data-ttu-id="b660f-116">Un file del layout di report RDLC deve avere l'estensione .rdl o .rdlc.</span><span class="sxs-lookup"><span data-stu-id="b660f-116">An RDLC report layout file must have the .rdlc or .rdl file type extension.</span></span>  
   
-2.  <span data-ttu-id="b660f-117">Scegliere l'icona ![Cerca pagina o report](media/ui-search/search_small.png "icona Cerca pagina o report"), immettere **Selezione layout report**, quindi scegliere il collegamento correlato.</span><span class="sxs-lookup"><span data-stu-id="b660f-117">Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Report Layout Selection**, and then choose the related link.</span></span>  
+2. <span data-ttu-id="b660f-117">Scegliere l'icona ![Cerca pagina o report](media/ui-search/search_small.png "icona Cerca pagina o report"), immettere **Selezione layout report**, quindi scegliere il collegamento correlato.</span><span class="sxs-lookup"><span data-stu-id="b660f-117">Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Report Layout Selection**, and then choose the related link.</span></span>  
   
-3.  <span data-ttu-id="b660f-118">Selezionare la riga del report verso cui si desidera importare il layout di report, quindi nella scheda **Pagina iniziale**, nel gruppo **Processo** scegliere **Personalizza layout**.</span><span class="sxs-lookup"><span data-stu-id="b660f-118">Select the row for the report to which you want to import the report layout, and then on the **Home** tab, in the **Process** group, choose **Custom Layouts**.</span></span>  
+3. <span data-ttu-id="b660f-118">Selezionare la riga del report verso cui si desidera importare il layout di report, quindi nella scheda **Pagina iniziale**, nel gruppo **Processo** scegliere **Personalizza layout**.</span><span class="sxs-lookup"><span data-stu-id="b660f-118">Select the row for the report to which you want to import the report layout, and then on the **Home** tab, in the **Process** group, choose **Custom Layouts**.</span></span>  
   
-4.  <span data-ttu-id="b660f-119">Nella finestra **Layout report**, selezionare il layout di report in cui importare il file, quindi nel gruppo **Processo** della scheda **Pagina iniziale**, scegliere **Importa layout**.</span><span class="sxs-lookup"><span data-stu-id="b660f-119">In the **Report Layouts** window, select the report layout to which you want to import the file, and then on the **Home** tab, in the **Process** group, choose **Import Layout**.</span></span>  
+4. <span data-ttu-id="b660f-119">Nella finestra **Layout report**, selezionare il layout di report in cui importare il file, quindi nel gruppo **Processo** della scheda **Pagina iniziale**, scegliere **Importa layout**.</span><span class="sxs-lookup"><span data-stu-id="b660f-119">In the **Report Layouts** window, select the report layout to which you want to import the file, and then on the **Home** tab, in the **Process** group, choose **Import Layout**.</span></span>  
   
-5.  <span data-ttu-id="b660f-120">Nella finestra di dialogo **Importa**, selezionare il documento che definisce il layout di report e scegliere **Apri**.</span><span class="sxs-lookup"><span data-stu-id="b660f-120">In the **Import** dialog box, select the document that defines the report layout, and then choose **Open**.</span></span>  
+5. <span data-ttu-id="b660f-120">Nella finestra di dialogo **Importa**, selezionare il documento che definisce il layout di report e scegliere **Apri**.</span><span class="sxs-lookup"><span data-stu-id="b660f-120">In the **Import** dialog box, select the document that defines the report layout, and then choose **Open**.</span></span>  
   
- <span data-ttu-id="b660f-121">Il layout del report personalizzato originale viene sostituito con il layout di report importato.</span><span class="sxs-lookup"><span data-stu-id="b660f-121">The original custom report layout is replaced with the imported report layout.</span></span>  
+   <span data-ttu-id="b660f-121">Il layout del report personalizzato originale viene sostituito con il layout di report importato.</span><span class="sxs-lookup"><span data-stu-id="b660f-121">The original custom report layout is replaced with the imported report layout.</span></span>  
   
 ## <a name="see-also"></a><span data-ttu-id="b660f-122">Vedi anche</span><span class="sxs-lookup"><span data-stu-id="b660f-122">See Also</span></span>  
  <span data-ttu-id="b660f-123">[Procedura: Creare e modificare un layout di report personalizzato](ui-how-create-custom-report-layout.md) </span><span class="sxs-lookup"><span data-stu-id="b660f-123">[How to: Create and Modify a Custom Report Layout](ui-how-create-custom-report-layout.md) </span></span>  

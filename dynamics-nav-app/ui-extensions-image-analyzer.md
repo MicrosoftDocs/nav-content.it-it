@@ -12,10 +12,10 @@ ms.search.keywords: API, extension, Cognitive Services, image, computer vision, 
 ms.date: 06/19/2017
 ms.author: bholtorf
 ms.translationtype: HT
-ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
-ms.openlocfilehash: a34880ca2e5c933b2484e1a5f87cd4bae22a1756
+ms.sourcegitcommit: 2f7b7db12069fd9f93a616077ea2b61393c1e9a3
+ms.openlocfilehash: 88525a478f9035f16a8652f918a0a7ba949307af
 ms.contentlocale: it-it
-ms.lasthandoff: 12/01/2017
+ms.lasthandoff: 08/13/2018
 
 ---
 
@@ -28,7 +28,7 @@ ms.lasthandoff: 12/01/2017
 
 <span data-ttu-id="9a102-113">Dopo che l'estensione è stata abilitata, l'analisi delle immagini viene eseguita ogni volta che si importa un'immagine in un articolo o un contatto.</span><span class="sxs-lookup"><span data-stu-id="9a102-113">After you enable the extension, Image Analyzer runs each time you import an image to an item or contact person.</span></span> <span data-ttu-id="9a102-114">Verranno visualizzati gli attributi, il livello di affidabilità e i dettagli immediatamente ed è possibile decidere quali azioni intraprendere con ogni attributo.</span><span class="sxs-lookup"><span data-stu-id="9a102-114">You will see the attributes, confidence level, and details right away, and can decide what to do with each attribute.</span></span> <span data-ttu-id="9a102-115">Se le immagini sono state importate prima di avere abilitato l'estensione di analisi di immagini, è necessario passare all'articolo o alle schede contatti e scegliere l'azione **Analizza immagine**.</span><span class="sxs-lookup"><span data-stu-id="9a102-115">If you imported images before you enabled the Image Analyzer extension, you must go to the item or contact cards and choose the **Analyze Picture** action.</span></span>  
 
->   [!NOTE]  
+> [!NOTE]
 >   <span data-ttu-id="9a102-116">Abilitando questa estensione si acconsente alla conservazione dei dati da parte di Microsoft e all'utilizzo di tali informazioni per perfezionare i servizi Microsoft, ad esempio per migliorare l'API Visione artificiale.</span><span class="sxs-lookup"><span data-stu-id="9a102-116">By enabling this extension you agree that Microsoft may store your data and use it to improve Microsoft services, such as making the Computer Vision API better.</span></span> <span data-ttu-id="9a102-117">Microsoft si impegna a proteggere i dati personali e la privacy dell'utente, per questo motivo i dati vengono raccolti in forma anonima e ne viene garantita la sicurezza.</span><span class="sxs-lookup"><span data-stu-id="9a102-117">To help protect your privacy, we take steps to make your data anonymous and keep it secure.</span></span> <span data-ttu-id="9a102-118">I dati non verranno pubblicati né sarà consentito l'uso da parte di altre persone.</span><span class="sxs-lookup"><span data-stu-id="9a102-118">We will not publish your data or let other people use it.</span></span> <span data-ttu-id="9a102-119">È possibile rimuovere l'immagine dall'articolo in [!INCLUDE[d365fin](includes/d365fin_md.md)], tuttavia, l'API Visione artificiale conserverà ancora l'immagine nella sua forma senza identificazione.</span><span class="sxs-lookup"><span data-stu-id="9a102-119">You can remove the image from the item in [!INCLUDE[d365fin](includes/d365fin_md.md)], however, the Computer Vision API will still have the image in its de-identified form.</span></span> <span data-ttu-id="9a102-120">Per ulteriori informazioni, vedere [Centro protezione Microsoft](https://go.microsoft.com/fwlink/?linkid=851463).</span><span class="sxs-lookup"><span data-stu-id="9a102-120">For more information, see [Microsoft Trust Center](https://go.microsoft.com/fwlink/?linkid=851463).</span></span>
 
 ## <a name="requirements"></a><span data-ttu-id="9a102-121">Requisiti</span><span class="sxs-lookup"><span data-stu-id="9a102-121">Requirements</span></span>
@@ -52,7 +52,7 @@ ms.lasthandoff: 12/01/2017
 * <span data-ttu-id="9a102-137">Aprire un articolo o una scheda contatto.</span><span class="sxs-lookup"><span data-stu-id="9a102-137">Open an item or contact card.</span></span> <span data-ttu-id="9a102-138">Nella barra di notifica scegliere **Analisi immagine** e seguire i passaggi nella Guida assistita di setup.</span><span class="sxs-lookup"><span data-stu-id="9a102-138">In the notification bar, choose **Analyze Images**, and then follow the steps in the assisted setup guide.</span></span>  
 * <span data-ttu-id="9a102-139">Scegliere l'icona ![Cerca pagina o report](media/ui-search/search_small.png "icona Cerca pagina o report"), immettere **Connessioni servizio**, quindi scegliere **Setup analisi immagine**.</span><span class="sxs-lookup"><span data-stu-id="9a102-139">Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Service Connections**, and then choose **Image Analysis Setup**.</span></span> <span data-ttu-id="9a102-140">Scegliere la casella di controllo **Abilita analisi immagine** e completare i passaggi nella Guida assistita di setup.</span><span class="sxs-lookup"><span data-stu-id="9a102-140">Choose the **Enable Image Analyzer** check box, and then complete the steps in the assisted setup guide.</span></span>  
 
->   [!TIP]  
+> [!TIP]
 >   <span data-ttu-id="9a102-141">Nella pagina **Setup analisi immagine** è possibile anche modificare il grado di affidabilità per i suggerimenti relativi all'attributo.</span><span class="sxs-lookup"><span data-stu-id="9a102-141">The **Image Analysis Setup** page is also where you can change the degree of confidence for attribute suggestions.</span></span> <span data-ttu-id="9a102-142">Ad esempio, se si intende richiedere un maggior grado di affidabilità, è possibile immettere un valore percentuale più alto.</span><span class="sxs-lookup"><span data-stu-id="9a102-142">For example, if you want to require a greater degree of confidence, you can enter a higher percentage.</span></span>
 
 ## <a name="to-analyze-an-image-of-an-item"></a><span data-ttu-id="9a102-143">Per analizzare un'immagine di un articolo</span><span class="sxs-lookup"><span data-stu-id="9a102-143">To analyze an image of an item</span></span>
@@ -62,7 +62,7 @@ ms.lasthandoff: 12/01/2017
 2. <span data-ttu-id="9a102-146">Selezionare l'articolo, quindi scegliere l'azione **Analizza immagine**.</span><span class="sxs-lookup"><span data-stu-id="9a102-146">Choose the item, and then choose the **Analyze Picture** action.</span></span>  
 3. <span data-ttu-id="9a102-147">Nella pagina **Attributi analisi immagini** vengono visualizzati gli attributi trovati, il livello di affidabilità e altre informazioni relative all'attributo.</span><span class="sxs-lookup"><span data-stu-id="9a102-147">The **Image Analyzer Attributes** page displays the detected attributes, the confidence level, and other details about the attribute.</span></span> <span data-ttu-id="9a102-148">Utilizzare le opzioni **Azione da eseguire** per specificare l'azione da intraprendere per l'attributo.</span><span class="sxs-lookup"><span data-stu-id="9a102-148">Use the **Action to perform** options to specify what to do with the attribute.</span></span>  
 
->   [!TIP]  
+> [!TIP]
 >   <span data-ttu-id="9a102-149">È possibile aggiungere il nome dell'attributo alla descrizione dell'articolo selezionando **Aggiungi a descrizione articolo**.</span><span class="sxs-lookup"><span data-stu-id="9a102-149">You can add the name of the attribute to the item description by choosing **Add to item description**.</span></span> <span data-ttu-id="9a102-150">Ad esempio, questo può essere utile per aggiungere rapidamente un dettaglio.</span><span class="sxs-lookup"><span data-stu-id="9a102-150">For example, this can be useful for quickly adding detail.</span></span>  
 
 ## <a name="to-analyze-a-picture-of-a-contact-person"></a><span data-ttu-id="9a102-151">Per analizzare un'immagine di una persona di contatto</span><span class="sxs-lookup"><span data-stu-id="9a102-151">To analyze a picture of a contact person</span></span>
@@ -78,7 +78,7 @@ ms.lasthandoff: 12/01/2017
 1. <span data-ttu-id="9a102-158">Scegliere l'icona ![Cerca pagina o report](media/ui-search/search_small.png "icona Cerca pagina o report"), immettere **Setup analisi immagine**, quindi selezionare il collegamento correlato.</span><span class="sxs-lookup"><span data-stu-id="9a102-158">Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Image Analyzer Setup**, and then choose the related link.</span></span>  
 2. <span data-ttu-id="9a102-159">Immettere l'**URI API** e la **Chiave API** ricevuti per l'API Visione artificiale.</span><span class="sxs-lookup"><span data-stu-id="9a102-159">Enter the **API URI** and **API Key** that you received for Computer Vision API.</span></span>  
 
->   [!NOTE]  
+> [!NOTE]
 >   <span data-ttu-id="9a102-160">È necessario aggiungere **/analyze** alla fine dell'URI API, se non è già presente.</span><span class="sxs-lookup"><span data-stu-id="9a102-160">You must add **/analyze** at the end of the API URI, if it isn't already there.</span></span> <span data-ttu-id="9a102-161">Ad esempio: ```https://cronus.api.cognitive.microsoft.com/vision/v1.0/analyze```</span><span class="sxs-lookup"><span data-stu-id="9a102-161">For example: ```https://cronus.api.cognitive.microsoft.com/vision/v1.0/analyze```.</span></span>
 
 ## <a name="to-see-how-many-analyses-you-have-left-in-the-current-period"></a><span data-ttu-id="9a102-162">Per visualizzare il numero delle analisi rimanenti per il periodo corrente</span><span class="sxs-lookup"><span data-stu-id="9a102-162">To see how many analyses you have left in the current period</span></span>

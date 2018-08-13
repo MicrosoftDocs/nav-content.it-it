@@ -12,10 +12,10 @@ ms.search.keywords: online payment
 ms.date: 07/07/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
-ms.openlocfilehash: ed26ab9e5f1f3c374a6dd15fbed5917720c3010b
+ms.sourcegitcommit: 2f7b7db12069fd9f93a616077ea2b61393c1e9a3
+ms.openlocfilehash: af737eba44e28c4a60a89efc8af86fe952b9a868
 ms.contentlocale: it-it
-ms.lasthandoff: 12/01/2017
+ms.lasthandoff: 08/13/2018
 
 ---
 # <a name="how-to-enable-customer-payments-through-payment-services"></a><span data-ttu-id="14364-103">Procedura: Abilitare i pagamenti clienti tramite i servizi di pagamento</span><span class="sxs-lookup"><span data-stu-id="14364-103">How to: Enable Customer Payments Through Payment Services</span></span>
@@ -39,7 +39,7 @@ ms.lasthandoff: 12/01/2017
 3. <span data-ttu-id="14364-119">Nel campo **Servizio di pagamento** scegliere il servizio di pagamento.</span><span class="sxs-lookup"><span data-stu-id="14364-119">In the **Payment Service** field, choose the payment service.</span></span>  
 
     > [!NOTE]  
->   <span data-ttu-id="14364-120">Il campo **Servizio di pagamento** è disponibile solo se è stato abilitato il servizio di pagamento.</span><span class="sxs-lookup"><span data-stu-id="14364-120">The **Payment Service** field is available only if you've enabled the payment service.</span></span>  
+   >   <span data-ttu-id="14364-120">Il campo **Servizio di pagamento** è disponibile solo se è stato abilitato il servizio di pagamento.</span><span class="sxs-lookup"><span data-stu-id="14364-120">The **Payment Service** field is available only if you've enabled the payment service.</span></span>  
 
 ## <a name="see-also"></a><span data-ttu-id="14364-121">Vedi anche</span><span class="sxs-lookup"><span data-stu-id="14364-121">See Also</span></span>  
 [<span data-ttu-id="14364-122">Setup Vendite</span><span class="sxs-lookup"><span data-stu-id="14364-122">Setting Up Sales</span></span>](sales-setup-sales.md)  

@@ -12,10 +12,10 @@ ms.search.keywords: service, cost, service order
 ms.date: 08/22/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
-ms.openlocfilehash: a1adc468d1228f9ed5de5d3c90b72b3451be464b
+ms.sourcegitcommit: 2f7b7db12069fd9f93a616077ea2b61393c1e9a3
+ms.openlocfilehash: 262c33a210246ab9bfc1109765675ddb8bb5ca33
 ms.contentlocale: it-it
-ms.lasthandoff: 12/01/2017
+ms.lasthandoff: 08/13/2018
 
 ---
 
@@ -31,10 +31,10 @@ ms.lasthandoff: 12/01/2017
 2. <span data-ttu-id="c74d1-114">Creare un nuovo gruppo di prezzi di assistenza.</span><span class="sxs-lookup"><span data-stu-id="c74d1-114">Create a new service price group.</span></span>  
 3. <span data-ttu-id="c74d1-115">Compilare i campi **Codice** e **Descrizione**.</span><span class="sxs-lookup"><span data-stu-id="c74d1-115">Fill in the **Code** and **Description** fields.</span></span>  
 4. <span data-ttu-id="c74d1-116">Scegliere l'azione **Setup**.</span><span class="sxs-lookup"><span data-stu-id="c74d1-116">Choose the **Setup** action.</span></span>  
-2. <span data-ttu-id="c74d1-117">Compilare i campi come necessario.</span><span class="sxs-lookup"><span data-stu-id="c74d1-117">Fill in the fields as necessary.</span></span> [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]  
+5. <span data-ttu-id="c74d1-117">Compilare i campi come necessario.</span><span class="sxs-lookup"><span data-stu-id="c74d1-117">Fill in the fields as necessary.</span></span> [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]  
 
- > [!Tip]
- > <span data-ttu-id="c74d1-118">Con i campi **Tipo rettifica** e **Importo**, è possibile specificare se una rettifica riguarderà un importo fisso oppure verrà applicata esclusivamente ai prezzi totali di assistenza che supereranno o saranno inferiori all'importo specificato nel campo **Importo**.</span><span class="sxs-lookup"><span data-stu-id="c74d1-118">The **Adjustment Type** and **Amount** fields work together to specify whether an adjustment concerns a fixed amount, or applies only when the total service price exceeds or is lower than the amount in the **Amount** field.</span></span>  
+   > [!Tip]
+   > <span data-ttu-id="c74d1-118">Con i campi **Tipo rettifica** e **Importo**, è possibile specificare se una rettifica riguarderà un importo fisso oppure verrà applicata esclusivamente ai prezzi totali di assistenza che supereranno o saranno inferiori all'importo specificato nel campo **Importo**.</span><span class="sxs-lookup"><span data-stu-id="c74d1-118">The **Adjustment Type** and **Amount** fields work together to specify whether an adjustment concerns a fixed amount, or applies only when the total service price exceeds or is lower than the amount in the **Amount** field.</span></span>  
 
 ## <a name="to-set-up-a-service-price-adjustment-group"></a><span data-ttu-id="c74d1-119">Per impostare un gruppo di rettifica dei prezzi di assistenza</span><span class="sxs-lookup"><span data-stu-id="c74d1-119">To set up a service price adjustment group</span></span>  
 <span data-ttu-id="c74d1-120">È possibile impostare i gruppi di rettifica del prezzo per rettificare il prezzo di assistenza degli articoli in assistenza.</span><span class="sxs-lookup"><span data-stu-id="c74d1-120">You can set up price adjustment groups to adjust service pricing of service items.</span></span> <span data-ttu-id="c74d1-121">Ad esempio, è possibile impostare gruppi di rettifica del prezzo per modificare il costo di spedizione o dei pezzi di ricambio.</span><span class="sxs-lookup"><span data-stu-id="c74d1-121">For example, you can set up price adjustment groups that adjust price of freight or spare parts.</span></span>  

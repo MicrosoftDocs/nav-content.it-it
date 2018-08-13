@@ -12,18 +12,18 @@ ms.search.keywords:
 ms.date: 08/29/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
-ms.openlocfilehash: 3bb2df6d727b52b3fc579cbcc3bd13539b75e6b1
+ms.sourcegitcommit: 2f7b7db12069fd9f93a616077ea2b61393c1e9a3
+ms.openlocfilehash: cf1b77db39994fd670d0eaa98ca4b4a649c50731
 ms.contentlocale: it-it
-ms.lasthandoff: 12/01/2017
+ms.lasthandoff: 08/13/2018
 
 ---
 # <a name="how-to-pick-items-with-inventory-picks"></a><span data-ttu-id="01b55-103">Procedura: prelevare articoli con prelievi magazzino</span><span class="sxs-lookup"><span data-stu-id="01b55-103">How to: Pick Items with Inventory Picks</span></span>
 <span data-ttu-id="01b55-104">Quando l'ubicazione è impostata in modo da richiedere l'elaborazione dei prelievi ma non l'elaborazione delle spedizioni, utilizzare la finestra **Prelievi magazzino** per registrare e contabilizzare le informazioni riguardanti il prelievo e la spedizione per i documenti di origine.</span><span class="sxs-lookup"><span data-stu-id="01b55-104">When your location is set up to require pick processing but not shipment processing, you use the **Inventory Pick** window to record and post picking and shipping information for your source documents.</span></span> <span data-ttu-id="01b55-105">Il documento di origine in uscita può essere un ordine di vendita, un ordine di reso da acquisto, un ordine di trasferimento in uscita o un ordine di produzione i cui componenti sono pronti per il prelievo.</span><span class="sxs-lookup"><span data-stu-id="01b55-105">The outbound source document can be a sales order, a purchase return order, an outbound transfer order, or a production order whose components are ready to be picked.</span></span>
 
-> [!NOTE]  
+> [!NOTE]
 > <span data-ttu-id="01b55-106">I componenti per gli ordini di assemblaggio non possono essere prelevati o registrati con i prelievi da magazzino.</span><span class="sxs-lookup"><span data-stu-id="01b55-106">Components for assembly orders cannot be picked or posted with inventory picks.</span></span> <span data-ttu-id="01b55-107">Pertanto, utilizzare la finestra **Movimento di magazzino**.</span><span class="sxs-lookup"><span data-stu-id="01b55-107">Instead, use the **Inventory Movement** window.</span></span> <span data-ttu-id="01b55-108">Per ulteriori informazioni, vedere [Procedura: Spostare componenti in un'area di operazione nella gestione warehouse di base](warehouse-how-to-move-components-to-an-operation-area-in-basic-warehousing.md).</span><span class="sxs-lookup"><span data-stu-id="01b55-108">For more information, see [How to: Move Components to an Operation Area in Basic Warehousing](warehouse-how-to-move-components-to-an-operation-area-in-basic-warehousing.md).</span></span>
-
+> 
 >  <span data-ttu-id="01b55-109">Durante il prelievo e la spedizione di quantità righe di vendita assemblate sull'ordine, è necessario seguire determinate regole per la creazione di righe di prelievo magazzino.</span><span class="sxs-lookup"><span data-stu-id="01b55-109">When picking and shipping sales line quantities that are assembled to the order, you must follow certain rules when creating the inventory pick lines.</span></span> <span data-ttu-id="01b55-110">Per ulteriori informazioni, vedere la sezione "Gestione di articoli da assemblare su ordine in prelievi magazzino".</span><span class="sxs-lookup"><span data-stu-id="01b55-110">For more information, see the “Handling Assemble-to-Order Items in Inventory Picks” section.</span></span>  
 
 <span data-ttu-id="01b55-111">È possibile creare un prelievo da magazzino in tre modi:</span><span class="sxs-lookup"><span data-stu-id="01b55-111">You can create an inventory pick in three ways:</span></span>  

@@ -12,10 +12,10 @@ ms.search.keywords: payment journal, print check, vendor payment, creditor, debt
 ms.date: 06/06/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
-ms.openlocfilehash: 183a1281b47d9fc06a7e73490fe710f9bc5ad804
+ms.sourcegitcommit: 2f7b7db12069fd9f93a616077ea2b61393c1e9a3
+ms.openlocfilehash: e5f14a05e6673ec01724897e5b7c8daa2e2cb322
 ms.contentlocale: it-it
-ms.lasthandoff: 12/01/2017
+ms.lasthandoff: 08/13/2018
 
 ---
 # <a name="how-to-work-with-checks"></a><span data-ttu-id="e7367-103">Procedura: Utilizzo degli assegni</span><span class="sxs-lookup"><span data-stu-id="e7367-103">How to: Work With Checks</span></span>
@@ -37,7 +37,7 @@ ms.lasthandoff: 12/01/2017
    * <span data-ttu-id="e7367-120">**Assegno manuale**: selezionare questa opzione se è stato creato un assegno manualmente e si desidera creare un corrispondente movimento contabile per questo importo.</span><span class="sxs-lookup"><span data-stu-id="e7367-120">**Manual Check**: Select this option if you have created a check manually and want to create a corresponding check ledger entry for this amount.</span></span> <span data-ttu-id="e7367-121">Non è possibile stampare assegni tramite questa opzione da [!INCLUDE[d365fin](includes/d365fin_md.md)].</span><span class="sxs-lookup"><span data-stu-id="e7367-121">By using this option, you cannot print checks from [!INCLUDE[d365fin](includes/d365fin_md.md)].</span></span> <span data-ttu-id="e7367-122">È possibile selezionare **Assegno manuale** solo se il campo **Tipo contropartita** o il campo **Tipo conto** è impostato su **Conto bancario**.</span><span class="sxs-lookup"><span data-stu-id="e7367-122">You can only select **Manual Check** if the **Bal. Account Type** or the **Account Type** is **Bank Account**.</span></span>
 
      > [!NOTE]  
->   <span data-ttu-id="e7367-123">È necessario stampare gli assegni automatici prima di poter registrare le righe di registrazione correlate.</span><span class="sxs-lookup"><span data-stu-id="e7367-123">You must print computer checks before you post the related journal lines.</span></span>
+     >   <span data-ttu-id="e7367-123">È necessario stampare gli assegni automatici prima di poter registrare le righe di registrazione correlate.</span><span class="sxs-lookup"><span data-stu-id="e7367-123">You must print computer checks before you post the related journal lines.</span></span>
 4. <span data-ttu-id="e7367-124">In caso di assegni automatici, scegliere **Stampa assegno**.</span><span class="sxs-lookup"><span data-stu-id="e7367-124">In case of computer checks, choose **Print Check**.</span></span>
 5. <span data-ttu-id="e7367-125">Nella finestra **Assegno** compilare i campi secondo le proprie necessità.</span><span class="sxs-lookup"><span data-stu-id="e7367-125">In the **Check** window, fill in the fields as necessary.</span></span> [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]
 6. <span data-ttu-id="e7367-126">Selezionare il pulsante **Stampa**.</span><span class="sxs-lookup"><span data-stu-id="e7367-126">Choose the **Print** button.</span></span>

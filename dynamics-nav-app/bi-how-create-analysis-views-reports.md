@@ -12,10 +12,10 @@ ms.search.keywords: bi, power BI, analysis, KPI
 ms.date: 06/16/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
-ms.openlocfilehash: 82c4c7f449600a1336502d9f67f9b8bdb1d3694d
+ms.sourcegitcommit: 2f7b7db12069fd9f93a616077ea2b61393c1e9a3
+ms.openlocfilehash: 0c0eb08efbd40f7e761c1aed1185357ebc7034a0
 ms.contentlocale: it-it
-ms.lasthandoff: 12/01/2017
+ms.lasthandoff: 08/13/2018
 
 ---
 #  <a name="how-to-create-analysis-reports"></a><span data-ttu-id="efce6-103">Procedura: Creare report di analisi</span><span class="sxs-lookup"><span data-stu-id="efce6-103">How to: Create Analysis Reports</span></span>
@@ -69,10 +69,10 @@ ms.lasthandoff: 12/01/2017
 4. <span data-ttu-id="efce6-154">Nella finestra **Colonne Analisi** compilare i campi per specificare le colonne da includere nel report analisi.</span><span class="sxs-lookup"><span data-stu-id="efce6-154">In the **Analysis Columns** window, fill in the fields to specify the columns that you want to include in your analysis report.</span></span>  
 
     > [!NOTE]  
->   <span data-ttu-id="efce6-155">Per definire una colonna, è necessario compilare il campo **Codice tipo analisi** per tutti i tipi di colonna ad eccezione di **Formula**.</span><span class="sxs-lookup"><span data-stu-id="efce6-155">To define a column, you must fill in the **Analysis Type Codes** field for all column types except **Formula**.</span></span> <span data-ttu-id="efce6-156">La finestra **Tipi di analisi** consente di impostare i codici di tipo di analisi.</span><span class="sxs-lookup"><span data-stu-id="efce6-156">Set up the analysis type codes in the **Analysis Types** window.</span></span>  
+   >   <span data-ttu-id="efce6-155">Per definire una colonna, è necessario compilare il campo **Codice tipo analisi** per tutti i tipi di colonna ad eccezione di **Formula**.</span><span class="sxs-lookup"><span data-stu-id="efce6-155">To define a column, you must fill in the **Analysis Type Codes** field for all column types except **Formula**.</span></span> <span data-ttu-id="efce6-156">La finestra **Tipi di analisi** consente di impostare i codici di tipo di analisi.</span><span class="sxs-lookup"><span data-stu-id="efce6-156">Set up the analysis type codes in the **Analysis Types** window.</span></span>  
 
     <span data-ttu-id="efce6-157">**Nota**.</span><span class="sxs-lookup"><span data-stu-id="efce6-157">**Note**.</span></span> <span data-ttu-id="efce6-158">Se si seleziona **Mov. articoli** nel campo **Tipo mov. contabile**, i valori effettivi verranno copiati dai movimenti contabili articoli.</span><span class="sxs-lookup"><span data-stu-id="efce6-158">In the **Ledger Entry Type** field, if you select **Item Entries**, the actual figures from the item ledger entry are copied.</span></span> <span data-ttu-id="efce6-159">Se si seleziona **Movimenti budget articoli**, i valori previsti verranno copiati dal budget.</span><span class="sxs-lookup"><span data-stu-id="efce6-159">If you select **Item Budget Entries**, the budgeted figures from the budget are copied.</span></span>  
-5.  <span data-ttu-id="efce6-160">Scegliere il pulsante **OK** per salvare le modifiche.</span><span class="sxs-lookup"><span data-stu-id="efce6-160">Choose the **OK** button to save your changes.</span></span>  
+5. <span data-ttu-id="efce6-160">Scegliere il pulsante **OK** per salvare le modifiche.</span><span class="sxs-lookup"><span data-stu-id="efce6-160">Choose the **OK** button to save your changes.</span></span>  
 
 ## <a name="to-set-up-analysis-line-templates"></a><span data-ttu-id="efce6-161">Per impostare modelli di righe di analisi</span><span class="sxs-lookup"><span data-stu-id="efce6-161">To set up analysis line templates</span></span>  
 <span data-ttu-id="efce6-162">La seguente procedura è basata sui report di analisi per le vendite.</span><span class="sxs-lookup"><span data-stu-id="efce6-162">The following procedure is based on analysis reports for sales.</span></span> <span data-ttu-id="efce6-163">I passaggi sono simili a quelli dei report di analisi di magazzino e di acquisto.</span><span class="sxs-lookup"><span data-stu-id="efce6-163">The steps are similar for purchase and inventory analysis reports.</span></span>

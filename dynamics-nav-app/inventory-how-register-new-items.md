@@ -12,10 +12,10 @@ ms.search.keywords: item, finished good, component, raw material, assembly item
 ms.date: 08/31/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
-ms.openlocfilehash: aa9ff43cfc4b715d7904fffa6fddb1eb08322959
+ms.sourcegitcommit: 2f7b7db12069fd9f93a616077ea2b61393c1e9a3
+ms.openlocfilehash: a68ff2b7b13b631543a309a43a570cb1ffb738c1
 ms.contentlocale: it-it
-ms.lasthandoff: 12/01/2017
+ms.lasthandoff: 08/13/2018
 
 ---
 # <a name="how-to-register-new-items"></a><span data-ttu-id="4cb59-103">Procedura: Registrare nuovi articoli</span><span class="sxs-lookup"><span data-stu-id="4cb59-103">How to: Register New Items</span></span>
@@ -77,5 +77,5 @@ ms.lasthandoff: 12/01/2017
   [<span data-ttu-id="4cb59-156">Vendite</span><span class="sxs-lookup"><span data-stu-id="4cb59-156">Sales</span></span>](sales-manage-sales.md)  
   <span data-ttu-id="4cb59-157">[Utilizzo di [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]](ui-work-product.md)</span><span class="sxs-lookup"><span data-stu-id="4cb59-157">[Working with [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]](ui-work-product.md)</span></span>
 
-##
+# #
 

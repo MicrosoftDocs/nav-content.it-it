@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 08/07/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
-ms.openlocfilehash: ad029ce0c839feb082f31cc4e41f5fc6e4ce80f1
+ms.sourcegitcommit: 2f7b7db12069fd9f93a616077ea2b61393c1e9a3
+ms.openlocfilehash: ba590af18a57e2c6e187d55d79f0b249cea332ba
 ms.contentlocale: it-it
-ms.lasthandoff: 12/01/2017
+ms.lasthandoff: 08/13/2018
 
 ---
 # <a name="how-to-create-prepayment-invoices"></a><span data-ttu-id="13a73-103">Procedura: Creare fatture di pagamenti anticipati</span><span class="sxs-lookup"><span data-stu-id="13a73-103">How to: Create Prepayment Invoices</span></span>
@@ -32,10 +32,10 @@ ms.lasthandoff: 12/01/2017
     <span data-ttu-id="13a73-114">Nella Scheda dettaglio **Pagamento anticipato**, il campo **% pagamento anticipato** verrà compilato automaticamente se nella scheda cliente è impostata una percentuale pagamento anticipato di default.</span><span class="sxs-lookup"><span data-stu-id="13a73-114">On the **Prepayment** FastTab, the **Prepayment %** field will be filled in automatically if there is a default prepayment percentage on the customer card.</span></span> <span data-ttu-id="13a73-115">È possibile modificare il contenuto del campo.</span><span class="sxs-lookup"><span data-stu-id="13a73-115">You can change the contents of the field.</span></span> <span data-ttu-id="13a73-116">La percentuale pagamento anticipato viene copiata dalla testata solo nelle righe in cui non viene copiata la percentuale pagamento anticipato di default per l'articolo.</span><span class="sxs-lookup"><span data-stu-id="13a73-116">The prepayment percentage is only copied from the header to lines that do not copy the default prepayment percentage from the item.</span></span>  
 
     <span data-ttu-id="13a73-117">Se il campo **Comprimi pagamento anticipato** è selezionato, nella fattura le righe verranno combinate se:</span><span class="sxs-lookup"><span data-stu-id="13a73-117">If the **Compress Prepayment** field is selected, lines will be combined on the invoice if:</span></span>  
-    - <span data-ttu-id="13a73-118">Le righe hanno lo stesso conto di contabilità generale per i pagamenti anticipati, come determinato in Setup registrazioni COGE.</span><span class="sxs-lookup"><span data-stu-id="13a73-118">They have the same general ledger account for prepayments as determined by the general posting setup.</span></span>  
-    - <span data-ttu-id="13a73-119">Le righe hanno le stesse dimensioni.</span><span class="sxs-lookup"><span data-stu-id="13a73-119">They have the same dimensions.</span></span>  
+   - <span data-ttu-id="13a73-118">Le righe hanno lo stesso conto di contabilità generale per i pagamenti anticipati, come determinato in Setup registrazioni COGE.</span><span class="sxs-lookup"><span data-stu-id="13a73-118">They have the same general ledger account for prepayments as determined by the general posting setup.</span></span>  
+   - <span data-ttu-id="13a73-119">Le righe hanno le stesse dimensioni.</span><span class="sxs-lookup"><span data-stu-id="13a73-119">They have the same dimensions.</span></span>  
 
-    <span data-ttu-id="13a73-120">Lasciare vuoto il campo se si desidera specificare una fattura pagamento anticipato con una riga per ogni riga dell'ordine di vendita associata a una percentuale pagamento anticipato.</span><span class="sxs-lookup"><span data-stu-id="13a73-120">Leave the field blank if you want to specify a prepayment invoice with one line for each sales order line that has a prepayment percentage.</span></span>  
+     <span data-ttu-id="13a73-120">Lasciare vuoto il campo se si desidera specificare una fattura pagamento anticipato con una riga per ogni riga dell'ordine di vendita associata a una percentuale pagamento anticipato.</span><span class="sxs-lookup"><span data-stu-id="13a73-120">Leave the field blank if you want to specify a prepayment invoice with one line for each sales order line that has a prepayment percentage.</span></span>  
 
 3. <span data-ttu-id="13a73-121">Compilare le righe di vendita.</span><span class="sxs-lookup"><span data-stu-id="13a73-121">Fill in the sales lines.</span></span>  
 

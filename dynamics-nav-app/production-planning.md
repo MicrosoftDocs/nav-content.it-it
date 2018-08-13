@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 09/14/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
-ms.openlocfilehash: af9bd34a16af453d913e6fe3f0f0167ec96faf77
+ms.sourcegitcommit: 2f7b7db12069fd9f93a616077ea2b61393c1e9a3
+ms.openlocfilehash: f3bb7faf1657366f10cfacb4a7c5307c99bf2a4a
 ms.contentlocale: it-it
-ms.lasthandoff: 12/01/2017
+ms.lasthandoff: 08/13/2018
 
 ---
 # <a name="planning"></a><span data-ttu-id="89c48-103">Pianificazione</span><span class="sxs-lookup"><span data-stu-id="89c48-103">Planning</span></span>
@@ -23,7 +23,7 @@ ms.lasthandoff: 12/01/2017
 
 > [!NOTE]
 > <span data-ttu-id="89c48-106">Questo argomento descrive principalmente la pianificazione per le società coinvolte nella gestione della produzione o dell'assemblaggio dove gli ordini di approvvigionamento risultanti possono essere ordini di produzione, assemblaggio, trasferimento o acquisto.</span><span class="sxs-lookup"><span data-stu-id="89c48-106">This topic mainly describes planning for companies involved in manufacturing or assembly management where the resulting supply orders can be either production, assembly, transfer, or purchase orders.</span></span> <span data-ttu-id="89c48-107">L'interfaccia principale per questo lavoro di pianificazione è la finestra **Prospetto pianificazione**.</span><span class="sxs-lookup"><span data-stu-id="89c48-107">The main interface for this planning work is the **Planning Worksheet** window.</span></span>
-
+> 
 > [!INCLUDE[d365fin](includes/d365fin_md.md)]<span data-ttu-id="89c48-108"> supporta inoltre anche la pianificazione degli approvvigionamenti per le società di vendita all'ingrosso dove gli ordini di approvvigionamento risultanti possono essere soltanto ordini di trasferimento e di acquisto.</span><span class="sxs-lookup"><span data-stu-id="89c48-108"> also supports supply planning for wholesale companies where the resulting supply orders can only be transfer and purchase orders.</span></span> <span data-ttu-id="89c48-109">L'interfaccia principale per questo lavoro di pianificazione è la finestra **Richiesta di approvvigionamento**, descritta indirettamente in questo argomento in quanto la funzionalità di pianificazione è in larga parte applicabile a entrambi i prospetti.</span><span class="sxs-lookup"><span data-stu-id="89c48-109">The main interface for this planning work is the **Requisition Worksheet** window, which is described indirectly in this topic as most planning functionality applies to both worksheets.</span></span>
 
 <span data-ttu-id="89c48-110">Prima di pianificare ed eseguire gli ordini di produzione, è necessario configurare le capacità di produzione, ad esempio la creazione di calendari del reparto produzione, cicli, DB di produzione e centri di lavoro.</span><span class="sxs-lookup"><span data-stu-id="89c48-110">Before you can plan and execute production orders, you must configure production capacities, such as creating shop calendars, routings, production BOMs, and machine centers.</span></span> <span data-ttu-id="89c48-111">Per ulteriori informazioni, vedere [Impostazione della produzione](production-configure-production-processes.md).</span><span class="sxs-lookup"><span data-stu-id="89c48-111">For more information, see [Setting Up Manufacturing](production-configure-production-processes.md).</span></span>

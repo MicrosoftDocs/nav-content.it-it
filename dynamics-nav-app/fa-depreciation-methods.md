@@ -12,10 +12,10 @@ ms.search.keywords: write down
 ms.date: 06/02/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
-ms.openlocfilehash: 20a0c462488292d709bac76a3927b7579cb0f774
+ms.sourcegitcommit: 2f7b7db12069fd9f93a616077ea2b61393c1e9a3
+ms.openlocfilehash: b7453d366976b465a1b4b808cce50dbc6e8b724c
 ms.contentlocale: it-it
-ms.lasthandoff: 12/01/2017
+ms.lasthandoff: 08/13/2018
 
 ---
 # <a name="depreciation-methods"></a><span data-ttu-id="472b2-103">Metodi ammortamento</span><span class="sxs-lookup"><span data-stu-id="472b2-103">Depreciation Methods</span></span>
@@ -30,11 +30,11 @@ ms.lasthandoff: 12/01/2017
 * <span data-ttu-id="472b2-111">Manuale</span><span class="sxs-lookup"><span data-stu-id="472b2-111">Manual</span></span>  
 
   > [!NOTE]  
->   <span data-ttu-id="472b2-112">È possibile utilizzare questo metodo per i cespiti che non sono soggetti ad ammortamento, ad esempio i terreni.</span><span class="sxs-lookup"><span data-stu-id="472b2-112">Use this method for assets that are not subject to depreciation, for example, land.</span></span> <span data-ttu-id="472b2-113">Immettere l'ammortamento nella Registrazioni Cespiti in C/G.</span><span class="sxs-lookup"><span data-stu-id="472b2-113">You must enter depreciation in the fixed asset G/L journal.</span></span> <span data-ttu-id="472b2-114">Il processo batch **Calcolo ammortamento** non considera i cespiti che utilizzano questo metodo di ammortamento.</span><span class="sxs-lookup"><span data-stu-id="472b2-114">The **Calculate Depreciation** batch job omits fixed assets that use this depreciation method.</span></span>  
+  >   <span data-ttu-id="472b2-112">È possibile utilizzare questo metodo per i cespiti che non sono soggetti ad ammortamento, ad esempio i terreni.</span><span class="sxs-lookup"><span data-stu-id="472b2-112">Use this method for assets that are not subject to depreciation, for example, land.</span></span> <span data-ttu-id="472b2-113">Immettere l'ammortamento nella Registrazioni Cespiti in C/G.</span><span class="sxs-lookup"><span data-stu-id="472b2-113">You must enter depreciation in the fixed asset G/L journal.</span></span> <span data-ttu-id="472b2-114">Il processo batch **Calcolo ammortamento** non considera i cespiti che utilizzano questo metodo di ammortamento.</span><span class="sxs-lookup"><span data-stu-id="472b2-114">The **Calculate Depreciation** batch job omits fixed assets that use this depreciation method.</span></span>  
 * <span data-ttu-id="472b2-115">Convenzione semestrale</span><span class="sxs-lookup"><span data-stu-id="472b2-115">Half-Year Convention</span></span>  
 
   > [!NOTE]  
->    <span data-ttu-id="472b2-116">Utilizzando questo metodo nei cespiti, ogni anno viene ammortizzato lo stesso importo.</span><span class="sxs-lookup"><span data-stu-id="472b2-116">When you use this method, a fixed asset is depreciated by the same amount each year.</span></span>  
+  >    <span data-ttu-id="472b2-116">Utilizzando questo metodo nei cespiti, ogni anno viene ammortizzato lo stesso importo.</span><span class="sxs-lookup"><span data-stu-id="472b2-116">When you use this method, a fixed asset is depreciated by the same amount each year.</span></span>  
 
 ## <a name="straight-line-depreciation"></a><span data-ttu-id="472b2-117">Ammortamento a quote costanti</span><span class="sxs-lookup"><span data-stu-id="472b2-117">Straight-Line Depreciation</span></span>
 <span data-ttu-id="472b2-118">Se si utilizza il metodo a quote costanti occorre indicare nel registro beni ammortizzabili cespiti una delle seguenti opzioni:</span><span class="sxs-lookup"><span data-stu-id="472b2-118">When you use the straight-line method, you must specify one of the following options in the fixed asset depreciation book:</span></span>  

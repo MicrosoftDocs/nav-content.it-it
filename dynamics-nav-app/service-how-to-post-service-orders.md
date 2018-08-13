@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
-ms.openlocfilehash: 777ca1545acc5f3c8b2b875eed869e874d7af639
+ms.sourcegitcommit: 2f7b7db12069fd9f93a616077ea2b61393c1e9a3
+ms.openlocfilehash: 91071b2ee6994a5c1dc00cf587daf323f06fdeaf
 ms.contentlocale: it-it
-ms.lasthandoff: 12/01/2017
+ms.lasthandoff: 08/13/2018
 
 ---
 # <a name="how-to-post-service-orders-and-credit-memos"></a><span data-ttu-id="c6047-105">Procedura: Registrare note di credito e ordini di assistenza</span><span class="sxs-lookup"><span data-stu-id="c6047-105">How to: Post Service Orders and Credit Memos</span></span>
@@ -112,11 +112,11 @@ ms.lasthandoff: 12/01/2017
 3. <span data-ttu-id="c6047-206">Scegliere **Azioni**, quindi **Spedizione** e infine **Righe spedizioni assistenza**.</span><span class="sxs-lookup"><span data-stu-id="c6047-206">Choose **Actions**, choose **Shipment**, and then choose **Service Shipment Lines**.</span></span>  
 4. <span data-ttu-id="c6047-207">Scegliere le righe contenenti il consumo non corretto, quindi scegliere l'azione **Annulla consumo**.</span><span class="sxs-lookup"><span data-stu-id="c6047-207">Choose the lines that contain the incorrect consumption, and then choose the **Undo Consumption** action.</span></span>  
   
- <span data-ttu-id="c6047-208">Nei campi relativi alla quantità delle righe selezionate verrà inserita una riga di spedizione di assistenza di contropartita con valori negativi.</span><span class="sxs-lookup"><span data-stu-id="c6047-208">A balancing service shipment line is inserted with negative values in the quantity fields for the selected lines.</span></span>  
+   <span data-ttu-id="c6047-208">Nei campi relativi alla quantità delle righe selezionate verrà inserita una riga di spedizione di assistenza di contropartita con valori negativi.</span><span class="sxs-lookup"><span data-stu-id="c6047-208">A balancing service shipment line is inserted with negative values in the quantity fields for the selected lines.</span></span>  
   
-> [!NOTE]  
+> [!NOTE]
 >  <span data-ttu-id="c6047-209">Non è possibile annullare un consumo di assistenza se:</span><span class="sxs-lookup"><span data-stu-id="c6047-209">You cannot undo service consumption if:</span></span>  
-
+> 
 >    * <span data-ttu-id="c6047-210">L'ordine di assistenza è stato chiuso.</span><span class="sxs-lookup"><span data-stu-id="c6047-210">The service order has been closed.</span></span>  
 >    * <span data-ttu-id="c6047-211">È stato registrato nell'area Commesse e i movimenti contabili delle commesse sono stati collegati ad esso.</span><span class="sxs-lookup"><span data-stu-id="c6047-211">It has been posted to the Jobs area, so there are job ledger entries linked to it.</span></span>  
   

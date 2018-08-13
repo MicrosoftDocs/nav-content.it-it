@@ -11,10 +11,10 @@ ms.search.keywords:
 ms.date: 09/01/2017
 ms.author: edupont
 ms.translationtype: HT
-ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
-ms.openlocfilehash: 86d23ee8f658bb31fa1eceb438bbe78774185c73
+ms.sourcegitcommit: 2f7b7db12069fd9f93a616077ea2b61393c1e9a3
+ms.openlocfilehash: 2b89d90d68987cad3776867b2a508fa54ea69fc5
 ms.contentlocale: it-it
-ms.lasthandoff: 12/01/2017
+ms.lasthandoff: 08/13/2018
 
 ---
 # <a name="use-job-queues-to-schedule-tasks"></a><span data-ttu-id="43543-105">Utilizzare le code processi per pianificare i task</span><span class="sxs-lookup"><span data-stu-id="43543-105">Use Job Queues to Schedule Tasks</span></span>
@@ -37,11 +37,11 @@ ms.lasthandoff: 12/01/2017
 
  [!INCLUDE[d365fin](includes/d365fin_md.md)]<span data-ttu-id="43543-130"> supporta la registrazione background per i seguenti tipi di documento:</span><span class="sxs-lookup"><span data-stu-id="43543-130"> supports background posting for the following document types:</span></span>  
 
--   <span data-ttu-id="43543-131">Vendite: ordine di vendita, ordine di reso, nota di credito, fattura</span><span class="sxs-lookup"><span data-stu-id="43543-131">Sales: sales order, return order, credit memo, invoice</span></span>  
+- <span data-ttu-id="43543-131">Vendite: ordine di vendita, ordine di reso, nota di credito, fattura</span><span class="sxs-lookup"><span data-stu-id="43543-131">Sales: sales order, return order, credit memo, invoice</span></span>  
 
--   <span data-ttu-id="43543-132">Acquisti: ordine di acquisto, ordine di reso, nota di credito, fattura</span><span class="sxs-lookup"><span data-stu-id="43543-132">Purchases: purchase order, return order, credit memo, invoice</span></span>  
+- <span data-ttu-id="43543-132">Acquisti: ordine di acquisto, ordine di reso, nota di credito, fattura</span><span class="sxs-lookup"><span data-stu-id="43543-132">Purchases: purchase order, return order, credit memo, invoice</span></span>  
 
- <span data-ttu-id="43543-133">Se la coda processi non può registrare l'ordine di vendita, lo stato viene modificato in **Errore** e l'ordine di vendita viene aggiunto all'elenco degli ordini di vendita che l'utente dovrà gestire.</span><span class="sxs-lookup"><span data-stu-id="43543-133">If the job queue cannot post the sales order, the status is changed to **Error**, and the sales order is added to the list of sales orders that the user will have to handle.</span></span>  
+  <span data-ttu-id="43543-133">Se la coda processi non può registrare l'ordine di vendita, lo stato viene modificato in **Errore** e l'ordine di vendita viene aggiunto all'elenco degli ordini di vendita che l'utente dovrà gestire.</span><span class="sxs-lookup"><span data-stu-id="43543-133">If the job queue cannot post the sales order, the status is changed to **Error**, and the sales order is added to the list of sales orders that the user will have to handle.</span></span>  
 
 > [!NOTE]  
 >  <span data-ttu-id="43543-134">Quando viene programmato un documento per la registrazione e inizia il processo di registrazione, la routine di registrazione viene configurata automaticamente affinché scada entro due ore se la routine di registrazione smette di rispondere per un motivo qualsiasi.</span><span class="sxs-lookup"><span data-stu-id="43543-134">When you schedule a document for posting and the posting process begins, the posting routine is automatically configured to time out within two hours if the posting routine stops responding for any reason.</span></span>  

@@ -12,10 +12,10 @@ ms.search.keywords: bank account transfer, multiple currencies
 ms.date: 06/02/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
-ms.openlocfilehash: 8625fa7648de96b2269f6150f8dfe383fed6645c
+ms.sourcegitcommit: 2f7b7db12069fd9f93a616077ea2b61393c1e9a3
+ms.openlocfilehash: 3c667944e21e88824792a5ed54317aadcd2e7cd4
 ms.contentlocale: it-it
-ms.lasthandoff: 12/01/2017
+ms.lasthandoff: 08/13/2018
 
 ---
 # <a name="how-to-transfer-bank-funds"></a><span data-ttu-id="36a9d-103">Procedura: Trasferire fondi bancari</span><span class="sxs-lookup"><span data-stu-id="36a9d-103">How to: Transfer Bank Funds</span></span>
@@ -48,7 +48,7 @@ ms.lasthandoff: 12/01/2017
 12. <span data-ttu-id="36a9d-133">Nel campo **Nr. contropartita** selezionare il conto bancario da cui si desidera trasferire i fondi.</span><span class="sxs-lookup"><span data-stu-id="36a9d-133">In the **Bal. Account No.** field, select the bank account from which you want to transfer the funds.</span></span>
 
     > [!NOTE]  
->   <span data-ttu-id="36a9d-134">Se i tassi di cambio utilizzati nelle registrazioni sono diversi dai tassi riportati nella finestra **Tassi di cambio valuta**, compilare una terza riga per il guadagno o la perdita nel tasso di cambio.</span><span class="sxs-lookup"><span data-stu-id="36a9d-134">If the exchange rates used in the journal are different than the exchange rates in the **Currency Exchange Rates** window, enter a third line for the exchange rate gain or loss.</span></span> <span data-ttu-id="36a9d-135">Immettere **Conto C/G** nel campo **Tipo conto**.</span><span class="sxs-lookup"><span data-stu-id="36a9d-135">Enter **G/L Account** in the **Account Type** field.</span></span> <span data-ttu-id="36a9d-136">Nel campo **Nr. conto** immettere il numero di conto C/G per i guadagni o le perdite nel tasso di cambio.</span><span class="sxs-lookup"><span data-stu-id="36a9d-136">Enter the G/L account number for exchange rate gain or loss in the **Account No.** field.</span></span> <span data-ttu-id="36a9d-137">Immettere utile o perdita in **Importo** campo con o senza un segno meno per i crediti e debiti rispettivamente.</span><span class="sxs-lookup"><span data-stu-id="36a9d-137">Enter the exchange rate gain or loss in the **Amount** field with or without a minus sign for credits and debits respectively.</span></span>
+    >   <span data-ttu-id="36a9d-134">Se i tassi di cambio utilizzati nelle registrazioni sono diversi dai tassi riportati nella finestra **Tassi di cambio valuta**, compilare una terza riga per il guadagno o la perdita nel tasso di cambio.</span><span class="sxs-lookup"><span data-stu-id="36a9d-134">If the exchange rates used in the journal are different than the exchange rates in the **Currency Exchange Rates** window, enter a third line for the exchange rate gain or loss.</span></span> <span data-ttu-id="36a9d-135">Immettere **Conto C/G** nel campo **Tipo conto**.</span><span class="sxs-lookup"><span data-stu-id="36a9d-135">Enter **G/L Account** in the **Account Type** field.</span></span> <span data-ttu-id="36a9d-136">Nel campo **Nr. conto** immettere il numero di conto C/G per i guadagni o le perdite nel tasso di cambio.</span><span class="sxs-lookup"><span data-stu-id="36a9d-136">Enter the G/L account number for exchange rate gain or loss in the **Account No.** field.</span></span> <span data-ttu-id="36a9d-137">Immettere utile o perdita in **Importo** campo con o senza un segno meno per i crediti e debiti rispettivamente.</span><span class="sxs-lookup"><span data-stu-id="36a9d-137">Enter the exchange rate gain or loss in the **Amount** field with or without a minus sign for credits and debits respectively.</span></span>
 13. <span data-ttu-id="36a9d-138">Effettuare la registrazione.</span><span class="sxs-lookup"><span data-stu-id="36a9d-138">Post the journal.</span></span>
 
 ## <a name="see-also"></a><span data-ttu-id="36a9d-139">Vedi anche</span><span class="sxs-lookup"><span data-stu-id="36a9d-139">See Also</span></span>

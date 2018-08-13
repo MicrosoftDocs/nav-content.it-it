@@ -11,10 +11,10 @@ ms.search.keywords: account linking, direct payment posting, automatic payment p
 ms.date: 03/29/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
-ms.openlocfilehash: 284dcac805ef34b433b4cb18499d47249dc8d01b
+ms.sourcegitcommit: 2f7b7db12069fd9f93a616077ea2b61393c1e9a3
+ms.openlocfilehash: 2b0bdbba24dcc9143e176dcfa3dcc54d29055c8e
 ms.contentlocale: it-it
-ms.lasthandoff: 12/01/2017
+ms.lasthandoff: 08/13/2018
 
 ---
 # <a name="how-to-map-text-on-recurring-payments-to-accounts-for-automatic-reconciliation"></a><span data-ttu-id="c392e-103">Procedura: Mappatura del testo nei pagamenti ricorrenti a conti per la riconciliazione automatica</span><span class="sxs-lookup"><span data-stu-id="c392e-103">How to: Map Text on Recurring Payments to Accounts for Automatic Reconciliation</span></span>
@@ -36,7 +36,7 @@ ms.lasthandoff: 12/01/2017
 4. <span data-ttu-id="c392e-120">Nel campo **Mapping testo** immettere qualsiasi testo che appare nei pagamenti da registrare in specifici conti senza collegamento a un movimento aperto.</span><span class="sxs-lookup"><span data-stu-id="c392e-120">In the **Mapping Text** field, enter any text that occurs on payments that you want to post to specified accounts without applying to an open entry.</span></span> <span data-ttu-id="c392e-121">È possibile immettere fino a 50 caratteri.</span><span class="sxs-lookup"><span data-stu-id="c392e-121">You can enter up to 50 characters.</span></span>
 
     > [!NOTE]  
->   <span data-ttu-id="c392e-122">Se nessun altro pagamento esiste con il testo di mappatura in questione, la mappatura da testo a conto si verifica anche quando solo una parte del testo nel pagamento esiste come testo di mappatura.</span><span class="sxs-lookup"><span data-stu-id="c392e-122">If no other payments exist with the mapping text in question, then the text-to-account mapping will occur even when only a part of the text on the payment exists as a mapping text.</span></span>
+   >   <span data-ttu-id="c392e-122">Se nessun altro pagamento esiste con il testo di mappatura in questione, la mappatura da testo a conto si verifica anche quando solo una parte del testo nel pagamento esiste come testo di mappatura.</span><span class="sxs-lookup"><span data-stu-id="c392e-122">If no other payments exist with the mapping text in question, then the text-to-account mapping will occur even when only a part of the text on the payment exists as a mapping text.</span></span>
 5. <span data-ttu-id="c392e-123">Nel campo **Nr. fornitore** immetti il fornitore per cui i pagamenti verranno registrati.</span><span class="sxs-lookup"><span data-stu-id="c392e-123">In the **Vendor No.** field, enter the vendor that the payments will be posted to.</span></span>
 6. <span data-ttu-id="c392e-124">Nel campo **Tipo di origine saldo** specificare se il pagamento viene registrato in un conto di contabilità generale o in un conto relativo a un cliente o un fornitore.</span><span class="sxs-lookup"><span data-stu-id="c392e-124">In the **Bal. Source Type** field, specify if the payment will be posted to a general ledger account or to a customer or vendor account.</span></span>
 7. <span data-ttu-id="c392e-125">Nel campo **Nr. origine saldo** specificare il conto in cui il pagamento viene registrato, a seconda della selezione del campo **Tipo di origine saldo**.</span><span class="sxs-lookup"><span data-stu-id="c392e-125">In the **Bal. Source No.** field, specify the account that the payment will be posted to, depending on your selection in the **Bal. Source Type** field.</span></span>

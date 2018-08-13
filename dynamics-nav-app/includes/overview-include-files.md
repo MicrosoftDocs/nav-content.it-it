@@ -1,4 +1,3 @@
-
 ---
 title: Includi file
 ms.custom: na
@@ -12,10 +11,10 @@ ms.assetid: 0745a889-d9ba-4023-a4a8-dba74097ddd0
 caps.latest.revision: 15
 manager: edupont
 ms.translationtype: HT
-ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
-ms.openlocfilehash: 45d5c17f20bafa597adc7b2f91df89ba120b1035
+ms.sourcegitcommit: 2f7b7db12069fd9f93a616077ea2b61393c1e9a3
+ms.openlocfilehash: 40e0f2a5f8872475fbddb160a0bb34a2e4fbbc4a
 ms.contentlocale: it-it
-ms.lasthandoff: 12/01/2017
+ms.lasthandoff: 08/13/2018
 
 ---
 

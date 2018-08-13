@@ -11,10 +11,10 @@ ms.search.keywords:
 ms.date: 08/21/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
-ms.openlocfilehash: 27ab5f4379c59d6479d3ab4bd24dfc1671a79bdb
+ms.sourcegitcommit: 2f7b7db12069fd9f93a616077ea2b61393c1e9a3
+ms.openlocfilehash: 48e73df78994e01aa1f185fae6b846839667a11d
 ms.contentlocale: it-it
-ms.lasthandoff: 12/01/2017
+ms.lasthandoff: 08/13/2018
 
 ---
 # <a name="how-to-use-xml-schemas-to-prepare-data-exchange-definitions"></a><span data-ttu-id="f372c-103">Procedura: Utilizzare gli schemi XML per preparare le definizioni di scambio di dati</span><span class="sxs-lookup"><span data-stu-id="f372c-103">How to: Use XML Schemas to Prepare Data Exchange Definitions</span></span>
@@ -100,15 +100,15 @@ ms.lasthandoff: 12/01/2017
 
 ### <a name="to-generate-a-data-exchange-definition-that-is-based-on-an-xml-schema"></a><span data-ttu-id="f372c-165">Per generare una definizione di scambio di dati basata su uno schema XML</span><span class="sxs-lookup"><span data-stu-id="f372c-165">To generate a data exchange definition that is based on an XML schema</span></span>  
 
-1.  <span data-ttu-id="f372c-166">Nella casella **Cerca** immettere **Schemi XML**, quindi selezionare il collegamento correlato.</span><span class="sxs-lookup"><span data-stu-id="f372c-166">In the **Search** box, enter  **XML Schemas**, and then choose the related link.</span></span>  
+1. <span data-ttu-id="f372c-166">Nella casella **Cerca** immettere **Schemi XML**, quindi selezionare il collegamento correlato.</span><span class="sxs-lookup"><span data-stu-id="f372c-166">In the **Search** box, enter  **XML Schemas**, and then choose the related link.</span></span>  
 
-2.  <span data-ttu-id="f372c-167">Selezionare lo schema XML pertinente, quindi, nella scheda **Pagina iniziale**, nel gruppo **Processo**, scegliere **Apri visualizzatore schema XML**.</span><span class="sxs-lookup"><span data-stu-id="f372c-167">Select the relevant XML schema, and then on the on the **Home** tab, in the **Process** group, choose **Open XML Schema Viewer**.</span></span>  
+2. <span data-ttu-id="f372c-167">Selezionare lo schema XML pertinente, quindi, nella scheda **Pagina iniziale**, nel gruppo **Processo**, scegliere **Apri visualizzatore schema XML**.</span><span class="sxs-lookup"><span data-stu-id="f372c-167">Select the relevant XML schema, and then on the on the **Home** tab, in the **Process** group, choose **Open XML Schema Viewer**.</span></span>  
 
-3.  <span data-ttu-id="f372c-168">Assicurarsi che i nodi pertinenti siano selezionati.</span><span class="sxs-lookup"><span data-stu-id="f372c-168">Make sure the relevant nodes are selected.</span></span> <span data-ttu-id="f372c-169">Per ulteriori informazioni, vedere la sezione "Per selezionare o rimuovere i nodi in uno schema XML".</span><span class="sxs-lookup"><span data-stu-id="f372c-169">For more information, see the “To select or clear nodes in an XML schema” section.</span></span>  
+3. <span data-ttu-id="f372c-168">Assicurarsi che i nodi pertinenti siano selezionati.</span><span class="sxs-lookup"><span data-stu-id="f372c-168">Make sure the relevant nodes are selected.</span></span> <span data-ttu-id="f372c-169">Per ulteriori informazioni, vedere la sezione "Per selezionare o rimuovere i nodi in uno schema XML".</span><span class="sxs-lookup"><span data-stu-id="f372c-169">For more information, see the “To select or clear nodes in an XML schema” section.</span></span>  
 
-4.  <span data-ttu-id="f372c-170">Nella finestra **Visualizzatore schema XML**, nella scheda **Pagina iniziale**, nel gruppo **Processo** scegliere **Genera definizione scambio dati**.</span><span class="sxs-lookup"><span data-stu-id="f372c-170">In the **XML Schema Viewer** window, on the **Home** tab, in the **Process** group, choose **Generate Data Exchange Definition**.</span></span>  
+4. <span data-ttu-id="f372c-170">Nella finestra **Visualizzatore schema XML**, nella scheda **Pagina iniziale**, nel gruppo **Processo** scegliere **Genera definizione scambio dati**.</span><span class="sxs-lookup"><span data-stu-id="f372c-170">In the **XML Schema Viewer** window, on the **Home** tab, in the **Process** group, choose **Generate Data Exchange Definition**.</span></span>  
 
- <span data-ttu-id="f372c-171">Verrà creata una definizione di scambio dati nella finestra **Registrazione definizioni di scambio** che si potrà completare specificando gli elementi del file da mappare con i campi in [!INCLUDE[d365fin](includes/d365fin_md.md)].</span><span class="sxs-lookup"><span data-stu-id="f372c-171">A data exchange definition is created in the **Posting Exchange Definition** window, which you can complete by specifying which elements in the file map to which fields in [!INCLUDE[d365fin](includes/d365fin_md.md)].</span></span> <span data-ttu-id="f372c-172">Per ulteriori informazioni, vedere [Procedura: Impostare le definizioni di scambio di dati](across-how-to-set-up-data-exchange-definitions.md).</span><span class="sxs-lookup"><span data-stu-id="f372c-172">For more information, see [How to: Set Up Data Exchange Definitions](across-how-to-set-up-data-exchange-definitions.md).</span></span>  
+   <span data-ttu-id="f372c-171">Verrà creata una definizione di scambio dati nella finestra **Registrazione definizioni di scambio** che si potrà completare specificando gli elementi del file da mappare con i campi in [!INCLUDE[d365fin](includes/d365fin_md.md)].</span><span class="sxs-lookup"><span data-stu-id="f372c-171">A data exchange definition is created in the **Posting Exchange Definition** window, which you can complete by specifying which elements in the file map to which fields in [!INCLUDE[d365fin](includes/d365fin_md.md)].</span></span> <span data-ttu-id="f372c-172">Per ulteriori informazioni, vedere [Procedura: Impostare le definizioni di scambio di dati](across-how-to-set-up-data-exchange-definitions.md).</span><span class="sxs-lookup"><span data-stu-id="f372c-172">For more information, see [How to: Set Up Data Exchange Definitions](across-how-to-set-up-data-exchange-definitions.md).</span></span>  
 
 > [!NOTE]  
 >  <span data-ttu-id="f372c-173">È inoltre possibile utilizzare la funzione **Ottieni struttura file** della finestra **Registrazione definizioni di scambio** che utilizza la funzionalità della finestra **Visualizzatore schema XML** per precompilare la Scheda dettaglio **Definizioni colonne**.</span><span class="sxs-lookup"><span data-stu-id="f372c-173">You can also use the **Get File Structure** function from the **Posting Exchange Definition** window, which uses the functionality of the **XML Schema Viewer** window to prefill the **Column Definitions** TastTab.</span></span>  

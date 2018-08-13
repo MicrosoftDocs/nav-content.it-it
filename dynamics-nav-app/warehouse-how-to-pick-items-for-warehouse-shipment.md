@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 08/21/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
-ms.openlocfilehash: 4cab89d6e806974dcd2929e7801abe0ae1c16f28
+ms.sourcegitcommit: 2f7b7db12069fd9f93a616077ea2b61393c1e9a3
+ms.openlocfilehash: 2d1327385e69dd6aa907beee466cfc97e614e9c0
 ms.contentlocale: it-it
-ms.lasthandoff: 12/01/2017
+ms.lasthandoff: 08/13/2018
 
 ---
 # <a name="how-to-pick-items-for-warehouse-shipment"></a><span data-ttu-id="7873d-103">Procedura: Prelevare articoli per la spedizione warehouse</span><span class="sxs-lookup"><span data-stu-id="7873d-103">How to: Pick Items for Warehouse Shipment</span></span>
@@ -71,7 +71,7 @@ ms.lasthandoff: 12/01/2017
 
 > [!NOTE]
 > <span data-ttu-id="7873d-145">Negli scenari di combinazione, in cui una parte della quantità deve essere assemblata e un'altra deve essere spedita dal magazzino, vengono create due righe spedizione warehouse.</span><span class="sxs-lookup"><span data-stu-id="7873d-145">In combination scenarios, in which a part of the quantity must first be assembled and another must be shipped from inventory, two warehouse shipment lines are created.</span></span> <span data-ttu-id="7873d-146">Una riga corrisponde alla quantità da assemblare su ordine, mentre l'altra corrisponde alla quantità di magazzino.</span><span class="sxs-lookup"><span data-stu-id="7873d-146">One is for the assemble-to-order quantity, and one is for the inventory quantity.</span></span>
-
+> 
 > <span data-ttu-id="7873d-147">In questo caso, la quantità da assemblare su ordine viene gestita come descritto in questo argomento, mentre la quantità di magazzino viene gestita come qualsiasi altra normale riga spedizione warehouse.</span><span class="sxs-lookup"><span data-stu-id="7873d-147">In that case, the assemble-to-order quantity is handled as described in this topic, and the inventory quantity is handled as any other regular warehouse shipment line.</span></span> <span data-ttu-id="7873d-148">Per altre informazioni sugli scenari di combinazione, vedere [Assemblaggio su ordine e assemblaggio per magazzino](assembly-assemble-to-order-or-assemble-to-stock.md).</span><span class="sxs-lookup"><span data-stu-id="7873d-148">For more information about combination scenarios, see [Understanding Assemble to Order and Assemble to Stock](assembly-assemble-to-order-or-assemble-to-stock.md).</span></span>
 
 ## <a name="see-also"></a><span data-ttu-id="7873d-149">Vedi anche</span><span class="sxs-lookup"><span data-stu-id="7873d-149">See Also</span></span>  

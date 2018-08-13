@@ -12,10 +12,10 @@ ms.search.keywords: cash, VAT, unrealized, cash-based
 ms.date: 09/08/2017
 ms.author: bholtorf
 ms.translationtype: HT
-ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
-ms.openlocfilehash: 532b8a16d8825723a5f3d10ee51214ff6ab8fbaf
+ms.sourcegitcommit: 2f7b7db12069fd9f93a616077ea2b61393c1e9a3
+ms.openlocfilehash: 95602d1a83ad1db4985de7f8544a008ec4f44b1b
 ms.contentlocale: it-it
-ms.lasthandoff: 12/01/2017
+ms.lasthandoff: 08/13/2018
 
 ---
 
@@ -45,11 +45,11 @@ ms.lasthandoff: 12/01/2017
 6. <span data-ttu-id="2e813-133">Nel campo **Conto IVA ven. ad esig. diff.** scegliere il conto per l'IVA di vendita a esigibilità differita.</span><span class="sxs-lookup"><span data-stu-id="2e813-133">In the **Sales VAT Unreal. Account** field, choose the account for unrealized sales VAT.</span></span>
 
     > [!NOTE]  
->   <span data-ttu-id="2e813-134">L'importo dell'IVA verrà registrato su questo conto e vi rimarrà fino alla registrazione del pagamento effettuato dal cliente.</span><span class="sxs-lookup"><span data-stu-id="2e813-134">The VAT amount will be posted to this account, and stay there until the customer payment is posted.</span></span> <span data-ttu-id="2e813-135">L'importo viene quindi trasferito sul conto relativo all'IVA sulle vendite.</span><span class="sxs-lookup"><span data-stu-id="2e813-135">The amount is then transferred to the account for sales VAT.</span></span>
+   >   <span data-ttu-id="2e813-134">L'importo dell'IVA verrà registrato su questo conto e vi rimarrà fino alla registrazione del pagamento effettuato dal cliente.</span><span class="sxs-lookup"><span data-stu-id="2e813-134">The VAT amount will be posted to this account, and stay there until the customer payment is posted.</span></span> <span data-ttu-id="2e813-135">L'importo viene quindi trasferito sul conto relativo all'IVA sulle vendite.</span><span class="sxs-lookup"><span data-stu-id="2e813-135">The amount is then transferred to the account for sales VAT.</span></span>
 7. <span data-ttu-id="2e813-136">Nel campo **Conto IVA acq. ad esig. diff.** immettere il conto C/G per l'IVA di acquisto a esigibilità differita.</span><span class="sxs-lookup"><span data-stu-id="2e813-136">In the **Purch. VAT Unreal. Account** field, enter the general ledger count for unrealized purchase VAT.</span></span>
 
     > [!NOTE]  
->   <span data-ttu-id="2e813-137">L'importo dell'IVA verrà registrato su questo conto e vi rimarrà fino alla registrazione del pagamento effettuato dal cliente.</span><span class="sxs-lookup"><span data-stu-id="2e813-137">The VAT amount will be posted to this account, and stay there until the customer payment is posted.</span></span> <span data-ttu-id="2e813-138">L'importo viene quindi trasferito sul conto relativo all'IVA sulle vendite.</span><span class="sxs-lookup"><span data-stu-id="2e813-138">The amount is then transferred to the account for sales VAT.</span></span>
+   >   <span data-ttu-id="2e813-137">L'importo dell'IVA verrà registrato su questo conto e vi rimarrà fino alla registrazione del pagamento effettuato dal cliente.</span><span class="sxs-lookup"><span data-stu-id="2e813-137">The VAT amount will be posted to this account, and stay there until the customer payment is posted.</span></span> <span data-ttu-id="2e813-138">L'importo viene quindi trasferito sul conto relativo all'IVA sulle vendite.</span><span class="sxs-lookup"><span data-stu-id="2e813-138">The amount is then transferred to the account for sales VAT.</span></span>
 
 ## <a name="see-also"></a><span data-ttu-id="2e813-139">Vedi anche</span><span class="sxs-lookup"><span data-stu-id="2e813-139">See Also</span></span>
 [<span data-ttu-id="2e813-140">impostazione dell'IVA</span><span class="sxs-lookup"><span data-stu-id="2e813-140">Setting Up Value Added Tax</span></span>](finance-setup-vat.md)

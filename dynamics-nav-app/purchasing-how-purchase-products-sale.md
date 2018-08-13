@@ -12,14 +12,15 @@ ms.search.keywords: supply planning, sales demand, replenish
 ms.date: 05/16/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
-ms.openlocfilehash: 0ba1fa771a0853c2a2cabe4d368cc09902496b01
+ms.sourcegitcommit: 2f7b7db12069fd9f93a616077ea2b61393c1e9a3
+ms.openlocfilehash: b0830c8d0e064125310923082befaa4e06dbc103
 ms.contentlocale: it-it
-ms.lasthandoff: 12/01/2017
+ms.lasthandoff: 08/13/2018
 
 ---
 # <a name="how-to-purchase-items-for-a-sale"></a><span data-ttu-id="bd0e3-103">Procedura: Acquistare articoli per una vendita</span><span class="sxs-lookup"><span data-stu-id="bd0e3-103">How to: Purchase Items for a Sale</span></span>
 <span data-ttu-id="bd0e3-104">Dagli ordini di vendita e dalle fatture di vendita, è possibile utilizzare funzioni per creare rapidamente i documenti di acquisto relativi alle quantità mancanti di articoli che sono necessari per la vendita.</span><span class="sxs-lookup"><span data-stu-id="bd0e3-104">From sales orders and sales invoices, you can use functions to quickly create purchase documents for missing item quantities that are required by the sale.</span></span> <span data-ttu-id="bd0e3-105">È possibile utilizzare due funzioni diverse che variano a seconda del tipo documento.</span><span class="sxs-lookup"><span data-stu-id="bd0e3-105">You can use two different functions depending on the document type.</span></span>
+
 |<span data-ttu-id="bd0e3-106">Funzione</span><span class="sxs-lookup"><span data-stu-id="bd0e3-106">Function</span></span>|<span data-ttu-id="bd0e3-107">Description</span><span class="sxs-lookup"><span data-stu-id="bd0e3-107">Description</span></span>|
 |--------|-----------|
 |<span data-ttu-id="bd0e3-108">**Crea ordini di acquisto**</span><span class="sxs-lookup"><span data-stu-id="bd0e3-108">**Create Purchase Orders**</span></span>|<span data-ttu-id="bd0e3-109">Da un ordine di vendita, questa funzione crea un ordine di acquisto per ciascun fornitore di articoli nell'ordine di vendita.</span><span class="sxs-lookup"><span data-stu-id="bd0e3-109">From a sales order, this function creates a purchase order for each vendor of items on the sales order.</span></span> <span data-ttu-id="bd0e3-110">È possibile modificare la quantità di acquisto prima di creare gli ordini di acquisto.</span><span class="sxs-lookup"><span data-stu-id="bd0e3-110">You can edit the purchase quantity before you create the purchase orders.</span></span> <span data-ttu-id="bd0e3-111">Vengono suggerite solo le quantità di vendita non disponibili.</span><span class="sxs-lookup"><span data-stu-id="bd0e3-111">Only unavailable sales quantities are suggested.</span></span>
@@ -38,11 +39,11 @@ ms.lasthandoff: 12/01/2017
 4. <span data-ttu-id="bd0e3-124">Per effettuare un acquisto di una quantità diversa dalla quantità di vendita non disponibile, modificare il valore nel campo **Quantità da acquistare**.</span><span class="sxs-lookup"><span data-stu-id="bd0e3-124">To purchase another quantity than the unavailable sales quantity, edit the value in the **Quantity to Purchase** field.</span></span>
 
     > [!NOTE]  
->   <span data-ttu-id="bd0e3-125">È possibile modificare anche il campo **Quantità da acquistare** nelle righe inattive anche se rappresentano le quantità di vendita completamente disponibili.</span><span class="sxs-lookup"><span data-stu-id="bd0e3-125">You can also change the **Quantity to Purchase** field on grayed lines even though they represent fully available sales quantities.</span></span>
+   >   <span data-ttu-id="bd0e3-125">È possibile modificare anche il campo **Quantità da acquistare** nelle righe inattive anche se rappresentano le quantità di vendita completamente disponibili.</span><span class="sxs-lookup"><span data-stu-id="bd0e3-125">You can also change the **Quantity to Purchase** field on grayed lines even though they represent fully available sales quantities.</span></span>
 5. <span data-ttu-id="bd0e3-126">Scegliere il pulsante **OK**.</span><span class="sxs-lookup"><span data-stu-id="bd0e3-126">Choose the **OK** button.</span></span>
 
     <span data-ttu-id="bd0e3-127">Un ordine di acquisto viene creato per ciascun fornitore di articoli nell'ordine di vendita, inclusa qualsiasi modifica delle quantità effettuata nella finestra **Crea ordini di acquisto**.</span><span class="sxs-lookup"><span data-stu-id="bd0e3-127">A purchase order is created for each vendor of items on the sales order, including any quantity changes that you made in the **Create Purchase Orders** window.</span></span>
-7. <span data-ttu-id="bd0e3-128">Continuare a elaborare l'ordine o gli ordini di acquisto, ad esempio, modificando o aggiungendo altre righe all'ordine di acquisto.</span><span class="sxs-lookup"><span data-stu-id="bd0e3-128">Proceed to process the purchase order or orders, for example, by editing or adding purchase order lines.</span></span> <span data-ttu-id="bd0e3-129">Per ulteriori informazioni, vedere [Procedura: Registrare gli acquisti](purchasing-how-record-purchases.md).</span><span class="sxs-lookup"><span data-stu-id="bd0e3-129">For more information, see [How to: Record Purchases](purchasing-how-record-purchases.md).</span></span>
+6. <span data-ttu-id="bd0e3-128">Continuare a elaborare l'ordine o gli ordini di acquisto, ad esempio, modificando o aggiungendo altre righe all'ordine di acquisto.</span><span class="sxs-lookup"><span data-stu-id="bd0e3-128">Proceed to process the purchase order or orders, for example, by editing or adding purchase order lines.</span></span> <span data-ttu-id="bd0e3-129">Per ulteriori informazioni, vedere [Procedura: Registrare gli acquisti](purchasing-how-record-purchases.md).</span><span class="sxs-lookup"><span data-stu-id="bd0e3-129">For more information, see [How to: Record Purchases](purchasing-how-record-purchases.md).</span></span>
 
 
 ## <a name="to-create-a-purchase-invoice-from-a-sales-order-or-sales-invoice"></a><span data-ttu-id="bd0e3-130">Per creare una fattura di acquisto da un ordine o una fattura di vendita</span><span class="sxs-lookup"><span data-stu-id="bd0e3-130">To create a purchase invoice from a sales order or sales invoice</span></span>
