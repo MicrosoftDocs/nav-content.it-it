@@ -1,28 +1,26 @@
 ---
 title: Assegnare autorizzazioni utente e creare o modificare i set di autorizzazioni
 description: Descrive come aggiungere utenti di Office 365 a Dynamics NAV e quindi assegnare le autorizzazioni, i diritti di accesso e le impostazioni di protezione.
-author: SorenGP
+author: edupont04
 ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: access, right, security
-ms.date: 06/27/2017
-ms.author: sgroespe
+ms.date: 07/12/2018
+ms.author: edupont
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: d7dd8230fd5945a3a47e84fde017c26d936d7a39
+ms.sourcegitcommit: 9bd92e91f614963125756aceb2e6942f91e0e5e2
+ms.openlocfilehash: a05ef07a512cfe5ba9a9113dbc846c89e0493f63
 ms.contentlocale: it-it
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 07/13/2018
 
 ---
 # <a name="how-to-manage-users-and-permissions"></a>Procedura: Gestire gli utenti e le autorizzazioni
-Per aggiungere utenti in [!INCLUDE[d365fin](includes/d365fin_md.md)], l'amministratore di Office 365 della società deve innanzitutto creare gli utenti tramite l'interfaccia di amministrazione di Office 365. Per ulteriori informazioni, vedere [Aggiungere utenti a Office 365 per l'azienda](https://support.office.com/en-us/article/Add-users-to-Office-365-for-business-435ccec3-09dd-4587-9ebd-2f3cad6bc2bc)
+Se nella società arriva un nuovo dipendente, l'amministratore di sistema o un responsabile IT deve aggiungerlo in [!INCLUDE[d365fin](includes/d365fin_md.md)]. Successivamente è possibile assegnare al dipendente l'accesso alle parti pertinenti del prodotto in base alla sua area di competenza, assegnandolo a gruppi utenti e concedendogli autorizzazioni.
 
-Una volta creati gli utenti in Office 365, è possibile importarli nella finestra **Utenti** utilizzando l'azione **Ottieni utenti da Office 365**. Agli utenti vengono assegnati set di autorizzazioni in base al piano assegnato all'utente in Office 365.
-
-È quindi possibile continuare ad assegnare set di autorizzazioni agli utenti per definire a quali oggetti di database, e quindi quali elementi dell'interfaccia utente, tali utenti dispongono di accesso e in quali società.
+I set di autorizzazioni definiscono a quali oggetti di database, e quindi quali elementi dell'interfaccia utente, hanno accesso gli utenti e in quali società.
 
 Un set di permessi è un raccolta di permessi per oggetti specifici del database. A tutti gli utenti devono essere assegnati uno o più set di autorizzazioni prima di poter accedere a [!INCLUDE[d365fin](includes/d365fin_md.md)]. Alcuni set di autorizzazioni di default vengono forniti per default. È possibile utilizzare questi set di permessi già definiti, modificarli o creare ulteriori set di permessi.
 
@@ -109,4 +107,5 @@ Gli amministratori possono definire i periodi di tempo in cui utenti specificati
 [Impostazione e amministrazione in Dynamics NAV](admin-setup-and-administration.md)  
 [Benvenuto in [!INCLUDE[d365fin](includes/d365fin_md.md)]](index.md)  
 [Utilizzo di [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
+[Creazione di utenti di Microsoft Dynamics NAV](/dynamics-nav/How-to--Create-Microsoft-Dynamics-NAV-Users)  
 
